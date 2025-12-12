@@ -3499,6 +3499,706 @@
       "punchline": "A thanks-phantom!",
       "categories": ["fantasy"],
       "tags": ["ghost", "polite", "phantom", "thanks", "wordplay", "manners", "spooky"]
+    },
+    {
+      "id": 501,
+      "setup": "Why did the bread break up with the butter?",
+      "punchline": "Because the butter was always spreading rumors!",
+      "categories": ["food"],
+      "tags": ["bread", "butter", "spreading", "rumors", "wordplay", "breakup", "breakfast"]
+    },
+    {
+      "id": 502,
+      "setup": "What do you call a sad strawberry?",
+      "punchline": "A blueberry!",
+      "categories": ["food"],
+      "tags": ["strawberry", "blueberry", "sad", "blue", "wordplay", "fruit", "feelings"]
+    },
+    {
+      "id": 503,
+      "setup": "Why did the lettuce win the race?",
+      "punchline": "Because it was ahead!",
+      "categories": ["food", "sports"],
+      "tags": ["lettuce", "race", "ahead", "head", "wordplay", "vegetables", "winning"]
+    },
+    {
+      "id": 504,
+      "setup": "What do you call a sleeping pizza?",
+      "punchline": "A piZZZZa!",
+      "categories": ["food"],
+      "tags": ["pizza", "sleeping", "zzz", "snoring", "wordplay", "italian", "tired"]
+    },
+    {
+      "id": 505,
+      "setup": "Why did the donut go to the dentist?",
+      "punchline": "To get a filling!",
+      "categories": ["food"],
+      "tags": ["donut", "dentist", "filling", "teeth", "wordplay", "sweets", "hole"]
+    },
+    {
+      "id": 506,
+      "setup": "What did the sushi say to the bee?",
+      "punchline": "Wasabi!",
+      "categories": ["food", "animals"],
+      "tags": ["sushi", "bee", "wasabi", "what's up", "wordplay", "japanese", "greeting"]
+    },
+    {
+      "id": 507,
+      "setup": "Why did the bacon laugh?",
+      "punchline": "Because the egg cracked a yolk!",
+      "categories": ["food"],
+      "tags": ["bacon", "egg", "yolk", "joke", "wordplay", "breakfast", "laughing"]
+    },
+    {
+      "id": 508,
+      "setup": "What do you call a fake spaghetti?",
+      "punchline": "An im-pasta!",
+      "categories": ["food"],
+      "tags": ["spaghetti", "imposter", "pasta", "fake", "wordplay", "italian", "noodles"]
+    },
+    {
+      "id": 509,
+      "setup": "Why did the hamburger go to the gym?",
+      "punchline": "To get better buns!",
+      "categories": ["food", "sports"],
+      "tags": ["hamburger", "gym", "buns", "workout", "wordplay", "exercise", "bread"]
+    },
+    {
+      "id": 510,
+      "setup": "What do you call cheese that's not yours?",
+      "punchline": "Nacho cheese!",
+      "categories": ["food"],
+      "tags": ["cheese", "nachos", "not your", "wordplay", "mexican", "snacks", "classic"]
+    },
+    {
+      "id": 511,
+      "setup": "Why did the hot dog turn down a role in a movie?",
+      "punchline": "Because the roll wasn't good enough!",
+      "categories": ["food"],
+      "tags": ["hot dog", "movie", "roll", "role", "wordplay", "acting", "bun"]
+    },
+    {
+      "id": 512,
+      "setup": "What did the salad say to the refrigerator?",
+      "punchline": "Close the door, I'm dressing!",
+      "categories": ["food", "home"],
+      "tags": ["salad", "refrigerator", "dressing", "privacy", "wordplay", "vegetables", "cold"]
+    },
+    {
+      "id": 513,
+      "setup": "Why did the lemon stop rolling down the hill?",
+      "punchline": "It ran out of juice!",
+      "categories": ["food"],
+      "tags": ["lemon", "rolling", "juice", "energy", "wordplay", "citrus", "tired"]
+    },
+    {
+      "id": 514,
+      "setup": "What do you call a peanut in a spacesuit?",
+      "punchline": "An astro-nut!",
+      "categories": ["food", "science"],
+      "tags": ["peanut", "astronaut", "space", "nut", "wordplay", "nasa", "snacks"]
+    },
+    {
+      "id": 515,
+      "setup": "Why did the cookie visit the nurse?",
+      "punchline": "Because it felt crummy!",
+      "categories": ["food"],
+      "tags": ["cookie", "nurse", "crummy", "sick", "wordplay", "baking", "health"]
+    },
+    {
+      "id": 516,
+      "setup": "What did the toast say to the psychic?",
+      "punchline": "You bread my mind!",
+      "categories": ["food"],
+      "tags": ["toast", "psychic", "bread", "read mind", "wordplay", "breakfast", "fortune"]
+    },
+    {
+      "id": 517,
+      "setup": "Why did the apple go out with a fig?",
+      "punchline": "Because it couldn't find a date!",
+      "categories": ["food"],
+      "tags": ["apple", "fig", "date", "dating", "wordplay", "fruit", "romance"]
+    },
+    {
+      "id": 518,
+      "setup": "What do you call a potato that's reluctant to jump into boiling water?",
+      "punchline": "A hesi-tater!",
+      "categories": ["food"],
+      "tags": ["potato", "hesitant", "tater", "boiling", "wordplay", "cooking", "scared"]
+    },
+    {
+      "id": 519,
+      "setup": "Why did the soup break up with the sandwich?",
+      "punchline": "Because the sandwich was too crusty!",
+      "categories": ["food"],
+      "tags": ["soup", "sandwich", "crusty", "breakup", "wordplay", "lunch", "attitude"]
+    },
+    {
+      "id": 520,
+      "setup": "What do you call a nosy pepper?",
+      "punchline": "Jalapeño business!",
+      "categories": ["food"],
+      "tags": ["pepper", "jalapeno", "nosy", "business", "wordplay", "spicy", "mexican"]
+    },
+    {
+      "id": 521,
+      "setup": "Why did the gum cross the road?",
+      "punchline": "Because it was stuck to the chicken's foot!",
+      "categories": ["food"],
+      "tags": ["gum", "crossing", "chicken", "stuck", "wordplay", "road", "classic"]
+    },
+    {
+      "id": 522,
+      "setup": "What did the carrot say to the celery?",
+      "punchline": "Stop stalking me!",
+      "categories": ["food"],
+      "tags": ["carrot", "celery", "stalking", "stalk", "wordplay", "vegetables", "following"]
+    },
+    {
+      "id": 523,
+      "setup": "Why did the chef get arrested?",
+      "punchline": "Because he was caught beating the eggs and whipping the cream!",
+      "categories": ["food", "work"],
+      "tags": ["chef", "arrested", "beating", "whipping", "wordplay", "cooking", "eggs"]
+    },
+    {
+      "id": 524,
+      "setup": "What do you call a lazy spud?",
+      "punchline": "A couch potato!",
+      "categories": ["food", "home"],
+      "tags": ["potato", "lazy", "couch", "spud", "wordplay", "tv", "sitting"]
+    },
+    {
+      "id": 525,
+      "setup": "Why did the yogurt go to the art museum?",
+      "punchline": "Because it was cultured!",
+      "categories": ["food"],
+      "tags": ["yogurt", "museum", "cultured", "art", "wordplay", "dairy", "sophisticated"]
+    },
+    {
+      "id": 526,
+      "setup": "What did the mayonnaise say when the refrigerator door was opened?",
+      "punchline": "Close the door, I'm dressing!",
+      "categories": ["food", "home"],
+      "tags": ["mayonnaise", "refrigerator", "dressing", "door", "wordplay", "condiments", "privacy"]
+    },
+    {
+      "id": 527,
+      "setup": "Why did the tortilla chip start dancing?",
+      "punchline": "Because someone put on the salsa!",
+      "categories": ["food", "music"],
+      "tags": ["tortilla chip", "dancing", "salsa", "music", "wordplay", "mexican", "dip"]
+    },
+    {
+      "id": 528,
+      "setup": "What's a vegetable's favorite martial art?",
+      "punchline": "Kara-tea!",
+      "categories": ["food", "sports"],
+      "tags": ["vegetable", "martial arts", "karate", "tea", "wordplay", "fighting", "drinks"]
+    },
+    {
+      "id": 529,
+      "setup": "Why did the onion need a tissue?",
+      "punchline": "Because it saw the salad dressing!",
+      "categories": ["food"],
+      "tags": ["onion", "tissue", "crying", "salad", "dressing", "wordplay", "tears"]
+    },
+    {
+      "id": 530,
+      "setup": "What did the peanut butter say to the bread?",
+      "punchline": "I'm on a roll today!",
+      "categories": ["food"],
+      "tags": ["peanut butter", "bread", "roll", "successful", "wordplay", "sandwich", "spreading"]
+    },
+    {
+      "id": 531,
+      "setup": "Why did the latte break up with the espresso?",
+      "punchline": "Because it found someone with more froth in the relationship!",
+      "categories": ["food"],
+      "tags": ["latte", "espresso", "coffee", "froth", "wordplay", "breakup", "drinks"]
+    },
+    {
+      "id": 532,
+      "setup": "What do you call a pea that falls off your plate?",
+      "punchline": "An esca-pea!",
+      "categories": ["food"],
+      "tags": ["pea", "plate", "escapee", "escape", "wordplay", "vegetables", "dinner"]
+    },
+    {
+      "id": 533,
+      "setup": "Why did the waffle go to the doctor?",
+      "punchline": "Because it was feeling crummy and full of squares!",
+      "categories": ["food"],
+      "tags": ["waffle", "doctor", "crummy", "squares", "wordplay", "breakfast", "sick"]
+    },
+    {
+      "id": 534,
+      "setup": "What do you call a grain that's always complaining?",
+      "punchline": "A whiney wheat!",
+      "categories": ["food"],
+      "tags": ["grain", "wheat", "whining", "complaining", "wordplay", "bread", "cereal"]
+    },
+    {
+      "id": 535,
+      "setup": "Why did the ice cream cone get a promotion?",
+      "punchline": "Because it was always on top of things!",
+      "categories": ["food", "work"],
+      "tags": ["ice cream", "promotion", "cone", "top", "wordplay", "dessert", "success"]
+    },
+    {
+      "id": 536,
+      "setup": "What did the burger name her daughter?",
+      "punchline": "Patty!",
+      "categories": ["food", "family"],
+      "tags": ["burger", "daughter", "patty", "name", "wordplay", "meat", "family"]
+    },
+    {
+      "id": 537,
+      "setup": "Why did the banana split?",
+      "punchline": "Because it saw the ice cream sundae!",
+      "categories": ["food"],
+      "tags": ["banana", "split", "ice cream", "sundae", "wordplay", "dessert", "scared"]
+    },
+    {
+      "id": 538,
+      "setup": "What's orange and sounds like a parrot?",
+      "punchline": "A carrot!",
+      "categories": ["food", "animals"],
+      "tags": ["orange", "carrot", "parrot", "sounds like", "wordplay", "vegetables", "riddle"]
+    },
+    {
+      "id": 539,
+      "setup": "Why did the corn stalk get mad at the farmer?",
+      "punchline": "Because he kept pulling its ears!",
+      "categories": ["food", "outdoors"],
+      "tags": ["corn", "farmer", "ears", "pulling", "wordplay", "vegetables", "angry"]
+    },
+    {
+      "id": 540,
+      "setup": "What do you call a pretzel that's always worried?",
+      "punchline": "All twisted up inside!",
+      "categories": ["food"],
+      "tags": ["pretzel", "worried", "twisted", "anxiety", "wordplay", "snacks", "feelings"]
+    },
+    {
+      "id": 541,
+      "setup": "Why did the cupcake go to the therapist?",
+      "punchline": "Because it had too many layers of frosting issues!",
+      "categories": ["food"],
+      "tags": ["cupcake", "therapist", "frosting", "layers", "wordplay", "dessert", "therapy"]
+    },
+    {
+      "id": 542,
+      "setup": "What did the grape say when it got crushed?",
+      "punchline": "Nothing, it just let out a little wine!",
+      "categories": ["food"],
+      "tags": ["grape", "crushed", "wine", "whine", "wordplay", "fruit", "drinks"]
+    },
+    {
+      "id": 543,
+      "setup": "Why did the cracker break up with the cheese?",
+      "punchline": "Because the cheese was too cheesy!",
+      "categories": ["food"],
+      "tags": ["cracker", "cheese", "cheesy", "breakup", "wordplay", "snacks", "corny"]
+    },
+    {
+      "id": 544,
+      "setup": "What do you call a fake ramen?",
+      "punchline": "An im-pasta in disguise!",
+      "categories": ["food"],
+      "tags": ["ramen", "imposter", "pasta", "fake", "wordplay", "noodles", "japanese"]
+    },
+    {
+      "id": 545,
+      "setup": "Why did the bagel lose at poker?",
+      "punchline": "Because everyone could see right through its hole!",
+      "categories": ["food"],
+      "tags": ["bagel", "poker", "hole", "bluffing", "wordplay", "breakfast", "cards"]
+    },
+    {
+      "id": 546,
+      "setup": "What do you call an avocado that's been blessed by the Pope?",
+      "punchline": "Holy guacamole!",
+      "categories": ["food"],
+      "tags": ["avocado", "pope", "guacamole", "holy", "wordplay", "mexican", "blessed"]
+    },
+    {
+      "id": 547,
+      "setup": "Why did the steak go to the party alone?",
+      "punchline": "Because it was a rare occasion!",
+      "categories": ["food"],
+      "tags": ["steak", "party", "rare", "alone", "wordplay", "meat", "occasion"]
+    },
+    {
+      "id": 548,
+      "setup": "What did the knife say to the bread?",
+      "punchline": "You're toast!",
+      "categories": ["food"],
+      "tags": ["knife", "bread", "toast", "threat", "wordplay", "cutting", "breakfast"]
+    },
+    {
+      "id": 549,
+      "setup": "Why did the muffin feel sad at the party?",
+      "punchline": "Because everyone kept calling it a cupcake without frosting!",
+      "categories": ["food"],
+      "tags": ["muffin", "party", "cupcake", "sad", "frosting", "identity", "dessert"]
+    },
+    {
+      "id": 550,
+      "setup": "What's a pasta's favorite song?",
+      "punchline": "Penne for your thoughts!",
+      "categories": ["food", "music"],
+      "tags": ["pasta", "penne", "penny", "song", "wordplay", "italian", "thoughts"]
+    },
+    {
+      "id": 551,
+      "setup": "Why did the popcorn get invited to every party?",
+      "punchline": "Because it was always popping!",
+      "categories": ["food"],
+      "tags": ["popcorn", "party", "popping", "popular", "wordplay", "snacks", "movies"]
+    },
+    {
+      "id": 552,
+      "setup": "What do you call a granola bar that plays guitar?",
+      "punchline": "A jam session!",
+      "categories": ["food", "music"],
+      "tags": ["granola bar", "guitar", "jam", "session", "wordplay", "music", "healthy"]
+    },
+    {
+      "id": 553,
+      "setup": "Why did the olive oil win the award?",
+      "punchline": "Because it was extra virgin-ious!",
+      "categories": ["food"],
+      "tags": ["olive oil", "award", "extra virgin", "ingenious", "wordplay", "cooking", "italian"]
+    },
+    {
+      "id": 554,
+      "setup": "What did the plate say to the bowl?",
+      "punchline": "Dinner is on me tonight!",
+      "categories": ["food", "home"],
+      "tags": ["plate", "bowl", "dinner", "on me", "wordplay", "dishes", "generous"]
+    },
+    {
+      "id": 555,
+      "setup": "Why did the watermelon get a job?",
+      "punchline": "Because it wanted to make some seed money!",
+      "categories": ["food", "work"],
+      "tags": ["watermelon", "job", "seed", "money", "wordplay", "fruit", "employment"]
+    },
+    {
+      "id": 556,
+      "setup": "What do you call a chicken staring at lettuce?",
+      "punchline": "Chicken sees a salad!",
+      "categories": ["food", "animals"],
+      "tags": ["chicken", "lettuce", "caesar salad", "staring", "wordplay", "vegetables", "poultry"]
+    },
+    {
+      "id": 557,
+      "setup": "Why did the garlic break up with the onion?",
+      "punchline": "Because the relationship stunk!",
+      "categories": ["food"],
+      "tags": ["garlic", "onion", "breakup", "stink", "wordplay", "smelly", "vegetables"]
+    },
+    {
+      "id": 558,
+      "setup": "What did the tea kettle say to the coffee maker?",
+      "punchline": "You're grounds for a great friendship!",
+      "categories": ["food", "home"],
+      "tags": ["tea", "coffee", "grounds", "friendship", "wordplay", "drinks", "kitchen"]
+    },
+    {
+      "id": 559,
+      "setup": "Why did the cashew go to the bank?",
+      "punchline": "To check its nut balance!",
+      "categories": ["food", "work"],
+      "tags": ["cashew", "bank", "nut", "balance", "wordplay", "money", "snacks"]
+    },
+    {
+      "id": 560,
+      "setup": "What do you call a fancy fish dinner?",
+      "punchline": "So-fish-ticated!",
+      "categories": ["food"],
+      "tags": ["fish", "fancy", "sophisticated", "dinner", "wordplay", "seafood", "elegant"]
+    },
+    {
+      "id": 561,
+      "setup": "Why did the peach blush?",
+      "punchline": "Because it saw the banana split!",
+      "categories": ["food"],
+      "tags": ["peach", "blush", "banana split", "embarrassed", "wordplay", "fruit", "dessert"]
+    },
+    {
+      "id": 562,
+      "setup": "What did the hungry clock do?",
+      "punchline": "It went back four seconds!",
+      "categories": ["food", "home"],
+      "tags": ["clock", "hungry", "seconds", "time", "wordplay", "eating", "servings"]
+    },
+    {
+      "id": 563,
+      "setup": "Why did the taco feel left out?",
+      "punchline": "Because everyone wanted to taco 'bout something else!",
+      "categories": ["food"],
+      "tags": ["taco", "left out", "talk about", "wordplay", "mexican", "feelings", "conversation"]
+    },
+    {
+      "id": 564,
+      "setup": "What do you call a running turkey?",
+      "punchline": "Fast food!",
+      "categories": ["food", "animals"],
+      "tags": ["turkey", "running", "fast food", "speed", "wordplay", "thanksgiving", "poultry"]
+    },
+    {
+      "id": 565,
+      "setup": "Why did the pineapple stop in the middle of the road?",
+      "punchline": "Because it ran out of juice!",
+      "categories": ["food"],
+      "tags": ["pineapple", "road", "juice", "energy", "wordplay", "fruit", "tired"]
+    },
+    {
+      "id": 566,
+      "setup": "What did the loaf of bread say after winning the lottery?",
+      "punchline": "I'm rolling in the dough!",
+      "categories": ["food", "work"],
+      "tags": ["bread", "lottery", "dough", "money", "wordplay", "rich", "baking"]
+    },
+    {
+      "id": 567,
+      "setup": "Why did the espresso keep checking its watch?",
+      "punchline": "Because it was pressed for time!",
+      "categories": ["food"],
+      "tags": ["espresso", "watch", "pressed", "time", "wordplay", "coffee", "busy"]
+    },
+    {
+      "id": 568,
+      "setup": "What do you call an angry pea?",
+      "punchline": "Grump-pea!",
+      "categories": ["food"],
+      "tags": ["pea", "angry", "grumpy", "vegetables", "wordplay", "mood", "feelings"]
+    },
+    {
+      "id": 569,
+      "setup": "Why did the orange lose the race?",
+      "punchline": "It couldn't concentrate!",
+      "categories": ["food", "sports"],
+      "tags": ["orange", "race", "concentrate", "juice", "wordplay", "citrus", "focus"]
+    },
+    {
+      "id": 570,
+      "setup": "What do you call a happy pasta?",
+      "punchline": "A cheery-o!",
+      "categories": ["food"],
+      "tags": ["pasta", "happy", "cheerio", "cereal", "wordplay", "breakfast", "mood"]
+    },
+    {
+      "id": 571,
+      "setup": "Why did the cucumber blush?",
+      "punchline": "Because it saw the salad dressing!",
+      "categories": ["food"],
+      "tags": ["cucumber", "blush", "salad", "dressing", "wordplay", "vegetables", "embarrassed"]
+    },
+    {
+      "id": 572,
+      "setup": "Why did the corn go to the concert?",
+      "punchline": "Because it wanted to hear some pop music!",
+      "categories": ["food", "music"],
+      "tags": ["corn", "concert", "popcorn", "pop music", "wordplay", "snacks", "entertainment"]
+    },
+    {
+      "id": 573,
+      "setup": "Why did the soup go to the gym?",
+      "punchline": "To get all steamed up!",
+      "categories": ["food", "sports"],
+      "tags": ["soup", "gym", "steamed", "hot", "wordplay", "exercise", "workout"]
+    },
+    {
+      "id": 574,
+      "setup": "What did the egg say to the frying pan?",
+      "punchline": "You crack me up!",
+      "categories": ["food", "home"],
+      "tags": ["egg", "frying pan", "crack", "funny", "wordplay", "cooking", "breakfast"]
+    },
+    {
+      "id": 575,
+      "setup": "Why did the cauliflower get invited everywhere?",
+      "punchline": "Because it was a fungi to be with... wait, wrong vegetable!",
+      "categories": ["food"],
+      "tags": ["cauliflower", "invited", "fungi", "fun guy", "wordplay", "vegetables", "popular"]
+    },
+    {
+      "id": 576,
+      "setup": "What do you call a sad cup of coffee?",
+      "punchline": "A depresso!",
+      "categories": ["food"],
+      "tags": ["coffee", "sad", "depresso", "espresso", "wordplay", "drinks", "feelings"]
+    },
+    {
+      "id": 577,
+      "setup": "Why did the butter keep checking its phone?",
+      "punchline": "It was waiting for things to spread!",
+      "categories": ["food", "technology"],
+      "tags": ["butter", "phone", "spread", "viral", "wordplay", "social media", "dairy"]
+    },
+    {
+      "id": 578,
+      "setup": "What did the soda say to the ice?",
+      "punchline": "Chill out!",
+      "categories": ["food"],
+      "tags": ["soda", "ice", "chill", "cold", "wordplay", "drinks", "relax"]
+    },
+    {
+      "id": 579,
+      "setup": "Why did the cookie go to the hospital?",
+      "punchline": "Because it was feeling crumby!",
+      "categories": ["food"],
+      "tags": ["cookie", "hospital", "crumby", "sick", "wordplay", "dessert", "health"]
+    },
+    {
+      "id": 580,
+      "setup": "What do you call a nervous lasagna?",
+      "punchline": "Shaky cheese!",
+      "categories": ["food"],
+      "tags": ["lasagna", "nervous", "shaky", "cheese", "wordplay", "italian", "anxiety"]
+    },
+    {
+      "id": 581,
+      "setup": "Why did the milk carton go to school?",
+      "punchline": "To get pasteurized!",
+      "categories": ["food", "school"],
+      "tags": ["milk", "school", "pasteurized", "past your eyes", "wordplay", "dairy", "education"]
+    },
+    {
+      "id": 582,
+      "setup": "What did the hungry computer eat?",
+      "punchline": "Chips - one byte at a time!",
+      "categories": ["food", "technology"],
+      "tags": ["computer", "chips", "byte", "bite", "wordplay", "tech", "snacks"]
+    },
+    {
+      "id": 583,
+      "setup": "Why did the cabbage win the race?",
+      "punchline": "Because it was ahead!",
+      "categories": ["food", "sports"],
+      "tags": ["cabbage", "race", "ahead", "head", "wordplay", "vegetables", "winning"]
+    },
+    {
+      "id": 584,
+      "setup": "What do you call a cheese that's all by itself?",
+      "punchline": "Prov-alone!",
+      "categories": ["food"],
+      "tags": ["cheese", "alone", "provolone", "lonely", "wordplay", "italian", "dairy"]
+    },
+    {
+      "id": 585,
+      "setup": "Why did the pizza maker go broke?",
+      "punchline": "Because he couldn't make enough dough!",
+      "categories": ["food", "work"],
+      "tags": ["pizza", "broke", "dough", "money", "wordplay", "baking", "business"]
+    },
+    {
+      "id": 586,
+      "setup": "What did the marshmallow say to the graham cracker?",
+      "punchline": "I want s'more time with you!",
+      "categories": ["food"],
+      "tags": ["marshmallow", "graham cracker", "s'mores", "more", "wordplay", "camping", "dessert"]
+    },
+    {
+      "id": 587,
+      "setup": "Why did the tofu cross the road?",
+      "punchline": "To prove it wasn't chicken!",
+      "categories": ["food"],
+      "tags": ["tofu", "crossing", "chicken", "brave", "wordplay", "vegetarian", "courage"]
+    },
+    {
+      "id": 588,
+      "setup": "What do you call a mischievous egg?",
+      "punchline": "A practical yolker!",
+      "categories": ["food"],
+      "tags": ["egg", "mischievous", "yolk", "joker", "wordplay", "breakfast", "pranks"]
+    },
+    {
+      "id": 589,
+      "setup": "Why did the orange get stuck?",
+      "punchline": "Because it couldn't peel itself away!",
+      "categories": ["food"],
+      "tags": ["orange", "stuck", "peel", "away", "wordplay", "citrus", "trapped"]
+    },
+    {
+      "id": 590,
+      "setup": "What did the broccoli say to the cauliflower?",
+      "punchline": "You look like a ghost version of me!",
+      "categories": ["food"],
+      "tags": ["broccoli", "cauliflower", "ghost", "look alike", "vegetables", "white", "green"]
+    },
+    {
+      "id": 591,
+      "setup": "Why did the honey get a trophy?",
+      "punchline": "Because it was un-bee-lievably sweet!",
+      "categories": ["food"],
+      "tags": ["honey", "trophy", "bee", "sweet", "wordplay", "award", "insects"]
+    },
+    {
+      "id": 592,
+      "setup": "What do you call a noodle with no friends?",
+      "punchline": "Loney-roni!",
+      "categories": ["food"],
+      "tags": ["noodle", "lonely", "macaroni", "friends", "wordplay", "pasta", "sad"]
+    },
+    {
+      "id": 593,
+      "setup": "Why did the pepper refuse to play cards?",
+      "punchline": "Because it was afraid of being in a pickle!",
+      "categories": ["food"],
+      "tags": ["pepper", "cards", "pickle", "afraid", "wordplay", "vegetables", "games"]
+    },
+    {
+      "id": 594,
+      "setup": "What did the lunch box say to the banana?",
+      "punchline": "You really appeal to me!",
+      "categories": ["food", "school"],
+      "tags": ["lunch box", "banana", "appeal", "peel", "wordplay", "fruit", "lunch"]
+    },
+    {
+      "id": 595,
+      "setup": "Why did the cheese get promoted?",
+      "punchline": "Because it was grate at its job!",
+      "categories": ["food", "work"],
+      "tags": ["cheese", "promoted", "grate", "great", "wordplay", "job", "success"]
+    },
+    {
+      "id": 596,
+      "setup": "What do you call a nervous hot dog?",
+      "punchline": "A frank-ly scared one!",
+      "categories": ["food"],
+      "tags": ["hot dog", "nervous", "frank", "scared", "wordplay", "frankfurter", "anxiety"]
+    },
+    {
+      "id": 597,
+      "setup": "Why did the mushroom get invited to every party?",
+      "punchline": "Because he was a fungi!",
+      "categories": ["food"],
+      "tags": ["mushroom", "party", "fungi", "fun guy", "wordplay", "popular", "vegetables"]
+    },
+    {
+      "id": 598,
+      "setup": "What did the french fry say to the ketchup?",
+      "punchline": "You're the one I've been waiting for!",
+      "categories": ["food"],
+      "tags": ["french fries", "ketchup", "waiting", "love", "condiments", "fast food", "romance"]
+    },
+    {
+      "id": 599,
+      "setup": "Why did the deli meat feel cold?",
+      "punchline": "Because it was surrounded by cold cuts!",
+      "categories": ["food"],
+      "tags": ["deli", "meat", "cold cuts", "cold", "wordplay", "sandwich", "lunch"]
+    },
+    {
+      "id": 600,
+      "setup": "What do you call a slice of pizza that's really good at math?",
+      "punchline": "A pi-zza!",
+      "categories": ["food", "math"],
+      "tags": ["pizza", "math", "pi", "slice", "wordplay", "numbers", "italian"]
     }
   ]
 }
