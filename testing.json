@@ -1399,6 +1399,706 @@
       "punchline": "I had a blast, even though I'm totally deflated now!",
       "categories": ["birthday"],
       "tags": ["balloon", "blast", "deflated", "tired", "wordplay", "party", "ending"]
+    },
+    {
+      "id": 201,
+      "setup": "Why did the scarecrow win an award?",
+      "punchline": "He was outstanding in his field!",
+      "categories": ["classics", "work"],
+      "tags": ["scarecrow", "farming", "awards", "wordplay", "famous", "pun", "field"]
+    },
+    {
+      "id": 202,
+      "setup": "I'm reading a book about anti-gravity.",
+      "punchline": "It's impossible to put down!",
+      "categories": ["classics", "science"],
+      "tags": ["books", "reading", "physics", "wordplay", "famous", "gravity", "pun"]
+    },
+    {
+      "id": 203,
+      "setup": "What do you call cheese that isn't yours?",
+      "punchline": "Nacho cheese!",
+      "categories": ["classics", "food"],
+      "tags": ["cheese", "nachos", "not yours", "wordplay", "famous", "snacks", "mexican"]
+    },
+    {
+      "id": 204,
+      "setup": "Why couldn't the bicycle stand up by itself?",
+      "punchline": "Because it was two-tired!",
+      "categories": ["classics", "travel"],
+      "tags": ["bicycle", "tired", "two", "wheels", "wordplay", "famous", "balance"]
+    },
+    {
+      "id": 205,
+      "setup": "Why did the math book look so sad?",
+      "punchline": "Because it had so many problems!",
+      "categories": ["classics", "math"],
+      "tags": ["math", "book", "problems", "sad", "wordplay", "school", "famous"]
+    },
+    {
+      "id": 206,
+      "setup": "What do you call a boomerang that doesn't come back?",
+      "punchline": "A stick!",
+      "categories": ["classics"],
+      "tags": ["boomerang", "stick", "throwing", "australia", "wordplay", "famous", "simple"]
+    },
+    {
+      "id": 207,
+      "setup": "Why don't skeletons fight each other?",
+      "punchline": "They don't have the guts!",
+      "categories": ["classics"],
+      "tags": ["skeletons", "fighting", "guts", "bones", "wordplay", "halloween", "famous"]
+    },
+    {
+      "id": 208,
+      "setup": "What do you call a can opener that doesn't work?",
+      "punchline": "A can't opener!",
+      "categories": ["classics", "home"],
+      "tags": ["can opener", "broken", "kitchen", "wordplay", "famous", "tools", "household"]
+    },
+    {
+      "id": 209,
+      "setup": "Why did the tomato turn red?",
+      "punchline": "Because it saw the salad dressing!",
+      "categories": ["classics", "food"],
+      "tags": ["tomato", "red", "salad", "dressing", "wordplay", "vegetables", "famous"]
+    },
+    {
+      "id": 210,
+      "setup": "What do you call a snowman with a six-pack?",
+      "punchline": "An abdominal snowman!",
+      "categories": ["classics", "holidays"],
+      "tags": ["snowman", "abs", "abominable", "muscles", "wordplay", "winter", "famous"]
+    },
+    {
+      "id": 211,
+      "setup": "Why don't scientists trust stairs?",
+      "punchline": "Because they're always up to something!",
+      "categories": ["classics", "science"],
+      "tags": ["scientists", "stairs", "trust", "suspicious", "wordplay", "up", "famous"]
+    },
+    {
+      "id": 212,
+      "setup": "What has ears but cannot hear?",
+      "punchline": "A cornfield!",
+      "categories": ["classics", "outdoors"],
+      "tags": ["corn", "ears", "riddle", "farming", "wordplay", "vegetables", "famous"]
+    },
+    {
+      "id": 213,
+      "setup": "Why did the stadium get hot after the game?",
+      "punchline": "All the fans left!",
+      "categories": ["classics", "sports"],
+      "tags": ["stadium", "hot", "fans", "sports", "wordplay", "cooling", "famous"]
+    },
+    {
+      "id": 214,
+      "setup": "What do you call a belt made of watches?",
+      "punchline": "A waist of time!",
+      "categories": ["classics"],
+      "tags": ["belt", "watches", "time", "waste", "wordplay", "fashion", "famous"]
+    },
+    {
+      "id": 215,
+      "setup": "Why did the coffee file a police report?",
+      "punchline": "It got mugged!",
+      "categories": ["classics", "food"],
+      "tags": ["coffee", "mugged", "police", "cup", "wordplay", "drinks", "famous"]
+    },
+    {
+      "id": 216,
+      "setup": "Why do melons have weddings?",
+      "punchline": "Because they cantaloupe!",
+      "categories": ["classics", "food"],
+      "tags": ["melons", "cantaloupe", "wedding", "elope", "wordplay", "fruit", "famous"]
+    },
+    {
+      "id": 217,
+      "setup": "Why did the invisible man turn down the job offer?",
+      "punchline": "He couldn't see himself doing it!",
+      "categories": ["classics", "work"],
+      "tags": ["invisible", "job", "see", "career", "wordplay", "famous", "interview"]
+    },
+    {
+      "id": 218,
+      "setup": "Why did the banker quit his job?",
+      "punchline": "He lost interest!",
+      "categories": ["classics", "work"],
+      "tags": ["banker", "interest", "money", "job", "wordplay", "finance", "famous"]
+    },
+    {
+      "id": 219,
+      "setup": "What do you call a shoe made of a banana?",
+      "punchline": "A slipper!",
+      "categories": ["classics", "food"],
+      "tags": ["banana", "shoe", "slipper", "slip", "wordplay", "fashion", "famous"]
+    },
+    {
+      "id": 220,
+      "setup": "Why did the picture go to jail?",
+      "punchline": "Because it was framed!",
+      "categories": ["classics", "home"],
+      "tags": ["picture", "jail", "framed", "crime", "wordplay", "decorating", "famous"]
+    },
+    {
+      "id": 221,
+      "setup": "What do you call a factory that sells good products?",
+      "punchline": "A satisfactory!",
+      "categories": ["classics", "work"],
+      "tags": ["factory", "satisfactory", "products", "business", "wordplay", "famous", "quality"]
+    },
+    {
+      "id": 222,
+      "setup": "Why did the orange stop rolling down the hill?",
+      "punchline": "It ran out of juice!",
+      "categories": ["classics", "food"],
+      "tags": ["orange", "juice", "rolling", "energy", "wordplay", "fruit", "famous"]
+    },
+    {
+      "id": 223,
+      "setup": "What do you call a train carrying bubble gum?",
+      "punchline": "A chew-chew train!",
+      "categories": ["classics", "travel"],
+      "tags": ["train", "gum", "chewing", "transportation", "wordplay", "famous", "kids"]
+    },
+    {
+      "id": 224,
+      "setup": "What do you call a hippie's wife?",
+      "punchline": "Mississippi!",
+      "categories": ["classics", "geography"],
+      "tags": ["hippie", "mississippi", "wife", "mrs", "wordplay", "states", "famous"]
+    },
+    {
+      "id": 225,
+      "setup": "What do you call a nervous javelin thrower?",
+      "punchline": "Shakespeare!",
+      "categories": ["classics", "sports"],
+      "tags": ["javelin", "shakespeare", "shaking", "nervous", "wordplay", "famous", "throwing"]
+    },
+    {
+      "id": 226,
+      "setup": "Why was the broom late?",
+      "punchline": "It over-swept!",
+      "categories": ["classics", "home"],
+      "tags": ["broom", "late", "overslept", "cleaning", "wordplay", "famous", "household"]
+    },
+    {
+      "id": 227,
+      "setup": "Why did the man put his money in the freezer?",
+      "punchline": "He wanted cold hard cash!",
+      "categories": ["classics"],
+      "tags": ["money", "freezer", "cold", "cash", "wordplay", "famous", "banking"]
+    },
+    {
+      "id": 228,
+      "setup": "Why did the man run around his bed?",
+      "punchline": "To catch up on his sleep!",
+      "categories": ["classics", "home"],
+      "tags": ["running", "bed", "sleep", "catch up", "wordplay", "famous", "tired"]
+    },
+    {
+      "id": 229,
+      "setup": "What did the ocean say to the beach?",
+      "punchline": "Nothing, it just waved!",
+      "categories": ["classics", "geography"],
+      "tags": ["ocean", "beach", "wave", "waving", "wordplay", "famous", "water"]
+    },
+    {
+      "id": 230,
+      "setup": "Why did the thief take a shower?",
+      "punchline": "He wanted to make a clean getaway!",
+      "categories": ["classics"],
+      "tags": ["thief", "shower", "clean", "getaway", "wordplay", "famous", "crime"]
+    },
+    {
+      "id": 231,
+      "setup": "Why did the rapper carry an umbrella?",
+      "punchline": "Fo' drizzle!",
+      "categories": ["classics", "music"],
+      "tags": ["rapper", "umbrella", "drizzle", "rain", "wordplay", "famous", "hip hop"]
+    },
+    {
+      "id": 232,
+      "setup": "Why don't calendars ever feel lonely?",
+      "punchline": "Because they always have dates!",
+      "categories": ["classics"],
+      "tags": ["calendar", "dates", "lonely", "romance", "wordplay", "famous", "time"]
+    },
+    {
+      "id": 233,
+      "setup": "Why did the computer go to the doctor?",
+      "punchline": "Because it had a virus!",
+      "categories": ["classics", "technology"],
+      "tags": ["computer", "doctor", "virus", "sick", "wordplay", "famous", "tech"]
+    },
+    {
+      "id": 234,
+      "setup": "What do you get when you cross a snowman with a vampire?",
+      "punchline": "Frostbite!",
+      "categories": ["classics", "holidays"],
+      "tags": ["snowman", "vampire", "frostbite", "cold", "wordplay", "famous", "winter"]
+    },
+    {
+      "id": 235,
+      "setup": "Why did the nose feel sad?",
+      "punchline": "Because it was always getting picked on!",
+      "categories": ["classics"],
+      "tags": ["nose", "picked", "sad", "bullying", "wordplay", "famous", "body"]
+    },
+    {
+      "id": 236,
+      "setup": "What do you call a snowman in summer?",
+      "punchline": "A puddle!",
+      "categories": ["classics", "holidays"],
+      "tags": ["snowman", "summer", "puddle", "melting", "wordplay", "famous", "seasons"]
+    },
+    {
+      "id": 237,
+      "setup": "Why did the man put sugar on his pillow?",
+      "punchline": "Because he wanted sweet dreams!",
+      "categories": ["classics", "home"],
+      "tags": ["sugar", "pillow", "dreams", "sweet", "wordplay", "famous", "sleeping"]
+    },
+    {
+      "id": 238,
+      "setup": "Why did the belt get arrested?",
+      "punchline": "For holding up a pair of pants!",
+      "categories": ["classics"],
+      "tags": ["belt", "arrested", "holding up", "pants", "wordplay", "famous", "crime"]
+    },
+    {
+      "id": 239,
+      "setup": "Why did the music teacher need a ladder?",
+      "punchline": "To reach the high notes!",
+      "categories": ["classics", "music"],
+      "tags": ["music", "teacher", "ladder", "high notes", "wordplay", "famous", "school"]
+    },
+    {
+      "id": 240,
+      "setup": "Why did the football coach go to the bank?",
+      "punchline": "To get his quarterback!",
+      "categories": ["classics", "sports"],
+      "tags": ["football", "coach", "bank", "quarterback", "wordplay", "famous", "money"]
+    },
+    {
+      "id": 241,
+      "setup": "Why did the tree go to the dentist?",
+      "punchline": "To get a root canal!",
+      "categories": ["classics", "outdoors"],
+      "tags": ["tree", "dentist", "root canal", "teeth", "wordplay", "famous", "nature"]
+    },
+    {
+      "id": 242,
+      "setup": "What do you call a snobbish criminal going down stairs?",
+      "punchline": "A condescending con descending!",
+      "categories": ["classics"],
+      "tags": ["criminal", "stairs", "condescending", "snobbish", "wordplay", "famous", "clever"]
+    },
+    {
+      "id": 243,
+      "setup": "Why did the electrician close his business?",
+      "punchline": "Because business was too shocking!",
+      "categories": ["classics", "work"],
+      "tags": ["electrician", "shocking", "business", "closing", "wordplay", "famous", "science"]
+    },
+    {
+      "id": 244,
+      "setup": "Why did the skeleton go to the party alone?",
+      "punchline": "He had no body to go with!",
+      "categories": ["classics"],
+      "tags": ["skeleton", "party", "nobody", "body", "wordplay", "famous", "halloween"]
+    },
+    {
+      "id": 245,
+      "setup": "Why did the can crusher quit his job?",
+      "punchline": "Because it was soda pressing!",
+      "categories": ["classics", "work"],
+      "tags": ["can crusher", "soda", "depressing", "job", "wordplay", "famous", "quitting"]
+    },
+    {
+      "id": 246,
+      "setup": "Why did the teddy bear say no to dessert?",
+      "punchline": "Because she was already stuffed!",
+      "categories": ["classics", "food"],
+      "tags": ["teddy bear", "stuffed", "dessert", "full", "wordplay", "famous", "toys"]
+    },
+    {
+      "id": 247,
+      "setup": "Why did the barber win the race?",
+      "punchline": "He knew all the short cuts!",
+      "categories": ["classics", "work"],
+      "tags": ["barber", "race", "shortcuts", "hair", "wordplay", "famous", "winning"]
+    },
+    {
+      "id": 248,
+      "setup": "What do you call a fake stone in Ireland?",
+      "punchline": "A sham rock!",
+      "categories": ["classics", "geography"],
+      "tags": ["ireland", "shamrock", "fake", "stone", "wordplay", "famous", "st patricks"]
+    },
+    {
+      "id": 249,
+      "setup": "Why did the clock get kicked out of the library?",
+      "punchline": "Because it tocked too much!",
+      "categories": ["classics", "school"],
+      "tags": ["clock", "library", "tock", "talking", "wordplay", "famous", "quiet"]
+    },
+    {
+      "id": 250,
+      "setup": "What did the janitor say when he jumped out of the closet?",
+      "punchline": "Supplies!",
+      "categories": ["classics", "work"],
+      "tags": ["janitor", "surprise", "supplies", "closet", "wordplay", "famous", "cleaning"]
+    },
+    {
+      "id": 251,
+      "setup": "Why did the mushroom go to the party?",
+      "punchline": "Because he was a fungi!",
+      "categories": ["classics", "food"],
+      "tags": ["mushroom", "fungi", "fun guy", "party", "wordplay", "famous", "vegetables"]
+    },
+    {
+      "id": 252,
+      "setup": "What has hands but can't clap?",
+      "punchline": "A clock!",
+      "categories": ["classics", "home"],
+      "tags": ["clock", "hands", "clapping", "time", "riddle", "famous", "household"]
+    },
+    {
+      "id": 253,
+      "setup": "What do lawyers wear to court?",
+      "punchline": "Lawsuits!",
+      "categories": ["classics", "work"],
+      "tags": ["lawyers", "court", "lawsuits", "clothing", "wordplay", "legal", "famous"]
+    },
+    {
+      "id": 254,
+      "setup": "Why did the gym close down?",
+      "punchline": "It just didn't work out!",
+      "categories": ["classics", "sports"],
+      "tags": ["gym", "workout", "exercise", "closing", "wordplay", "fitness", "famous"]
+    },
+    {
+      "id": 255,
+      "setup": "What did the left eye say to the right eye?",
+      "punchline": "Between you and me, something smells!",
+      "categories": ["classics"],
+      "tags": ["eyes", "nose", "smell", "between", "wordplay", "famous", "body"]
+    },
+    {
+      "id": 256,
+      "setup": "Why did the golfer bring two pairs of pants?",
+      "punchline": "In case he got a hole in one!",
+      "categories": ["classics", "sports"],
+      "tags": ["golf", "pants", "hole in one", "clothing", "wordplay", "famous", "game"]
+    },
+    {
+      "id": 257,
+      "setup": "What did the buffalo say when his son left for college?",
+      "punchline": "Bison!",
+      "categories": ["classics", "family"],
+      "tags": ["buffalo", "bison", "bye son", "college", "wordplay", "famous", "leaving"]
+    },
+    {
+      "id": 258,
+      "setup": "Why can't your nose be 12 inches long?",
+      "punchline": "Because then it would be a foot!",
+      "categories": ["classics"],
+      "tags": ["nose", "foot", "inches", "measurement", "wordplay", "famous", "riddle"]
+    },
+    {
+      "id": 259,
+      "setup": "What did the grape do when it got stepped on?",
+      "punchline": "Nothing, it just let out a little wine!",
+      "categories": ["classics", "food"],
+      "tags": ["grape", "wine", "whine", "stepped on", "wordplay", "famous", "fruit"]
+    },
+    {
+      "id": 260,
+      "setup": "Why did the Oreo go to the dentist?",
+      "punchline": "Because it lost its filling!",
+      "categories": ["classics", "food"],
+      "tags": ["oreo", "dentist", "filling", "cookies", "wordplay", "famous", "teeth"]
+    },
+    {
+      "id": 261,
+      "setup": "Why was the computer tired when it got home?",
+      "punchline": "Because it had a hard drive!",
+      "categories": ["classics", "technology"],
+      "tags": ["computer", "tired", "hard drive", "tech", "wordplay", "famous", "commute"]
+    },
+    {
+      "id": 262,
+      "setup": "Why did the cookie cry?",
+      "punchline": "Because its mother was a wafer so long!",
+      "categories": ["classics", "food"],
+      "tags": ["cookie", "wafer", "away for", "crying", "wordplay", "famous", "mom"]
+    },
+    {
+      "id": 263,
+      "setup": "What lies at the bottom of the ocean and twitches?",
+      "punchline": "A nervous wreck!",
+      "categories": ["classics"],
+      "tags": ["ocean", "nervous", "wreck", "ship", "wordplay", "famous", "riddle"]
+    },
+    {
+      "id": 264,
+      "setup": "Why did the math teacher break up with the history teacher?",
+      "punchline": "Because she had too many problems and he had too much baggage!",
+      "categories": ["classics", "school"],
+      "tags": ["math", "history", "teachers", "breakup", "wordplay", "famous", "relationship"]
+    },
+    {
+      "id": 265,
+      "setup": "What did the wall say to the other wall?",
+      "punchline": "I'll meet you at the corner!",
+      "categories": ["classics", "home"],
+      "tags": ["walls", "corner", "meeting", "house", "wordplay", "famous", "riddle"]
+    },
+    {
+      "id": 266,
+      "setup": "Why did the chicken cross the playground?",
+      "punchline": "To get to the other slide!",
+      "categories": ["classics"],
+      "tags": ["chicken", "playground", "slide", "crossing", "wordplay", "famous", "kids"]
+    },
+    {
+      "id": 267,
+      "setup": "What did the stamp say to the envelope?",
+      "punchline": "Stick with me and we'll go places!",
+      "categories": ["classics"],
+      "tags": ["stamp", "envelope", "stick", "mail", "wordplay", "famous", "travel"]
+    },
+    {
+      "id": 268,
+      "setup": "Why did the melon jump into the lake?",
+      "punchline": "Because it wanted to be a watermelon!",
+      "categories": ["classics", "food"],
+      "tags": ["melon", "watermelon", "lake", "water", "wordplay", "famous", "fruit"]
+    },
+    {
+      "id": 269,
+      "setup": "What did the big flower say to the little flower?",
+      "punchline": "Hi there, bud!",
+      "categories": ["classics", "outdoors"],
+      "tags": ["flowers", "bud", "garden", "growing", "wordplay", "famous", "nature"]
+    },
+    {
+      "id": 270,
+      "setup": "Why did the traffic light turn red?",
+      "punchline": "You would too if you had to change in the middle of the street!",
+      "categories": ["classics", "travel"],
+      "tags": ["traffic light", "red", "changing", "street", "wordplay", "famous", "embarrassed"]
+    },
+    {
+      "id": 271,
+      "setup": "Why do bananas have to put on sunscreen before they go to the beach?",
+      "punchline": "Because they might peel!",
+      "categories": ["classics", "food"],
+      "tags": ["bananas", "sunscreen", "beach", "peel", "wordplay", "famous", "fruit"]
+    },
+    {
+      "id": 272,
+      "setup": "What did the zero say to the eight?",
+      "punchline": "Nice belt!",
+      "categories": ["classics", "math"],
+      "tags": ["zero", "eight", "belt", "numbers", "wordplay", "famous", "shape"]
+    },
+    {
+      "id": 273,
+      "setup": "Why couldn't the pony sing a song?",
+      "punchline": "Because she was a little hoarse!",
+      "categories": ["classics"],
+      "tags": ["pony", "horse", "hoarse", "singing", "wordplay", "famous", "voice"]
+    },
+    {
+      "id": 274,
+      "setup": "Why did the banana go to the doctor?",
+      "punchline": "Because it wasn't peeling well!",
+      "categories": ["classics", "food"],
+      "tags": ["banana", "doctor", "peeling", "feeling", "wordplay", "famous", "sick"]
+    },
+    {
+      "id": 275,
+      "setup": "What do you call a fake noodle?",
+      "punchline": "An impasta!",
+      "categories": ["classics", "food"],
+      "tags": ["noodle", "pasta", "imposter", "fake", "wordplay", "famous", "italian"]
+    },
+    {
+      "id": 276,
+      "setup": "Why did the pencil win the argument?",
+      "punchline": "Because it had a good point!",
+      "categories": ["classics", "school"],
+      "tags": ["pencil", "argument", "point", "sharp", "wordplay", "famous", "writing"]
+    },
+    {
+      "id": 277,
+      "setup": "Why did the burglar take a bath?",
+      "punchline": "He wanted to make a clean getaway!",
+      "categories": ["classics"],
+      "tags": ["burglar", "bath", "clean", "getaway", "wordplay", "famous", "crime"]
+    },
+    {
+      "id": 278,
+      "setup": "Why did the gardener plant light bulbs?",
+      "punchline": "He wanted to grow a power plant!",
+      "categories": ["classics", "outdoors"],
+      "tags": ["gardener", "light bulbs", "power plant", "growing", "wordplay", "famous", "electricity"]
+    },
+    {
+      "id": 279,
+      "setup": "Why did the smartphone go to therapy?",
+      "punchline": "It had too many hang-ups!",
+      "categories": ["classics", "technology"],
+      "tags": ["smartphone", "therapy", "hang-ups", "calling", "wordplay", "famous", "tech"]
+    },
+    {
+      "id": 280,
+      "setup": "Why did the toilet paper roll down the hill?",
+      "punchline": "To get to the bottom!",
+      "categories": ["classics", "home"],
+      "tags": ["toilet paper", "hill", "bottom", "rolling", "wordplay", "famous", "bathroom"]
+    },
+    {
+      "id": 281,
+      "setup": "Why did the skeleton go to the barbecue?",
+      "punchline": "To get some spare ribs!",
+      "categories": ["classics", "food"],
+      "tags": ["skeleton", "barbecue", "ribs", "bones", "wordplay", "famous", "grilling"]
+    },
+    {
+      "id": 282,
+      "setup": "Why did the computer keep sneezing?",
+      "punchline": "It had a virus!",
+      "categories": ["classics", "technology"],
+      "tags": ["computer", "sneezing", "virus", "sick", "wordplay", "famous", "tech"]
+    },
+    {
+      "id": 283,
+      "setup": "Why don't eggs tell jokes?",
+      "punchline": "They'd crack each other up!",
+      "categories": ["classics", "food"],
+      "tags": ["eggs", "jokes", "cracking", "laughing", "wordplay", "famous", "breakfast"]
+    },
+    {
+      "id": 284,
+      "setup": "Why did the kid throw the butter out the window?",
+      "punchline": "To see a butterfly!",
+      "categories": ["classics"],
+      "tags": ["butter", "butterfly", "window", "throwing", "wordplay", "famous", "kids"]
+    },
+    {
+      "id": 285,
+      "setup": "What did the paper say to the pencil?",
+      "punchline": "Write on!",
+      "categories": ["classics", "school"],
+      "tags": ["paper", "pencil", "right on", "writing", "wordplay", "famous", "school supplies"]
+    },
+    {
+      "id": 286,
+      "setup": "Why did the student bring scissors to school?",
+      "punchline": "Because he wanted to cut class!",
+      "categories": ["classics", "school"],
+      "tags": ["student", "scissors", "cutting", "class", "wordplay", "famous", "skipping"]
+    },
+    {
+      "id": 287,
+      "setup": "What did the rug say to the floor?",
+      "punchline": "Don't worry, I've got you covered!",
+      "categories": ["classics", "home"],
+      "tags": ["rug", "floor", "covered", "house", "wordplay", "famous", "furniture"]
+    },
+    {
+      "id": 288,
+      "setup": "Why did the drum take a nap?",
+      "punchline": "It was beat!",
+      "categories": ["classics", "music"],
+      "tags": ["drum", "nap", "beat", "tired", "wordplay", "famous", "instruments"]
+    },
+    {
+      "id": 289,
+      "setup": "What did the hat say to the scarf?",
+      "punchline": "You hang around while I go on ahead!",
+      "categories": ["classics"],
+      "tags": ["hat", "scarf", "head", "ahead", "wordplay", "famous", "clothing"]
+    },
+    {
+      "id": 290,
+      "setup": "Why did the rope go to the party?",
+      "punchline": "To have a knot of fun!",
+      "categories": ["classics"],
+      "tags": ["rope", "party", "knot", "lot", "wordplay", "famous", "fun"]
+    },
+    {
+      "id": 291,
+      "setup": "What did the blanket say when it fell off the bed?",
+      "punchline": "Oh sheet!",
+      "categories": ["classics", "home"],
+      "tags": ["blanket", "bed", "sheet", "falling", "wordplay", "famous", "bedroom"]
+    },
+    {
+      "id": 292,
+      "setup": "Why did the penny jump off the building but the nickel didn't?",
+      "punchline": "Because the nickel had more cents!",
+      "categories": ["classics"],
+      "tags": ["penny", "nickel", "cents", "sense", "wordplay", "famous", "money"]
+    },
+    {
+      "id": 293,
+      "setup": "What do you call a pile of cats?",
+      "punchline": "A meow-ntain!",
+      "categories": ["classics"],
+      "tags": ["cats", "mountain", "meow", "pile", "wordplay", "famous", "pets"]
+    },
+    {
+      "id": 294,
+      "setup": "Why did the newspaper blush?",
+      "punchline": "Because it saw the magazine's cover!",
+      "categories": ["classics"],
+      "tags": ["newspaper", "magazine", "blush", "cover", "wordplay", "famous", "reading"]
+    },
+    {
+      "id": 295,
+      "setup": "What do you call a row of rabbits hopping backwards?",
+      "punchline": "A receding hare-line!",
+      "categories": ["classics"],
+      "tags": ["rabbits", "hare", "hairline", "bald", "wordplay", "famous", "backwards"]
+    },
+    {
+      "id": 296,
+      "setup": "Why did the banana go to the hair salon?",
+      "punchline": "Because it had split ends!",
+      "categories": ["classics", "food"],
+      "tags": ["banana", "hair salon", "split ends", "fruit", "wordplay", "famous", "beauty"]
+    },
+    {
+      "id": 297,
+      "setup": "What did the volcano say to his wife?",
+      "punchline": "I lava you!",
+      "categories": ["classics", "geography"],
+      "tags": ["volcano", "lava", "love", "wife", "wordplay", "famous", "romance"]
+    },
+    {
+      "id": 298,
+      "setup": "Why did the robber take a bath before the heist?",
+      "punchline": "He wanted a clean getaway!",
+      "categories": ["classics"],
+      "tags": ["robber", "bath", "clean", "heist", "wordplay", "famous", "crime"]
+    },
+    {
+      "id": 299,
+      "setup": "What do you call a fish with two knees?",
+      "punchline": "A two-knee fish!",
+      "categories": ["classics", "food"],
+      "tags": ["fish", "tuna", "knees", "seafood", "wordplay", "famous", "ocean"]
+    },
+    {
+      "id": 300,
+      "setup": "Why did the raisin go out with the prune?",
+      "punchline": "Because he couldn't find a date!",
+      "categories": ["classics", "food"],
+      "tags": ["raisin", "prune", "date", "dating", "wordplay", "famous", "fruit"]
     }
   ]
 }
