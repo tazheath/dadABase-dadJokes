@@ -699,6 +699,706 @@
       "punchline": "A lobster!",
       "categories": ["animals"],
       "tags": ["crab", "lobster", "throwing", "lob", "wordplay", "ocean", "seafood"]
+    },
+    {
+      "id": 101,
+      "setup": "Why do candles always go on top of birthday cakes?",
+      "punchline": "Because it's hard to light them from the bottom!",
+      "categories": ["birthday"],
+      "tags": ["cake", "candles", "party", "celebration", "fire", "baking", "logic"]
+    },
+    {
+      "id": 102,
+      "setup": "What goes up but never comes down?",
+      "punchline": "Your age!",
+      "categories": ["birthday"],
+      "tags": ["aging", "getting older", "time", "riddle", "classic", "years", "growing up"]
+    },
+    {
+      "id": 103,
+      "setup": "Why did the birthday cake go to the doctor?",
+      "punchline": "Because it was feeling crumby!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "doctor", "sick", "crumbs", "wordplay", "health", "party"]
+    },
+    {
+      "id": 104,
+      "setup": "What do you say to a kangaroo on its birthday?",
+      "punchline": "Hoppy Birthday!",
+      "categories": ["birthday", "animals"],
+      "tags": ["kangaroo", "happy", "hoppy", "wordplay", "wishes", "australia", "jumping"]
+    },
+    {
+      "id": 105,
+      "setup": "Why did the boy feel warm on his birthday?",
+      "punchline": "Because people kept toasting him!",
+      "categories": ["birthday"],
+      "tags": ["warm", "toasting", "celebration", "drinks", "wordplay", "party", "cheers"]
+    },
+    {
+      "id": 106,
+      "setup": "What kind of birthday cake do elves like?",
+      "punchline": "Shortcake!",
+      "categories": ["birthday", "fantasy"],
+      "tags": ["elves", "shortcake", "short", "cake", "wordplay", "magical", "baking"]
+    },
+    {
+      "id": 107,
+      "setup": "Why are birthday candles so bad at sports?",
+      "punchline": "Because they always get blown out!",
+      "categories": ["birthday", "sports"],
+      "tags": ["candles", "blown out", "losing", "sports", "wordplay", "fire", "competition"]
+    },
+    {
+      "id": 108,
+      "setup": "What did the birthday balloon say to the pin?",
+      "punchline": "Hi, Buster!",
+      "categories": ["birthday"],
+      "tags": ["balloon", "pin", "pop", "buster", "wordplay", "party", "decorations"]
+    },
+    {
+      "id": 109,
+      "setup": "Why did the birthday cake visit the psychiatrist?",
+      "punchline": "Because it had too many layers!",
+      "categories": ["birthday"],
+      "tags": ["cake", "psychiatrist", "layers", "therapy", "wordplay", "mental health", "baking"]
+    },
+    {
+      "id": 110,
+      "setup": "What do you give a 900-pound gorilla for his birthday?",
+      "punchline": "I don't know, but you better hope he likes it!",
+      "categories": ["birthday", "animals"],
+      "tags": ["gorilla", "gift", "scary", "big", "presents", "zoo", "dangerous"]
+    },
+    {
+      "id": 111,
+      "setup": "Why did the cupcake go to the birthday party?",
+      "punchline": "It wanted to be the center of a-frosting!",
+      "categories": ["birthday", "food"],
+      "tags": ["cupcake", "frosting", "attention", "party", "wordplay", "baking", "sweet"]
+    },
+    {
+      "id": 112,
+      "setup": "What does every birthday end with?",
+      "punchline": "The letter Y!",
+      "categories": ["birthday"],
+      "tags": ["spelling", "letters", "riddle", "wordplay", "trick question", "alphabet", "clever"]
+    },
+    {
+      "id": 113,
+      "setup": "Why do we put candles on top of birthday cakes?",
+      "punchline": "Because it doesn't work when you put them on the bottom!",
+      "categories": ["birthday"],
+      "tags": ["candles", "cake", "logic", "fire", "tradition", "silly", "obvious"]
+    },
+    {
+      "id": 114,
+      "setup": "What do you call a birthday party for a train conductor?",
+      "punchline": "A birthday bash on track!",
+      "categories": ["birthday", "travel"],
+      "tags": ["train", "conductor", "tracks", "party", "wordplay", "transportation", "celebration"]
+    },
+    {
+      "id": 115,
+      "setup": "Why did the teddy bear say no to birthday cake?",
+      "punchline": "Because it was already stuffed!",
+      "categories": ["birthday", "food"],
+      "tags": ["teddy bear", "stuffed", "full", "cake", "wordplay", "toys", "eating"]
+    },
+    {
+      "id": 116,
+      "setup": "What kind of music is scary for birthday balloons?",
+      "punchline": "Pop music!",
+      "categories": ["birthday", "music"],
+      "tags": ["balloons", "pop", "music", "scary", "wordplay", "party", "decorations"]
+    },
+    {
+      "id": 117,
+      "setup": "Why was the birthday cake as hard as a rock?",
+      "punchline": "Because it was a marble cake!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "marble", "hard", "rock", "wordplay", "baking", "dessert"]
+    },
+    {
+      "id": 118,
+      "setup": "What do you sing to a snowman on his birthday?",
+      "punchline": "Freeze a jolly good fellow!",
+      "categories": ["birthday", "holidays"],
+      "tags": ["snowman", "freeze", "song", "winter", "wordplay", "cold", "singing"]
+    },
+    {
+      "id": 119,
+      "setup": "Why did the birthday boy hit his cake with a hammer?",
+      "punchline": "It was a pound cake!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "pound cake", "hammer", "hitting", "wordplay", "baking", "silly"]
+    },
+    {
+      "id": 120,
+      "setup": "What do you call a birthday celebration in a library?",
+      "punchline": "A quiet riot!",
+      "categories": ["birthday", "school"],
+      "tags": ["library", "quiet", "party", "books", "wordplay", "celebration", "shushing"]
+    },
+    {
+      "id": 121,
+      "setup": "Why did the boy put his birthday cake in the freezer?",
+      "punchline": "Because he wanted to ice it!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "freezer", "icing", "cold", "wordplay", "baking", "frosting"]
+    },
+    {
+      "id": 122,
+      "setup": "What's the best thing to put into a birthday cake?",
+      "punchline": "Your teeth!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "teeth", "eating", "biting", "riddle", "clever", "dessert"]
+    },
+    {
+      "id": 123,
+      "setup": "Why did the birthday candle feel special?",
+      "punchline": "Because everyone gathered around to see it shine!",
+      "categories": ["birthday"],
+      "tags": ["candle", "special", "shine", "attention", "light", "celebration", "fire"]
+    },
+    {
+      "id": 124,
+      "setup": "What do you call a grumpy birthday cake?",
+      "punchline": "A crab cake!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "grumpy", "crab", "mood", "wordplay", "seafood", "attitude"]
+    },
+    {
+      "id": 125,
+      "setup": "Why do birthday cakes never win races?",
+      "punchline": "Because they always get eaten at the finish line!",
+      "categories": ["birthday", "sports"],
+      "tags": ["cake", "racing", "eating", "finish line", "competition", "losing", "dessert"]
+    },
+    {
+      "id": 126,
+      "setup": "What did one birthday candle say to the other?",
+      "punchline": "Don't birthdays just burn you up?",
+      "categories": ["birthday"],
+      "tags": ["candles", "burning", "fire", "conversation", "wordplay", "heat", "flames"]
+    },
+    {
+      "id": 127,
+      "setup": "Why did the birthday invitation blush?",
+      "punchline": "Because it saw the party dress!",
+      "categories": ["birthday"],
+      "tags": ["invitation", "blushing", "dress", "party", "embarrassed", "clothes", "wordplay"]
+    },
+    {
+      "id": 128,
+      "setup": "What do birthday candles and the school year have in common?",
+      "punchline": "There are too many of them!",
+      "categories": ["birthday", "school"],
+      "tags": ["candles", "school", "too many", "years", "aging", "complaining", "counting"]
+    },
+    {
+      "id": 129,
+      "setup": "Why was the birthday gift feeling cold?",
+      "punchline": "Because it was a present from the North Pole!",
+      "categories": ["birthday", "holidays"],
+      "tags": ["gift", "cold", "north pole", "present", "wordplay", "santa", "winter"]
+    },
+    {
+      "id": 130,
+      "setup": "What kind of birthday cake does a ghost like?",
+      "punchline": "I-scream cake!",
+      "categories": ["birthday", "fantasy"],
+      "tags": ["ghost", "ice cream", "scream", "scary", "wordplay", "halloween", "dessert"]
+    },
+    {
+      "id": 131,
+      "setup": "Why did the man get a comb for his birthday?",
+      "punchline": "Because he was always parting with his hair!",
+      "categories": ["birthday"],
+      "tags": ["comb", "hair", "parting", "gift", "wordplay", "grooming", "bald"]
+    },
+    {
+      "id": 132,
+      "setup": "What do you say to a cat on its birthday?",
+      "punchline": "Happy Purr-thday!",
+      "categories": ["birthday", "animals"],
+      "tags": ["cat", "purr", "wishes", "pets", "wordplay", "meow", "celebration"]
+    },
+    {
+      "id": 133,
+      "setup": "Why did the girl feel cold at her birthday party?",
+      "punchline": "Because she was surrounded by ice cream cake!",
+      "categories": ["birthday", "food"],
+      "tags": ["cold", "ice cream", "cake", "party", "dessert", "frozen", "celebration"]
+    },
+    {
+      "id": 134,
+      "setup": "What does a clam do on its birthday?",
+      "punchline": "Shellabrate!",
+      "categories": ["birthday", "animals"],
+      "tags": ["clam", "shell", "celebrate", "ocean", "wordplay", "seafood", "party"]
+    },
+    {
+      "id": 135,
+      "setup": "Why did the birthday party for the calendar get cancelled?",
+      "punchline": "Because its days were numbered!",
+      "categories": ["birthday"],
+      "tags": ["calendar", "days", "numbered", "cancelled", "wordplay", "dates", "time"]
+    },
+    {
+      "id": 136,
+      "setup": "What do you get when you cross a birthday cake with a banana?",
+      "punchline": "A birthday cake that can peel itself!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "banana", "peel", "fruit", "wordplay", "silly", "dessert"]
+    },
+    {
+      "id": 137,
+      "setup": "Why did the girl smear birthday cake all over her face?",
+      "punchline": "Because it was her cake and she wanted it everywhere!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "messy", "face", "silly", "eating", "celebration", "kids"]
+    },
+    {
+      "id": 138,
+      "setup": "What kind of birthday parties do trees have?",
+      "punchline": "Surprise parties, because their bark is worse than their bite!",
+      "categories": ["birthday", "outdoors"],
+      "tags": ["trees", "bark", "surprise", "nature", "wordplay", "plants", "party"]
+    },
+    {
+      "id": 139,
+      "setup": "Why did the birthday boy bring a ladder to his party?",
+      "punchline": "Because he wanted to have a high time!",
+      "categories": ["birthday"],
+      "tags": ["ladder", "high", "party", "fun", "wordplay", "climbing", "celebration"]
+    },
+    {
+      "id": 140,
+      "setup": "What's the cleanest kind of birthday party?",
+      "punchline": "A soap opera party!",
+      "categories": ["birthday", "home"],
+      "tags": ["clean", "soap", "party", "washing", "wordplay", "tv shows", "hygiene"]
+    },
+    {
+      "id": 141,
+      "setup": "Why do soccer players love birthdays?",
+      "punchline": "Because they get to have their cake and kick it too!",
+      "categories": ["birthday", "sports"],
+      "tags": ["soccer", "cake", "kicking", "ball", "wordplay", "sports", "celebration"]
+    },
+    {
+      "id": 142,
+      "setup": "What did the pirate say at his 80th birthday?",
+      "punchline": "Aye matey! (I'm eighty!)",
+      "categories": ["birthday"],
+      "tags": ["pirate", "eighty", "aye matey", "old", "wordplay", "sailing", "age"]
+    },
+    {
+      "id": 143,
+      "setup": "Why did the birthday boy stand on his head?",
+      "punchline": "To flip out over his presents!",
+      "categories": ["birthday"],
+      "tags": ["headstand", "flip out", "presents", "excited", "wordplay", "gymnastics", "gifts"]
+    },
+    {
+      "id": 144,
+      "setup": "What kind of birthday cake do you get for a coffee lover?",
+      "punchline": "A coffee cake with extra perk-ings!",
+      "categories": ["birthday", "food"],
+      "tags": ["coffee", "cake", "perks", "caffeine", "wordplay", "drinks", "dessert"]
+    },
+    {
+      "id": 145,
+      "setup": "Why did the man cry at his birthday party?",
+      "punchline": "Because someone brought him an onion cake!",
+      "categories": ["birthday", "food"],
+      "tags": ["crying", "onion", "cake", "tears", "vegetables", "silly", "party"]
+    },
+    {
+      "id": 146,
+      "setup": "What did the bald man say when he got a comb for his birthday?",
+      "punchline": "I'll never part with it!",
+      "categories": ["birthday"],
+      "tags": ["bald", "comb", "parting", "hair", "wordplay", "gift", "irony"]
+    },
+    {
+      "id": 147,
+      "setup": "Why do basketball players love birthday parties?",
+      "punchline": "Because they can really slam dunk the punch!",
+      "categories": ["birthday", "sports"],
+      "tags": ["basketball", "slam dunk", "punch", "drinks", "wordplay", "party", "athletes"]
+    },
+    {
+      "id": 148,
+      "setup": "What do you call a boring birthday party?",
+      "punchline": "A par-tea!",
+      "categories": ["birthday", "food"],
+      "tags": ["boring", "party", "tea", "par", "wordplay", "golf", "drinks"]
+    },
+    {
+      "id": 149,
+      "setup": "Why did the birthday candles feel lonely?",
+      "punchline": "Because they were only lit once a year!",
+      "categories": ["birthday"],
+      "tags": ["candles", "lonely", "lit", "once a year", "sad", "fire", "annual"]
+    },
+    {
+      "id": 150,
+      "setup": "What kind of birthday party does a smartphone have?",
+      "punchline": "A screen party with lots of notifications!",
+      "categories": ["birthday", "technology"],
+      "tags": ["smartphone", "screen", "notifications", "tech", "party", "apps", "modern"]
+    },
+    {
+      "id": 151,
+      "setup": "Why did the birthday balloon go near the cactus?",
+      "punchline": "It wanted to have a blast!",
+      "categories": ["birthday", "outdoors"],
+      "tags": ["balloon", "cactus", "pop", "blast", "wordplay", "desert", "dangerous"]
+    },
+    {
+      "id": 152,
+      "setup": "What did the ice cream say to the birthday cake?",
+      "punchline": "You take the cake!",
+      "categories": ["birthday", "food"],
+      "tags": ["ice cream", "cake", "compliment", "dessert", "wordplay", "sweet", "party"]
+    },
+    {
+      "id": 153,
+      "setup": "Why did the girl put her birthday cake in the sun?",
+      "punchline": "She wanted a light snack!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "sun", "light", "snack", "wordplay", "eating", "sunshine"]
+    },
+    {
+      "id": 154,
+      "setup": "What kind of birthday party does a dentist have?",
+      "punchline": "A plaque party!",
+      "categories": ["birthday", "work"],
+      "tags": ["dentist", "plaque", "teeth", "work", "wordplay", "awards", "dental"]
+    },
+    {
+      "id": 155,
+      "setup": "Why did the birthday confetti feel sad?",
+      "punchline": "Because it was always getting thrown around!",
+      "categories": ["birthday"],
+      "tags": ["confetti", "sad", "thrown", "party", "decorations", "feelings", "celebration"]
+    },
+    {
+      "id": 156,
+      "setup": "What do math teachers serve at birthday parties?",
+      "punchline": "Pi!",
+      "categories": ["birthday", "math"],
+      "tags": ["math", "pi", "pie", "teachers", "wordplay", "numbers", "dessert"]
+    },
+    {
+      "id": 157,
+      "setup": "Why did the birthday present feel nervous?",
+      "punchline": "Because it was about to be ripped open!",
+      "categories": ["birthday"],
+      "tags": ["present", "nervous", "unwrapping", "gift", "paper", "excitement", "anxiety"]
+    },
+    {
+      "id": 158,
+      "setup": "What did the grape say when it got stepped on at the birthday party?",
+      "punchline": "Nothing, it just let out a little wine!",
+      "categories": ["birthday", "food"],
+      "tags": ["grape", "wine", "whine", "stepped on", "wordplay", "fruit", "drinks"]
+    },
+    {
+      "id": 159,
+      "setup": "Why did the clock get invited to every birthday party?",
+      "punchline": "Because it always had a good time!",
+      "categories": ["birthday", "home"],
+      "tags": ["clock", "time", "invited", "party", "wordplay", "popular", "ticking"]
+    },
+    {
+      "id": 160,
+      "setup": "What do you call a birthday party for a chicken?",
+      "punchline": "An eggs-travaganza!",
+      "categories": ["birthday", "animals"],
+      "tags": ["chicken", "eggs", "extravaganza", "poultry", "wordplay", "farm", "party"]
+    },
+    {
+      "id": 161,
+      "setup": "Why did the boy bring string to his birthday party?",
+      "punchline": "So he could tie one on!",
+      "categories": ["birthday"],
+      "tags": ["string", "tie", "party", "wordplay", "celebration", "crafts", "fun"]
+    },
+    {
+      "id": 162,
+      "setup": "What kind of birthday cake do lazy people like?",
+      "punchline": "Anything, as long as someone else makes it!",
+      "categories": ["birthday", "food"],
+      "tags": ["lazy", "cake", "making", "baking", "effort", "humor", "dessert"]
+    },
+    {
+      "id": 163,
+      "setup": "Why did the birthday streamer get promoted?",
+      "punchline": "Because it was on a roll!",
+      "categories": ["birthday", "work"],
+      "tags": ["streamer", "roll", "promoted", "decorations", "wordplay", "success", "party"]
+    },
+    {
+      "id": 164,
+      "setup": "What do computers eat at birthday parties?",
+      "punchline": "Microchips!",
+      "categories": ["birthday", "technology"],
+      "tags": ["computers", "chips", "microchips", "tech", "wordplay", "snacks", "party"]
+    },
+    {
+      "id": 165,
+      "setup": "Why did the birthday boy wear sunglasses to his party?",
+      "punchline": "Because his future was so bright!",
+      "categories": ["birthday"],
+      "tags": ["sunglasses", "bright", "future", "cool", "wordplay", "optimism", "celebration"]
+    },
+    {
+      "id": 166,
+      "setup": "What do you call a birthday party on a boat?",
+      "punchline": "A birth-deck party!",
+      "categories": ["birthday", "travel"],
+      "tags": ["boat", "deck", "water", "sailing", "wordplay", "party", "ocean"]
+    },
+    {
+      "id": 167,
+      "setup": "Why did the elf's birthday cake taste funny?",
+      "punchline": "It was made with shortening!",
+      "categories": ["birthday", "fantasy"],
+      "tags": ["elf", "short", "shortening", "cake", "wordplay", "baking", "magical"]
+    },
+    {
+      "id": 168,
+      "setup": "What kind of birthday cake weighs the least?",
+      "punchline": "A light cake!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "light", "weight", "fluffy", "wordplay", "baking", "dessert"]
+    },
+    {
+      "id": 169,
+      "setup": "Why did the magician's birthday party go so well?",
+      "punchline": "Because he had a few tricks up his sleeve!",
+      "categories": ["birthday"],
+      "tags": ["magician", "tricks", "sleeve", "magic", "wordplay", "entertainment", "party"]
+    },
+    {
+      "id": 170,
+      "setup": "What did the birthday cake say to the fork?",
+      "punchline": "You want a piece of me?",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "fork", "piece", "fighting", "wordplay", "utensils", "eating"]
+    },
+    {
+      "id": 171,
+      "setup": "Why do birds fly south on their birthdays?",
+      "punchline": "Because it's too far to walk to the party!",
+      "categories": ["birthday", "animals"],
+      "tags": ["birds", "flying", "south", "walking", "party", "migration", "travel"]
+    },
+    {
+      "id": 172,
+      "setup": "What kind of birthday cake do you get at the hair salon?",
+      "punchline": "A layer cake!",
+      "categories": ["birthday", "work"],
+      "tags": ["hair salon", "layers", "cake", "haircut", "wordplay", "baking", "beauty"]
+    },
+    {
+      "id": 173,
+      "setup": "Why was the birthday cake in bad shape?",
+      "punchline": "Because too many people wanted a piece of it!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "pieces", "slices", "popular", "sharing", "dessert", "party"]
+    },
+    {
+      "id": 174,
+      "setup": "What do you call a late birthday gift?",
+      "punchline": "Better late than never!",
+      "categories": ["birthday"],
+      "tags": ["late", "gift", "present", "timing", "saying", "excuse", "delay"]
+    },
+    {
+      "id": 175,
+      "setup": "Why did the candle go to school on its birthday?",
+      "punchline": "To get a little brighter!",
+      "categories": ["birthday", "school"],
+      "tags": ["candle", "school", "bright", "learning", "wordplay", "education", "smart"]
+    },
+    {
+      "id": 176,
+      "setup": "What kind of birthday candles burn longer, pink or blue?",
+      "punchline": "Neither, they both burn shorter!",
+      "categories": ["birthday"],
+      "tags": ["candles", "burning", "colors", "riddle", "trick question", "logic", "clever"]
+    },
+    {
+      "id": 177,
+      "setup": "Why did the birthday girl bring a baseball bat to her party?",
+      "punchline": "She heard there was going to be a pinata and she wanted to hit it off!",
+      "categories": ["birthday", "sports"],
+      "tags": ["baseball bat", "pinata", "hitting", "party", "candy", "sports", "games"]
+    },
+    {
+      "id": 178,
+      "setup": "What do astronauts put on their birthday cakes?",
+      "punchline": "Space-kles!",
+      "categories": ["birthday", "science"],
+      "tags": ["astronauts", "space", "sprinkles", "cake", "wordplay", "nasa", "decorating"]
+    },
+    {
+      "id": 179,
+      "setup": "Why did the slice of birthday cake go to the dentist?",
+      "punchline": "It needed a filling!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "dentist", "filling", "teeth", "wordplay", "baking", "layers"]
+    },
+    {
+      "id": 180,
+      "setup": "What kind of birthday party do stamps have?",
+      "punchline": "A first-class celebration!",
+      "categories": ["birthday"],
+      "tags": ["stamps", "first class", "mail", "celebration", "wordplay", "post office", "party"]
+    },
+    {
+      "id": 181,
+      "setup": "Why did the elephant forget his own birthday?",
+      "punchline": "That's impossible, elephants never forget!",
+      "categories": ["birthday", "animals"],
+      "tags": ["elephant", "memory", "forget", "never forget", "animals", "irony", "classic"]
+    },
+    {
+      "id": 182,
+      "setup": "What do you call a birthday celebration for twins?",
+      "punchline": "A double feature!",
+      "categories": ["birthday", "family"],
+      "tags": ["twins", "double", "two", "siblings", "wordplay", "movies", "party"]
+    },
+    {
+      "id": 183,
+      "setup": "Why did the candles feel hot and bothered?",
+      "punchline": "Because they were all fired up for the party!",
+      "categories": ["birthday"],
+      "tags": ["candles", "fire", "hot", "excited", "wordplay", "flames", "party"]
+    },
+    {
+      "id": 184,
+      "setup": "What kind of birthday cake did the electrician get?",
+      "punchline": "A shock-olate cake!",
+      "categories": ["birthday", "work"],
+      "tags": ["electrician", "shock", "chocolate", "work", "wordplay", "electricity", "dessert"]
+    },
+    {
+      "id": 185,
+      "setup": "Why did the birthday boy take a nap at his party?",
+      "punchline": "Because his friends told him to rest up for the big day!",
+      "categories": ["birthday"],
+      "tags": ["nap", "sleeping", "rest", "tired", "party", "big day", "celebration"]
+    },
+    {
+      "id": 186,
+      "setup": "What did the birthday card say to the stamp?",
+      "punchline": "Stick with me and we'll go places!",
+      "categories": ["birthday"],
+      "tags": ["card", "stamp", "stick", "mail", "wordplay", "traveling", "friendship"]
+    },
+    {
+      "id": 187,
+      "setup": "Why did the vegetarian's birthday cake taste so good?",
+      "punchline": "Because it was made from scratch, using all plants!",
+      "categories": ["birthday", "food"],
+      "tags": ["vegetarian", "plants", "scratch", "baking", "healthy", "cake", "dessert"]
+    },
+    {
+      "id": 188,
+      "setup": "What kind of birthday cake can fly?",
+      "punchline": "A plain cake!",
+      "categories": ["birthday", "travel"],
+      "tags": ["cake", "plane", "plain", "flying", "wordplay", "travel", "dessert"]
+    },
+    {
+      "id": 189,
+      "setup": "Why did the birthday cake go to therapy?",
+      "punchline": "Because it had too much on its plate!",
+      "categories": ["birthday"],
+      "tags": ["cake", "therapy", "plate", "stress", "wordplay", "mental health", "busy"]
+    },
+    {
+      "id": 190,
+      "setup": "What do you call a really loud birthday party?",
+      "punchline": "A birthday bash!",
+      "categories": ["birthday"],
+      "tags": ["loud", "bash", "party", "noise", "wordplay", "celebration", "fun"]
+    },
+    {
+      "id": 191,
+      "setup": "Why did the birthday cake sit in the corner?",
+      "punchline": "Because someone told it to layer low!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "corner", "layers", "hiding", "wordplay", "lay low", "baking"]
+    },
+    {
+      "id": 192,
+      "setup": "What did the ocean say on its birthday?",
+      "punchline": "Nothing, it just waved!",
+      "categories": ["birthday", "geography"],
+      "tags": ["ocean", "wave", "waving", "water", "wordplay", "beach", "sea"]
+    },
+    {
+      "id": 193,
+      "setup": "Why did the candle get embarrassed?",
+      "punchline": "Because its wick was showing!",
+      "categories": ["birthday"],
+      "tags": ["candle", "wick", "embarrassed", "showing", "wordplay", "fire", "blushing"]
+    },
+    {
+      "id": 194,
+      "setup": "What do you call a birthday party for a cow?",
+      "punchline": "A moo-velous celebration!",
+      "categories": ["birthday", "animals"],
+      "tags": ["cow", "moo", "marvelous", "farm", "wordplay", "party", "celebration"]
+    },
+    {
+      "id": 195,
+      "setup": "Why did the birthday present hide?",
+      "punchline": "Because it didn't want to be taken for granted!",
+      "categories": ["birthday"],
+      "tags": ["present", "hiding", "granted", "gift", "wordplay", "appreciation", "surprise"]
+    },
+    {
+      "id": 196,
+      "setup": "What kind of birthday cake is always cold?",
+      "punchline": "A brrr-thday cake!",
+      "categories": ["birthday", "food"],
+      "tags": ["cake", "cold", "brrr", "freezing", "wordplay", "winter", "dessert"]
+    },
+    {
+      "id": 197,
+      "setup": "Why did the baker's birthday cakes always rise to the top?",
+      "punchline": "Because they had a lot of potential and good yeast!",
+      "categories": ["birthday", "work"],
+      "tags": ["baker", "rising", "yeast", "success", "wordplay", "baking", "potential"]
+    },
+    {
+      "id": 198,
+      "setup": "What kind of birthday cake do teachers prefer?",
+      "punchline": "One that makes the grade!",
+      "categories": ["birthday", "school"],
+      "tags": ["teachers", "grades", "cake", "school", "wordplay", "education", "success"]
+    },
+    {
+      "id": 199,
+      "setup": "Why did everyone enjoy the lamp's birthday party?",
+      "punchline": "Because it really lit up the room!",
+      "categories": ["birthday", "home"],
+      "tags": ["lamp", "light", "lit up", "room", "wordplay", "bright", "party"]
+    },
+    {
+      "id": 200,
+      "setup": "What did the birthday balloon say after the party?",
+      "punchline": "I had a blast, even though I'm totally deflated now!",
+      "categories": ["birthday"],
+      "tags": ["balloon", "blast", "deflated", "tired", "wordplay", "party", "ending"]
     }
   ]
 }
