@@ -6999,6 +6999,706 @@
       "punchline": "Home is where the heart is, and you've got mine!",
       "categories": ["home", "family"],
       "tags": ["house", "family", "heart", "home", "wordplay", "love", "belonging"]
+    },
+    {
+      "id": 1001,
+      "setup": "Why was the equal sign so humble?",
+      "punchline": "Because it knew it wasn't greater than or less than anyone else!",
+      "categories": ["math"],
+      "tags": ["equal sign", "humble", "greater than", "less than", "wordplay", "symbols", "equality"]
+    },
+    {
+      "id": 1002,
+      "setup": "Why did the student do multiplication problems on the floor?",
+      "punchline": "Because the teacher told them not to use tables!",
+      "categories": ["math", "school"],
+      "tags": ["multiplication", "floor", "tables", "student", "wordplay", "teacher", "furniture"]
+    },
+    {
+      "id": 1003,
+      "setup": "Why did the infinity symbol break up with the number eight?",
+      "punchline": "Because it wanted someone who would stand up for the relationship!",
+      "categories": ["math"],
+      "tags": ["infinity", "eight", "breakup", "standing", "wordplay", "symbols", "relationship"]
+    },
+    {
+      "id": 1004,
+      "setup": "Why was the fraction nervous about marrying the decimal?",
+      "punchline": "Because it would have to convert!",
+      "categories": ["math"],
+      "tags": ["fraction", "decimal", "convert", "marriage", "wordplay", "nervous", "change"]
+    },
+    {
+      "id": 1005,
+      "setup": "What do you call friends who love math?",
+      "punchline": "Algebros!",
+      "categories": ["math"],
+      "tags": ["friends", "algebra", "bros", "math lovers", "wordplay", "friendship", "pun"]
+    },
+    {
+      "id": 1006,
+      "setup": "Why did the two fours skip lunch?",
+      "punchline": "Because they already eight!",
+      "categories": ["math", "food"],
+      "tags": ["four", "eight", "ate", "lunch", "wordplay", "numbers", "skipping"]
+    },
+    {
+      "id": 1007,
+      "setup": "What's a math teacher's favorite season?",
+      "punchline": "Sum-mer!",
+      "categories": ["math", "school"],
+      "tags": ["teacher", "season", "summer", "sum", "wordplay", "favorite", "weather"]
+    },
+    {
+      "id": 1008,
+      "setup": "Why did the obtuse angle go to the beach?",
+      "punchline": "Because it was over 90 degrees!",
+      "categories": ["math", "outdoors"],
+      "tags": ["obtuse angle", "beach", "degrees", "temperature", "wordplay", "geometry", "hot"]
+    },
+    {
+      "id": 1009,
+      "setup": "What did the mathematician say when he finished his Christmas shopping?",
+      "punchline": "That's a wrap... I mean, that's a graph!",
+      "categories": ["math", "holidays"],
+      "tags": ["mathematician", "christmas", "wrap", "graph", "wordplay", "shopping", "presents"]
+    },
+    {
+      "id": 1010,
+      "setup": "Why was the geometry book so adorable?",
+      "punchline": "Because it had acute angles!",
+      "categories": ["math", "school"],
+      "tags": ["geometry", "book", "acute", "cute", "wordplay", "angles", "adorable"]
+    },
+    {
+      "id": 1011,
+      "setup": "What do you call a number that can't keep still?",
+      "punchline": "A roamin' numeral!",
+      "categories": ["math", "history"],
+      "tags": ["number", "roaming", "roman numeral", "still", "wordplay", "moving", "ancient"]
+    },
+    {
+      "id": 1012,
+      "setup": "Why did the student wear glasses in math class?",
+      "punchline": "Because it improved their di-vision!",
+      "categories": ["math", "school"],
+      "tags": ["student", "glasses", "division", "vision", "wordplay", "class", "seeing"]
+    },
+    {
+      "id": 1013,
+      "setup": "What do you call a crushed angle?",
+      "punchline": "A rectangle!",
+      "categories": ["math"],
+      "tags": ["angle", "crushed", "rectangle", "wrecked", "wordplay", "geometry", "shape"]
+    },
+    {
+      "id": 1014,
+      "setup": "Why did the mathematician spill his coffee?",
+      "punchline": "Because he had too many problems to solve!",
+      "categories": ["math", "food"],
+      "tags": ["mathematician", "coffee", "problems", "solve", "wordplay", "spill", "busy"]
+    },
+    {
+      "id": 1015,
+      "setup": "What's the official animal of Pi Day?",
+      "punchline": "The pi-thon!",
+      "categories": ["math", "animals"],
+      "tags": ["pi", "python", "animal", "pi day", "wordplay", "snake", "march"]
+    },
+    {
+      "id": 1016,
+      "setup": "Why don't mathematicians argue?",
+      "punchline": "Because they know they can't argue with logic!",
+      "categories": ["math"],
+      "tags": ["mathematicians", "argue", "logic", "reasoning", "wordplay", "peaceful", "rational"]
+    },
+    {
+      "id": 1017,
+      "setup": "What did the triangle say to the circle?",
+      "punchline": "You're so pointless!",
+      "categories": ["math"],
+      "tags": ["triangle", "circle", "pointless", "shapes", "wordplay", "geometry", "insult"]
+    },
+    {
+      "id": 1018,
+      "setup": "Why was the math book sad?",
+      "punchline": "Because it had too many problems!",
+      "categories": ["math", "school"],
+      "tags": ["math book", "sad", "problems", "issues", "wordplay", "homework", "emotions"]
+    },
+    {
+      "id": 1019,
+      "setup": "What do you call a teapot of boiling water on top of Mount Everest?",
+      "punchline": "A high-pot-in-use... hypotenuse!",
+      "categories": ["math", "geography"],
+      "tags": ["teapot", "everest", "hypotenuse", "high", "wordplay", "geometry", "mountain"]
+    },
+    {
+      "id": 1020,
+      "setup": "Why did the parallel lines break up?",
+      "punchline": "Because they never met!",
+      "categories": ["math"],
+      "tags": ["parallel lines", "breakup", "never met", "geometry", "wordplay", "relationship", "infinity"]
+    },
+    {
+      "id": 1021,
+      "setup": "What do you get when you cross a math teacher with a clock?",
+      "punchline": "Arithme-tick!",
+      "categories": ["math", "school"],
+      "tags": ["teacher", "clock", "arithmetic", "tick", "wordplay", "time", "crossing"]
+    },
+    {
+      "id": 1022,
+      "setup": "Why was the calculus teacher bad at baseball?",
+      "punchline": "Because they kept trying to find the curve!",
+      "categories": ["math", "sports"],
+      "tags": ["calculus", "teacher", "baseball", "curve", "wordplay", "sports", "finding"]
+    },
+    {
+      "id": 1023,
+      "setup": "What do you call a man who spent all summer at the beach?",
+      "punchline": "A tangent! (Tan gent)",
+      "categories": ["math", "outdoors"],
+      "tags": ["beach", "summer", "tan", "tangent", "wordplay", "geometry", "sunbathing"]
+    },
+    {
+      "id": 1024,
+      "setup": "Why do plants hate math?",
+      "punchline": "Because it gives them square roots!",
+      "categories": ["math", "outdoors"],
+      "tags": ["plants", "square roots", "math", "nature", "wordplay", "gardening", "algebra"]
+    },
+    {
+      "id": 1025,
+      "setup": "What did the acorn say when it grew up?",
+      "punchline": "Ge-om-e-tree!",
+      "categories": ["math", "outdoors"],
+      "tags": ["acorn", "grew up", "geometry", "tree", "wordplay", "nature", "shapes"]
+    },
+    {
+      "id": 1026,
+      "setup": "Why did seven eat nine?",
+      "punchline": "Because you're supposed to eat three squared meals a day!",
+      "categories": ["math", "food"],
+      "tags": ["seven", "eight", "nine", "squared", "wordplay", "meals", "numbers"]
+    },
+    {
+      "id": 1027,
+      "setup": "What do you call an angle that is adorable?",
+      "punchline": "Acute angle!",
+      "categories": ["math"],
+      "tags": ["angle", "adorable", "acute", "cute", "wordplay", "geometry", "sweet"]
+    },
+    {
+      "id": 1028,
+      "setup": "Why did the polynomial plant wilt?",
+      "punchline": "Because its roots were imaginary!",
+      "categories": ["math", "outdoors"],
+      "tags": ["polynomial", "plant", "roots", "imaginary", "wordplay", "algebra", "wilting"]
+    },
+    {
+      "id": 1029,
+      "setup": "What's a bird's favorite type of math?",
+      "punchline": "Owl-gebra!",
+      "categories": ["math", "animals"],
+      "tags": ["bird", "owl", "algebra", "favorite", "wordplay", "animal", "subject"]
+    },
+    {
+      "id": 1030,
+      "setup": "Why did the statistician drown in the river?",
+      "punchline": "Because it was 3 feet deep on average!",
+      "categories": ["math", "geography"],
+      "tags": ["statistician", "drown", "average", "river", "wordplay", "statistics", "depth"]
+    },
+    {
+      "id": 1031,
+      "setup": "What do you call a number that's always moving around?",
+      "punchline": "A roamin' numeral!",
+      "categories": ["math"],
+      "tags": ["number", "moving", "roman numeral", "roaming", "wordplay", "traveling", "ancient"]
+    },
+    {
+      "id": 1032,
+      "setup": "Why was the mathematician late to work?",
+      "punchline": "Because he took the rhombus!",
+      "categories": ["math", "work"],
+      "tags": ["mathematician", "late", "rhombus", "wrong bus", "wordplay", "geometry", "transportation"]
+    },
+    {
+      "id": 1033,
+      "setup": "What do you get if you divide the circumference of a pumpkin by its diameter?",
+      "punchline": "Pumpkin pi!",
+      "categories": ["math", "food"],
+      "tags": ["circumference", "diameter", "pumpkin", "pi", "wordplay", "pie", "formula"]
+    },
+    {
+      "id": 1034,
+      "setup": "Why don't calculus majors throw parties?",
+      "punchline": "Because they don't want to drink and derive!",
+      "categories": ["math"],
+      "tags": ["calculus", "parties", "drink", "derive", "wordplay", "drive", "safety"]
+    },
+    {
+      "id": 1035,
+      "setup": "What do baby parabolas drink?",
+      "punchline": "Quadratic formula!",
+      "categories": ["math"],
+      "tags": ["parabola", "baby", "quadratic formula", "drink", "wordplay", "algebra", "milk"]
+    },
+    {
+      "id": 1036,
+      "setup": "Why is the number six afraid of seven?",
+      "punchline": "Because seven eight nine!",
+      "categories": ["math"],
+      "tags": ["six", "seven", "eight", "nine", "wordplay", "afraid", "numbers"]
+    },
+    {
+      "id": 1037,
+      "setup": "What did the calculator say to the math student?",
+      "punchline": "You can count on me!",
+      "categories": ["math", "school"],
+      "tags": ["calculator", "student", "count", "rely", "wordplay", "trust", "device"]
+    },
+    {
+      "id": 1038,
+      "setup": "Why was the algebra teacher suspicious of prime numbers?",
+      "punchline": "Because they couldn't be divided!",
+      "categories": ["math", "school"],
+      "tags": ["algebra", "teacher", "prime numbers", "divided", "wordplay", "suspicious", "indivisible"]
+    },
+    {
+      "id": 1039,
+      "setup": "What do you call a destroyed angle?",
+      "punchline": "A rect-angle!",
+      "categories": ["math"],
+      "tags": ["destroyed", "angle", "rectangle", "wrecked", "wordplay", "geometry", "shape"]
+    },
+    {
+      "id": 1040,
+      "setup": "Why did the math teacher love the park?",
+      "punchline": "Because of all the natural logs!",
+      "categories": ["math", "outdoors"],
+      "tags": ["math teacher", "park", "natural log", "trees", "wordplay", "calculus", "nature"]
+    },
+    {
+      "id": 1041,
+      "setup": "What's a mathematician's favorite place in New York?",
+      "punchline": "Times Square!",
+      "categories": ["math", "geography"],
+      "tags": ["mathematician", "new york", "times square", "multiply", "wordplay", "travel", "city"]
+    },
+    {
+      "id": 1042,
+      "setup": "Why did the student do her math homework on the floor?",
+      "punchline": "Because her teacher told her not to use tables!",
+      "categories": ["math", "school"],
+      "tags": ["student", "homework", "floor", "tables", "wordplay", "multiplication", "teacher"]
+    },
+    {
+      "id": 1043,
+      "setup": "What did one math book say to the other?",
+      "punchline": "Don't bother me, I've got my own problems!",
+      "categories": ["math", "school"],
+      "tags": ["math book", "problems", "bother", "homework", "wordplay", "issues", "talking"]
+    },
+    {
+      "id": 1044,
+      "setup": "Why was the circle so argumentative?",
+      "punchline": "Because it always had to get its point around!",
+      "categories": ["math"],
+      "tags": ["circle", "argumentative", "point", "around", "wordplay", "geometry", "shape"]
+    },
+    {
+      "id": 1045,
+      "setup": "What's a math teacher's favorite dance move?",
+      "punchline": "The algo-rhythm!",
+      "categories": ["math", "music"],
+      "tags": ["teacher", "dance", "algorithm", "rhythm", "wordplay", "music", "movement"]
+    },
+    {
+      "id": 1046,
+      "setup": "Why did the right angle go to the therapist?",
+      "punchline": "Because it had a 90-degree complex!",
+      "categories": ["math"],
+      "tags": ["right angle", "therapist", "90 degrees", "complex", "wordplay", "geometry", "therapy"]
+    },
+    {
+      "id": 1047,
+      "setup": "What do you call a hen who counts her eggs?",
+      "punchline": "A mathema-chicken!",
+      "categories": ["math", "animals"],
+      "tags": ["hen", "counting", "eggs", "mathematician", "wordplay", "chicken", "farm"]
+    },
+    {
+      "id": 1048,
+      "setup": "Why couldn't the angle get a loan?",
+      "punchline": "Because its parents wouldn't cosine!",
+      "categories": ["math", "family"],
+      "tags": ["angle", "loan", "cosine", "cosign", "wordplay", "trigonometry", "parents"]
+    },
+    {
+      "id": 1049,
+      "setup": "What do you call a snake that's 3.14 meters long?",
+      "punchline": "A pi-thon!",
+      "categories": ["math", "animals"],
+      "tags": ["snake", "pi", "python", "meters", "wordplay", "length", "reptile"]
+    },
+    {
+      "id": 1050,
+      "setup": "Why did the minus sign stay home?",
+      "punchline": "Because it was feeling negative!",
+      "categories": ["math"],
+      "tags": ["minus sign", "home", "negative", "feeling", "wordplay", "subtraction", "sad"]
+    },
+    {
+      "id": 1051,
+      "setup": "What do you call a mathematician who loves to fish?",
+      "punchline": "An angle-r!",
+      "categories": ["math", "outdoors"],
+      "tags": ["mathematician", "fishing", "angler", "angle", "wordplay", "hobby", "geometry"]
+    },
+    {
+      "id": 1052,
+      "setup": "Why did Pi get its driver's license revoked?",
+      "punchline": "Because it went on forever and never stopped!",
+      "categories": ["math", "travel"],
+      "tags": ["pi", "driver", "license", "forever", "wordplay", "infinite", "irrational"]
+    },
+    {
+      "id": 1053,
+      "setup": "What's a math teacher's favorite kind of tree?",
+      "punchline": "Geometry!",
+      "categories": ["math", "outdoors"],
+      "tags": ["teacher", "tree", "geometry", "nature", "wordplay", "shapes", "gum tree"]
+    },
+    {
+      "id": 1054,
+      "setup": "Why did the two 4's skip dinner?",
+      "punchline": "Because they already 8!",
+      "categories": ["math", "food"],
+      "tags": ["four", "dinner", "eight", "ate", "wordplay", "numbers", "skipping"]
+    },
+    {
+      "id": 1055,
+      "setup": "What did the mathematician name his dog?",
+      "punchline": "Cauchy, because he leaves a residue at every pole!",
+      "categories": ["math", "animals"],
+      "tags": ["mathematician", "dog", "cauchy", "residue", "wordplay", "calculus", "pet"]
+    },
+    {
+      "id": 1056,
+      "setup": "Why was the math test crying?",
+      "punchline": "Because it had too many problems to solve!",
+      "categories": ["math", "school"],
+      "tags": ["math test", "crying", "problems", "solve", "wordplay", "exam", "difficult"]
+    },
+    {
+      "id": 1057,
+      "setup": "What do you call 144 grapes?",
+      "punchline": "Gross!",
+      "categories": ["math", "food"],
+      "tags": ["grapes", "gross", "144", "dozen", "wordplay", "fruit", "counting"]
+    },
+    {
+      "id": 1058,
+      "setup": "Why did the mathematician work from home?",
+      "punchline": "Because he could only function in his own domain!",
+      "categories": ["math", "work"],
+      "tags": ["mathematician", "home", "function", "domain", "wordplay", "calculus", "remote"]
+    },
+    {
+      "id": 1059,
+      "setup": "What do you call a number that won't sit still?",
+      "punchline": "A roamin' numeral!",
+      "categories": ["math"],
+      "tags": ["number", "sit still", "roman numeral", "roaming", "wordplay", "restless", "ancient"]
+    },
+    {
+      "id": 1060,
+      "setup": "Why are obtuse angles so depressed?",
+      "punchline": "Because they're never right!",
+      "categories": ["math"],
+      "tags": ["obtuse angles", "depressed", "never right", "geometry", "wordplay", "sad", "degrees"]
+    },
+    {
+      "id": 1061,
+      "setup": "What do you call a broken record player doing math?",
+      "punchline": "A skip counter!",
+      "categories": ["math", "music"],
+      "tags": ["record player", "broken", "skip counter", "counting", "wordplay", "music", "device"]
+    },
+    {
+      "id": 1062,
+      "setup": "Why did the mathematician refuse dessert?",
+      "punchline": "Because he'd already had more than enough pi!",
+      "categories": ["math", "food"],
+      "tags": ["mathematician", "dessert", "pi", "pie", "wordplay", "full", "irrational"]
+    },
+    {
+      "id": 1063,
+      "setup": "What did the square say to the old circle?",
+      "punchline": "Been around long?",
+      "categories": ["math"],
+      "tags": ["square", "circle", "around", "old", "wordplay", "geometry", "greeting"]
+    },
+    {
+      "id": 1064,
+      "setup": "Why did the student fail algebra?",
+      "punchline": "Because she couldn't find X!",
+      "categories": ["math", "school"],
+      "tags": ["student", "fail", "algebra", "x", "wordplay", "variable", "finding"]
+    },
+    {
+      "id": 1065,
+      "setup": "What do you get when you take the sun and divide its circumference by its diameter?",
+      "punchline": "Pi in the sky!",
+      "categories": ["math", "science"],
+      "tags": ["sun", "circumference", "diameter", "pi", "wordplay", "sky", "dream"]
+    },
+    {
+      "id": 1066,
+      "setup": "Why was the matrix so popular at parties?",
+      "punchline": "Because it knew how to transform the mood!",
+      "categories": ["math"],
+      "tags": ["matrix", "popular", "parties", "transform", "wordplay", "algebra", "mood"]
+    },
+    {
+      "id": 1067,
+      "setup": "What do you call a young eigenvector?",
+      "punchline": "A baby that's in the right direction!",
+      "categories": ["math", "family"],
+      "tags": ["eigenvector", "young", "direction", "baby", "wordplay", "linear algebra", "cute"]
+    },
+    {
+      "id": 1068,
+      "setup": "Why was the mathematician cold in the winter?",
+      "punchline": "Because he forgot to put on his natural log!",
+      "categories": ["math", "holidays"],
+      "tags": ["mathematician", "cold", "winter", "natural log", "wordplay", "calculus", "clothing"]
+    },
+    {
+      "id": 1069,
+      "setup": "What do you call a group of odd numbers hanging out?",
+      "punchline": "A weird party!",
+      "categories": ["math"],
+      "tags": ["odd numbers", "group", "weird", "party", "wordplay", "gathering", "unusual"]
+    },
+    {
+      "id": 1070,
+      "setup": "Why did the obtuse triangle fail to get into college?",
+      "punchline": "Because it was never right!",
+      "categories": ["math", "school"],
+      "tags": ["obtuse triangle", "college", "never right", "geometry", "wordplay", "admission", "failure"]
+    },
+    {
+      "id": 1071,
+      "setup": "What did the exponent say to the base?",
+      "punchline": "I've got the power!",
+      "categories": ["math"],
+      "tags": ["exponent", "base", "power", "algebra", "wordplay", "math", "song"]
+    },
+    {
+      "id": 1072,
+      "setup": "Why did the number 1 break up with the number 2?",
+      "punchline": "Because it found someone number one!",
+      "categories": ["math"],
+      "tags": ["one", "two", "breakup", "number one", "wordplay", "relationship", "best"]
+    },
+    {
+      "id": 1073,
+      "setup": "What did the complementary angle say to the isosceles triangle?",
+      "punchline": "Nice legs!",
+      "categories": ["math"],
+      "tags": ["complementary angle", "isosceles triangle", "legs", "nice", "wordplay", "geometry", "compliment"]
+    },
+    {
+      "id": 1074,
+      "setup": "Why did the mathematician bring a ladder to class?",
+      "punchline": "To work on his higher-level problems!",
+      "categories": ["math", "school"],
+      "tags": ["mathematician", "ladder", "higher level", "problems", "wordplay", "class", "advanced"]
+    },
+    {
+      "id": 1075,
+      "setup": "What do you call a mathematical snake?",
+      "punchline": "An adder!",
+      "categories": ["math", "animals"],
+      "tags": ["mathematical", "snake", "adder", "addition", "wordplay", "reptile", "computing"]
+    },
+    {
+      "id": 1076,
+      "setup": "Why did the fraction worry about fitting in?",
+      "punchline": "Because it always felt like a part of something!",
+      "categories": ["math"],
+      "tags": ["fraction", "fitting in", "part", "whole", "wordplay", "belonging", "incomplete"]
+    },
+    {
+      "id": 1077,
+      "setup": "What's a swimmer's favorite kind of math?",
+      "punchline": "Dive-ision!",
+      "categories": ["math", "sports"],
+      "tags": ["swimmer", "math", "division", "dive", "wordplay", "swimming", "operation"]
+    },
+    {
+      "id": 1078,
+      "setup": "Why was the percentage sign so full of itself?",
+      "punchline": "Because it was always out of 100!",
+      "categories": ["math"],
+      "tags": ["percentage", "sign", "full of itself", "100", "wordplay", "perfect", "arrogant"]
+    },
+    {
+      "id": 1079,
+      "setup": "What do you call a mathematician's garden?",
+      "punchline": "An algae-bra!",
+      "categories": ["math", "outdoors"],
+      "tags": ["mathematician", "garden", "algebra", "algae", "wordplay", "plants", "nature"]
+    },
+    {
+      "id": 1080,
+      "setup": "Why was the variable always lost?",
+      "punchline": "Because X never knew where it was!",
+      "categories": ["math"],
+      "tags": ["variable", "lost", "x", "unknown", "wordplay", "algebra", "confused"]
+    },
+    {
+      "id": 1081,
+      "setup": "What did zero say to one after a compliment?",
+      "punchline": "Thanks, you're the one!",
+      "categories": ["math"],
+      "tags": ["zero", "one", "compliment", "thanks", "wordplay", "numbers", "friendship"]
+    },
+    {
+      "id": 1082,
+      "setup": "Why was the geometry teacher such a great boxer?",
+      "punchline": "Because she knew all the angles!",
+      "categories": ["math", "sports"],
+      "tags": ["geometry", "teacher", "boxer", "angles", "wordplay", "fighting", "strategy"]
+    },
+    {
+      "id": 1083,
+      "setup": "What did the square root say to 64?",
+      "punchline": "I've got your number!",
+      "categories": ["math"],
+      "tags": ["square root", "64", "eight", "number", "wordplay", "algebra", "answer"]
+    },
+    {
+      "id": 1084,
+      "setup": "Why did the circle feel excluded?",
+      "punchline": "Because it wasn't part of the polygon club!",
+      "categories": ["math"],
+      "tags": ["circle", "excluded", "polygon", "club", "wordplay", "geometry", "shapes"]
+    },
+    {
+      "id": 1085,
+      "setup": "What's a math teacher's favorite type of music?",
+      "punchline": "Algo-rhythm and blues!",
+      "categories": ["math", "music"],
+      "tags": ["teacher", "music", "algorithm", "rhythm", "wordplay", "blues", "genre"]
+    },
+    {
+      "id": 1086,
+      "setup": "Why couldn't the decimal ever make a decision?",
+      "punchline": "Because it was always on the fence... at the point!",
+      "categories": ["math"],
+      "tags": ["decimal", "decision", "fence", "point", "wordplay", "indecisive", "numbers"]
+    },
+    {
+      "id": 1087,
+      "setup": "What do mathematicians eat for Thanksgiving?",
+      "punchline": "Pumpkin pi!",
+      "categories": ["math", "food"],
+      "tags": ["mathematicians", "thanksgiving", "pumpkin", "pi", "wordplay", "pie", "holiday"]
+    },
+    {
+      "id": 1088,
+      "setup": "Why was the math teacher suspicious of her garden?",
+      "punchline": "Because she found square roots everywhere!",
+      "categories": ["math", "outdoors"],
+      "tags": ["teacher", "garden", "square roots", "suspicious", "wordplay", "plants", "algebra"]
+    },
+    {
+      "id": 1089,
+      "setup": "What did the denominator say to the numerator?",
+      "punchline": "Stop looking down on me!",
+      "categories": ["math"],
+      "tags": ["denominator", "numerator", "looking down", "fraction", "wordplay", "position", "relationship"]
+    },
+    {
+      "id": 1090,
+      "setup": "Why did the line go to the gym?",
+      "punchline": "To become a line segment with definition!",
+      "categories": ["math", "sports"],
+      "tags": ["line", "gym", "segment", "definition", "wordplay", "geometry", "exercise"]
+    },
+    {
+      "id": 1091,
+      "setup": "What do you call an empty parrot cage?",
+      "punchline": "A polygon!",
+      "categories": ["math", "animals"],
+      "tags": ["parrot", "cage", "polygon", "polly gone", "wordplay", "geometry", "bird"]
+    },
+    {
+      "id": 1092,
+      "setup": "Why did the function break up with the equation?",
+      "punchline": "Because it needed more space to express itself!",
+      "categories": ["math"],
+      "tags": ["function", "equation", "breakup", "space", "wordplay", "algebra", "expression"]
+    },
+    {
+      "id": 1093,
+      "setup": "What did the math teacher order at the restaurant?",
+      "punchline": "A pi-zza with extra angles!",
+      "categories": ["math", "food"],
+      "tags": ["teacher", "restaurant", "pizza", "pi", "wordplay", "angles", "ordering"]
+    },
+    {
+      "id": 1094,
+      "setup": "Why did the student bring a ruler to bed?",
+      "punchline": "To see how long they slept!",
+      "categories": ["math", "school"],
+      "tags": ["student", "ruler", "bed", "sleep", "wordplay", "measuring", "length"]
+    },
+    {
+      "id": 1095,
+      "setup": "What do you call a metric cookie?",
+      "punchline": "A gram cracker!",
+      "categories": ["math", "food"],
+      "tags": ["metric", "cookie", "gram", "cracker", "wordplay", "measurement", "snack"]
+    },
+    {
+      "id": 1096,
+      "setup": "Why was the scalene triangle always alone?",
+      "punchline": "Because none of its sides were equal!",
+      "categories": ["math"],
+      "tags": ["scalene triangle", "alone", "sides", "equal", "wordplay", "geometry", "lonely"]
+    },
+    {
+      "id": 1097,
+      "setup": "What do you call a midget psychic who escaped from prison?",
+      "punchline": "A small medium at large!",
+      "categories": ["math"],
+      "tags": ["small", "medium", "large", "sizes", "wordplay", "measurement", "psychic"]
+    },
+    {
+      "id": 1098,
+      "setup": "Why was the multiplication sign so religious?",
+      "punchline": "Because it always crossed itself!",
+      "categories": ["math"],
+      "tags": ["multiplication", "sign", "religious", "crossed", "wordplay", "symbol", "faith"]
+    },
+    {
+      "id": 1099,
+      "setup": "What did the math teacher say about the student's geometry test?",
+      "punchline": "Your future is looking shapely!",
+      "categories": ["math", "school"],
+      "tags": ["teacher", "geometry", "test", "future", "shapely", "wordplay", "encouraging"]
+    },
+    {
+      "id": 1100,
+      "setup": "Why did the mathematician name his cat 'Minus'?",
+      "punchline": "Because she always made a difference!",
+      "categories": ["math", "animals"],
+      "tags": ["mathematician", "cat", "minus", "difference", "wordplay", "subtraction", "pet"]
     }
   ]
 }
