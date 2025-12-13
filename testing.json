@@ -12599,6 +12599,706 @@
       "punchline": "That was truly destination-worthy!",
       "categories": ["travel"],
       "tags": ["traveler", "amazing trip", "destination", "worthy", "wordplay", "vacation", "memorable"]
+    },
+    {
+      "id": 1801,
+      "setup": "Why did the wedding cake go to therapy?",
+      "punchline": "Because it had too many layers of emotions!",
+      "categories": ["wedding", "food"],
+      "tags": ["wedding cake", "therapy", "layers", "emotions", "wordplay", "dessert", "feelings"]
+    },
+    {
+      "id": 1802,
+      "setup": "What did the groom say to his tie?",
+      "punchline": "You're the knot I've been waiting for!",
+      "categories": ["wedding"],
+      "tags": ["groom", "tie", "knot", "waiting", "wordplay", "tying the knot", "clothing"]
+    },
+    {
+      "id": 1803,
+      "setup": "Why did the bride carry a ladder down the aisle?",
+      "punchline": "Because she wanted to take her relationship to the next level!",
+      "categories": ["wedding"],
+      "tags": ["bride", "ladder", "aisle", "next level", "wordplay", "relationship", "ceremony"]
+    },
+    {
+      "id": 1804,
+      "setup": "What do you call a melon that's not allowed to get married?",
+      "punchline": "A can't-elope!",
+      "categories": ["wedding", "food"],
+      "tags": ["melon", "married", "cantaloupe", "elope", "wordplay", "fruit", "forbidden"]
+    },
+    {
+      "id": 1805,
+      "setup": "Why did the wedding ring feel so committed?",
+      "punchline": "Because it was in a band for life!",
+      "categories": ["wedding", "music"],
+      "tags": ["wedding ring", "committed", "band", "life", "wordplay", "jewelry", "marriage"]
+    },
+    {
+      "id": 1806,
+      "setup": "What did the best man say about his speech?",
+      "punchline": "I'm toast... literally, I'm giving one!",
+      "categories": ["wedding", "food"],
+      "tags": ["best man", "speech", "toast", "nervous", "wordplay", "reception", "talking"]
+    },
+    {
+      "id": 1807,
+      "setup": "Why did the flower girl feel scattered?",
+      "punchline": "Because she was always throwing petals everywhere!",
+      "categories": ["wedding", "outdoors"],
+      "tags": ["flower girl", "scattered", "petals", "throwing", "wordplay", "ceremony", "flowers"]
+    },
+    {
+      "id": 1808,
+      "setup": "What do you call a wedding in a library?",
+      "punchline": "A binding ceremony!",
+      "categories": ["wedding", "school"],
+      "tags": ["wedding", "library", "binding", "books", "wordplay", "ceremony", "marriage"]
+    },
+    {
+      "id": 1809,
+      "setup": "Why did the groom bring a map to the wedding?",
+      "punchline": "Because he didn't want to lose his way to the altar!",
+      "categories": ["wedding", "travel"],
+      "tags": ["groom", "map", "lost", "altar", "wordplay", "directions", "ceremony"]
+    },
+    {
+      "id": 1810,
+      "setup": "What did the wedding veil say to the bride?",
+      "punchline": "I've got you covered!",
+      "categories": ["wedding"],
+      "tags": ["wedding veil", "bride", "covered", "protection", "wordplay", "clothing", "accessory"]
+    },
+    {
+      "id": 1811,
+      "setup": "Why did the champagne feel bubbly at the wedding?",
+      "punchline": "Because love was in the air!",
+      "categories": ["wedding", "food"],
+      "tags": ["champagne", "bubbly", "love", "air", "wordplay", "drinks", "celebration"]
+    },
+    {
+      "id": 1812,
+      "setup": "What do you call a nervous groom?",
+      "punchline": "A bundle of tied nerves!",
+      "categories": ["wedding"],
+      "tags": ["groom", "nervous", "bundle", "tied", "wordplay", "anxiety", "ceremony"]
+    },
+    {
+      "id": 1813,
+      "setup": "Why did the DJ get hired for every wedding?",
+      "punchline": "Because he really knew how to get the reception started!",
+      "categories": ["wedding", "music"],
+      "tags": ["dj", "hired", "wedding", "reception", "wordplay", "music", "party"]
+    },
+    {
+      "id": 1814,
+      "setup": "What did the invitation say to the guest list?",
+      "punchline": "You're cordially invited to be part of my paper trail!",
+      "categories": ["wedding"],
+      "tags": ["invitation", "guest list", "cordially", "paper", "wordplay", "stationery", "formal"]
+    },
+    {
+      "id": 1815,
+      "setup": "Why did the bride and groom go to the bank?",
+      "punchline": "To check their joint account of happiness!",
+      "categories": ["wedding", "work"],
+      "tags": ["bride", "groom", "bank", "joint account", "wordplay", "money", "happiness"]
+    },
+    {
+      "id": 1816,
+      "setup": "What do you call a wedding on a trampoline?",
+      "punchline": "A marriage that's off to a bouncing start!",
+      "categories": ["wedding", "sports"],
+      "tags": ["wedding", "trampoline", "bouncing", "start", "wordplay", "jumping", "ceremony"]
+    },
+    {
+      "id": 1817,
+      "setup": "Why did the wedding planner feel organized?",
+      "punchline": "Because everything was going according to plan!",
+      "categories": ["wedding", "work"],
+      "tags": ["wedding planner", "organized", "plan", "schedule", "wordplay", "job", "events"]
+    },
+    {
+      "id": 1818,
+      "setup": "What did the shoe say to the bride?",
+      "punchline": "I'm your sole mate for the big day!",
+      "categories": ["wedding"],
+      "tags": ["shoe", "bride", "sole mate", "soulmate", "wordplay", "footwear", "ceremony"]
+    },
+    {
+      "id": 1819,
+      "setup": "Why did the wedding bouquet feel tossed around?",
+      "punchline": "Because everyone wanted to catch it!",
+      "categories": ["wedding", "outdoors"],
+      "tags": ["bouquet", "tossed", "catch", "tradition", "wordplay", "flowers", "reception"]
+    },
+    {
+      "id": 1820,
+      "setup": "What do you call a pig getting married?",
+      "punchline": "Swine and dine at the reception!",
+      "categories": ["wedding", "animals"],
+      "tags": ["pig", "married", "swine", "dine", "wordplay", "reception", "food"]
+    },
+    {
+      "id": 1821,
+      "setup": "Why did the bridesmaid dress feel blue?",
+      "punchline": "Because it wasn't picked as the bride's favorite!",
+      "categories": ["wedding"],
+      "tags": ["bridesmaid", "dress", "blue", "favorite", "wordplay", "clothing", "sad"]
+    },
+    {
+      "id": 1822,
+      "setup": "What did the altar say to the couple?",
+      "punchline": "I'm here to support your union!",
+      "categories": ["wedding"],
+      "tags": ["altar", "couple", "support", "union", "wordplay", "ceremony", "structure"]
+    },
+    {
+      "id": 1823,
+      "setup": "Why did the photographer love weddings?",
+      "punchline": "Because every moment was picture perfect!",
+      "categories": ["wedding", "work"],
+      "tags": ["photographer", "weddings", "picture perfect", "moments", "wordplay", "photos", "job"]
+    },
+    {
+      "id": 1824,
+      "setup": "What do you call two birds getting married?",
+      "punchline": "Love birds tying the nest!",
+      "categories": ["wedding", "animals"],
+      "tags": ["birds", "married", "love birds", "nest", "wordplay", "animals", "romance"]
+    },
+    {
+      "id": 1825,
+      "setup": "Why did the wedding officiant feel powerful?",
+      "punchline": "Because they had the power to pronounce people married!",
+      "categories": ["wedding"],
+      "tags": ["officiant", "powerful", "pronounce", "married", "wordplay", "ceremony", "authority"]
+    },
+    {
+      "id": 1826,
+      "setup": "What did the napkin say at the wedding reception?",
+      "punchline": "I'm just here to catch all the happy tears!",
+      "categories": ["wedding"],
+      "tags": ["napkin", "reception", "tears", "happy", "wordplay", "crying", "emotions"]
+    },
+    {
+      "id": 1827,
+      "setup": "Why did the groom's shoes feel polished?",
+      "punchline": "Because this was their time to shine!",
+      "categories": ["wedding"],
+      "tags": ["groom", "shoes", "polished", "shine", "wordplay", "footwear", "moment"]
+    },
+    {
+      "id": 1828,
+      "setup": "What do you call a wedding during a thunderstorm?",
+      "punchline": "A match made with a little electricity!",
+      "categories": ["wedding", "science"],
+      "tags": ["wedding", "thunderstorm", "electricity", "match", "wordplay", "weather", "romance"]
+    },
+    {
+      "id": 1829,
+      "setup": "Why did the unity candle feel lit?",
+      "punchline": "Because two flames became one!",
+      "categories": ["wedding"],
+      "tags": ["unity candle", "lit", "flames", "one", "wordplay", "ceremony", "tradition"]
+    },
+    {
+      "id": 1830,
+      "setup": "What did the wedding band say to the finger?",
+      "punchline": "I'm wrapped around you forever!",
+      "categories": ["wedding"],
+      "tags": ["wedding band", "finger", "wrapped", "forever", "wordplay", "ring", "commitment"]
+    },
+    {
+      "id": 1831,
+      "setup": "Why did the caterer feel saucy at the wedding?",
+      "punchline": "Because they were dishing out the love!",
+      "categories": ["wedding", "food"],
+      "tags": ["caterer", "saucy", "dishing", "love", "wordplay", "food", "reception"]
+    },
+    {
+      "id": 1832,
+      "setup": "What do you call a spider getting married?",
+      "punchline": "A webbing ceremony!",
+      "categories": ["wedding", "animals"],
+      "tags": ["spider", "married", "webbing", "ceremony", "wordplay", "insect", "web"]
+    },
+    {
+      "id": 1833,
+      "setup": "Why did the bride's train feel long?",
+      "punchline": "Because it was always being followed!",
+      "categories": ["wedding"],
+      "tags": ["bride", "train", "long", "followed", "wordplay", "dress", "trailing"]
+    },
+    {
+      "id": 1834,
+      "setup": "What did the garter say to the bride?",
+      "punchline": "I'm just here for a little leg of the journey!",
+      "categories": ["wedding"],
+      "tags": ["garter", "bride", "leg", "journey", "wordplay", "tradition", "accessory"]
+    },
+    {
+      "id": 1835,
+      "setup": "Why did the wedding venue feel booked?",
+      "punchline": "Because love stories were being written there every weekend!",
+      "categories": ["wedding"],
+      "tags": ["venue", "booked", "love stories", "weekend", "wordplay", "location", "events"]
+    },
+    {
+      "id": 1836,
+      "setup": "What do you call a fish getting married?",
+      "punchline": "A catch of a lifetime!",
+      "categories": ["wedding", "animals"],
+      "tags": ["fish", "married", "catch", "lifetime", "wordplay", "ocean", "romance"]
+    },
+    {
+      "id": 1837,
+      "setup": "Why did the seating chart feel confused?",
+      "punchline": "Because it couldn't figure out where everyone belonged!",
+      "categories": ["wedding"],
+      "tags": ["seating chart", "confused", "belonged", "guests", "wordplay", "planning", "reception"]
+    },
+    {
+      "id": 1838,
+      "setup": "What did the honeymoon say to the wedding?",
+      "punchline": "I'm the sweet part that comes after!",
+      "categories": ["wedding", "travel"],
+      "tags": ["honeymoon", "wedding", "sweet", "after", "wordplay", "vacation", "romance"]
+    },
+    {
+      "id": 1839,
+      "setup": "Why did the ring bearer feel important?",
+      "punchline": "Because he was carrying the symbols of love!",
+      "categories": ["wedding"],
+      "tags": ["ring bearer", "important", "symbols", "love", "wordplay", "ceremony", "child"]
+    },
+    {
+      "id": 1840,
+      "setup": "What do you call a wedding at the gym?",
+      "punchline": "A match made in flex-ercise heaven!",
+      "categories": ["wedding", "sports"],
+      "tags": ["wedding", "gym", "match", "exercise", "wordplay", "fitness", "ceremony"]
+    },
+    {
+      "id": 1841,
+      "setup": "Why did the wedding favor feel appreciated?",
+      "punchline": "Because everyone wanted to take it home!",
+      "categories": ["wedding"],
+      "tags": ["wedding favor", "appreciated", "home", "gift", "wordplay", "reception", "keepsake"]
+    },
+    {
+      "id": 1842,
+      "setup": "What did the father of the bride say during his speech?",
+      "punchline": "I'm not losing a daughter, I'm gaining a punchline for future jokes!",
+      "categories": ["wedding", "family"],
+      "tags": ["father", "bride", "speech", "daughter", "wordplay", "jokes", "reception"]
+    },
+    {
+      "id": 1843,
+      "setup": "Why did the wedding dress feel white?",
+      "punchline": "Because it was pure perfection!",
+      "categories": ["wedding"],
+      "tags": ["wedding dress", "white", "pure", "perfection", "wordplay", "clothing", "tradition"]
+    },
+    {
+      "id": 1844,
+      "setup": "What do you call a dentist getting married?",
+      "punchline": "A filling ceremony!",
+      "categories": ["wedding", "work"],
+      "tags": ["dentist", "married", "filling", "ceremony", "wordplay", "teeth", "job"]
+    },
+    {
+      "id": 1845,
+      "setup": "Why did the first dance feel special?",
+      "punchline": "Because it was a step in the right direction!",
+      "categories": ["wedding", "music"],
+      "tags": ["first dance", "special", "step", "direction", "wordplay", "dancing", "reception"]
+    },
+    {
+      "id": 1846,
+      "setup": "What did the wedding cake topper say?",
+      "punchline": "I'm on top of the world... or at least the cake!",
+      "categories": ["wedding", "food"],
+      "tags": ["cake topper", "top", "world", "cake", "wordplay", "decoration", "figurine"]
+    },
+    {
+      "id": 1847,
+      "setup": "Why did the usher feel guided?",
+      "punchline": "Because showing people to their seats was his purpose!",
+      "categories": ["wedding"],
+      "tags": ["usher", "guided", "seats", "purpose", "wordplay", "ceremony", "job"]
+    },
+    {
+      "id": 1848,
+      "setup": "What do you call a clock getting married?",
+      "punchline": "A timely union!",
+      "categories": ["wedding", "home"],
+      "tags": ["clock", "married", "timely", "union", "wordplay", "time", "ceremony"]
+    },
+    {
+      "id": 1849,
+      "setup": "Why did the vows feel promising?",
+      "punchline": "Because they were full of commitment!",
+      "categories": ["wedding"],
+      "tags": ["vows", "promising", "commitment", "promises", "wordplay", "ceremony", "love"]
+    },
+    {
+      "id": 1850,
+      "setup": "What did the centerpiece say to the table?",
+      "punchline": "I really bring everyone together!",
+      "categories": ["wedding"],
+      "tags": ["centerpiece", "table", "together", "decoration", "wordplay", "reception", "gathering"]
+    },
+    {
+      "id": 1851,
+      "setup": "Why did the bachelor party feel single-minded?",
+      "punchline": "Because it was the last night of freedom!",
+      "categories": ["wedding"],
+      "tags": ["bachelor party", "single", "freedom", "night", "wordplay", "celebration", "groom"]
+    },
+    {
+      "id": 1852,
+      "setup": "What do you call a ghost getting married?",
+      "punchline": "A spook-tacular union!",
+      "categories": ["wedding", "fantasy"],
+      "tags": ["ghost", "married", "spectacular", "spooky", "wordplay", "supernatural", "ceremony"]
+    },
+    {
+      "id": 1853,
+      "setup": "Why did the bridal shower feel wet?",
+      "punchline": "Because it was raining gifts!",
+      "categories": ["wedding"],
+      "tags": ["bridal shower", "wet", "raining", "gifts", "wordplay", "party", "celebration"]
+    },
+    {
+      "id": 1854,
+      "setup": "What did the confetti say at the wedding?",
+      "punchline": "I'm just here to make things colorful!",
+      "categories": ["wedding"],
+      "tags": ["confetti", "wedding", "colorful", "celebration", "wordplay", "throwing", "party"]
+    },
+    {
+      "id": 1855,
+      "setup": "Why did the florist love weddings?",
+      "punchline": "Because business was always blooming!",
+      "categories": ["wedding", "work"],
+      "tags": ["florist", "weddings", "blooming", "business", "wordplay", "flowers", "job"]
+    },
+    {
+      "id": 1856,
+      "setup": "What do you call an electrician getting married?",
+      "punchline": "A current affair of the heart!",
+      "categories": ["wedding", "work"],
+      "tags": ["electrician", "married", "current", "heart", "wordplay", "electricity", "romance"]
+    },
+    {
+      "id": 1857,
+      "setup": "Why did the bridal party feel supportive?",
+      "punchline": "Because they were always standing by the bride!",
+      "categories": ["wedding"],
+      "tags": ["bridal party", "supportive", "standing", "bride", "wordplay", "friends", "ceremony"]
+    },
+    {
+      "id": 1858,
+      "setup": "What did the envelope say to the RSVP card?",
+      "punchline": "I've got you sealed with love!",
+      "categories": ["wedding"],
+      "tags": ["envelope", "rsvp", "sealed", "love", "wordplay", "invitation", "mail"]
+    },
+    {
+      "id": 1859,
+      "setup": "Why did the wedding registry feel wanted?",
+      "punchline": "Because everyone was checking it out!",
+      "categories": ["wedding"],
+      "tags": ["wedding registry", "wanted", "checking", "gifts", "wordplay", "shopping", "list"]
+    },
+    {
+      "id": 1860,
+      "setup": "What do you call a baker getting married?",
+      "punchline": "A recipe for love!",
+      "categories": ["wedding", "food"],
+      "tags": ["baker", "married", "recipe", "love", "wordplay", "cooking", "romance"]
+    },
+    {
+      "id": 1861,
+      "setup": "Why did the engagement ring feel nervous?",
+      "punchline": "Because it was about to pop the question!",
+      "categories": ["wedding"],
+      "tags": ["engagement ring", "nervous", "pop the question", "proposal", "wordplay", "jewelry", "asking"]
+    },
+    {
+      "id": 1862,
+      "setup": "What did the dance floor say to the guests?",
+      "punchline": "Come on, let's get this party started!",
+      "categories": ["wedding", "music"],
+      "tags": ["dance floor", "guests", "party", "started", "wordplay", "dancing", "reception"]
+    },
+    {
+      "id": 1863,
+      "setup": "Why did the maid of honor feel honored?",
+      "punchline": "Because it was right there in her title!",
+      "categories": ["wedding"],
+      "tags": ["maid of honor", "honored", "title", "bride", "wordplay", "role", "ceremony"]
+    },
+    {
+      "id": 1864,
+      "setup": "What do you call a mathematician getting married?",
+      "punchline": "An addition to the family!",
+      "categories": ["wedding", "math"],
+      "tags": ["mathematician", "married", "addition", "family", "wordplay", "math", "joining"]
+    },
+    {
+      "id": 1865,
+      "setup": "Why did the boutonniere feel attached?",
+      "punchline": "Because it was pinned to someone special!",
+      "categories": ["wedding"],
+      "tags": ["boutonniere", "attached", "pinned", "special", "wordplay", "flower", "groom"]
+    },
+    {
+      "id": 1866,
+      "setup": "What did the limousine say to the wedding party?",
+      "punchline": "I'm here to drive this celebration forward!",
+      "categories": ["wedding", "travel"],
+      "tags": ["limousine", "wedding party", "drive", "celebration", "wordplay", "transportation", "luxury"]
+    },
+    {
+      "id": 1867,
+      "setup": "Why did the save-the-date feel important?",
+      "punchline": "Because it was marking a moment in history!",
+      "categories": ["wedding"],
+      "tags": ["save the date", "important", "marking", "history", "wordplay", "calendar", "invitation"]
+    },
+    {
+      "id": 1868,
+      "setup": "What do you call a weatherman getting married?",
+      "punchline": "A forecast for sunny days ahead!",
+      "categories": ["wedding", "work"],
+      "tags": ["weatherman", "married", "forecast", "sunny", "wordplay", "weather", "future"]
+    },
+    {
+      "id": 1869,
+      "setup": "Why did the wedding hashtag trend?",
+      "punchline": "Because love was going viral!",
+      "categories": ["wedding", "technology"],
+      "tags": ["wedding hashtag", "trend", "viral", "love", "wordplay", "social media", "internet"]
+    },
+    {
+      "id": 1870,
+      "setup": "What did the sparklers say at the reception?",
+      "punchline": "We're here to light up your love!",
+      "categories": ["wedding"],
+      "tags": ["sparklers", "reception", "light up", "love", "wordplay", "celebration", "fire"]
+    },
+    {
+      "id": 1871,
+      "setup": "Why did the prenup feel protective?",
+      "punchline": "Because it was looking out for both parties!",
+      "categories": ["wedding", "work"],
+      "tags": ["prenup", "protective", "parties", "legal", "wordplay", "document", "marriage"]
+    },
+    {
+      "id": 1872,
+      "setup": "What do you call a gardener getting married?",
+      "punchline": "A growing relationship!",
+      "categories": ["wedding", "outdoors"],
+      "tags": ["gardener", "married", "growing", "relationship", "wordplay", "plants", "romance"]
+    },
+    {
+      "id": 1873,
+      "setup": "Why did the something borrowed feel used?",
+      "punchline": "Because it had been to weddings before!",
+      "categories": ["wedding"],
+      "tags": ["something borrowed", "used", "weddings", "tradition", "wordplay", "lucky", "item"]
+    },
+    {
+      "id": 1874,
+      "setup": "What did the church bells say?",
+      "punchline": "We're ringing in a new chapter!",
+      "categories": ["wedding", "music"],
+      "tags": ["church bells", "ringing", "chapter", "ceremony", "wordplay", "sound", "celebration"]
+    },
+    {
+      "id": 1875,
+      "setup": "Why did the wedding speech feel lengthy?",
+      "punchline": "Because the best man had a lot to say about love!",
+      "categories": ["wedding"],
+      "tags": ["wedding speech", "lengthy", "best man", "love", "wordplay", "talking", "reception"]
+    },
+    {
+      "id": 1876,
+      "setup": "What do you call a pilot getting married?",
+      "punchline": "A love that's really taking off!",
+      "categories": ["wedding", "travel"],
+      "tags": ["pilot", "married", "taking off", "love", "wordplay", "flying", "romance"]
+    },
+    {
+      "id": 1877,
+      "setup": "Why did the thank you cards feel grateful?",
+      "punchline": "Because they were spreading appreciation!",
+      "categories": ["wedding"],
+      "tags": ["thank you cards", "grateful", "appreciation", "spreading", "wordplay", "stationery", "gifts"]
+    },
+    {
+      "id": 1878,
+      "setup": "What did the aisle runner say to the bride?",
+      "punchline": "Walk all over me, it's your special day!",
+      "categories": ["wedding"],
+      "tags": ["aisle runner", "bride", "walk", "special day", "wordplay", "carpet", "ceremony"]
+    },
+    {
+      "id": 1879,
+      "setup": "Why did the rehearsal dinner feel practiced?",
+      "punchline": "Because everyone was getting ready for the big show!",
+      "categories": ["wedding", "food"],
+      "tags": ["rehearsal dinner", "practiced", "ready", "show", "wordplay", "preparation", "event"]
+    },
+    {
+      "id": 1880,
+      "setup": "What do you call a lawyer getting married?",
+      "punchline": "A court-ship turned commitment!",
+      "categories": ["wedding", "work"],
+      "tags": ["lawyer", "married", "courtship", "commitment", "wordplay", "legal", "romance"]
+    },
+    {
+      "id": 1881,
+      "setup": "Why did the champagne toast feel raised?",
+      "punchline": "Because glasses were lifted in honor of love!",
+      "categories": ["wedding", "food"],
+      "tags": ["champagne toast", "raised", "glasses", "honor", "wordplay", "drinks", "celebration"]
+    },
+    {
+      "id": 1882,
+      "setup": "What did the something blue say?",
+      "punchline": "I'm here to bring good luck, not sadness!",
+      "categories": ["wedding"],
+      "tags": ["something blue", "luck", "sadness", "tradition", "wordplay", "color", "item"]
+    },
+    {
+      "id": 1883,
+      "setup": "Why did the groomsmen feel suited?",
+      "punchline": "Because they were perfectly dressed for the occasion!",
+      "categories": ["wedding"],
+      "tags": ["groomsmen", "suited", "dressed", "occasion", "wordplay", "clothing", "ceremony"]
+    },
+    {
+      "id": 1884,
+      "setup": "What do you call a chef getting married?",
+      "punchline": "A perfect pairing!",
+      "categories": ["wedding", "food"],
+      "tags": ["chef", "married", "pairing", "cooking", "wordplay", "food", "romance"]
+    },
+    {
+      "id": 1885,
+      "setup": "Why did the wedding program feel informative?",
+      "punchline": "Because it had all the details covered!",
+      "categories": ["wedding"],
+      "tags": ["wedding program", "informative", "details", "covered", "wordplay", "schedule", "ceremony"]
+    },
+    {
+      "id": 1886,
+      "setup": "What did the diamond say to the engagement ring setting?",
+      "punchline": "Thanks for holding me up during this big moment!",
+      "categories": ["wedding"],
+      "tags": ["diamond", "setting", "holding", "moment", "wordplay", "jewelry", "proposal"]
+    },
+    {
+      "id": 1887,
+      "setup": "Why did the bachelorette party feel wild?",
+      "punchline": "Because it was the bride's last fling before the ring!",
+      "categories": ["wedding"],
+      "tags": ["bachelorette party", "wild", "fling", "ring", "wordplay", "celebration", "bride"]
+    },
+    {
+      "id": 1888,
+      "setup": "What do you call a judge getting married?",
+      "punchline": "A ruling in favor of love!",
+      "categories": ["wedding", "work"],
+      "tags": ["judge", "married", "ruling", "love", "wordplay", "court", "romance"]
+    },
+    {
+      "id": 1889,
+      "setup": "Why did the flower arrangement feel centered?",
+      "punchline": "Because it was the focus of attention!",
+      "categories": ["wedding", "outdoors"],
+      "tags": ["flower arrangement", "centered", "focus", "attention", "wordplay", "decoration", "flowers"]
+    },
+    {
+      "id": 1890,
+      "setup": "What did the wedding band say to the crowd?",
+      "punchline": "We're here to make some beautiful music together!",
+      "categories": ["wedding", "music"],
+      "tags": ["wedding band", "crowd", "music", "together", "wordplay", "musicians", "reception"]
+    },
+    {
+      "id": 1891,
+      "setup": "Why did the mother of the bride cry?",
+      "punchline": "Because her baby was finally getting her happily ever after!",
+      "categories": ["wedding", "family"],
+      "tags": ["mother", "bride", "cry", "happily ever after", "wordplay", "emotions", "family"]
+    },
+    {
+      "id": 1892,
+      "setup": "What do you call an astronaut getting married?",
+      "punchline": "A love that's out of this world!",
+      "categories": ["wedding", "science"],
+      "tags": ["astronaut", "married", "out of this world", "space", "wordplay", "love", "romance"]
+    },
+    {
+      "id": 1893,
+      "setup": "Why did the place cards feel assigned?",
+      "punchline": "Because they knew exactly where everyone belonged!",
+      "categories": ["wedding"],
+      "tags": ["place cards", "assigned", "belonged", "seating", "wordplay", "reception", "guests"]
+    },
+    {
+      "id": 1894,
+      "setup": "What did the marriage license say?",
+      "punchline": "I'm the official stamp of approval on your love!",
+      "categories": ["wedding"],
+      "tags": ["marriage license", "official", "stamp", "approval", "wordplay", "document", "legal"]
+    },
+    {
+      "id": 1895,
+      "setup": "Why did the cake cutting feel divided?",
+      "punchline": "Because it was sharing sweetness with everyone!",
+      "categories": ["wedding", "food"],
+      "tags": ["cake cutting", "divided", "sharing", "sweetness", "wordplay", "tradition", "dessert"]
+    },
+    {
+      "id": 1896,
+      "setup": "What do you call a teacher getting married?",
+      "punchline": "A lesson in love!",
+      "categories": ["wedding", "school"],
+      "tags": ["teacher", "married", "lesson", "love", "wordplay", "education", "romance"]
+    },
+    {
+      "id": 1897,
+      "setup": "Why did the exit sign feel ignored at the wedding?",
+      "punchline": "Because nobody wanted to leave the celebration!",
+      "categories": ["wedding"],
+      "tags": ["exit sign", "ignored", "leave", "celebration", "wordplay", "party", "staying"]
+    },
+    {
+      "id": 1898,
+      "setup": "What did the getaway car say to the newlyweds?",
+      "punchline": "Hop in, your adventure awaits!",
+      "categories": ["wedding", "travel"],
+      "tags": ["getaway car", "newlyweds", "adventure", "awaits", "wordplay", "departure", "honeymoon"]
+    },
+    {
+      "id": 1899,
+      "setup": "Why did the anniversary feel celebrated?",
+      "punchline": "Because it marked another year of saying I do!",
+      "categories": ["wedding", "birthday"],
+      "tags": ["anniversary", "celebrated", "year", "i do", "wordplay", "milestone", "marriage"]
+    },
+    {
+      "id": 1900,
+      "setup": "What did the happily ever after say to the couple?",
+      "punchline": "I've been waiting for you two all along!",
+      "categories": ["wedding"],
+      "tags": ["happily ever after", "couple", "waiting", "love", "wordplay", "fairy tale", "ending"]
     }
   ]
 }
