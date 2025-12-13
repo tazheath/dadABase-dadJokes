@@ -4199,6 +4199,706 @@
       "punchline": "A pi-zza!",
       "categories": ["food", "math"],
       "tags": ["pizza", "math", "pi", "slice", "wordplay", "numbers", "italian"]
+    },
+    {
+      "id": 601,
+      "setup": "Why did the map go to therapy?",
+      "punchline": "Because it had too many issues with boundaries!",
+      "categories": ["geography"],
+      "tags": ["map", "therapy", "boundaries", "borders", "wordplay", "mental health", "countries"]
+    },
+    {
+      "id": 602,
+      "setup": "What's the fastest country in the world?",
+      "punchline": "Rush-a!",
+      "categories": ["geography"],
+      "tags": ["russia", "fast", "rushing", "countries", "wordplay", "speed", "nations"]
+    },
+    {
+      "id": 603,
+      "setup": "Why did the mountain break up with the valley?",
+      "punchline": "Because the relationship had too many ups and downs!",
+      "categories": ["geography"],
+      "tags": ["mountain", "valley", "breakup", "ups and downs", "wordplay", "terrain", "relationship"]
+    },
+    {
+      "id": 604,
+      "setup": "What do you call a map that's always bragging?",
+      "punchline": "Legend-ary!",
+      "categories": ["geography"],
+      "tags": ["map", "bragging", "legend", "legendary", "wordplay", "key", "navigation"]
+    },
+    {
+      "id": 605,
+      "setup": "Why don't rivers ever get lost?",
+      "punchline": "Because they always follow their flow!",
+      "categories": ["geography"],
+      "tags": ["rivers", "lost", "flow", "current", "wordplay", "water", "direction"]
+    },
+    {
+      "id": 606,
+      "setup": "What did Delaware?",
+      "punchline": "A New Jersey!",
+      "categories": ["geography"],
+      "tags": ["delaware", "new jersey", "wear", "states", "wordplay", "usa", "clothing"]
+    },
+    {
+      "id": 607,
+      "setup": "Why did the globe break up with the map?",
+      "punchline": "Because it felt like the relationship was going in circles!",
+      "categories": ["geography"],
+      "tags": ["globe", "map", "circles", "breakup", "wordplay", "round", "relationship"]
+    },
+    {
+      "id": 608,
+      "setup": "What's the coldest country in the world?",
+      "punchline": "Chile!",
+      "categories": ["geography"],
+      "tags": ["chile", "cold", "chilly", "countries", "wordplay", "temperature", "south america"]
+    },
+    {
+      "id": 609,
+      "setup": "Why did the peninsula feel left out?",
+      "punchline": "Because it was only almost an island!",
+      "categories": ["geography"],
+      "tags": ["peninsula", "island", "left out", "almost", "wordplay", "landforms", "water"]
+    },
+    {
+      "id": 610,
+      "setup": "What do you call a lazy river?",
+      "punchline": "A stream of consciousness... that's asleep!",
+      "categories": ["geography"],
+      "tags": ["river", "lazy", "stream", "sleeping", "wordplay", "water", "relaxed"]
+    },
+    {
+      "id": 611,
+      "setup": "Why did the equator win the award?",
+      "punchline": "Because it was the center of attention!",
+      "categories": ["geography"],
+      "tags": ["equator", "award", "center", "attention", "wordplay", "earth", "middle"]
+    },
+    {
+      "id": 612,
+      "setup": "What state has the smallest drinks?",
+      "punchline": "Mini-soda!",
+      "categories": ["geography", "food"],
+      "tags": ["minnesota", "mini soda", "drinks", "states", "wordplay", "usa", "small"]
+    },
+    {
+      "id": 613,
+      "setup": "Why did the island feel lonely?",
+      "punchline": "Because it was surrounded by water and had no mainland friends!",
+      "categories": ["geography"],
+      "tags": ["island", "lonely", "surrounded", "water", "friends", "isolated", "ocean"]
+    },
+    {
+      "id": 614,
+      "setup": "What did the Atlantic Ocean say to the Pacific Ocean?",
+      "punchline": "Nothing, they just waved!",
+      "categories": ["geography"],
+      "tags": ["atlantic", "pacific", "ocean", "wave", "wordplay", "water", "greeting"]
+    },
+    {
+      "id": 615,
+      "setup": "Why do geographers make great friends?",
+      "punchline": "Because they really know where you're coming from!",
+      "categories": ["geography", "work"],
+      "tags": ["geographers", "friends", "understanding", "location", "wordplay", "career", "empathy"]
+    },
+    {
+      "id": 616,
+      "setup": "What's the happiest state in America?",
+      "punchline": "Merry-land!",
+      "categories": ["geography"],
+      "tags": ["maryland", "merry", "happy", "states", "wordplay", "usa", "cheerful"]
+    },
+    {
+      "id": 617,
+      "setup": "Why did the continent break up with the island?",
+      "punchline": "Because it needed more space!",
+      "categories": ["geography"],
+      "tags": ["continent", "island", "breakup", "space", "wordplay", "size", "relationship"]
+    },
+    {
+      "id": 618,
+      "setup": "What do you call a mountain that's always telling jokes?",
+      "punchline": "Hill-arious!",
+      "categories": ["geography"],
+      "tags": ["mountain", "jokes", "hilarious", "hill", "wordplay", "funny", "terrain"]
+    },
+    {
+      "id": 619,
+      "setup": "Why did the compass break up with the map?",
+      "punchline": "Because the relationship was going in the wrong direction!",
+      "categories": ["geography"],
+      "tags": ["compass", "map", "direction", "breakup", "wordplay", "navigation", "relationship"]
+    },
+    {
+      "id": 620,
+      "setup": "What did Idaho to Missouri?",
+      "punchline": "I don't know, Alaska!",
+      "categories": ["geography"],
+      "tags": ["idaho", "missouri", "alaska", "states", "wordplay", "usa", "asking"]
+    },
+    {
+      "id": 621,
+      "setup": "Why are mountains so funny?",
+      "punchline": "Because they're hill-areas!",
+      "categories": ["geography"],
+      "tags": ["mountains", "funny", "hilarious", "hills", "wordplay", "terrain", "comedy"]
+    },
+    {
+      "id": 622,
+      "setup": "What's the most musical state?",
+      "punchline": "Okla-homa, homa, homa!",
+      "categories": ["geography", "music"],
+      "tags": ["oklahoma", "musical", "home", "states", "wordplay", "usa", "singing"]
+    },
+    {
+      "id": 623,
+      "setup": "Why did the desert feel empty inside?",
+      "punchline": "Because it was going through a dry spell!",
+      "categories": ["geography"],
+      "tags": ["desert", "empty", "dry", "spell", "wordplay", "sand", "feelings"]
+    },
+    {
+      "id": 624,
+      "setup": "What do you call a well-dressed continent?",
+      "punchline": "Snazzy-a... I mean, Asia!",
+      "categories": ["geography"],
+      "tags": ["asia", "well-dressed", "snazzy", "continent", "wordplay", "fashion", "fancy"]
+    },
+    {
+      "id": 625,
+      "setup": "Why did the GPS break up with the driver?",
+      "punchline": "Because the relationship was going nowhere!",
+      "categories": ["geography", "technology"],
+      "tags": ["gps", "driver", "breakup", "nowhere", "wordplay", "navigation", "relationship"]
+    },
+    {
+      "id": 626,
+      "setup": "What's a geologist's favorite type of music?",
+      "punchline": "Rock!",
+      "categories": ["geography", "music"],
+      "tags": ["geologist", "music", "rock", "stones", "wordplay", "science", "genre"]
+    },
+    {
+      "id": 627,
+      "setup": "Why did the tectonic plates break up?",
+      "punchline": "Because there was too much friction in the relationship!",
+      "categories": ["geography", "science"],
+      "tags": ["tectonic plates", "breakup", "friction", "earthquake", "wordplay", "geology", "relationship"]
+    },
+    {
+      "id": 628,
+      "setup": "What do you call a country that loves to argue?",
+      "punchline": "Dispute-ain! (Britain)",
+      "categories": ["geography"],
+      "tags": ["britain", "arguing", "dispute", "countries", "wordplay", "uk", "fighting"]
+    },
+    {
+      "id": 629,
+      "setup": "Why did the canyon feel so deep?",
+      "punchline": "Because it was going through a rough gorge!",
+      "categories": ["geography"],
+      "tags": ["canyon", "deep", "gorge", "rough", "wordplay", "terrain", "feelings"]
+    },
+    {
+      "id": 630,
+      "setup": "What state is the most round?",
+      "punchline": "O-hi-o!",
+      "categories": ["geography"],
+      "tags": ["ohio", "round", "circle", "states", "wordplay", "usa", "shape"]
+    },
+    {
+      "id": 631,
+      "setup": "Why did the lake feel overwhelmed?",
+      "punchline": "Because it was in over its head!",
+      "categories": ["geography"],
+      "tags": ["lake", "overwhelmed", "over head", "water", "wordplay", "deep", "feelings"]
+    },
+    {
+      "id": 632,
+      "setup": "What do you call a sleeping volcano?",
+      "punchline": "A napkin... wait, no... dormant!",
+      "categories": ["geography"],
+      "tags": ["volcano", "sleeping", "dormant", "nap", "wordplay", "eruption", "inactive"]
+    },
+    {
+      "id": 633,
+      "setup": "Why did the atlas go on a diet?",
+      "punchline": "Because it had too many extra pounds... of paper!",
+      "categories": ["geography"],
+      "tags": ["atlas", "diet", "pounds", "paper", "wordplay", "heavy", "maps"]
+    },
+    {
+      "id": 634,
+      "setup": "What did Tennessee?",
+      "punchline": "The same thing Arkansas!",
+      "categories": ["geography"],
+      "tags": ["tennessee", "arkansas", "see", "saw", "wordplay", "states", "usa"]
+    },
+    {
+      "id": 635,
+      "setup": "Why did the plateau feel average?",
+      "punchline": "Because it was on a whole different level!",
+      "categories": ["geography"],
+      "tags": ["plateau", "level", "flat", "average", "wordplay", "terrain", "landform"]
+    },
+    {
+      "id": 636,
+      "setup": "What country is the hungriest?",
+      "punchline": "Hungary!",
+      "categories": ["geography", "food"],
+      "tags": ["hungary", "hungry", "food", "countries", "wordplay", "europe", "eating"]
+    },
+    {
+      "id": 637,
+      "setup": "Why did the glacier move so slowly?",
+      "punchline": "Because it was frozen with indecision!",
+      "categories": ["geography"],
+      "tags": ["glacier", "slow", "frozen", "indecision", "wordplay", "ice", "movement"]
+    },
+    {
+      "id": 638,
+      "setup": "What do you call a city that's always moving?",
+      "punchline": "Mobile, Alabama!",
+      "categories": ["geography"],
+      "tags": ["mobile", "alabama", "moving", "city", "wordplay", "usa", "states"]
+    },
+    {
+      "id": 639,
+      "setup": "Why did the coast feel stressed?",
+      "punchline": "Because it was under a lot of shore pressure!",
+      "categories": ["geography"],
+      "tags": ["coast", "stressed", "shore", "pressure", "wordplay", "beach", "ocean"]
+    },
+    {
+      "id": 640,
+      "setup": "What's a map's favorite snack?",
+      "punchline": "Scale chips!",
+      "categories": ["geography", "food"],
+      "tags": ["map", "snack", "scale", "chips", "wordplay", "navigation", "eating"]
+    },
+    {
+      "id": 641,
+      "setup": "Why did the archipelago feel scattered?",
+      "punchline": "Because it was spread across so many islands!",
+      "categories": ["geography"],
+      "tags": ["archipelago", "scattered", "islands", "spread", "wordplay", "ocean", "landform"]
+    },
+    {
+      "id": 642,
+      "setup": "What state is the smartest?",
+      "punchline": "Alabama - it has four A's and one B!",
+      "categories": ["geography", "school"],
+      "tags": ["alabama", "smart", "grades", "letters", "wordplay", "usa", "spelling"]
+    },
+    {
+      "id": 643,
+      "setup": "Why did the delta feel triangular?",
+      "punchline": "Because that's just the shape it was in!",
+      "categories": ["geography"],
+      "tags": ["delta", "triangle", "shape", "river", "wordplay", "landform", "geometry"]
+    },
+    {
+      "id": 644,
+      "setup": "What do you call a nervous island?",
+      "punchline": "Shaky ground!",
+      "categories": ["geography"],
+      "tags": ["island", "nervous", "shaky", "ground", "wordplay", "earthquake", "anxious"]
+    },
+    {
+      "id": 645,
+      "setup": "Why did the meridian feel divided?",
+      "punchline": "Because it was stuck between East and West!",
+      "categories": ["geography"],
+      "tags": ["meridian", "divided", "east", "west", "wordplay", "longitude", "direction"]
+    },
+    {
+      "id": 646,
+      "setup": "What country is the most surprised?",
+      "punchline": "O-man!",
+      "categories": ["geography"],
+      "tags": ["oman", "surprised", "oh man", "countries", "wordplay", "middle east", "exclamation"]
+    },
+    {
+      "id": 647,
+      "setup": "Why did the bay feel enclosed?",
+      "punchline": "Because it was surrounded on three sides!",
+      "categories": ["geography"],
+      "tags": ["bay", "enclosed", "surrounded", "water", "wordplay", "landform", "coastline"]
+    },
+    {
+      "id": 648,
+      "setup": "What do you call a mountain that never stops talking?",
+      "punchline": "Mount Ever-rest your ears!",
+      "categories": ["geography"],
+      "tags": ["mountain", "talking", "everest", "rest", "wordplay", "tall", "chatty"]
+    },
+    {
+      "id": 649,
+      "setup": "Why did the North Pole and South Pole never hang out?",
+      "punchline": "Because they were polar opposites!",
+      "categories": ["geography"],
+      "tags": ["north pole", "south pole", "polar", "opposites", "wordplay", "cold", "arctic"]
+    },
+    {
+      "id": 650,
+      "setup": "What's the most egotistical country?",
+      "punchline": "Me-xico!",
+      "categories": ["geography"],
+      "tags": ["mexico", "egotistical", "me", "countries", "wordplay", "north america", "self-centered"]
+    },
+    {
+      "id": 651,
+      "setup": "Why did the isthmus feel skinny?",
+      "punchline": "Because it was a narrow strip of land between two bodies of water!",
+      "categories": ["geography"],
+      "tags": ["isthmus", "skinny", "narrow", "land", "wordplay", "landform", "water"]
+    },
+    {
+      "id": 652,
+      "setup": "What state washes the most dishes?",
+      "punchline": "Washing-ton!",
+      "categories": ["geography", "home"],
+      "tags": ["washington", "washing", "dishes", "states", "wordplay", "usa", "cleaning"]
+    },
+    {
+      "id": 653,
+      "setup": "Why did the cliff feel edgy?",
+      "punchline": "Because it was always on the brink!",
+      "categories": ["geography"],
+      "tags": ["cliff", "edgy", "brink", "edge", "wordplay", "terrain", "dangerous"]
+    },
+    {
+      "id": 654,
+      "setup": "What do you call a country that loves to exercise?",
+      "punchline": "Gym-bodia... I mean, Cambodia!",
+      "categories": ["geography", "sports"],
+      "tags": ["cambodia", "gym", "exercise", "countries", "wordplay", "asia", "fitness"]
+    },
+    {
+      "id": 655,
+      "setup": "Why did the longitude and latitude break up?",
+      "punchline": "Because they kept crossing each other!",
+      "categories": ["geography"],
+      "tags": ["longitude", "latitude", "crossing", "breakup", "wordplay", "coordinates", "relationship"]
+    },
+    {
+      "id": 656,
+      "setup": "What's the most careful country?",
+      "punchline": "You-gotta-be-careful-goslavia... too late!",
+      "categories": ["geography"],
+      "tags": ["yugoslavia", "careful", "countries", "europe", "wordplay", "caution", "history"]
+    },
+    {
+      "id": 657,
+      "setup": "Why did the swamp feel mushy?",
+      "punchline": "Because it was going through a soggy phase!",
+      "categories": ["geography"],
+      "tags": ["swamp", "mushy", "soggy", "wet", "wordplay", "wetland", "feelings"]
+    },
+    {
+      "id": 658,
+      "setup": "What did the North say to the South?",
+      "punchline": "Let's meet in the middle... at the Equator!",
+      "categories": ["geography"],
+      "tags": ["north", "south", "equator", "middle", "wordplay", "directions", "compromise"]
+    },
+    {
+      "id": 659,
+      "setup": "Why did the strait feel narrow-minded?",
+      "punchline": "Because it couldn't see beyond its channel!",
+      "categories": ["geography"],
+      "tags": ["strait", "narrow", "channel", "minded", "wordplay", "water", "passage"]
+    },
+    {
+      "id": 660,
+      "setup": "What country is always tired?",
+      "punchline": "Nap-al... I mean, Nepal!",
+      "categories": ["geography"],
+      "tags": ["nepal", "tired", "nap", "countries", "wordplay", "asia", "sleeping"]
+    },
+    {
+      "id": 661,
+      "setup": "Why did the savanna feel grassy?",
+      "punchline": "Because it was going through a growth spurt!",
+      "categories": ["geography", "outdoors"],
+      "tags": ["savanna", "grass", "growth", "africa", "wordplay", "plains", "nature"]
+    },
+    {
+      "id": 662,
+      "setup": "What's the most greedy country?",
+      "punchline": "Gimme-a... I mean, Guinea!",
+      "categories": ["geography"],
+      "tags": ["guinea", "greedy", "gimme", "countries", "wordplay", "africa", "wanting"]
+    },
+    {
+      "id": 663,
+      "setup": "Why did the oasis feel special?",
+      "punchline": "Because it was the water everyone was looking for in the desert!",
+      "categories": ["geography"],
+      "tags": ["oasis", "special", "water", "desert", "wordplay", "rare", "refreshing"]
+    },
+    {
+      "id": 664,
+      "setup": "What do you call a polite body of water?",
+      "punchline": "Lake You Very Much!",
+      "categories": ["geography"],
+      "tags": ["lake", "polite", "thank you", "water", "wordplay", "manners", "pun"]
+    },
+    {
+      "id": 665,
+      "setup": "Why did the hemisphere feel half-hearted?",
+      "punchline": "Because it was only half of the whole!",
+      "categories": ["geography"],
+      "tags": ["hemisphere", "half", "hearted", "earth", "wordplay", "globe", "division"]
+    },
+    {
+      "id": 666,
+      "setup": "What state has the best doctors?",
+      "punchline": "MD - Maryland!",
+      "categories": ["geography", "work"],
+      "tags": ["maryland", "doctors", "md", "states", "wordplay", "usa", "medical"]
+    },
+    {
+      "id": 667,
+      "setup": "Why did the sand dune feel shifting?",
+      "punchline": "Because it couldn't stay in one place with all that wind!",
+      "categories": ["geography"],
+      "tags": ["sand dune", "shifting", "wind", "desert", "wordplay", "moving", "terrain"]
+    },
+    {
+      "id": 668,
+      "setup": "What do you call an honest city?",
+      "punchline": "True-ronto... I mean, Toronto!",
+      "categories": ["geography"],
+      "tags": ["toronto", "honest", "true", "canada", "wordplay", "city", "truthful"]
+    },
+    {
+      "id": 669,
+      "setup": "Why did the reef feel colorful?",
+      "punchline": "Because it was having a coral good day!",
+      "categories": ["geography"],
+      "tags": ["reef", "colorful", "coral", "good", "wordplay", "ocean", "underwater"]
+    },
+    {
+      "id": 670,
+      "setup": "What country has the best comedians?",
+      "punchline": "Laugh-ghanistan... I mean, Afghanistan!",
+      "categories": ["geography"],
+      "tags": ["afghanistan", "comedians", "laugh", "countries", "wordplay", "asia", "funny"]
+    },
+    {
+      "id": 671,
+      "setup": "Why did the trench feel down?",
+      "punchline": "Because it was at the lowest point in the ocean!",
+      "categories": ["geography"],
+      "tags": ["trench", "down", "low", "ocean", "wordplay", "deep", "mariana"]
+    },
+    {
+      "id": 672,
+      "setup": "What's the most magical state?",
+      "punchline": "Arry Potter... I mean, Arizona!",
+      "categories": ["geography"],
+      "tags": ["arizona", "magical", "harry potter", "states", "wordplay", "usa", "fantasy"]
+    },
+    {
+      "id": 673,
+      "setup": "Why did the wetland feel moist?",
+      "punchline": "Because it was in a perpetual state of dampness!",
+      "categories": ["geography"],
+      "tags": ["wetland", "moist", "damp", "water", "wordplay", "swamp", "marsh"]
+    },
+    {
+      "id": 674,
+      "setup": "What country is the most questioning?",
+      "punchline": "Why-oming... wait, that's a state!",
+      "categories": ["geography"],
+      "tags": ["wyoming", "questioning", "why", "states", "wordplay", "usa", "asking"]
+    },
+    {
+      "id": 675,
+      "setup": "Why did the cave feel hollow?",
+      "punchline": "Because it was empty inside!",
+      "categories": ["geography"],
+      "tags": ["cave", "hollow", "empty", "inside", "wordplay", "underground", "terrain"]
+    },
+    {
+      "id": 676,
+      "setup": "What's the most explosive country?",
+      "punchline": "Vol-cano... wait, that's not a country!",
+      "categories": ["geography"],
+      "tags": ["volcano", "explosive", "countries", "eruption", "wordplay", "fire", "geology"]
+    },
+    {
+      "id": 677,
+      "setup": "Why did the harbor feel safe?",
+      "punchline": "Because ships always found shelter there!",
+      "categories": ["geography", "travel"],
+      "tags": ["harbor", "safe", "ships", "shelter", "wordplay", "port", "water"]
+    },
+    {
+      "id": 678,
+      "setup": "What state do lions like the most?",
+      "punchline": "Maine!",
+      "categories": ["geography", "animals"],
+      "tags": ["maine", "lions", "mane", "states", "wordplay", "usa", "hair"]
+    },
+    {
+      "id": 679,
+      "setup": "Why did the fjord feel deep?",
+      "punchline": "Because it had a lot of Norwegian feelings!",
+      "categories": ["geography"],
+      "tags": ["fjord", "deep", "norway", "feelings", "wordplay", "water", "scandinavia"]
+    },
+    {
+      "id": 680,
+      "setup": "What do you call a river that's really good at math?",
+      "punchline": "A calcu-later... wait, the Mississippi - it has lots of curves to calculate!",
+      "categories": ["geography", "math"],
+      "tags": ["river", "math", "mississippi", "curves", "wordplay", "calculation", "water"]
+    },
+    {
+      "id": 681,
+      "setup": "Why did the tundra feel frozen out?",
+      "punchline": "Because it was always left out in the cold!",
+      "categories": ["geography"],
+      "tags": ["tundra", "frozen", "cold", "left out", "wordplay", "arctic", "ice"]
+    },
+    {
+      "id": 682,
+      "setup": "What country is always winning?",
+      "punchline": "Vict-oria... wait, that's a state in Australia!",
+      "categories": ["geography"],
+      "tags": ["victoria", "winning", "victory", "australia", "wordplay", "success", "champion"]
+    },
+    {
+      "id": 683,
+      "setup": "Why did the estuary feel mixed up?",
+      "punchline": "Because fresh water and salt water were always meeting there!",
+      "categories": ["geography"],
+      "tags": ["estuary", "mixed", "fresh water", "salt water", "wordplay", "river", "ocean"]
+    },
+    {
+      "id": 684,
+      "setup": "What's the most negative state?",
+      "punchline": "Nope-raska... I mean, Nebraska!",
+      "categories": ["geography"],
+      "tags": ["nebraska", "negative", "nope", "states", "wordplay", "usa", "denial"]
+    },
+    {
+      "id": 685,
+      "setup": "Why did the prairie feel flat?",
+      "punchline": "Because it couldn't rise to the occasion!",
+      "categories": ["geography"],
+      "tags": ["prairie", "flat", "rise", "plains", "wordplay", "terrain", "grassland"]
+    },
+    {
+      "id": 686,
+      "setup": "What city is the most tired?",
+      "punchline": "Nap-les!",
+      "categories": ["geography"],
+      "tags": ["naples", "tired", "nap", "italy", "wordplay", "city", "sleeping"]
+    },
+    {
+      "id": 687,
+      "setup": "Why did the atoll feel surrounded?",
+      "punchline": "Because it was a ring-shaped island around a lagoon!",
+      "categories": ["geography"],
+      "tags": ["atoll", "surrounded", "ring", "lagoon", "wordplay", "island", "ocean"]
+    },
+    {
+      "id": 688,
+      "setup": "What country is the most helpful?",
+      "punchline": "Assist-ria... I mean, Austria!",
+      "categories": ["geography"],
+      "tags": ["austria", "helpful", "assist", "countries", "wordplay", "europe", "kind"]
+    },
+    {
+      "id": 689,
+      "setup": "Why did the geyser feel explosive?",
+      "punchline": "Because it was under too much pressure!",
+      "categories": ["geography"],
+      "tags": ["geyser", "explosive", "pressure", "hot spring", "wordplay", "yellowstone", "water"]
+    },
+    {
+      "id": 690,
+      "setup": "What's the most musical city?",
+      "punchline": "Sing-apore!",
+      "categories": ["geography", "music"],
+      "tags": ["singapore", "musical", "sing", "asia", "wordplay", "city", "voice"]
+    },
+    {
+      "id": 691,
+      "setup": "Why did the butte feel alone?",
+      "punchline": "Because it was the only hill standing in the flat area!",
+      "categories": ["geography"],
+      "tags": ["butte", "alone", "hill", "flat", "wordplay", "terrain", "landform"]
+    },
+    {
+      "id": 692,
+      "setup": "What country do cows like the most?",
+      "punchline": "Moo-rocco!",
+      "categories": ["geography", "animals"],
+      "tags": ["morocco", "cows", "moo", "africa", "wordplay", "countries", "animals"]
+    },
+    {
+      "id": 693,
+      "setup": "Why did the waterfall feel rushed?",
+      "punchline": "Because it was always falling behind schedule!",
+      "categories": ["geography"],
+      "tags": ["waterfall", "rushed", "falling", "behind", "wordplay", "water", "cascade"]
+    },
+    {
+      "id": 694,
+      "setup": "What state is the most ironic?",
+      "punchline": "Connect-i-cut... because it actually connects things!",
+      "categories": ["geography"],
+      "tags": ["connecticut", "ironic", "connect", "states", "wordplay", "usa", "bridges"]
+    },
+    {
+      "id": 695,
+      "setup": "Why did the volcano apply for a job?",
+      "punchline": "Because it wanted to blow off some steam!",
+      "categories": ["geography", "work"],
+      "tags": ["volcano", "job", "steam", "blow off", "wordplay", "eruption", "stress"]
+    },
+    {
+      "id": 696,
+      "setup": "What's the most argumentative ocean?",
+      "punchline": "The Conflic-tic Ocean... I mean, Atlantic!",
+      "categories": ["geography"],
+      "tags": ["atlantic", "argumentative", "conflict", "ocean", "wordplay", "water", "fighting"]
+    },
+    {
+      "id": 697,
+      "setup": "Why did the canyon feel grand?",
+      "punchline": "Because everyone kept calling it that!",
+      "categories": ["geography"],
+      "tags": ["canyon", "grand", "grand canyon", "arizona", "wordplay", "terrain", "famous"]
+    },
+    {
+      "id": 698,
+      "setup": "What country loves breakfast the most?",
+      "punchline": "Greece - they love their eggs over-easy!",
+      "categories": ["geography", "food"],
+      "tags": ["greece", "breakfast", "grease", "eggs", "wordplay", "europe", "cooking"]
+    },
+    {
+      "id": 699,
+      "setup": "Why did the peninsula go to the doctor?",
+      "punchline": "Because it was feeling a little land-sick!",
+      "categories": ["geography"],
+      "tags": ["peninsula", "doctor", "land", "sick", "wordplay", "landform", "health"]
+    },
+    {
+      "id": 700,
+      "setup": "What do you call a country that's always cold and always telling jokes?",
+      "punchline": "Ice-land... and it's snow joke!",
+      "categories": ["geography"],
+      "tags": ["iceland", "cold", "snow", "jokes", "wordplay", "europe", "funny"]
     }
   ]
 }
