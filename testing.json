@@ -5599,6 +5599,706 @@
       "punchline": "Well, that's history!",
       "categories": ["history", "school"],
       "tags": ["teacher", "class", "history", "ending", "wordplay", "school", "final"]
+    },
+    {
+      "id": 801,
+      "setup": "Why did Santa go to music school?",
+      "punchline": "To improve his wrapping skills!",
+      "categories": ["holidays", "music"],
+      "tags": ["santa", "music", "wrapping", "rapping", "wordplay", "christmas", "gifts"]
+    },
+    {
+      "id": 802,
+      "setup": "What do you call a turkey on the day after Thanksgiving?",
+      "punchline": "Lucky!",
+      "categories": ["holidays", "food"],
+      "tags": ["turkey", "thanksgiving", "lucky", "survived", "wordplay", "dinner", "november"]
+    },
+    {
+      "id": 803,
+      "setup": "Why did the Easter egg hide?",
+      "punchline": "Because it was a little chicken!",
+      "categories": ["holidays", "animals"],
+      "tags": ["easter", "egg", "hiding", "chicken", "wordplay", "hunt", "scared"]
+    },
+    {
+      "id": 804,
+      "setup": "What do elves learn in school?",
+      "punchline": "The elf-abet!",
+      "categories": ["holidays", "school"],
+      "tags": ["elves", "school", "alphabet", "elf", "wordplay", "christmas", "learning"]
+    },
+    {
+      "id": 805,
+      "setup": "Why is Valentine's Day a great day for fitness?",
+      "punchline": "Because love is in the air... and so is your heart rate!",
+      "categories": ["holidays", "sports"],
+      "tags": ["valentine", "fitness", "heart rate", "love", "wordplay", "exercise", "february"]
+    },
+    {
+      "id": 806,
+      "setup": "What did the gingerbread man put on his bed?",
+      "punchline": "A cookie sheet!",
+      "categories": ["holidays", "home"],
+      "tags": ["gingerbread", "bed", "cookie sheet", "baking", "wordplay", "christmas", "sleeping"]
+    },
+    {
+      "id": 807,
+      "setup": "Why did the vampire enjoy Halloween so much?",
+      "punchline": "Because he could finally be himself!",
+      "categories": ["holidays", "fantasy"],
+      "tags": ["vampire", "halloween", "himself", "costume", "wordplay", "spooky", "october"]
+    },
+    {
+      "id": 808,
+      "setup": "What's the best thing to put into a Christmas cake?",
+      "punchline": "Your teeth!",
+      "categories": ["holidays", "food"],
+      "tags": ["christmas", "cake", "teeth", "eating", "wordplay", "dessert", "baking"]
+    },
+    {
+      "id": 809,
+      "setup": "Why did the New Year's resolution go to the gym?",
+      "punchline": "Because it wanted to get fit before it was forgotten in February!",
+      "categories": ["holidays", "sports"],
+      "tags": ["new year", "resolution", "gym", "forgotten", "wordplay", "fitness", "january"]
+    },
+    {
+      "id": 810,
+      "setup": "What do you get when you cross a snowman with a baker?",
+      "punchline": "Frosty the Dough-man!",
+      "categories": ["holidays", "food"],
+      "tags": ["snowman", "baker", "dough", "frosty", "wordplay", "winter", "baking"]
+    },
+    {
+      "id": 811,
+      "setup": "Why did the Easter Bunny join a band?",
+      "punchline": "Because he had the best hops!",
+      "categories": ["holidays", "music"],
+      "tags": ["easter bunny", "band", "hops", "hip hop", "wordplay", "music", "rabbit"]
+    },
+    {
+      "id": 812,
+      "setup": "What do you call Santa when he stops moving?",
+      "punchline": "Santa Pause!",
+      "categories": ["holidays"],
+      "tags": ["santa", "pause", "claus", "stopped", "wordplay", "christmas", "still"]
+    },
+    {
+      "id": 813,
+      "setup": "Why did the skeleton skip Thanksgiving dinner?",
+      "punchline": "Because he had no body to go with!",
+      "categories": ["holidays"],
+      "tags": ["skeleton", "thanksgiving", "nobody", "body", "wordplay", "dinner", "alone"]
+    },
+    {
+      "id": 814,
+      "setup": "What do you call a broke Santa?",
+      "punchline": "Saint Nickel-less!",
+      "categories": ["holidays", "work"],
+      "tags": ["santa", "broke", "nickel", "nicholas", "wordplay", "christmas", "money"]
+    },
+    {
+      "id": 815,
+      "setup": "Why did Cupid get in trouble at school?",
+      "punchline": "He got caught shooting arrows in the hallway!",
+      "categories": ["holidays", "school"],
+      "tags": ["cupid", "school", "arrows", "trouble", "valentine", "wordplay", "love"]
+    },
+    {
+      "id": 816,
+      "setup": "What did the Christmas tree say to the ornament?",
+      "punchline": "Quit hanging around!",
+      "categories": ["holidays"],
+      "tags": ["christmas tree", "ornament", "hanging", "decorations", "wordplay", "december", "tree"]
+    },
+    {
+      "id": 817,
+      "setup": "Why do mummies love Halloween?",
+      "punchline": "Because they get to unwind!",
+      "categories": ["holidays"],
+      "tags": ["mummies", "halloween", "unwind", "relax", "wordplay", "wrapping", "october"]
+    },
+    {
+      "id": 818,
+      "setup": "What did the turkey say to the computer?",
+      "punchline": "Google, google, google!",
+      "categories": ["holidays", "technology"],
+      "tags": ["turkey", "computer", "google", "gobble", "wordplay", "thanksgiving", "tech"]
+    },
+    {
+      "id": 819,
+      "setup": "Why did the menorah feel special?",
+      "punchline": "Because it was lit for eight nights!",
+      "categories": ["holidays"],
+      "tags": ["menorah", "hanukkah", "lit", "special", "wordplay", "candles", "eight nights"]
+    },
+    {
+      "id": 820,
+      "setup": "What kind of photos do elves take?",
+      "punchline": "Elfies!",
+      "categories": ["holidays", "technology"],
+      "tags": ["elves", "photos", "selfies", "elfies", "wordplay", "christmas", "camera"]
+    },
+    {
+      "id": 821,
+      "setup": "Why did the jack-o-lantern go to the dentist?",
+      "punchline": "Because it needed a new filling!",
+      "categories": ["holidays"],
+      "tags": ["jack-o-lantern", "dentist", "filling", "pumpkin", "wordplay", "halloween", "teeth"]
+    },
+    {
+      "id": 822,
+      "setup": "What do you call a reindeer with bad manners?",
+      "punchline": "Rude-olph!",
+      "categories": ["holidays", "animals"],
+      "tags": ["reindeer", "rudolph", "rude", "manners", "wordplay", "christmas", "santa"]
+    },
+    {
+      "id": 823,
+      "setup": "Why did the pilgrim's pants keep falling down?",
+      "punchline": "Because their belt buckle was on their hat!",
+      "categories": ["holidays"],
+      "tags": ["pilgrim", "pants", "belt buckle", "hat", "wordplay", "thanksgiving", "clothing"]
+    },
+    {
+      "id": 824,
+      "setup": "What do snowmen eat for breakfast?",
+      "punchline": "Frosted Flakes!",
+      "categories": ["holidays", "food"],
+      "tags": ["snowman", "breakfast", "frosted flakes", "cereal", "wordplay", "winter", "cold"]
+    },
+    {
+      "id": 825,
+      "setup": "Why did the witch win the Valentine's Day contest?",
+      "punchline": "Because she was bewitching!",
+      "categories": ["holidays", "fantasy"],
+      "tags": ["witch", "valentine", "bewitching", "contest", "wordplay", "love", "magic"]
+    },
+    {
+      "id": 826,
+      "setup": "What did the stamp say to the Christmas card?",
+      "punchline": "Stick with me and we'll go places!",
+      "categories": ["holidays"],
+      "tags": ["stamp", "christmas card", "stick", "places", "wordplay", "mail", "december"]
+    },
+    {
+      "id": 827,
+      "setup": "Why did the ghost go to the Fourth of July party?",
+      "punchline": "For the boos and the fireworks!",
+      "categories": ["holidays", "fantasy"],
+      "tags": ["ghost", "fourth of july", "boos", "fireworks", "wordplay", "america", "party"]
+    },
+    {
+      "id": 828,
+      "setup": "What do you call a cat on Christmas Eve?",
+      "punchline": "Santa Claws!",
+      "categories": ["holidays", "animals"],
+      "tags": ["cat", "christmas eve", "santa claus", "claws", "wordplay", "pets", "december"]
+    },
+    {
+      "id": 829,
+      "setup": "Why did the leprechaun wear green on St. Patrick's Day?",
+      "punchline": "Because his blue shirt was in the wash!",
+      "categories": ["holidays"],
+      "tags": ["leprechaun", "green", "st patricks day", "shirt", "wordplay", "irish", "march"]
+    },
+    {
+      "id": 830,
+      "setup": "What do you call a snowman tantrum?",
+      "punchline": "A meltdown!",
+      "categories": ["holidays"],
+      "tags": ["snowman", "tantrum", "meltdown", "angry", "wordplay", "winter", "emotions"]
+    },
+    {
+      "id": 831,
+      "setup": "Why did the candy cane go to school?",
+      "punchline": "To get a little more cultured!",
+      "categories": ["holidays", "school"],
+      "tags": ["candy cane", "school", "cultured", "education", "wordplay", "christmas", "sweet"]
+    },
+    {
+      "id": 832,
+      "setup": "What did the Easter egg say to the boiling water?",
+      "punchline": "It might take me a while to get hard, I just got laid!",
+      "categories": ["holidays", "food"],
+      "tags": ["easter egg", "boiling", "hard", "laid", "wordplay", "cooking", "chicken"]
+    },
+    {
+      "id": 833,
+      "setup": "Why did Santa bring 22 reindeer to the party?",
+      "punchline": "Because he wanted to have a twenty-two-deer party!",
+      "categories": ["holidays", "animals"],
+      "tags": ["santa", "reindeer", "party", "twenty two", "wordplay", "christmas", "tutu"]
+    },
+    {
+      "id": 834,
+      "setup": "What's a ghost's favorite holiday dessert?",
+      "punchline": "I-scream cake!",
+      "categories": ["holidays", "food"],
+      "tags": ["ghost", "halloween", "ice cream", "scream", "wordplay", "dessert", "spooky"]
+    },
+    {
+      "id": 835,
+      "setup": "Why did the turkey join the band on Thanksgiving?",
+      "punchline": "Because he had the drumsticks!",
+      "categories": ["holidays", "music"],
+      "tags": ["turkey", "band", "drumsticks", "thanksgiving", "wordplay", "music", "legs"]
+    },
+    {
+      "id": 836,
+      "setup": "What did the light bulb say to its Valentine?",
+      "punchline": "I love you watts and watts!",
+      "categories": ["holidays", "science"],
+      "tags": ["light bulb", "valentine", "watts", "lots", "wordplay", "love", "electricity"]
+    },
+    {
+      "id": 837,
+      "setup": "Why was the Thanksgiving soup so expensive?",
+      "punchline": "Because it had 24 carrots!",
+      "categories": ["holidays", "food"],
+      "tags": ["thanksgiving", "soup", "carrots", "carats", "wordplay", "expensive", "gold"]
+    },
+    {
+      "id": 838,
+      "setup": "Why did the reindeer wear sunglasses on Christmas Eve?",
+      "punchline": "Because he didn't want to be recognized by the star!",
+      "categories": ["holidays", "animals"],
+      "tags": ["reindeer", "sunglasses", "christmas eve", "star", "wordplay", "disguise", "famous"]
+    },
+    {
+      "id": 839,
+      "setup": "Why did the Christmas cookie go to the doctor?",
+      "punchline": "Because it was feeling crummy!",
+      "categories": ["holidays", "food"],
+      "tags": ["christmas cookie", "doctor", "crummy", "sick", "wordplay", "baking", "december"]
+    },
+    {
+      "id": 840,
+      "setup": "What do you call a scary pumpkin?",
+      "punchline": "A fright-ening sight!",
+      "categories": ["holidays"],
+      "tags": ["pumpkin", "scary", "frightening", "halloween", "wordplay", "spooky", "october"]
+    },
+    {
+      "id": 841,
+      "setup": "Why did the dreidel get dizzy?",
+      "punchline": "From all the spinning during Hanukkah!",
+      "categories": ["holidays"],
+      "tags": ["dreidel", "dizzy", "spinning", "hanukkah", "wordplay", "game", "jewish"]
+    },
+    {
+      "id": 842,
+      "setup": "What did Santa say to his garden on Christmas morning?",
+      "punchline": "Hoe, hoe, hoe!",
+      "categories": ["holidays", "outdoors"],
+      "tags": ["santa", "garden", "hoe", "ho ho ho", "wordplay", "christmas", "gardening"]
+    },
+    {
+      "id": 843,
+      "setup": "Why did the cranberry turn red?",
+      "punchline": "Because it saw the turkey dressing!",
+      "categories": ["holidays", "food"],
+      "tags": ["cranberry", "red", "turkey", "dressing", "wordplay", "thanksgiving", "embarrassed"]
+    },
+    {
+      "id": 844,
+      "setup": "What did the mother ghost say to the baby ghost on Halloween?",
+      "punchline": "Don't spook until you're spooken to!",
+      "categories": ["holidays", "family"],
+      "tags": ["ghost", "mother", "baby", "spook", "spoken", "wordplay", "halloween"]
+    },
+    {
+      "id": 845,
+      "setup": "Why did the New Year go to therapy?",
+      "punchline": "It had too many issues from the past year!",
+      "categories": ["holidays"],
+      "tags": ["new year", "therapy", "issues", "past", "wordplay", "january", "resolution"]
+    },
+    {
+      "id": 846,
+      "setup": "What do you call Santa's helpers who sing?",
+      "punchline": "Elfis Presley!",
+      "categories": ["holidays", "music"],
+      "tags": ["santa", "helpers", "elves", "elvis", "wordplay", "christmas", "singing"]
+    },
+    {
+      "id": 847,
+      "setup": "Why did the Easter Bunny cross the road?",
+      "punchline": "Because the chicken had his eggs!",
+      "categories": ["holidays", "animals"],
+      "tags": ["easter bunny", "road", "chicken", "eggs", "wordplay", "crossing", "spring"]
+    },
+    {
+      "id": 848,
+      "setup": "What did the broom say on New Year's Eve?",
+      "punchline": "Time to sweep out the old and ring in the new!",
+      "categories": ["holidays", "home"],
+      "tags": ["broom", "new year", "sweep", "ring in", "wordplay", "cleaning", "midnight"]
+    },
+    {
+      "id": 849,
+      "setup": "Why did the skeleton cancel Halloween?",
+      "punchline": "He didn't have the guts to go through with it!",
+      "categories": ["holidays"],
+      "tags": ["skeleton", "halloween", "guts", "cancel", "wordplay", "scared", "october"]
+    },
+    {
+      "id": 850,
+      "setup": "What do you call a penguin in the desert on Christmas?",
+      "punchline": "Lost!",
+      "categories": ["holidays", "animals"],
+      "tags": ["penguin", "desert", "christmas", "lost", "wordplay", "cold", "hot"]
+    },
+    {
+      "id": 851,
+      "setup": "Why did the candy corn go to the party?",
+      "punchline": "Because it was a corny celebration!",
+      "categories": ["holidays", "food"],
+      "tags": ["candy corn", "party", "corny", "halloween", "wordplay", "celebration", "sweet"]
+    },
+    {
+      "id": 852,
+      "setup": "What do you call a Christmas wreath made of $100 bills?",
+      "punchline": "Jingle bills!",
+      "categories": ["holidays", "work"],
+      "tags": ["wreath", "money", "bills", "jingle bells", "wordplay", "christmas", "wealthy"]
+    },
+    {
+      "id": 853,
+      "setup": "Why did the groundhog get a job?",
+      "punchline": "So he could save for a rainy day... or six more weeks of winter!",
+      "categories": ["holidays", "work"],
+      "tags": ["groundhog", "job", "winter", "shadow", "wordplay", "groundhog day", "february"]
+    },
+    {
+      "id": 854,
+      "setup": "What do you call a snowman with a carrot nose and a six-pack?",
+      "punchline": "The abdominal snowman!",
+      "categories": ["holidays", "sports"],
+      "tags": ["snowman", "carrot", "abs", "abominable", "wordplay", "winter", "fitness"]
+    },
+    {
+      "id": 855,
+      "setup": "Why did the witch fly on Labor Day?",
+      "punchline": "Because she needed a broom with benefits!",
+      "categories": ["holidays", "work"],
+      "tags": ["witch", "labor day", "broom", "benefits", "wordplay", "flying", "september"]
+    },
+    {
+      "id": 856,
+      "setup": "What did one firework say to the other on the Fourth of July?",
+      "punchline": "My pop is bigger than your pop!",
+      "categories": ["holidays"],
+      "tags": ["fireworks", "fourth of july", "pop", "dad", "wordplay", "america", "explosion"]
+    },
+    {
+      "id": 857,
+      "setup": "Why did the gingerbread man see the doctor?",
+      "punchline": "He was feeling crummy!",
+      "categories": ["holidays"],
+      "tags": ["gingerbread", "doctor", "crummy", "christmas", "wordplay", "sick", "cookie"]
+    },
+    {
+      "id": 858,
+      "setup": "What did the maple leaf say on Canada Day?",
+      "punchline": "I'm falling for this country!",
+      "categories": ["holidays", "geography"],
+      "tags": ["maple leaf", "canada day", "falling", "country", "wordplay", "july", "patriotic"]
+    },
+    {
+      "id": 859,
+      "setup": "Why did the vampire avoid the Halloween party?",
+      "punchline": "Because there were too many stakes involved!",
+      "categories": ["holidays", "fantasy"],
+      "tags": ["vampire", "halloween", "stakes", "party", "wordplay", "danger", "october"]
+    },
+    {
+      "id": 860,
+      "setup": "What do you call a New Year's resolution that lasts all year?",
+      "punchline": "A miracle!",
+      "categories": ["holidays"],
+      "tags": ["new year", "resolution", "miracle", "lasting", "wordplay", "january", "goals"]
+    },
+    {
+      "id": 861,
+      "setup": "Why did the elf push his bed outside on Christmas?",
+      "punchline": "He wanted to sleep like a log cabin!",
+      "categories": ["holidays", "home"],
+      "tags": ["elf", "bed", "outside", "log cabin", "wordplay", "christmas", "sleeping"]
+    },
+    {
+      "id": 862,
+      "setup": "What did the ocean say to the beach on Memorial Day?",
+      "punchline": "Nothing, it just waved to the troops!",
+      "categories": ["holidays", "geography"],
+      "tags": ["ocean", "beach", "memorial day", "wave", "troops", "wordplay", "may"]
+    },
+    {
+      "id": 863,
+      "setup": "Why did the pumpkin pie go to the dentist?",
+      "punchline": "Because it needed more filling!",
+      "categories": ["holidays", "food"],
+      "tags": ["pumpkin pie", "dentist", "filling", "thanksgiving", "wordplay", "teeth", "dessert"]
+    },
+    {
+      "id": 864,
+      "setup": "What did the mistletoe say to the holly?",
+      "punchline": "Berry nice to meet you!",
+      "categories": ["holidays", "outdoors"],
+      "tags": ["mistletoe", "holly", "berry", "very", "wordplay", "christmas", "plants"]
+    },
+    {
+      "id": 865,
+      "setup": "Why did the heart-shaped box feel proud on Valentine's Day?",
+      "punchline": "Because it was full of itself... and chocolates!",
+      "categories": ["holidays", "food"],
+      "tags": ["heart", "valentines", "proud", "chocolates", "wordplay", "love", "february"]
+    },
+    {
+      "id": 866,
+      "setup": "What do you call a turkey that's bad at bowling?",
+      "punchline": "A gutter gobbler!",
+      "categories": ["holidays", "sports"],
+      "tags": ["turkey", "bowling", "gutter", "gobbler", "wordplay", "thanksgiving", "sports"]
+    },
+    {
+      "id": 867,
+      "setup": "Why did the icicle break up with the snowflake?",
+      "punchline": "Because their relationship was too cold!",
+      "categories": ["holidays"],
+      "tags": ["icicle", "snowflake", "breakup", "cold", "wordplay", "winter", "relationship"]
+    },
+    {
+      "id": 868,
+      "setup": "What did the flag say on Independence Day?",
+      "punchline": "Nothing, it just waved!",
+      "categories": ["holidays"],
+      "tags": ["flag", "independence day", "wave", "fourth of july", "wordplay", "america", "patriotic"]
+    },
+    {
+      "id": 869,
+      "setup": "Why did the Christmas lights fail the test?",
+      "punchline": "Because they weren't very bright!",
+      "categories": ["holidays", "school"],
+      "tags": ["christmas lights", "test", "bright", "failed", "wordplay", "december", "dim"]
+    },
+    {
+      "id": 870,
+      "setup": "What do you call a rabbit that tells jokes on Easter?",
+      "punchline": "A funny bunny!",
+      "categories": ["holidays", "animals"],
+      "tags": ["rabbit", "easter", "jokes", "funny bunny", "wordplay", "spring", "humor"]
+    },
+    {
+      "id": 871,
+      "setup": "Why did the champagne feel bubbly on New Year's Eve?",
+      "punchline": "Because it was in high spirits!",
+      "categories": ["holidays", "food"],
+      "tags": ["champagne", "bubbly", "new year", "spirits", "wordplay", "celebration", "midnight"]
+    },
+    {
+      "id": 872,
+      "setup": "What did the ghost teacher say on Halloween?",
+      "punchline": "Look at the board and I will go through it again!",
+      "categories": ["holidays", "school"],
+      "tags": ["ghost", "teacher", "halloween", "board", "through", "wordplay", "school"]
+    },
+    {
+      "id": 873,
+      "setup": "Why did the Christmas stocking feel empty?",
+      "punchline": "Because it was hung up on the past!",
+      "categories": ["holidays"],
+      "tags": ["stocking", "empty", "hung up", "past", "wordplay", "christmas", "fireplace"]
+    },
+    {
+      "id": 874,
+      "setup": "What do you call a snowman pool party?",
+      "punchline": "A meltdown!",
+      "categories": ["holidays"],
+      "tags": ["snowman", "pool", "party", "meltdown", "wordplay", "winter", "summer"]
+    },
+    {
+      "id": 875,
+      "setup": "Why did the bunny paint eggs for Easter?",
+      "punchline": "Because hiring a chicken was too egspensive!",
+      "categories": ["holidays", "animals"],
+      "tags": ["bunny", "easter", "eggs", "paint", "expensive", "wordplay", "chicken"]
+    },
+    {
+      "id": 876,
+      "setup": "What did the calendar say on December 31st?",
+      "punchline": "My days are numbered!",
+      "categories": ["holidays"],
+      "tags": ["calendar", "december", "new year", "days numbered", "wordplay", "ending", "time"]
+    },
+    {
+      "id": 877,
+      "setup": "Why did the pumpkin spice latte get promoted?",
+      "punchline": "Because it was on a roll... every fall!",
+      "categories": ["holidays", "food"],
+      "tags": ["pumpkin spice", "latte", "promoted", "fall", "wordplay", "autumn", "coffee"]
+    },
+    {
+      "id": 878,
+      "setup": "What do you call Santa when he loses his pants?",
+      "punchline": "Saint Knickerless!",
+      "categories": ["holidays"],
+      "tags": ["santa", "pants", "knickers", "nicholas", "wordplay", "christmas", "embarrassed"]
+    },
+    {
+      "id": 879,
+      "setup": "Why did the werewolf skip Halloween?",
+      "punchline": "He was having a bad hair day!",
+      "categories": ["holidays", "fantasy"],
+      "tags": ["werewolf", "halloween", "hair", "bad day", "wordplay", "costume", "october"]
+    },
+    {
+      "id": 880,
+      "setup": "What did the turkey say before it was roasted?",
+      "punchline": "I'm stuffed!",
+      "categories": ["holidays", "food"],
+      "tags": ["turkey", "roasted", "stuffed", "thanksgiving", "wordplay", "dinner", "cooking"]
+    },
+    {
+      "id": 881,
+      "setup": "Why did the snowglobe get a job?",
+      "punchline": "It wanted to shake things up!",
+      "categories": ["holidays", "work"],
+      "tags": ["snowglobe", "job", "shake", "christmas", "wordplay", "decoration", "change"]
+    },
+    {
+      "id": 882,
+      "setup": "What do you call an elf who wins the lottery?",
+      "punchline": "Welfy!",
+      "categories": ["holidays", "work"],
+      "tags": ["elf", "lottery", "wealthy", "welfy", "wordplay", "christmas", "money"]
+    },
+    {
+      "id": 883,
+      "setup": "Why did the candy heart say 'No' to the chocolate?",
+      "punchline": "Because it already had a sweetheart!",
+      "categories": ["holidays", "food"],
+      "tags": ["candy heart", "chocolate", "valentine", "sweetheart", "wordplay", "love", "february"]
+    },
+    {
+      "id": 884,
+      "setup": "What did the egg say to the Easter Bunny?",
+      "punchline": "You crack me up!",
+      "categories": ["holidays", "animals"],
+      "tags": ["egg", "easter bunny", "crack", "funny", "wordplay", "easter", "laughing"]
+    },
+    {
+      "id": 885,
+      "setup": "Why did the New Year's ball drop?",
+      "punchline": "Because it was time to fall into a new year!",
+      "categories": ["holidays"],
+      "tags": ["new year", "ball drop", "fall", "time", "wordplay", "midnight", "january"]
+    },
+    {
+      "id": 886,
+      "setup": "What do you call a grumpy reindeer?",
+      "punchline": "Rude-olph with a red nose!",
+      "categories": ["holidays", "animals"],
+      "tags": ["reindeer", "grumpy", "rude", "rudolph", "wordplay", "christmas", "attitude"]
+    },
+    {
+      "id": 887,
+      "setup": "Why did the Halloween candy go to therapy?",
+      "punchline": "It had too many wrappers to deal with!",
+      "categories": ["holidays", "food"],
+      "tags": ["candy", "halloween", "therapy", "wrappers", "wordplay", "issues", "october"]
+    },
+    {
+      "id": 888,
+      "setup": "What did the North Pole say to the South Pole on Christmas?",
+      "punchline": "Let's stay cool this holiday season!",
+      "categories": ["holidays", "geography"],
+      "tags": ["north pole", "south pole", "christmas", "cool", "wordplay", "cold", "holiday"]
+    },
+    {
+      "id": 889,
+      "setup": "Why did the cornucopia feel generous?",
+      "punchline": "Because it was overflowing with gratitude!",
+      "categories": ["holidays"],
+      "tags": ["cornucopia", "generous", "overflowing", "gratitude", "wordplay", "thanksgiving", "abundance"]
+    },
+    {
+      "id": 890,
+      "setup": "What do you call a snowman in July?",
+      "punchline": "A puddle with ambition!",
+      "categories": ["holidays"],
+      "tags": ["snowman", "july", "puddle", "melted", "wordplay", "summer", "ambition"]
+    },
+    {
+      "id": 891,
+      "setup": "Why did the Easter basket feel important?",
+      "punchline": "Because it was carrying a lot of eggs-pectations!",
+      "categories": ["holidays"],
+      "tags": ["easter basket", "important", "eggs", "expectations", "wordplay", "spring", "carrying"]
+    },
+    {
+      "id": 892,
+      "setup": "What did the snowflake say to the other snowflake?",
+      "punchline": "There's snow one quite like you!",
+      "categories": ["holidays"],
+      "tags": ["snowflake", "unique", "snow", "no one", "wordplay", "winter", "special"]
+    },
+    {
+      "id": 893,
+      "setup": "Why did the nutcracker go to the gym?",
+      "punchline": "To work on his crack!",
+      "categories": ["holidays", "sports"],
+      "tags": ["nutcracker", "gym", "crack", "nuts", "wordplay", "christmas", "exercise"]
+    },
+    {
+      "id": 894,
+      "setup": "What do you call a Thanksgiving turkey that's afraid of everything?",
+      "punchline": "A chicken!",
+      "categories": ["holidays", "animals"],
+      "tags": ["turkey", "thanksgiving", "afraid", "chicken", "wordplay", "scared", "poultry"]
+    },
+    {
+      "id": 895,
+      "setup": "Why did the Valentine's card get detention?",
+      "punchline": "Because it was passing notes in class!",
+      "categories": ["holidays", "school"],
+      "tags": ["valentine card", "detention", "notes", "class", "wordplay", "school", "love"]
+    },
+    {
+      "id": 896,
+      "setup": "What did the gingerbread house say to the gingerbread man?",
+      "punchline": "You're one smart cookie!",
+      "categories": ["holidays", "food"],
+      "tags": ["gingerbread house", "gingerbread man", "smart cookie", "christmas", "wordplay", "baking", "compliment"]
+    },
+    {
+      "id": 897,
+      "setup": "Why did the scarecrow win the Halloween costume contest?",
+      "punchline": "Because he was outstanding in his field!",
+      "categories": ["holidays", "work"],
+      "tags": ["scarecrow", "halloween", "costume", "field", "wordplay", "outstanding", "contest"]
+    },
+    {
+      "id": 898,
+      "setup": "What did the mother turkey say to her disobedient children?",
+      "punchline": "If your father could see you now, he'd turn over in his gravy!",
+      "categories": ["holidays", "family"],
+      "tags": ["turkey", "mother", "children", "gravy", "grave", "wordplay", "thanksgiving"]
+    },
+    {
+      "id": 899,
+      "setup": "Why did the Christmas tree go to the barber?",
+      "punchline": "It needed to be trimmed!",
+      "categories": ["holidays"],
+      "tags": ["christmas tree", "barber", "trimmed", "haircut", "wordplay", "decorations", "december"]
+    },
+    {
+      "id": 900,
+      "setup": "What do you call the day after a holiday feast?",
+      "punchline": "Leftover Day!",
+      "categories": ["holidays", "food"],
+      "tags": ["holiday", "feast", "leftovers", "food", "wordplay", "next day", "eating"]
     }
   ]
 }
