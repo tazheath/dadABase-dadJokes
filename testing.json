@@ -9099,6 +9099,706 @@
       "punchline": "You're on fire tonight... literally!",
       "categories": ["outdoors", "food"],
       "tags": ["campfire", "marshmallow", "fire", "roasting", "wordplay", "camping", "s'mores"]
+    },
+    {
+      "id": 1301,
+      "setup": "Why did the student eat his homework?",
+      "punchline": "Because his teacher told him it was a piece of cake!",
+      "categories": ["school", "food"],
+      "tags": ["student", "homework", "eating", "cake", "wordplay", "teacher", "easy"]
+    },
+    {
+      "id": 1302,
+      "setup": "What's a teacher's favorite nation?",
+      "punchline": "Expla-nation!",
+      "categories": ["school", "geography"],
+      "tags": ["teacher", "nation", "explanation", "favorite", "wordplay", "teaching", "country"]
+    },
+    {
+      "id": 1303,
+      "setup": "Why did the pencil feel confident?",
+      "punchline": "Because it had a good point!",
+      "categories": ["school"],
+      "tags": ["pencil", "confident", "point", "sharp", "wordplay", "writing", "supplies"]
+    },
+    {
+      "id": 1304,
+      "setup": "Why did the paper feel flat?",
+      "punchline": "Because it was always getting pressed for answers!",
+      "categories": ["school"],
+      "tags": ["paper", "flat", "pressed", "answers", "wordplay", "supplies", "homework"]
+    },
+    {
+      "id": 1305,
+      "setup": "Why was the library so tall?",
+      "punchline": "Because it had so many stories!",
+      "categories": ["school"],
+      "tags": ["library", "tall", "stories", "floors", "wordplay", "books", "reading"]
+    },
+    {
+      "id": 1306,
+      "setup": "What do you call a teacher who never frowns?",
+      "punchline": "A pro-fess-or of happiness!",
+      "categories": ["school"],
+      "tags": ["teacher", "frowns", "professor", "happiness", "wordplay", "smiling", "positive"]
+    },
+    {
+      "id": 1307,
+      "setup": "Why did the eraser feel tired?",
+      "punchline": "Because it was always correcting everyone's mistakes!",
+      "categories": ["school"],
+      "tags": ["eraser", "tired", "correcting", "mistakes", "wordplay", "supplies", "exhausted"]
+    },
+    {
+      "id": 1308,
+      "setup": "What's a witch's favorite subject in school?",
+      "punchline": "Spelling!",
+      "categories": ["school", "fantasy"],
+      "tags": ["witch", "subject", "spelling", "magic", "wordplay", "english", "spells"]
+    },
+    {
+      "id": 1309,
+      "setup": "Why did the notebook feel special?",
+      "punchline": "Because everyone kept opening up to it!",
+      "categories": ["school"],
+      "tags": ["notebook", "special", "opening up", "sharing", "wordplay", "writing", "feelings"]
+    },
+    {
+      "id": 1310,
+      "setup": "What did the calculator say to the student?",
+      "punchline": "You can count on me!",
+      "categories": ["school", "math"],
+      "tags": ["calculator", "student", "count", "rely", "wordplay", "math", "trust"]
+    },
+    {
+      "id": 1311,
+      "setup": "Why did the report card go to the doctor?",
+      "punchline": "Because it had too many bad marks!",
+      "categories": ["school"],
+      "tags": ["report card", "doctor", "marks", "grades", "wordplay", "health", "bad"]
+    },
+    {
+      "id": 1312,
+      "setup": "What's a snake's favorite subject?",
+      "punchline": "Hisss-tory!",
+      "categories": ["school", "animals"],
+      "tags": ["snake", "subject", "history", "hiss", "wordplay", "reptile", "class"]
+    },
+    {
+      "id": 1313,
+      "setup": "Why did the student bring scissors to class?",
+      "punchline": "Because she wanted to cut class... I mean, cut paper!",
+      "categories": ["school"],
+      "tags": ["student", "scissors", "cut class", "paper", "wordplay", "supplies", "skipping"]
+    },
+    {
+      "id": 1314,
+      "setup": "What did the pen say to the pencil?",
+      "punchline": "So, what's your point?",
+      "categories": ["school"],
+      "tags": ["pen", "pencil", "point", "question", "wordplay", "supplies", "conversation"]
+    },
+    {
+      "id": 1315,
+      "setup": "Why was the school clock always hungry?",
+      "punchline": "Because it always went back for seconds!",
+      "categories": ["school", "food"],
+      "tags": ["clock", "hungry", "seconds", "time", "wordplay", "classroom", "eating"]
+    },
+    {
+      "id": 1316,
+      "setup": "What's a chalkboard's favorite drink?",
+      "punchline": "Hot chalk-olate!",
+      "categories": ["school", "food"],
+      "tags": ["chalkboard", "drink", "chocolate", "chalk", "wordplay", "classroom", "hot"]
+    },
+    {
+      "id": 1317,
+      "setup": "Why did the backpack feel stressed?",
+      "punchline": "Because it was always carrying everyone's burdens!",
+      "categories": ["school"],
+      "tags": ["backpack", "stressed", "carrying", "burdens", "wordplay", "heavy", "supplies"]
+    },
+    {
+      "id": 1318,
+      "setup": "What do you call a nervous javelin thrower in PE?",
+      "punchline": "Shakespeare!",
+      "categories": ["school", "sports"],
+      "tags": ["javelin", "nervous", "shakespeare", "shakes spear", "wordplay", "pe", "throwing"]
+    },
+    {
+      "id": 1319,
+      "setup": "Why did the textbook look so sad?",
+      "punchline": "Because it had too many problems inside!",
+      "categories": ["school"],
+      "tags": ["textbook", "sad", "problems", "math", "wordplay", "studying", "issues"]
+    },
+    {
+      "id": 1320,
+      "setup": "Why did the alphabet break up with the vowels?",
+      "punchline": "Because they were always causing drama... A, E, I, O, U know why!",
+      "categories": ["school"],
+      "tags": ["alphabet", "vowels", "breakup", "drama", "wordplay", "letters", "english"]
+    },
+    {
+      "id": 1321,
+      "setup": "Why did the student do well in music class?",
+      "punchline": "Because she was very noteworthy!",
+      "categories": ["school", "music"],
+      "tags": ["student", "music class", "noteworthy", "notes", "wordplay", "talented", "success"]
+    },
+    {
+      "id": 1322,
+      "setup": "What did the glue stick say to the paper?",
+      "punchline": "Let's stick together!",
+      "categories": ["school"],
+      "tags": ["glue stick", "paper", "stick together", "bonding", "wordplay", "supplies", "friendship"]
+    },
+    {
+      "id": 1323,
+      "setup": "Why did the ruler feel important?",
+      "punchline": "Because it was always measuring up!",
+      "categories": ["school", "math"],
+      "tags": ["ruler", "important", "measuring", "up", "wordplay", "supplies", "success"]
+    },
+    {
+      "id": 1324,
+      "setup": "What's a geography teacher's favorite type of music?",
+      "punchline": "Rock and roll... because of the continental drift!",
+      "categories": ["school", "music"],
+      "tags": ["geography", "teacher", "rock", "continental drift", "wordplay", "music", "geology"]
+    },
+    {
+      "id": 1325,
+      "setup": "Why did the student bring a ladder to the library?",
+      "punchline": "Because she wanted to read at a higher level!",
+      "categories": ["school"],
+      "tags": ["student", "ladder", "library", "higher level", "wordplay", "reading", "advanced"]
+    },
+    {
+      "id": 1326,
+      "setup": "What did the history book say to the math book?",
+      "punchline": "You've got problems, but I've got dates!",
+      "categories": ["school", "history"],
+      "tags": ["history book", "math book", "problems", "dates", "wordplay", "subjects", "comparison"]
+    },
+    {
+      "id": 1327,
+      "setup": "Why did the pencil sharpener win the race?",
+      "punchline": "Because it was always on point!",
+      "categories": ["school", "sports"],
+      "tags": ["pencil sharpener", "race", "point", "winning", "wordplay", "supplies", "sharp"]
+    },
+    {
+      "id": 1328,
+      "setup": "What do you call a sleeping dinosaur in class?",
+      "punchline": "A dino-snore!",
+      "categories": ["school", "animals"],
+      "tags": ["dinosaur", "sleeping", "snore", "class", "wordplay", "tired", "prehistoric"]
+    },
+    {
+      "id": 1329,
+      "setup": "Why was the school gym so cool?",
+      "punchline": "Because it was full of fans!",
+      "categories": ["school", "sports"],
+      "tags": ["gym", "cool", "fans", "sports", "wordplay", "air", "supporters"]
+    },
+    {
+      "id": 1330,
+      "setup": "What's a computer's least favorite food in the cafeteria?",
+      "punchline": "Spam!",
+      "categories": ["school", "technology"],
+      "tags": ["computer", "food", "spam", "cafeteria", "wordplay", "email", "meat"]
+    },
+    {
+      "id": 1331,
+      "setup": "Why did the janitor get a promotion?",
+      "punchline": "Because he cleaned up in every department!",
+      "categories": ["school", "work"],
+      "tags": ["janitor", "promotion", "cleaned up", "success", "wordplay", "job", "departments"]
+    },
+    {
+      "id": 1332,
+      "setup": "What did the English teacher say about the novel?",
+      "punchline": "It was a page-turner!",
+      "categories": ["school"],
+      "tags": ["english teacher", "novel", "page-turner", "exciting", "wordplay", "reading", "books"]
+    },
+    {
+      "id": 1333,
+      "setup": "Why did the student fail the electricity test?",
+      "punchline": "Because he didn't conduct himself properly!",
+      "categories": ["school", "science"],
+      "tags": ["student", "electricity", "test", "conduct", "wordplay", "failed", "behavior"]
+    },
+    {
+      "id": 1334,
+      "setup": "What's a king's favorite subject?",
+      "punchline": "His subjects!",
+      "categories": ["school", "history"],
+      "tags": ["king", "subject", "subjects", "royalty", "wordplay", "ruling", "people"]
+    },
+    {
+      "id": 1335,
+      "setup": "Why did the stapler feel depressed?",
+      "punchline": "Because it was always getting pushed around!",
+      "categories": ["school", "work"],
+      "tags": ["stapler", "depressed", "pushed", "bullied", "wordplay", "supplies", "office"]
+    },
+    {
+      "id": 1336,
+      "setup": "What did the lunch lady say to the student?",
+      "punchline": "You're one in a melon!",
+      "categories": ["school", "food"],
+      "tags": ["lunch lady", "student", "melon", "million", "wordplay", "cafeteria", "compliment"]
+    },
+    {
+      "id": 1337,
+      "setup": "Why did the science book look so confused?",
+      "punchline": "Because it had too many elements to process!",
+      "categories": ["school", "science"],
+      "tags": ["science book", "confused", "elements", "process", "wordplay", "chemistry", "periodic table"]
+    },
+    {
+      "id": 1338,
+      "setup": "What's a basketball player's favorite subject?",
+      "punchline": "Hoops-tory!",
+      "categories": ["school", "sports"],
+      "tags": ["basketball", "player", "history", "hoops", "wordplay", "subject", "sports"]
+    },
+    {
+      "id": 1339,
+      "setup": "Why did the desk feel tired?",
+      "punchline": "Because students were always sitting on it!",
+      "categories": ["school"],
+      "tags": ["desk", "tired", "sitting", "students", "wordplay", "furniture", "classroom"]
+    },
+    {
+      "id": 1340,
+      "setup": "What did the whiteboard marker say to the whiteboard?",
+      "punchline": "You're looking a little board today!",
+      "categories": ["school"],
+      "tags": ["marker", "whiteboard", "bored", "board", "wordplay", "classroom", "writing"]
+    },
+    {
+      "id": 1341,
+      "setup": "Why did the art student break up with the canvas?",
+      "punchline": "Because she felt like he was too stretched out!",
+      "categories": ["school"],
+      "tags": ["art student", "canvas", "breakup", "stretched", "wordplay", "painting", "relationship"]
+    },
+    {
+      "id": 1342,
+      "setup": "What do you call a fish that teaches school?",
+      "punchline": "The school principal!",
+      "categories": ["school", "animals"],
+      "tags": ["fish", "teaches", "principal", "school of fish", "wordplay", "leader", "ocean"]
+    },
+    {
+      "id": 1343,
+      "setup": "Why was the calendar always stressed in school?",
+      "punchline": "Because its days were numbered!",
+      "categories": ["school"],
+      "tags": ["calendar", "stressed", "days numbered", "time", "wordplay", "schedule", "anxiety"]
+    },
+    {
+      "id": 1344,
+      "setup": "What did the Spanish teacher say to the student?",
+      "punchline": "You're doing muy bien!",
+      "categories": ["school"],
+      "tags": ["spanish teacher", "student", "muy bien", "very good", "wordplay", "language", "praise"]
+    },
+    {
+      "id": 1345,
+      "setup": "Why did the gym teacher bring a whistle to the meeting?",
+      "punchline": "Because he wanted to blow everyone away!",
+      "categories": ["school", "sports"],
+      "tags": ["gym teacher", "whistle", "meeting", "blow away", "wordplay", "impressive", "pe"]
+    },
+    {
+      "id": 1346,
+      "setup": "What's a vampire's favorite subject?",
+      "punchline": "Blood typing... I mean, typing class!",
+      "categories": ["school", "fantasy"],
+      "tags": ["vampire", "subject", "blood type", "typing", "wordplay", "spooky", "computer"]
+    },
+    {
+      "id": 1347,
+      "setup": "Why did the homework feel undervalued?",
+      "punchline": "Because the dog kept getting credit for eating it!",
+      "categories": ["school", "animals"],
+      "tags": ["homework", "undervalued", "dog", "eating", "wordplay", "excuse", "credit"]
+    },
+    {
+      "id": 1348,
+      "setup": "What did the school bus say to the students?",
+      "punchline": "I wheely like picking you up!",
+      "categories": ["school", "travel"],
+      "tags": ["school bus", "students", "wheely", "really", "wordplay", "transportation", "morning"]
+    },
+    {
+      "id": 1349,
+      "setup": "Why did the comma feel important?",
+      "punchline": "Because it knew when to pause for effect!",
+      "categories": ["school"],
+      "tags": ["comma", "important", "pause", "effect", "wordplay", "grammar", "punctuation"]
+    },
+    {
+      "id": 1350,
+      "setup": "What's a tree's favorite subject?",
+      "punchline": "Twigonometry!",
+      "categories": ["school", "outdoors"],
+      "tags": ["tree", "subject", "trigonometry", "twig", "wordplay", "math", "nature"]
+    },
+    {
+      "id": 1351,
+      "setup": "Why did the student take his bike to school?",
+      "punchline": "Because he wanted to cycle through his classes!",
+      "categories": ["school", "travel"],
+      "tags": ["student", "bike", "cycle", "classes", "wordplay", "transportation", "schedule"]
+    },
+    {
+      "id": 1352,
+      "setup": "What did the drama teacher say to the curtain?",
+      "punchline": "It's time to draw to a close!",
+      "categories": ["school"],
+      "tags": ["drama teacher", "curtain", "draw", "close", "wordplay", "theater", "ending"]
+    },
+    {
+      "id": 1353,
+      "setup": "Why was the binder so organized?",
+      "punchline": "Because it really knew how to hold things together!",
+      "categories": ["school"],
+      "tags": ["binder", "organized", "hold together", "papers", "wordplay", "supplies", "neat"]
+    },
+    {
+      "id": 1354,
+      "setup": "What's a submarine's favorite class?",
+      "punchline": "Depth perception!",
+      "categories": ["school", "science"],
+      "tags": ["submarine", "class", "depth", "perception", "wordplay", "ocean", "psychology"]
+    },
+    {
+      "id": 1355,
+      "setup": "Why did the student bring a mirror to the exam?",
+      "punchline": "For self-reflection!",
+      "categories": ["school"],
+      "tags": ["student", "mirror", "exam", "reflection", "wordplay", "test", "thinking"]
+    },
+    {
+      "id": 1356,
+      "setup": "What did the math teacher say to the gum under the desk?",
+      "punchline": "I've got a problem with you sticking around!",
+      "categories": ["school", "math"],
+      "tags": ["math teacher", "gum", "desk", "sticking", "wordplay", "problem", "classroom"]
+    },
+    {
+      "id": 1357,
+      "setup": "Why did the highlighter feel bright?",
+      "punchline": "Because it was always making points stand out!",
+      "categories": ["school"],
+      "tags": ["highlighter", "bright", "points", "stand out", "wordplay", "supplies", "studying"]
+    },
+    {
+      "id": 1358,
+      "setup": "What's an egg's least favorite day at school?",
+      "punchline": "Fry-day!",
+      "categories": ["school", "food"],
+      "tags": ["egg", "day", "friday", "fry", "wordplay", "cooking", "weekend"]
+    },
+    {
+      "id": 1359,
+      "setup": "Why did the biology teacher break up with the physics teacher?",
+      "punchline": "Because there was no chemistry!",
+      "categories": ["school", "science"],
+      "tags": ["biology teacher", "physics teacher", "chemistry", "breakup", "wordplay", "subjects", "relationship"]
+    },
+    {
+      "id": 1360,
+      "setup": "What did the paper clip say to the magnet?",
+      "punchline": "I find you very attractive!",
+      "categories": ["school", "science"],
+      "tags": ["paper clip", "magnet", "attractive", "magnetism", "wordplay", "supplies", "science"]
+    },
+    {
+      "id": 1361,
+      "setup": "Why was the school cafeteria so musical?",
+      "punchline": "Because of all the jam sessions at breakfast!",
+      "categories": ["school", "music"],
+      "tags": ["cafeteria", "musical", "jam", "sessions", "wordplay", "breakfast", "food"]
+    },
+    {
+      "id": 1362,
+      "setup": "What do you call a teacher who never stops talking?",
+      "punchline": "A lecturer!",
+      "categories": ["school"],
+      "tags": ["teacher", "talking", "lecturer", "speaking", "wordplay", "class", "boring"]
+    },
+    {
+      "id": 1363,
+      "setup": "Why did the student bring string to class?",
+      "punchline": "So he could tie up some loose ends on his project!",
+      "categories": ["school"],
+      "tags": ["student", "string", "class", "loose ends", "wordplay", "project", "finishing"]
+    },
+    {
+      "id": 1364,
+      "setup": "What's a dentist's favorite subject in school?",
+      "punchline": "Fill-osophy!",
+      "categories": ["school"],
+      "tags": ["dentist", "subject", "philosophy", "filling", "wordplay", "teeth", "thinking"]
+    },
+    {
+      "id": 1365,
+      "setup": "Why did the projector feel important?",
+      "punchline": "Because it was always presenting something!",
+      "categories": ["school", "technology"],
+      "tags": ["projector", "important", "presenting", "slides", "wordplay", "classroom", "technology"]
+    },
+    {
+      "id": 1366,
+      "setup": "What did the locker say to the student?",
+      "punchline": "I've got your combination for success!",
+      "categories": ["school"],
+      "tags": ["locker", "student", "combination", "success", "wordplay", "storage", "lock"]
+    },
+    {
+      "id": 1367,
+      "setup": "Why did the student study in the airplane?",
+      "punchline": "Because he wanted a higher education!",
+      "categories": ["school", "travel"],
+      "tags": ["student", "airplane", "higher education", "flying", "wordplay", "studying", "altitude"]
+    },
+    {
+      "id": 1368,
+      "setup": "What's a door's favorite part of school?",
+      "punchline": "The entrance exam!",
+      "categories": ["school", "home"],
+      "tags": ["door", "school", "entrance exam", "opening", "wordplay", "test", "admission"]
+    },
+    {
+      "id": 1369,
+      "setup": "Why did the teacher go to the beach?",
+      "punchline": "To test the water!",
+      "categories": ["school", "outdoors"],
+      "tags": ["teacher", "beach", "test", "water", "wordplay", "ocean", "trying"]
+    },
+    {
+      "id": 1370,
+      "setup": "What did the zero say to the number eight in math class?",
+      "punchline": "Nice belt!",
+      "categories": ["school", "math"],
+      "tags": ["zero", "eight", "belt", "shape", "wordplay", "numbers", "fashion"]
+    },
+    {
+      "id": 1371,
+      "setup": "Why was the globe so worldly?",
+      "punchline": "Because it was well-rounded!",
+      "categories": ["school", "geography"],
+      "tags": ["globe", "worldly", "well-rounded", "sphere", "wordplay", "geography", "educated"]
+    },
+    {
+      "id": 1372,
+      "setup": "What did the French teacher say to the bread?",
+      "punchline": "Bonjour, pain!",
+      "categories": ["school", "food"],
+      "tags": ["french teacher", "bread", "bonjour", "pain", "wordplay", "language", "baguette"]
+    },
+    {
+      "id": 1373,
+      "setup": "Why did the protractor feel complete?",
+      "punchline": "Because it had all the right angles!",
+      "categories": ["school", "math"],
+      "tags": ["protractor", "complete", "angles", "geometry", "wordplay", "measuring", "degrees"]
+    },
+    {
+      "id": 1374,
+      "setup": "What's a skeleton's favorite instrument in band class?",
+      "punchline": "The trom-bone!",
+      "categories": ["school", "music"],
+      "tags": ["skeleton", "instrument", "trombone", "bone", "wordplay", "band", "music"]
+    },
+    {
+      "id": 1375,
+      "setup": "Why did the test paper feel nervous?",
+      "punchline": "Because it knew it was going to be graded!",
+      "categories": ["school"],
+      "tags": ["test paper", "nervous", "graded", "exam", "wordplay", "anxiety", "evaluation"]
+    },
+    {
+      "id": 1376,
+      "setup": "What do you call a chicken in the school library?",
+      "punchline": "A book-book-book-booker!",
+      "categories": ["school", "animals"],
+      "tags": ["chicken", "library", "book", "clucking", "wordplay", "reading", "bird"]
+    },
+    {
+      "id": 1377,
+      "setup": "Why did the student eat his flash cards?",
+      "punchline": "Because his teacher said they were food for thought!",
+      "categories": ["school", "food"],
+      "tags": ["student", "flash cards", "eating", "food for thought", "wordplay", "studying", "memory"]
+    },
+    {
+      "id": 1378,
+      "setup": "What did the pencil case say to the pencil?",
+      "punchline": "You can always count on me for support!",
+      "categories": ["school"],
+      "tags": ["pencil case", "pencil", "support", "holding", "wordplay", "supplies", "friendship"]
+    },
+    {
+      "id": 1379,
+      "setup": "Why did the school band get lost?",
+      "punchline": "Because they forgot the key!",
+      "categories": ["school", "music"],
+      "tags": ["school band", "lost", "key", "music", "wordplay", "direction", "playing"]
+    },
+    {
+      "id": 1380,
+      "setup": "What's a tornado's favorite game at recess?",
+      "punchline": "Twister!",
+      "categories": ["school", "outdoors"],
+      "tags": ["tornado", "game", "twister", "recess", "wordplay", "weather", "playing"]
+    },
+    {
+      "id": 1381,
+      "setup": "Why did the teacher write on the window?",
+      "punchline": "Because she wanted the lesson to be clear!",
+      "categories": ["school", "home"],
+      "tags": ["teacher", "window", "clear", "lesson", "wordplay", "transparent", "teaching"]
+    },
+    {
+      "id": 1382,
+      "setup": "What did the student say after studying herbs?",
+      "punchline": "That was a thyme well spent!",
+      "categories": ["school", "food"],
+      "tags": ["student", "herbs", "thyme", "time", "wordplay", "studying", "cooking"]
+    },
+    {
+      "id": 1383,
+      "setup": "Why did the school newspaper shut down?",
+      "punchline": "Because it had too many issues!",
+      "categories": ["school"],
+      "tags": ["newspaper", "shut down", "issues", "problems", "wordplay", "journalism", "publications"]
+    },
+    {
+      "id": 1384,
+      "setup": "What's a plumber's favorite class?",
+      "punchline": "Shop class... for pipe dreams!",
+      "categories": ["school", "work"],
+      "tags": ["plumber", "class", "shop", "pipe dreams", "wordplay", "vocational", "building"]
+    },
+    {
+      "id": 1385,
+      "setup": "Why did the dictionary feel proud?",
+      "punchline": "Because it had all the words to describe itself!",
+      "categories": ["school"],
+      "tags": ["dictionary", "proud", "words", "describe", "wordplay", "reference", "vocabulary"]
+    },
+    {
+      "id": 1386,
+      "setup": "What did the math teacher order for dessert?",
+      "punchline": "Pi!",
+      "categories": ["school", "food"],
+      "tags": ["math teacher", "dessert", "pi", "pie", "wordplay", "math", "eating"]
+    },
+    {
+      "id": 1387,
+      "setup": "Why did the student bring a sponge to history class?",
+      "punchline": "To absorb all the information!",
+      "categories": ["school", "history"],
+      "tags": ["student", "sponge", "history", "absorb", "wordplay", "learning", "information"]
+    },
+    {
+      "id": 1388,
+      "setup": "What's a shoe's favorite subject?",
+      "punchline": "Footnotes!",
+      "categories": ["school"],
+      "tags": ["shoe", "subject", "footnotes", "feet", "wordplay", "reading", "research"]
+    },
+    {
+      "id": 1389,
+      "setup": "Why did the student bring a trampoline to the exam?",
+      "punchline": "To bounce back from tough questions!",
+      "categories": ["school", "sports"],
+      "tags": ["student", "trampoline", "exam", "bounce back", "wordplay", "resilience", "test"]
+    },
+    {
+      "id": 1390,
+      "setup": "What did the period say to the sentence?",
+      "punchline": "We need to stop meeting like this!",
+      "categories": ["school"],
+      "tags": ["period", "sentence", "stop", "meeting", "wordplay", "grammar", "punctuation"]
+    },
+    {
+      "id": 1391,
+      "setup": "Why was the spelling bee so competitive?",
+      "punchline": "Because everyone wanted to bee the best!",
+      "categories": ["school", "animals"],
+      "tags": ["spelling bee", "competitive", "bee", "best", "wordplay", "competition", "english"]
+    },
+    {
+      "id": 1392,
+      "setup": "What's a light bulb's favorite class?",
+      "punchline": "Bright ideas 101!",
+      "categories": ["school", "science"],
+      "tags": ["light bulb", "class", "bright ideas", "electricity", "wordplay", "creative", "thinking"]
+    },
+    {
+      "id": 1393,
+      "setup": "Why did the geography student get wet?",
+      "punchline": "Because she was studying current events!",
+      "categories": ["school", "geography"],
+      "tags": ["geography", "student", "wet", "current", "wordplay", "water", "events"]
+    },
+    {
+      "id": 1394,
+      "setup": "What did the scissors say to the construction paper?",
+      "punchline": "Let's cut to the chase!",
+      "categories": ["school"],
+      "tags": ["scissors", "construction paper", "cut", "chase", "wordplay", "art", "supplies"]
+    },
+    {
+      "id": 1395,
+      "setup": "Why did the substitute teacher bring a map?",
+      "punchline": "Because she didn't want to lose the class!",
+      "categories": ["school", "geography"],
+      "tags": ["substitute teacher", "map", "lose", "class", "wordplay", "navigation", "students"]
+    },
+    {
+      "id": 1396,
+      "setup": "What's a clock's favorite subject?",
+      "punchline": "History... because it's all about time!",
+      "categories": ["school", "history"],
+      "tags": ["clock", "subject", "history", "time", "wordplay", "past", "learning"]
+    },
+    {
+      "id": 1397,
+      "setup": "Why did the student put candy on his homework?",
+      "punchline": "Because his teacher wanted a sweet essay!",
+      "categories": ["school", "food"],
+      "tags": ["student", "candy", "homework", "sweet essay", "wordplay", "writing", "dessert"]
+    },
+    {
+      "id": 1398,
+      "setup": "What did the librarian say to the books?",
+      "punchline": "I'm checking you all out!",
+      "categories": ["school"],
+      "tags": ["librarian", "books", "checking out", "library", "wordplay", "borrowing", "attractive"]
+    },
+    {
+      "id": 1399,
+      "setup": "Why did the student bring sunglasses to school?",
+      "punchline": "Because his teacher said he had a bright future!",
+      "categories": ["school"],
+      "tags": ["student", "sunglasses", "school", "bright future", "wordplay", "success", "confident"]
+    },
+    {
+      "id": 1400,
+      "setup": "What did the graduation cap say to the student?",
+      "punchline": "You've really topped off your education!",
+      "categories": ["school"],
+      "tags": ["graduation cap", "student", "topped off", "education", "wordplay", "finishing", "ceremony"]
     }
   ]
 }
