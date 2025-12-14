@@ -1,1 +1,285 @@
+{
+  "jokes": [
+    {
+      "id": "joke_001",
+      "setup": "Why don't cats play poker in the jungle?",
+      "punchline": "Too many cheetahs!",
+      "categories": ["animals"],
+      "tags": ["cats", "jungle", "games", "cheating", "wordplay"]
+    },
+    {
+      "id": "joke_002",
+      "setup": "What do you call a fish without eyes?",
+      "punchline": "A fsh!",
+      "categories": ["animals"],
+      "tags": ["fish", "ocean", "spelling", "wordplay", "classic"]
+    },
+    {
+      "id": "joke_003",
+      "setup": "Why do candles always go on top of birthday cakes?",
+      "punchline": "Because it's hard to light them from the bottom!",
+      "categories": ["birthday"],
+      "tags": ["cake", "candles", "party", "celebration", "fire"]
+    },
+    {
+      "id": "joke_004",
+      "setup": "What goes up but never comes down?",
+      "punchline": "Your age!",
+      "categories": ["birthday"],
+      "tags": ["aging", "getting older", "time", "riddle", "classic"]
+    },
+    {
+      "id": "joke_005",
+      "setup": "Why did the scarecrow win an award?",
+      "punchline": "He was outstanding in his field!",
+      "categories": ["classics", "work"],
+      "tags": ["farming", "awards", "wordplay", "famous", "pun"]
+    },
+    {
+      "id": "joke_006",
+      "setup": "I'm reading a book about anti-gravity.",
+      "punchline": "It's impossible to put down!",
+      "categories": ["classics", "science"],
+      "tags": ["books", "reading", "physics", "wordplay", "famous"]
+    },
+    {
+      "id": "joke_007",
+      "setup": "Why don't eggs tell jokes?",
+      "punchline": "They'd crack each other up!",
+      "categories": ["family", "food"],
+      "tags": ["eggs", "breakfast", "laughing", "wordplay", "kitchen"]
+    },
+    {
+      "id": "joke_008",
+      "setup": "I told my wife she was drawing her eyebrows too high.",
+      "punchline": "She looked surprised!",
+      "categories": ["family"],
+      "tags": ["marriage", "spouse", "makeup", "surprised", "wordplay"]
+    },
+    {
+      "id": "joke_009",
+      "setup": "Why don't dinosaurs talk?",
+      "punchline": "Because they're dead!",
+      "categories": ["fantasy", "history"],
+      "tags": ["dinosaurs", "prehistoric", "extinct", "dark humor", "obvious"]
+    },
+    {
+      "id": "joke_010",
+      "setup": "What do you call a sleeping dinosaur?",
+      "punchline": "A dino-snore!",
+      "categories": ["fantasy"],
+      "tags": ["dinosaurs", "sleeping", "snoring", "wordplay", "kids"]
+    },
+    {
+      "id": "joke_011",
+      "setup": "Why did the cookie go to the doctor?",
+      "punchline": "Because it was feeling crummy!",
+      "categories": ["food"],
+      "tags": ["cookies", "doctor", "sick", "baking", "wordplay"]
+    },
+    {
+      "id": "joke_012",
+      "setup": "What do you call a fake noodle?",
+      "punchline": "An impasta!",
+      "categories": ["food"],
+      "tags": ["pasta", "italian", "fake", "wordplay", "dinner"]
+    },
+    {
+      "id": "joke_013",
+      "setup": "Why did the map break up with the compass?",
+      "punchline": "Because it felt like the relationship was going in circles!",
+      "categories": ["geography", "travel"],
+      "tags": ["maps", "compass", "directions", "relationships", "navigation"]
+    },
+    {
+      "id": "joke_014",
+      "setup": "What's the fastest country in the world?",
+      "punchline": "Rush-a!",
+      "categories": ["geography"],
+      "tags": ["russia", "countries", "speed", "wordplay", "nations"]
+    },
+    {
+      "id": "joke_015",
+      "setup": "Why did the ancient Egyptian pharaoh go to the dentist?",
+      "punchline": "To get his teeth re-crowned!",
+      "categories": ["history"],
+      "tags": ["egypt", "pharaoh", "dentist", "crowns", "ancient"]
+    },
+    {
+      "id": "joke_016",
+      "setup": "What kind of music did the Pilgrims listen to?",
+      "punchline": "Plymouth Rock!",
+      "categories": ["history", "music"],
+      "tags": ["pilgrims", "thanksgiving", "rock music", "america", "wordplay"]
+    },
+    {
+      "id": "joke_017",
+      "setup": "What do you call an obnoxious reindeer?",
+      "punchline": "Rude-olph!",
+      "categories": ["holidays", "animals"],
+      "tags": ["christmas", "reindeer", "rudolph", "rude", "winter"]
+    },
+    {
+      "id": "joke_018",
+      "setup": "Why did the turkey join a band?",
+      "punchline": "Because it had the drumsticks!",
+      "categories": ["holidays", "music"],
+      "tags": ["thanksgiving", "turkey", "drums", "band", "wordplay"]
+    },
+    {
+      "id": "joke_019",
+      "setup": "Why did the picture go to jail?",
+      "punchline": "Because it was framed!",
+      "categories": ["home"],
+      "tags": ["pictures", "frames", "jail", "crime", "decorating"]
+    },
+    {
+      "id": "joke_020",
+      "setup": "I used to hate facial hair, but then it grew on me.",
+      "punchline": "",
+      "categories": ["home"],
+      "tags": ["beard", "grooming", "bathroom", "one-liner", "wordplay"]
+    },
+    {
+      "id": "joke_021",
+      "setup": "Why was the equal sign so humble?",
+      "punchline": "Because it knew it wasn't greater than or less than anyone else!",
+      "categories": ["math"],
+      "tags": ["equations", "symbols", "equality", "humble", "algebra"]
+    },
+    {
+      "id": "joke_022",
+      "setup": "Why did seven eat nine?",
+      "punchline": "Because you're supposed to eat three squared meals a day!",
+      "categories": ["math"],
+      "tags": ["numbers", "eating", "multiplication", "wordplay", "classic"]
+    },
+    {
+      "id": "joke_023",
+      "setup": "Why did the musician get kicked out of the band?",
+      "punchline": "Because he was always getting into treble!",
+      "categories": ["music"],
+      "tags": ["band", "trouble", "treble", "musical notes", "wordplay"]
+    },
+    {
+      "id": "joke_024",
+      "setup": "What do you call a guitar that never finishes a song?",
+      "punchline": "A quitar!",
+      "categories": ["music"],
+      "tags": ["guitar", "quitting", "instruments", "wordplay", "songs"]
+    },
+    {
+      "id": "joke_025",
+      "setup": "Why do trees seem suspicious on sunny days?",
+      "punchline": "Because they're looking pretty shady!",
+      "categories": ["outdoors"],
+      "tags": ["trees", "nature", "shade", "suspicious", "sunny"]
+    },
+    {
+      "id": "joke_026",
+      "setup": "I went camping and it was intense.",
+      "punchline": "In tents, actually!",
+      "categories": ["outdoors", "travel"],
+      "tags": ["camping", "tents", "intense", "wordplay", "vacation"]
+    },
+    {
+      "id": "joke_027",
+      "setup": "Why did the student eat his homework?",
+      "punchline": "Because the teacher said it was a piece of cake!",
+      "categories": ["school", "food"],
+      "tags": ["homework", "teacher", "cake", "eating", "classroom"]
+    },
+    {
+      "id": "joke_028",
+      "setup": "What's a math teacher's favorite season?",
+      "punchline": "Sum-mer!",
+      "categories": ["school", "math"],
+      "tags": ["teacher", "summer", "addition", "seasons", "wordplay"]
+    },
+    {
+      "id": "joke_029",
+      "setup": "Why can't you trust atoms?",
+      "punchline": "Because they make up everything!",
+      "categories": ["science"],
+      "tags": ["atoms", "chemistry", "physics", "lying", "classic"]
+    },
+    {
+      "id": "joke_030",
+      "setup": "What did the biologist wear on their first date?",
+      "punchline": "Designer genes!",
+      "categories": ["science"],
+      "tags": ["biology", "genetics", "dating", "fashion", "wordplay"]
+    },
+    {
+      "id": "joke_031",
+      "setup": "Why did the golfer bring two pairs of pants?",
+      "punchline": "In case he got a hole in one!",
+      "categories": ["sports"],
+      "tags": ["golf", "pants", "hole in one", "clothing", "classic"]
+    },
+    {
+      "id": "joke_032",
+      "setup": "Why are basketball players messy eaters?",
+      "punchline": "Because they're always dribbling!",
+      "categories": ["sports", "food"],
+      "tags": ["basketball", "dribbling", "eating", "messy", "wordplay"]
+    },
+    {
+      "id": "joke_033",
+      "setup": "Why did the smartphone need glasses?",
+      "punchline": "Because it lost all its contacts!",
+      "categories": ["technology"],
+      "tags": ["phone", "glasses", "contacts", "vision", "wordplay"]
+    },
+    {
+      "id": "joke_034",
+      "setup": "Why was the computer cold?",
+      "punchline": "It left its Windows open!",
+      "categories": ["technology"],
+      "tags": ["computer", "windows", "cold", "software", "wordplay"]
+    },
+    {
+      "id": "joke_035",
+      "setup": "Why don't planes ever get tired?",
+      "punchline": "Because they get plenty of rest at the terminal!",
+      "categories": ["travel"],
+      "tags": ["airplane", "airport", "terminal", "rest", "flying"]
+    },
+    {
+      "id": "joke_036",
+      "setup": "What do you call a train that sneezes?",
+      "punchline": "Achoo-choo train!",
+      "categories": ["travel"],
+      "tags": ["train", "sneezing", "sick", "transportation", "kids"]
+    },
+    {
+      "id": "joke_037",
+      "setup": "Why did the bride cry at her wedding?",
+      "punchline": "Because she didn't marry the best man!",
+      "categories": ["wedding"],
+      "tags": ["bride", "best man", "ceremony", "crying", "marriage"]
+    },
+    {
+      "id": "joke_038",
+      "setup": "What do you call two spiders who just got married?",
+      "punchline": "Newlywebs!",
+      "categories": ["wedding", "animals"],
+      "tags": ["spiders", "newlyweds", "webs", "marriage", "wordplay"]
+    },
+    {
+      "id": "joke_039",
+      "setup": "Why did the employee get fired from the calendar factory?",
+      "punchline": "He took a couple of days off!",
+      "categories": ["work"],
+      "tags": ["calendar", "fired", "days off", "vacation", "factory"]
+    },
+    {
+      "id": "joke_040",
+      "setup": "My boss told me to have a good day, so I went home.",
+      "punchline": "",
+      "categories": ["work"],
+      "tags": ["boss", "office", "one-liner", "leaving", "literal"]
+    }
+  ]
+}
 
