@@ -13299,6 +13299,706 @@
       "punchline": "I've been waiting for you two all along!",
       "categories": ["wedding"],
       "tags": ["happily ever after", "couple", "waiting", "love", "wordplay", "fairy tale", "ending"]
+    },
+    {
+      "id": 1901,
+      "setup": "Why did the calendar feel overworked?",
+      "punchline": "Because its days were numbered!",
+      "categories": ["work"],
+      "tags": ["calendar", "overworked", "days", "numbered", "wordplay", "schedule", "busy"]
+    },
+    {
+      "id": 1902,
+      "setup": "What did the boss say to the spreadsheet?",
+      "punchline": "You really excel at your job!",
+      "categories": ["work", "technology"],
+      "tags": ["boss", "spreadsheet", "excel", "job", "wordplay", "office", "microsoft"]
+    },
+    {
+      "id": 1903,
+      "setup": "Why did the employee bring a blanket to work?",
+      "punchline": "Because they wanted to cover all their bases!",
+      "categories": ["work", "sports"],
+      "tags": ["employee", "blanket", "cover", "bases", "wordplay", "office", "prepared"]
+    },
+    {
+      "id": 1904,
+      "setup": "What do you call a person who's happy on Monday?",
+      "punchline": "Retired!",
+      "categories": ["work"],
+      "tags": ["happy", "monday", "retired", "weekend", "wordplay", "job", "week"]
+    },
+    {
+      "id": 1905,
+      "setup": "Why did the coffee file a police report at the office?",
+      "punchline": "Because it got mugged!",
+      "categories": ["work", "food"],
+      "tags": ["coffee", "police report", "mugged", "office", "wordplay", "drink", "crime"]
+    },
+    {
+      "id": 1906,
+      "setup": "What did the elevator say to its coworker?",
+      "punchline": "I think I'm coming down with something!",
+      "categories": ["work", "home"],
+      "tags": ["elevator", "coworker", "coming down", "sick", "wordplay", "building", "floors"]
+    },
+    {
+      "id": 1907,
+      "setup": "Why did the vacuum cleaner get a promotion?",
+      "punchline": "Because it really sucked up to the boss!",
+      "categories": ["work", "home"],
+      "tags": ["vacuum cleaner", "promotion", "sucked up", "boss", "wordplay", "cleaning", "success"]
+    },
+    {
+      "id": 1908,
+      "setup": "What do you call a factory that makes average products?",
+      "punchline": "A satisfactory!",
+      "categories": ["work"],
+      "tags": ["factory", "average", "satisfactory", "products", "wordplay", "manufacturing", "okay"]
+    },
+    {
+      "id": 1909,
+      "setup": "Why did the resume feel nervous?",
+      "punchline": "Because it was about to get reviewed!",
+      "categories": ["work"],
+      "tags": ["resume", "nervous", "reviewed", "job", "wordplay", "hiring", "application"]
+    },
+    {
+      "id": 1910,
+      "setup": "What did the paperclip say to the magnet?",
+      "punchline": "I find you very attractive at work!",
+      "categories": ["work", "science"],
+      "tags": ["paperclip", "magnet", "attractive", "office", "wordplay", "supplies", "magnetism"]
+    },
+    {
+      "id": 1911,
+      "setup": "Why did the accountant break up with the calculator?",
+      "punchline": "Because they felt they could only count on themselves!",
+      "categories": ["work", "math"],
+      "tags": ["accountant", "calculator", "breakup", "count", "wordplay", "numbers", "relationship"]
+    },
+    {
+      "id": 1912,
+      "setup": "What do you call a meeting that could have been an email?",
+      "punchline": "A waste of company time!",
+      "categories": ["work"],
+      "tags": ["meeting", "email", "waste", "time", "wordplay", "office", "productivity"]
+    },
+    {
+      "id": 1913,
+      "setup": "Why did the light bulb get an award at work?",
+      "punchline": "Because it had a bright idea!",
+      "categories": ["work", "home"],
+      "tags": ["light bulb", "award", "bright", "idea", "wordplay", "innovation", "recognition"]
+    },
+    {
+      "id": 1914,
+      "setup": "What did the stressed employee say to the deadline?",
+      "punchline": "Stop rushing me, I'm doing my best!",
+      "categories": ["work"],
+      "tags": ["stressed", "employee", "deadline", "rushing", "wordplay", "pressure", "time"]
+    },
+    {
+      "id": 1915,
+      "setup": "Why did the construction worker quit?",
+      "punchline": "Because he felt like he was hitting a wall!",
+      "categories": ["work"],
+      "tags": ["construction worker", "quit", "hitting a wall", "building", "wordplay", "frustrated", "job"]
+    },
+    {
+      "id": 1916,
+      "setup": "What do you call a lazy office chair?",
+      "punchline": "One that won't support you!",
+      "categories": ["work"],
+      "tags": ["lazy", "office chair", "support", "sitting", "wordplay", "furniture", "ergonomic"]
+    },
+    {
+      "id": 1917,
+      "setup": "Why did the banker switch careers?",
+      "punchline": "Because he lost interest!",
+      "categories": ["work", "math"],
+      "tags": ["banker", "careers", "interest", "money", "wordplay", "finance", "bored"]
+    },
+    {
+      "id": 1918,
+      "setup": "What did the sticky note say to the important document?",
+      "punchline": "I'm just here to remind you of something!",
+      "categories": ["work"],
+      "tags": ["sticky note", "document", "remind", "office", "wordplay", "memory", "supplies"]
+    },
+    {
+      "id": 1919,
+      "setup": "Why did the secretary break up with the filing cabinet?",
+      "punchline": "Because the relationship was too compartmentalized!",
+      "categories": ["work"],
+      "tags": ["secretary", "filing cabinet", "breakup", "compartmentalized", "wordplay", "office", "organized"]
+    },
+    {
+      "id": 1920,
+      "setup": "What do you call a snowman in the summer who works hard?",
+      "punchline": "Dedicated... until they melt under pressure!",
+      "categories": ["work", "holidays"],
+      "tags": ["snowman", "summer", "dedicated", "pressure", "wordplay", "melting", "stress"]
+    },
+    {
+      "id": 1921,
+      "setup": "Why did the employee eat their timesheet?",
+      "punchline": "Because the boss said they needed to digest the hours!",
+      "categories": ["work", "food"],
+      "tags": ["employee", "timesheet", "digest", "hours", "wordplay", "eating", "payroll"]
+    },
+    {
+      "id": 1922,
+      "setup": "What did the pencil say during the performance review?",
+      "punchline": "I've been making my point all year!",
+      "categories": ["work", "school"],
+      "tags": ["pencil", "performance review", "point", "year", "wordplay", "sharp", "evaluation"]
+    },
+    {
+      "id": 1923,
+      "setup": "Why did the optometrist go to work happy?",
+      "punchline": "Because they were looking forward to it!",
+      "categories": ["work"],
+      "tags": ["optometrist", "happy", "looking forward", "eyes", "wordplay", "vision", "job"]
+    },
+    {
+      "id": 1924,
+      "setup": "What do you call a fish that's a CEO?",
+      "punchline": "The head of the school!",
+      "categories": ["work", "animals"],
+      "tags": ["fish", "ceo", "head", "school", "wordplay", "ocean", "leader"]
+    },
+    {
+      "id": 1925,
+      "setup": "Why did the candle get fired?",
+      "punchline": "Because it kept burning out at work!",
+      "categories": ["work", "home"],
+      "tags": ["candle", "fired", "burning out", "burnout", "wordplay", "exhausted", "job"]
+    },
+    {
+      "id": 1926,
+      "setup": "What did the manager say to the unmotivated clock?",
+      "punchline": "It's time to step up your game!",
+      "categories": ["work"],
+      "tags": ["manager", "clock", "time", "step up", "wordplay", "motivation", "deadline"]
+    },
+    {
+      "id": 1927,
+      "setup": "Why did the envelope seal the deal?",
+      "punchline": "Because it knew how to stick to business!",
+      "categories": ["work"],
+      "tags": ["envelope", "seal the deal", "stick", "business", "wordplay", "office", "contracts"]
+    },
+    {
+      "id": 1928,
+      "setup": "What do you call a dinosaur who works in HR?",
+      "punchline": "A Tyranno-source of conflict resolution!",
+      "categories": ["work", "animals"],
+      "tags": ["dinosaur", "hr", "tyrannosaurus", "conflict resolution", "wordplay", "prehistoric", "department"]
+    },
+    {
+      "id": 1929,
+      "setup": "Why did the coffee pot feel important at the office?",
+      "punchline": "Because everyone depended on it every morning!",
+      "categories": ["work", "food"],
+      "tags": ["coffee pot", "important", "office", "morning", "wordplay", "caffeine", "essential"]
+    },
+    {
+      "id": 1930,
+      "setup": "What did the networking event say to the introvert?",
+      "punchline": "Come on, let's make some connections!",
+      "categories": ["work"],
+      "tags": ["networking", "event", "introvert", "connections", "wordplay", "social", "career"]
+    },
+    {
+      "id": 1931,
+      "setup": "Why did the tailor get promoted?",
+      "punchline": "Because he was a perfect fit for the position!",
+      "categories": ["work"],
+      "tags": ["tailor", "promoted", "fit", "position", "wordplay", "sewing", "job"]
+    },
+    {
+      "id": 1932,
+      "setup": "What do you call a lazy skeleton at work?",
+      "punchline": "Bone idle!",
+      "categories": ["work", "fantasy"],
+      "tags": ["skeleton", "lazy", "bone idle", "work", "wordplay", "bones", "unmotivated"]
+    },
+    {
+      "id": 1933,
+      "setup": "Why did the presentation feel nervous?",
+      "punchline": "Because it was about to be shown up in front of everyone!",
+      "categories": ["work"],
+      "tags": ["presentation", "nervous", "shown", "everyone", "wordplay", "meeting", "slides"]
+    },
+    {
+      "id": 1934,
+      "setup": "What did the office plant say to the window?",
+      "punchline": "Thanks for letting me grow in this position!",
+      "categories": ["work", "outdoors"],
+      "tags": ["office plant", "window", "grow", "position", "wordplay", "sunlight", "career"]
+    },
+    {
+      "id": 1935,
+      "setup": "Why did the comedian get fired from the office?",
+      "punchline": "Because they took too many pun-ch breaks!",
+      "categories": ["work"],
+      "tags": ["comedian", "fired", "pun", "breaks", "wordplay", "jokes", "office"]
+    },
+    {
+      "id": 1936,
+      "setup": "What do you call a bear working in finance?",
+      "punchline": "A stock market bear!",
+      "categories": ["work", "animals"],
+      "tags": ["bear", "finance", "stock market", "trading", "wordplay", "wall street", "investing"]
+    },
+    {
+      "id": 1937,
+      "setup": "Why did the voicemail feel ignored at work?",
+      "punchline": "Because nobody ever listened to it anymore!",
+      "categories": ["work", "technology"],
+      "tags": ["voicemail", "ignored", "listened", "phone", "wordplay", "communication", "obsolete"]
+    },
+    {
+      "id": 1938,
+      "setup": "What did the hiring manager say to the exceptional candidate?",
+      "punchline": "You're hired... effective immediately!",
+      "categories": ["work"],
+      "tags": ["hiring manager", "candidate", "hired", "immediately", "wordplay", "job", "interview"]
+    },
+    {
+      "id": 1939,
+      "setup": "Why did the conveyor belt feel used?",
+      "punchline": "Because everyone just kept walking all over it!",
+      "categories": ["work"],
+      "tags": ["conveyor belt", "used", "walking", "factory", "wordplay", "manufacturing", "movement"]
+    },
+    {
+      "id": 1940,
+      "setup": "What do you call a clumsy coworker?",
+      "punchline": "An accident waiting to happen at the water cooler!",
+      "categories": ["work"],
+      "tags": ["clumsy", "coworker", "accident", "water cooler", "wordplay", "office", "spills"]
+    },
+    {
+      "id": 1941,
+      "setup": "Why did the pen feel blue at work?",
+      "punchline": "Because it was always getting clicked around!",
+      "categories": ["work", "school"],
+      "tags": ["pen", "blue", "clicked", "office", "wordplay", "supplies", "sad"]
+    },
+    {
+      "id": 1942,
+      "setup": "What did the quarterly report say to the CEO?",
+      "punchline": "I've got all the figures you're looking for!",
+      "categories": ["work", "math"],
+      "tags": ["quarterly report", "ceo", "figures", "numbers", "wordplay", "business", "finance"]
+    },
+    {
+      "id": 1943,
+      "setup": "Why did the ladder feel above everyone?",
+      "punchline": "Because it was always climbing the corporate structure!",
+      "categories": ["work"],
+      "tags": ["ladder", "above", "climbing", "corporate", "wordplay", "promotion", "hierarchy"]
+    },
+    {
+      "id": 1944,
+      "setup": "What do you call a cat that works at a copy center?",
+      "punchline": "A copycat!",
+      "categories": ["work", "animals"],
+      "tags": ["cat", "copy center", "copycat", "printing", "wordplay", "office", "duplicate"]
+    },
+    {
+      "id": 1945,
+      "setup": "Why did the employee bring a pillow to the meeting?",
+      "punchline": "In case the presentation put them to sleep!",
+      "categories": ["work"],
+      "tags": ["employee", "pillow", "meeting", "sleep", "wordplay", "boring", "presentation"]
+    },
+    {
+      "id": 1946,
+      "setup": "What did the staple say to the papers?",
+      "punchline": "Let me hold you all together through this!",
+      "categories": ["work"],
+      "tags": ["staple", "papers", "hold together", "office", "wordplay", "supplies", "teamwork"]
+    },
+    {
+      "id": 1947,
+      "setup": "Why did the marathon runner make a great salesperson?",
+      "punchline": "Because they were always going the extra mile!",
+      "categories": ["work", "sports"],
+      "tags": ["marathon runner", "salesperson", "extra mile", "effort", "wordplay", "running", "sales"]
+    },
+    {
+      "id": 1948,
+      "setup": "What do you call a dog that audits companies?",
+      "punchline": "A compliance hound!",
+      "categories": ["work", "animals"],
+      "tags": ["dog", "audits", "compliance", "hound", "wordplay", "business", "rules"]
+    },
+    {
+      "id": 1949,
+      "setup": "Why did the desk lamp feel burned out?",
+      "punchline": "Because it was always working late nights!",
+      "categories": ["work", "home"],
+      "tags": ["desk lamp", "burned out", "late nights", "overtime", "wordplay", "light", "exhausted"]
+    },
+    {
+      "id": 1950,
+      "setup": "What did the broken copier say?",
+      "punchline": "I just can't seem to get my life together!",
+      "categories": ["work", "technology"],
+      "tags": ["copier", "broken", "life together", "malfunction", "wordplay", "office", "printing"]
+    },
+    {
+      "id": 1951,
+      "setup": "Why did the motivational poster feel ignored?",
+      "punchline": "Because nobody was hanging on to its words!",
+      "categories": ["work"],
+      "tags": ["motivational poster", "ignored", "hanging", "words", "wordplay", "office", "inspiration"]
+    },
+    {
+      "id": 1952,
+      "setup": "What do you call a horse that works on Wall Street?",
+      "punchline": "A stable investor!",
+      "categories": ["work", "animals"],
+      "tags": ["horse", "wall street", "stable", "investor", "wordplay", "finance", "trading"]
+    },
+    {
+      "id": 1953,
+      "setup": "Why did the CEO bring a mirror to work?",
+      "punchline": "For some self-reflection on leadership!",
+      "categories": ["work"],
+      "tags": ["ceo", "mirror", "self-reflection", "leadership", "wordplay", "management", "growth"]
+    },
+    {
+      "id": 1954,
+      "setup": "What did the overtime say to the employee?",
+      "punchline": "I know you're tired, but we need to spend more time together!",
+      "categories": ["work"],
+      "tags": ["overtime", "employee", "tired", "time", "wordplay", "extra hours", "exhausted"]
+    },
+    {
+      "id": 1955,
+      "setup": "Why did the waiter bring a ladder to work?",
+      "punchline": "To reach new heights in customer service!",
+      "categories": ["work", "food"],
+      "tags": ["waiter", "ladder", "heights", "customer service", "wordplay", "restaurant", "excellence"]
+    },
+    {
+      "id": 1956,
+      "setup": "What do you call a rabbit that works in HR?",
+      "punchline": "A hire-bunny!",
+      "categories": ["work", "animals"],
+      "tags": ["rabbit", "hr", "hiring", "bunny", "wordplay", "recruitment", "cute"]
+    },
+    {
+      "id": 1957,
+      "setup": "Why did the business card feel flat?",
+      "punchline": "Because it wasn't making any impressions!",
+      "categories": ["work"],
+      "tags": ["business card", "flat", "impressions", "networking", "wordplay", "contacts", "forgettable"]
+    },
+    {
+      "id": 1958,
+      "setup": "What did the Wi-Fi say to the remote worker?",
+      "punchline": "We have a strong connection!",
+      "categories": ["work", "technology"],
+      "tags": ["wifi", "remote worker", "connection", "internet", "wordplay", "working from home", "signal"]
+    },
+    {
+      "id": 1959,
+      "setup": "Why did the clock get employee of the month?",
+      "punchline": "Because it always clocked in on time!",
+      "categories": ["work"],
+      "tags": ["clock", "employee of the month", "clocked in", "time", "wordplay", "punctual", "award"]
+    },
+    {
+      "id": 1960,
+      "setup": "What do you call an elephant that manages projects?",
+      "punchline": "Someone who never forgets a deadline!",
+      "categories": ["work", "animals"],
+      "tags": ["elephant", "projects", "forgets", "deadline", "wordplay", "memory", "management"]
+    },
+    {
+      "id": 1961,
+      "setup": "Why did the scanner feel seen?",
+      "punchline": "Because it was always being asked to look things over!",
+      "categories": ["work", "technology"],
+      "tags": ["scanner", "seen", "look over", "documents", "wordplay", "office", "copying"]
+    },
+    {
+      "id": 1962,
+      "setup": "What did the budget say to the department?",
+      "punchline": "We need to cut back on our spending relationship!",
+      "categories": ["work", "math"],
+      "tags": ["budget", "department", "cut back", "spending", "wordplay", "finance", "money"]
+    },
+    {
+      "id": 1963,
+      "setup": "Why did the electrician love their job?",
+      "punchline": "Because it was always an electrifying experience!",
+      "categories": ["work", "science"],
+      "tags": ["electrician", "love", "electrifying", "experience", "wordplay", "electricity", "exciting"]
+    },
+    {
+      "id": 1964,
+      "setup": "What do you call a sheep that handles payroll?",
+      "punchline": "A baaa-lance sheet expert!",
+      "categories": ["work", "animals"],
+      "tags": ["sheep", "payroll", "balance sheet", "baa", "wordplay", "accounting", "farm"]
+    },
+    {
+      "id": 1965,
+      "setup": "Why did the keyboard feel pressed at work?",
+      "punchline": "Because everyone kept pushing its buttons!",
+      "categories": ["work", "technology"],
+      "tags": ["keyboard", "pressed", "buttons", "typing", "wordplay", "office", "stressed"]
+    },
+    {
+      "id": 1966,
+      "setup": "What did the Monday say to the Friday?",
+      "punchline": "You're always so popular, and I'm just the start of the struggle!",
+      "categories": ["work"],
+      "tags": ["monday", "friday", "popular", "struggle", "wordplay", "week", "days"]
+    },
+    {
+      "id": 1967,
+      "setup": "Why did the forklift operator feel uplifting?",
+      "punchline": "Because they were always raising spirits in the warehouse!",
+      "categories": ["work"],
+      "tags": ["forklift", "operator", "uplifting", "spirits", "wordplay", "warehouse", "lifting"]
+    },
+    {
+      "id": 1968,
+      "setup": "What do you call a frog that works in tech support?",
+      "punchline": "A help-desk toad!",
+      "categories": ["work", "animals"],
+      "tags": ["frog", "tech support", "help desk", "toad", "wordplay", "it", "amphibian"]
+    },
+    {
+      "id": 1969,
+      "setup": "Why did the intern feel like they were just getting started?",
+      "punchline": "Because they were at the entry level of everything!",
+      "categories": ["work"],
+      "tags": ["intern", "started", "entry level", "beginning", "wordplay", "career", "learning"]
+    },
+    {
+      "id": 1970,
+      "setup": "What did the highlighter say during the review?",
+      "punchline": "I'm just here to make your points stand out!",
+      "categories": ["work", "school"],
+      "tags": ["highlighter", "review", "points", "stand out", "wordplay", "marking", "important"]
+    },
+    {
+      "id": 1971,
+      "setup": "Why did the lunch break feel too short?",
+      "punchline": "Because time flies when you're actually relaxing!",
+      "categories": ["work", "food"],
+      "tags": ["lunch break", "short", "time flies", "relaxing", "wordplay", "eating", "rest"]
+    },
+    {
+      "id": 1972,
+      "setup": "What do you call a duck that's a financial advisor?",
+      "punchline": "A wealth of quack-tical advice!",
+      "categories": ["work", "animals"],
+      "tags": ["duck", "financial advisor", "quack", "practical", "wordplay", "money", "advice"]
+    },
+    {
+      "id": 1973,
+      "setup": "Why did the phone feel important at the office?",
+      "punchline": "Because everyone was always calling on it!",
+      "categories": ["work", "technology"],
+      "tags": ["phone", "important", "calling", "office", "wordplay", "communication", "essential"]
+    },
+    {
+      "id": 1974,
+      "setup": "What did the late employee say to the time clock?",
+      "punchline": "Sorry, I didn't mean to punch in your buttons like this!",
+      "categories": ["work"],
+      "tags": ["late", "employee", "time clock", "punch in", "wordplay", "tardy", "apology"]
+    },
+    {
+      "id": 1975,
+      "setup": "Why did the pilot always stay calm under pressure?",
+      "punchline": "Because they knew how to navigate through turbulence!",
+      "categories": ["work", "travel"],
+      "tags": ["pilot", "calm", "pressure", "navigate", "wordplay", "flying", "turbulence"]
+    },
+    {
+      "id": 1976,
+      "setup": "What do you call a snail that delivers packages?",
+      "punchline": "Slow mail!",
+      "categories": ["work", "animals"],
+      "tags": ["snail", "packages", "slow mail", "delivery", "wordplay", "shipping", "slow"]
+    },
+    {
+      "id": 1977,
+      "setup": "Why did the recycling bin feel valued at work?",
+      "punchline": "Because it was always given a second chance at usefulness!",
+      "categories": ["work", "outdoors"],
+      "tags": ["recycling bin", "valued", "second chance", "usefulness", "wordplay", "environment", "reuse"]
+    },
+    {
+      "id": 1978,
+      "setup": "What did the stressed manager say to the team?",
+      "punchline": "We're all in this deadline together!",
+      "categories": ["work"],
+      "tags": ["stressed", "manager", "team", "deadline", "wordplay", "pressure", "together"]
+    },
+    {
+      "id": 1979,
+      "setup": "Why did the briefcase feel important?",
+      "punchline": "Because it was always carrying the weight of business!",
+      "categories": ["work"],
+      "tags": ["briefcase", "important", "carrying", "weight", "wordplay", "business", "documents"]
+    },
+    {
+      "id": 1980,
+      "setup": "What do you call a bee that works in an office?",
+      "punchline": "A busy-bee-ness professional!",
+      "categories": ["work", "animals"],
+      "tags": ["bee", "office", "busy", "business", "wordplay", "professional", "insect"]
+    },
+    {
+      "id": 1981,
+      "setup": "Why did the air conditioner get promoted?",
+      "punchline": "Because it always kept its cool under pressure!",
+      "categories": ["work", "home"],
+      "tags": ["air conditioner", "promoted", "cool", "pressure", "wordplay", "office", "temperature"]
+    },
+    {
+      "id": 1982,
+      "setup": "What did the name tag say at the conference?",
+      "punchline": "Hello, I'm here to help you remember me!",
+      "categories": ["work"],
+      "tags": ["name tag", "conference", "remember", "identity", "wordplay", "networking", "introduction"]
+    },
+    {
+      "id": 1983,
+      "setup": "Why did the barber love going to work?",
+      "punchline": "Because every day was a cut above the rest!",
+      "categories": ["work"],
+      "tags": ["barber", "love", "cut above", "hair", "wordplay", "salon", "job"]
+    },
+    {
+      "id": 1984,
+      "setup": "What do you call a turkey that works in construction?",
+      "punchline": "A gobble-er of hard work!",
+      "categories": ["work", "animals"],
+      "tags": ["turkey", "construction", "gobble", "hard work", "wordplay", "building", "bird"]
+    },
+    {
+      "id": 1985,
+      "setup": "Why did the suggestion box feel empty?",
+      "punchline": "Because nobody was opening up to it anymore!",
+      "categories": ["work"],
+      "tags": ["suggestion box", "empty", "opening up", "ideas", "wordplay", "feedback", "ignored"]
+    },
+    {
+      "id": 1986,
+      "setup": "What did the paycheck say to the employee?",
+      "punchline": "I'm here because you earned it!",
+      "categories": ["work"],
+      "tags": ["paycheck", "employee", "earned", "money", "wordplay", "salary", "reward"]
+    },
+    {
+      "id": 1987,
+      "setup": "Why did the architect feel like building something?",
+      "punchline": "Because their plans were really coming together!",
+      "categories": ["work"],
+      "tags": ["architect", "building", "plans", "together", "wordplay", "design", "construction"]
+    },
+    {
+      "id": 1988,
+      "setup": "What do you call a chicken that runs a business?",
+      "punchline": "The CEO of Poultry Inc.!",
+      "categories": ["work", "animals"],
+      "tags": ["chicken", "business", "ceo", "poultry", "wordplay", "company", "bird"]
+    },
+    {
+      "id": 1989,
+      "setup": "Why did the scissors feel cut out for the job?",
+      "punchline": "Because they were always making the right cuts!",
+      "categories": ["work"],
+      "tags": ["scissors", "cut out", "job", "cuts", "wordplay", "office", "supplies"]
+    },
+    {
+      "id": 1990,
+      "setup": "What did the retirement say to the career?",
+      "punchline": "It's been a long run, but I'm finally taking over!",
+      "categories": ["work"],
+      "tags": ["retirement", "career", "long run", "taking over", "wordplay", "ending", "relaxation"]
+    },
+    {
+      "id": 1991,
+      "setup": "Why did the marketing team love their job?",
+      "punchline": "Because they were always making an impression!",
+      "categories": ["work"],
+      "tags": ["marketing team", "love", "impression", "advertising", "wordplay", "brand", "creative"]
+    },
+    {
+      "id": 1992,
+      "setup": "What do you call a giraffe that works in management?",
+      "punchline": "Someone who always sees the big picture from above!",
+      "categories": ["work", "animals"],
+      "tags": ["giraffe", "management", "big picture", "tall", "wordplay", "vision", "leadership"]
+    },
+    {
+      "id": 1993,
+      "setup": "Why did the whiteboard feel blank?",
+      "punchline": "Because the meeting hadn't started yet!",
+      "categories": ["work"],
+      "tags": ["whiteboard", "blank", "meeting", "started", "wordplay", "office", "brainstorming"]
+    },
+    {
+      "id": 1994,
+      "setup": "What did the corporate ladder say?",
+      "punchline": "Keep climbing, the view is better at the top!",
+      "categories": ["work"],
+      "tags": ["corporate ladder", "climbing", "view", "top", "wordplay", "promotion", "success"]
+    },
+    {
+      "id": 1995,
+      "setup": "Why did the firefighter love their job?",
+      "punchline": "Because it was always a blazing success!",
+      "categories": ["work"],
+      "tags": ["firefighter", "love", "blazing", "success", "wordplay", "fire", "hero"]
+    },
+    {
+      "id": 1996,
+      "setup": "What do you call an owl that works the night shift?",
+      "punchline": "A real hoot to work with after hours!",
+      "categories": ["work", "animals"],
+      "tags": ["owl", "night shift", "hoot", "hours", "wordplay", "nocturnal", "coworker"]
+    },
+    {
+      "id": 1997,
+      "setup": "Why did the training manual feel informative?",
+      "punchline": "Because it had all the answers covered!",
+      "categories": ["work"],
+      "tags": ["training manual", "informative", "answers", "covered", "wordplay", "learning", "onboarding"]
+    },
+    {
+      "id": 1998,
+      "setup": "What did the break room say to the employees?",
+      "punchline": "Take all the time you need... within reason!",
+      "categories": ["work", "food"],
+      "tags": ["break room", "employees", "time", "reason", "wordplay", "rest", "relaxation"]
+    },
+    {
+      "id": 1999,
+      "setup": "Why did the entrepreneur feel driven?",
+      "punchline": "Because they were always steering their own success!",
+      "categories": ["work"],
+      "tags": ["entrepreneur", "driven", "steering", "success", "wordplay", "business", "motivated"]
+    },
+    {
+      "id": 2000,
+      "setup": "What did the work-life balance say to the workaholic?",
+      "punchline": "It's time to clock out and enjoy the other side!",
+      "categories": ["work"],
+      "tags": ["work-life balance", "workaholic", "clock out", "enjoy", "wordplay", "rest", "life"]
     }
   ]
 }
