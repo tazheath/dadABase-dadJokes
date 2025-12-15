@@ -2109,1405 +2109,1424 @@
     "tags": ["math", "school", "problems", "iconic"]
   },
     {
-      "id": 301,
-      "setup": "Why did the dad bring a ladder to the bar?",
-      "punchline": "Because he heard the drinks were on the house!",
-      "categories": ["family"],
-      "tags": ["dad", "bar", "ladder", "drinks", "wordplay", "house", "free"]
-    },
-    {
-      "id": 302,
-      "setup": "What did the daddy tomato say to the baby tomato?",
-      "punchline": "Catch up!",
-      "categories": ["family", "food"],
-      "tags": ["tomato", "ketchup", "catch up", "parent", "wordplay", "vegetables", "walking"]
-    },
-    {
-      "id": 303,
-      "setup": "Why do dads always carry a spare sock?",
-      "punchline": "In case they get a hole in one!",
-      "categories": ["family"],
-      "tags": ["dad", "socks", "golf", "hole in one", "wordplay", "clothing", "prepared"]
-    },
-    {
-      "id": 304,
-      "setup": "What did the mom broom say to the baby broom?",
-      "punchline": "It's time to go to sweep!",
-      "categories": ["family", "home"],
-      "tags": ["mom", "broom", "sleep", "sweep", "wordplay", "bedtime", "cleaning"]
-    },
-    {
-      "id": 305,
-      "setup": "Why did the father clock scold his son?",
-      "punchline": "Because he was tocking back!",
-      "categories": ["family", "home"],
-      "tags": ["clock", "father", "son", "talking back", "tock", "wordplay", "discipline"]
-    },
-    {
-      "id": 306,
-      "setup": "What did the mama corn say to the baby corn?",
-      "punchline": "Where's popcorn?",
-      "categories": ["family", "food"],
-      "tags": ["corn", "popcorn", "papa", "mom", "wordplay", "snacks", "missing"]
-    },
-    {
-      "id": 307,
-      "setup": "Why did the kid put his dad in the refrigerator?",
-      "punchline": "Because he wanted a cold pop!",
-      "categories": ["family", "food"],
-      "tags": ["kid", "dad", "pop", "soda", "cold", "wordplay", "refrigerator"]
-    },
-    {
-      "id": 308,
-      "setup": "What do you call a grandmother who tells jokes?",
-      "punchline": "A gram-cracker!",
-      "categories": ["family", "food"],
-      "tags": ["grandmother", "grandma", "jokes", "graham cracker", "wordplay", "funny", "snacks"]
-    },
-    {
-      "id": 309,
-      "setup": "Why did the sister bring a pencil to the family reunion?",
-      "punchline": "In case she needed to draw some relatives!",
-      "categories": ["family"],
-      "tags": ["sister", "pencil", "reunion", "relatives", "draw", "wordplay", "gathering"]
-    },
-    {
-      "id": 310,
-      "setup": "What did the digital clock say to its mother?",
-      "punchline": "Look, Ma! No hands!",
-      "categories": ["family", "technology"],
-      "tags": ["clock", "digital", "mother", "hands", "wordplay", "tech", "proud"]
-    },
-    {
-      "id": 311,
-      "setup": "Why do fathers take an extra pair of socks when they go golfing?",
-      "punchline": "In case they get a hole in one!",
-      "categories": ["family", "sports"],
-      "tags": ["father", "golf", "socks", "hole in one", "wordplay", "sports", "prepared"]
-    },
-    {
-      "id": 312,
-      "setup": "What did the baby light bulb say to the mama light bulb?",
-      "punchline": "I wuv you watts and watts!",
-      "categories": ["family", "home"],
-      "tags": ["baby", "light bulb", "love", "watts", "lots", "wordplay", "electricity"]
-    },
-    {
-      "id": 313,
-      "setup": "Why did the grandpa sit on the clock?",
-      "punchline": "He wanted to be on time!",
-      "categories": ["family"],
-      "tags": ["grandpa", "clock", "time", "sitting", "wordplay", "punctual", "grandfather"]
-    },
-    {
-      "id": 314,
-      "setup": "What did the father spider say to his son?",
-      "punchline": "You spend too much time on the web!",
-      "categories": ["family", "technology"],
-      "tags": ["spider", "father", "son", "web", "internet", "wordplay", "screen time"]
-    },
-    {
-      "id": 315,
-      "setup": "Why did the mom bring a bar of soap to dinner?",
-      "punchline": "To wash down the food!",
-      "categories": ["family", "food"],
-      "tags": ["mom", "soap", "dinner", "wash down", "wordplay", "eating", "cleaning"]
-    },
-    {
-      "id": 316,
-      "setup": "What did the uncle say at the family barbecue?",
-      "punchline": "This is a rare medium well done!",
-      "categories": ["family", "food"],
-      "tags": ["uncle", "barbecue", "steak", "rare", "medium", "well done", "wordplay"]
-    },
-    {
-      "id": 317,
-      "setup": "Why did the brother put his money in the blender?",
-      "punchline": "He wanted to make some liquid assets!",
-      "categories": ["family", "work"],
-      "tags": ["brother", "money", "blender", "liquid assets", "wordplay", "finance", "silly"]
-    },
-    {
-      "id": 318,
-      "setup": "What did the mama volcano say to the baby volcano?",
-      "punchline": "I lava you so much!",
-      "categories": ["family", "geography"],
-      "tags": ["volcano", "mama", "baby", "lava", "love", "wordplay", "nature"]
-    },
-    {
-      "id": 319,
-      "setup": "Why did the dad joke book go to therapy?",
-      "punchline": "It had too many issues!",
-      "categories": ["family"],
-      "tags": ["dad jokes", "book", "therapy", "issues", "wordplay", "mental health", "magazines"]
-    },
-    {
-      "id": 320,
-      "setup": "What did the sister battery say to the brother battery?",
-      "punchline": "I'm positive you're negative!",
-      "categories": ["family", "science"],
-      "tags": ["sister", "brother", "battery", "positive", "negative", "wordplay", "electricity"]
-    },
-    {
-      "id": 321,
-      "setup": "Why did the grandma knit three socks?",
-      "punchline": "Because her grandson grew another foot!",
-      "categories": ["family"],
-      "tags": ["grandma", "knitting", "socks", "grandson", "foot", "wordplay", "growing"]
-    },
-    {
-      "id": 322,
-      "setup": "What do you call a dad who falls through the ice?",
-      "punchline": "A pop-sicle!",
-      "categories": ["family", "food"],
-      "tags": ["dad", "ice", "popsicle", "pop", "cold", "wordplay", "frozen"]
-    },
-    {
-      "id": 323,
-      "setup": "Why did the mother needle get mad at the baby needle?",
-      "punchline": "Because it was too sew-sew in school!",
-      "categories": ["family", "school"],
-      "tags": ["mother", "needle", "sewing", "so-so", "school", "wordplay", "grades"]
-    },
-    {
-      "id": 324,
-      "setup": "What did the dad say when his kid asked for a bookmark?",
-      "punchline": "Why? You should know my name by now!",
-      "categories": ["family", "school"],
-      "tags": ["dad", "bookmark", "name", "mark", "wordplay", "reading", "books"]
-    },
-    {
-      "id": 325,
-      "setup": "Why did the aunt bring string to the family photo?",
-      "punchline": "To tie up some loose ends!",
-      "categories": ["family"],
-      "tags": ["aunt", "string", "photo", "loose ends", "wordplay", "family photo", "gathering"]
-    },
-    {
-      "id": 326,
-      "setup": "What did the papa tree say to his sapling?",
-      "punchline": "I'm rooting for you!",
-      "categories": ["family", "outdoors"],
-      "tags": ["tree", "papa", "sapling", "rooting", "wordplay", "nature", "support"]
-    },
-    {
-      "id": 327,
-      "setup": "Why did the mom calendar feel popular?",
-      "punchline": "Because she had so many dates with the kids!",
-      "categories": ["family"],
-      "tags": ["mom", "calendar", "dates", "kids", "popular", "wordplay", "busy"]
-    },
-    {
-      "id": 328,
-      "setup": "What did the father firefly say to his kids?",
-      "punchline": "You all glow, kids!",
-      "categories": ["family"],
-      "tags": ["firefly", "father", "kids", "glow", "you go", "wordplay", "insects"]
-    },
-    {
-      "id": 329,
-      "setup": "Why did the twin bananas get along so well?",
-      "punchline": "Because they were a perfect pair!",
-      "categories": ["family", "food"],
-      "tags": ["twins", "bananas", "pair", "peel", "wordplay", "siblings", "fruit"]
-    },
-    {
-      "id": 330,
-      "setup": "What did the mama bear say when her cub was messy?",
-      "punchline": "You're un-bear-able!",
-      "categories": ["family", "animals"],
-      "tags": ["bear", "mama", "cub", "unbearable", "messy", "wordplay", "wildlife"]
-    },
-    {
-      "id": 331,
-      "setup": "Why did the grandfather bring a ladder to church?",
-      "punchline": "To get to the high notes in the hymns!",
-      "categories": ["family", "music"],
-      "tags": ["grandfather", "ladder", "church", "hymns", "high notes", "wordplay", "singing"]
-    },
-    {
-      "id": 332,
-      "setup": "What did the mama ocean say to her kids?",
-      "punchline": "Nothing, she just waved!",
-      "categories": ["family", "geography"],
-      "tags": ["ocean", "mama", "kids", "wave", "waved", "wordplay", "water"]
-    },
-    {
-      "id": 333,
-      "setup": "Why did the dad buy a boat?",
-      "punchline": "Because his ship finally came in!",
-      "categories": ["family", "travel"],
-      "tags": ["dad", "boat", "ship", "luck", "wordplay", "sailing", "success"]
-    },
-    {
-      "id": 334,
-      "setup": "What do you call a sleeping father?",
-      "punchline": "A nap-pa!",
-      "categories": ["family"],
-      "tags": ["father", "sleeping", "nap", "papa", "wordplay", "tired", "rest"]
-    },
-    {
-      "id": 335,
-      "setup": "Why did the brother computer crash?",
-      "punchline": "He had too many windows open with his siblings!",
-      "categories": ["family", "technology"],
-      "tags": ["brother", "computer", "crash", "windows", "siblings", "wordplay", "tech"]
-    },
-    {
-      "id": 336,
-      "setup": "What did the mama strawberry say to her naughty kid?",
-      "punchline": "You're in a real jam now!",
-      "categories": ["family", "food"],
-      "tags": ["strawberry", "mama", "jam", "trouble", "wordplay", "fruit", "naughty"]
-    },
-    {
-      "id": 337,
-      "setup": "Why did the dad wear glasses to the math test?",
-      "punchline": "To improve his di-vision!",
-      "categories": ["family", "math"],
-      "tags": ["dad", "glasses", "math", "division", "vision", "wordplay", "test"]
-    },
-    {
-      "id": 338,
-      "setup": "What did the grandpa pencil say to the grandson pencil?",
-      "punchline": "You're looking sharp today!",
-      "categories": ["family", "school"],
-      "tags": ["grandpa", "grandson", "pencil", "sharp", "wordplay", "compliment", "writing"]
-    },
-    {
-      "id": 339,
-      "setup": "Why did the mom go to art school?",
-      "punchline": "Because she wanted to draw her own conclusions!",
-      "categories": ["family", "school"],
-      "tags": ["mom", "art school", "draw", "conclusions", "wordplay", "education", "thinking"]
-    },
-    {
-      "id": 340,
-      "setup": "What did the baby corn ask the mama corn?",
-      "punchline": "Where's pop corn?",
-      "categories": ["family", "food"],
-      "tags": ["baby", "corn", "popcorn", "pop", "dad", "wordplay", "snacks"]
-    },
-    {
-      "id": 341,
-      "setup": "Why did the family go to the bank together?",
-      "punchline": "To check their balance!",
-      "categories": ["family", "work"],
-      "tags": ["family", "bank", "balance", "money", "wordplay", "together", "finance"]
-    },
-    {
-      "id": 342,
-      "setup": "What did the dad say when the power went out?",
-      "punchline": "Well, I'm delighted!",
-      "categories": ["family", "home"],
-      "tags": ["dad", "power", "light", "delighted", "wordplay", "electricity", "dark"]
-    },
-    {
-      "id": 343,
-      "setup": "Why did the sister bring a baseball to the reunion?",
-      "punchline": "In case she wanted to catch up!",
-      "categories": ["family", "sports"],
-      "tags": ["sister", "baseball", "reunion", "catch up", "wordplay", "sports", "gathering"]
-    },
-    {
-      "id": 344,
-      "setup": "What did the parent math book say to the child math book?",
-      "punchline": "You can count on me!",
-      "categories": ["family", "math"],
-      "tags": ["parent", "child", "math", "count", "wordplay", "support", "books"]
-    },
-    {
-      "id": 345,
-      "setup": "Why did the dad sit on the calendar?",
-      "punchline": "He wanted to take a day off!",
-      "categories": ["family", "work"],
-      "tags": ["dad", "calendar", "day off", "sitting", "wordplay", "vacation", "rest"]
-    },
-    {
-      "id": 346,
-      "setup": "What did the mama kangaroo say when her joey was misbehaving?",
-      "punchline": "Don't make me come in there!",
-      "categories": ["family", "animals"],
-      "tags": ["kangaroo", "mama", "joey", "pouch", "misbehaving", "wordplay", "discipline"]
-    },
-    {
-      "id": 347,
-      "setup": "Why did the brother bring a mirror to the family meeting?",
-      "punchline": "For some self-reflection!",
-      "categories": ["family"],
-      "tags": ["brother", "mirror", "meeting", "reflection", "self-reflection", "wordplay", "thinking"]
-    },
-    {
-      "id": 348,
-      "setup": "What did the father candle say to his son?",
-      "punchline": "Don't burn out too quickly!",
-      "categories": ["family"],
-      "tags": ["father", "candle", "son", "burn out", "advice", "wordplay", "fire"]
-    },
-    {
-      "id": 349,
-      "setup": "Why did the grandmother plant bulbs in her garden?",
-      "punchline": "Because she wanted her family to grow!",
-      "categories": ["family", "outdoors"],
-      "tags": ["grandmother", "garden", "bulbs", "grow", "family", "wordplay", "planting"]
-    },
-    {
-      "id": 350,
-      "setup": "What did the dad say to the lazy ceiling?",
-      "punchline": "I'm not a fan of you!",
-      "categories": ["family", "home"],
-      "tags": ["dad", "ceiling", "fan", "lazy", "wordplay", "not impressed", "house"]
-    },
-    {
-      "id": 351,
-      "setup": "Why did the cousin bring a map to the reunion?",
-      "punchline": "Because the family tree was confusing!",
-      "categories": ["family", "geography"],
-      "tags": ["cousin", "map", "reunion", "family tree", "confused", "wordplay", "relatives"]
-    },
-    {
-      "id": 352,
-      "setup": "What did the mama computer call her baby?",
-      "punchline": "A microchip off the old block!",
-      "categories": ["family", "technology"],
-      "tags": ["computer", "mama", "baby", "microchip", "chip", "wordplay", "tech"]
-    },
-    {
-      "id": 353,
-      "setup": "Why did the dad bring a ruler to bed?",
-      "punchline": "To see how long he slept!",
-      "categories": ["family", "home"],
-      "tags": ["dad", "ruler", "bed", "sleep", "long", "wordplay", "measuring"]
-    },
-    {
-      "id": 354,
-      "setup": "What did the brother say when his sister stole his phone charger?",
-      "punchline": "That's a power move!",
-      "categories": ["family", "technology"],
-      "tags": ["brother", "sister", "phone charger", "power", "wordplay", "stealing", "tech"]
-    },
-    {
-      "id": 355,
-      "setup": "Why did the family tree go to the doctor?",
-      "punchline": "It needed to get to the root of its problems!",
-      "categories": ["family", "outdoors"],
-      "tags": ["family tree", "doctor", "root", "problems", "wordplay", "genealogy", "health"]
-    },
-    {
-      "id": 356,
-      "setup": "What did the dad say when he saw the electric bill?",
-      "punchline": "I'm shocked!",
-      "categories": ["family", "home"],
-      "tags": ["dad", "electric bill", "shocked", "electricity", "wordplay", "expensive", "bills"]
-    },
-    {
-      "id": 357,
-      "setup": "Why did the mom measure the window?",
-      "punchline": "She wanted to see if she had any room to grow!",
-      "categories": ["family", "home"],
-      "tags": ["mom", "window", "measure", "room", "grow", "wordplay", "house"]
-    },
-    {
-      "id": 358,
-      "setup": "What did the papa phone say to the baby phone?",
-      "punchline": "You're just like me when I was your age - small and always ringing!",
-      "categories": ["family", "technology"],
-      "tags": ["phone", "papa", "baby", "ringing", "small", "wordplay", "tech"]
-    },
-    {
-      "id": 359,
-      "setup": "Why did the son bring his dad to school for show and tell?",
-      "punchline": "Because his dad was a real class act!",
-      "categories": ["family", "school"],
-      "tags": ["son", "dad", "school", "show and tell", "class act", "wordplay", "proud"]
-    },
-    {
-      "id": 360,
-      "setup": "What did the grandmother say to the egg?",
-      "punchline": "You crack me up!",
-      "categories": ["family", "food"],
-      "tags": ["grandmother", "egg", "crack", "funny", "laughing", "wordplay", "breakfast"]
-    },
-    {
-      "id": 361,
-      "setup": "Why did the dad put wheels on his rocking chair?",
-      "punchline": "He wanted to rock and roll!",
-      "categories": ["family", "music"],
-      "tags": ["dad", "rocking chair", "wheels", "rock and roll", "wordplay", "music", "dancing"]
-    },
-    {
-      "id": 362,
-      "setup": "What did the mama stove say to the baby stove?",
-      "punchline": "You're really heating up, kid!",
-      "categories": ["family", "home"],
-      "tags": ["stove", "mama", "baby", "heating up", "wordplay", "kitchen", "cooking"]
-    },
-    {
-      "id": 363,
-      "setup": "Why did the brother bring an umbrella to the family discussion?",
-      "punchline": "He heard there would be a brainstorm!",
-      "categories": ["family"],
-      "tags": ["brother", "umbrella", "discussion", "brainstorm", "wordplay", "ideas", "weather"]
-    },
-    {
-      "id": 364,
-      "setup": "What did the dad say when his son asked for money?",
-      "punchline": "Money doesn't grow on trees, but I'm still your biggest fan-ancier!",
-      "categories": ["family", "work"],
-      "tags": ["dad", "son", "money", "trees", "financier", "wordplay", "allowance"]
-    },
-    {
-      "id": 365,
-      "setup": "Why did the sister call her brother a pizza?",
-      "punchline": "Because he was so cheesy!",
-      "categories": ["family", "food"],
-      "tags": ["sister", "brother", "pizza", "cheesy", "wordplay", "siblings", "funny"]
-    },
-    {
-      "id": 366,
-      "setup": "What did the mama chair say to the baby chair?",
-      "punchline": "Sit up straight!",
-      "categories": ["family", "home"],
-      "tags": ["chair", "mama", "baby", "sit up", "straight", "wordplay", "furniture"]
-    },
-    {
-      "id": 367,
-      "setup": "Why did the dad astronaut break up with the mom astronaut?",
-      "punchline": "They needed some space!",
-      "categories": ["family", "science"],
-      "tags": ["astronaut", "dad", "mom", "space", "breakup", "wordplay", "nasa"]
-    },
-    {
-      "id": 368,
-      "setup": "What did the grandfather clock say to his grandson?",
-      "punchline": "When I was your age, I had more time!",
-      "categories": ["family", "home"],
-      "tags": ["grandfather clock", "grandson", "time", "age", "wordplay", "old", "advice"]
-    },
-    {
-      "id": 369,
-      "setup": "Why did the aunt bring a ladder to the wedding?",
-      "punchline": "She wanted to raise a toast!",
-      "categories": ["family", "wedding"],
-      "tags": ["aunt", "ladder", "wedding", "toast", "raise", "wordplay", "celebration"]
-    },
-    {
-      "id": 370,
-      "setup": "What did the dad say when his daughter made a calendar?",
-      "punchline": "Your days are numbered!",
-      "categories": ["family"],
-      "tags": ["dad", "daughter", "calendar", "days numbered", "wordplay", "craft", "time"]
-    },
-    {
-      "id": 371,
-      "setup": "Why did the mom put her kid's report card in a frame?",
-      "punchline": "Because it was picture perfect... well, almost!",
-      "categories": ["family", "school"],
-      "tags": ["mom", "report card", "frame", "picture perfect", "wordplay", "grades", "proud"]
-    },
-    {
-      "id": 372,
-      "setup": "What did the baby corn say to the mama corn?",
-      "punchline": "Where's pop?",
-      "categories": ["family", "food"],
-      "tags": ["corn", "baby", "mama", "pop", "popcorn", "wordplay", "dad"]
-    },
-    {
-      "id": 373,
-      "setup": "Why did the dad put his car in the oven?",
-      "punchline": "Because he wanted a hot rod!",
-      "categories": ["family", "travel"],
-      "tags": ["dad", "car", "oven", "hot rod", "wordplay", "vehicles", "silly"]
-    },
-    {
-      "id": 374,
-      "setup": "What did the mama earthquake say to her kids?",
-      "punchline": "It's not my fault!",
-      "categories": ["family", "science"],
-      "tags": ["earthquake", "mama", "kids", "fault", "geology", "wordplay", "blame"]
-    },
-    {
-      "id": 375,
-      "setup": "Why did the son bring honey to the family gathering?",
-      "punchline": "To sweeten the conversation!",
-      "categories": ["family", "food"],
-      "tags": ["son", "honey", "gathering", "sweeten", "conversation", "wordplay", "talking"]
-    },
-    {
-      "id": 376,
-      "setup": "What did the dad say when his son asked how lightning works?",
-      "punchline": "I'm shocked you don't know!",
-      "categories": ["family", "science"],
-      "tags": ["dad", "son", "lightning", "shocked", "wordplay", "electricity", "teaching"]
-    },
-    {
-      "id": 377,
-      "setup": "Why did the grandmother give her grandkids a map?",
-      "punchline": "So they could find their way to her heart!",
-      "categories": ["family", "geography"],
-      "tags": ["grandmother", "grandkids", "map", "heart", "love", "wordplay", "directions"]
-    },
-    {
-      "id": 378,
-      "setup": "What did the mom say when her kid asked for a puppy?",
-      "punchline": "We'll see - I'm not making any ruff promises!",
-      "categories": ["family", "animals"],
-      "tags": ["mom", "kid", "puppy", "ruff", "rough", "wordplay", "pets"]
-    },
-    {
-      "id": 379,
-      "setup": "Why did the dad bring a dictionary to dinner?",
-      "punchline": "Because his son wanted to eat his words!",
-      "categories": ["family", "food"],
-      "tags": ["dad", "dictionary", "dinner", "eat words", "wordplay", "talking", "apology"]
-    },
-    {
-      "id": 380,
-      "setup": "What did the papa fish say to his baby fish?",
-      "punchline": "You're fin-tastic!",
-      "categories": ["family", "animals"],
-      "tags": ["fish", "papa", "baby", "fin", "fantastic", "wordplay", "ocean"]
-    },
-    {
-      "id": 381,
-      "setup": "Why did the mom bring a stopwatch to the family race?",
-      "punchline": "She wanted to see who had the best family time!",
-      "categories": ["family", "sports"],
-      "tags": ["mom", "stopwatch", "race", "family time", "wordplay", "running", "competition"]
-    },
-    {
-      "id": 382,
-      "setup": "What did the grandfather say when he lost his glasses?",
-      "punchline": "I've lost sight of what's important!",
-      "categories": ["family", "home"],
-      "tags": ["grandfather", "glasses", "lost", "sight", "wordplay", "vision", "important"]
-    },
-    {
-      "id": 383,
-      "setup": "Why did the dad put his kids on a scale?",
-      "punchline": "He wanted to see how much they weigh on his mind!",
-      "categories": ["family"],
-      "tags": ["dad", "kids", "scale", "weigh", "mind", "wordplay", "thinking"]
-    },
-    {
-      "id": 384,
-      "setup": "What did the mama bee say to her misbehaving baby bee?",
-      "punchline": "Bee-have yourself!",
-      "categories": ["family", "animals"],
-      "tags": ["bee", "mama", "baby", "behave", "wordplay", "insects", "discipline"]
-    },
-    {
-      "id": 385,
-      "setup": "Why did the sister put her brother in the blender?",
-      "punchline": "She wanted a baby brother smoothie! Just kidding - she wanted to mix things up!",
-      "categories": ["family", "food"],
-      "tags": ["sister", "brother", "blender", "smoothie", "mix up", "wordplay", "siblings"]
-    },
-    {
-      "id": 386,
-      "setup": "What did the dad say when his son wouldn't stop playing piano?",
-      "punchline": "You're really keying me up!",
-      "categories": ["family", "music"],
-      "tags": ["dad", "son", "piano", "keys", "keying up", "wordplay", "music"]
-    },
-    {
-      "id": 387,
-      "setup": "Why did the mom give her kids a compass?",
-      "punchline": "So they'd always know which direction to take in life!",
-      "categories": ["family", "travel"],
-      "tags": ["mom", "kids", "compass", "direction", "life", "wordplay", "guidance"]
-    },
-    {
-      "id": 388,
-      "setup": "What did the big hand on the clock say to the little hand?",
-      "punchline": "Got a minute?",
-      "categories": ["family", "home"],
-      "tags": ["clock", "hands", "minute", "time", "wordplay", "parent", "child"]
-    },
-    {
-      "id": 389,
-      "setup": "Why did the dad tell bad jokes?",
-      "punchline": "Because the good ones were too mainstream!",
-      "categories": ["family"],
-      "tags": ["dad", "jokes", "bad", "mainstream", "wordplay", "humor", "funny"]
-    },
-    {
-      "id": 390,
-      "setup": "What did the mama drum say to the baby drum?",
-      "punchline": "Beat it!",
-      "categories": ["family", "music"],
-      "tags": ["drum", "mama", "baby", "beat", "wordplay", "music", "instruments"]
-    },
-    {
-      "id": 391,
-      "setup": "Why did the grandmother bring a flashlight to the family reunion?",
-      "punchline": "To brighten up the conversation!",
-      "categories": ["family"],
-      "tags": ["grandmother", "flashlight", "reunion", "brighten", "conversation", "wordplay", "light"]
-    },
-    {
-      "id": 392,
-      "setup": "What did the dad say when his daughter asked about his workout?",
-      "punchline": "It's going well - I'm raising the bar!",
-      "categories": ["family", "sports"],
-      "tags": ["dad", "daughter", "workout", "raising the bar", "wordplay", "exercise", "fitness"]
-    },
-    {
-      "id": 393,
-      "setup": "Why did the uncle bring a vacuum to the barbecue?",
-      "punchline": "Because he heard it really sucks!",
-      "categories": ["family", "food"],
-      "tags": ["uncle", "vacuum", "barbecue", "sucks", "wordplay", "cleaning", "party"]
-    },
-    {
-      "id": 394,
-      "setup": "What did the mom say when her son asked for a bedtime story?",
-      "punchline": "Once upon a time... now go to sleep!",
-      "categories": ["family"],
-      "tags": ["mom", "son", "bedtime story", "sleep", "wordplay", "once upon a time", "night"]
-    },
-    {
-      "id": 395,
-      "setup": "Why did the grandfather bring a tennis racket to dinner?",
-      "punchline": "In case anyone wanted to serve the food!",
-      "categories": ["family", "sports"],
-      "tags": ["grandfather", "tennis racket", "dinner", "serve", "wordplay", "food", "sports"]
-    },
-    {
-      "id": 396,
-      "setup": "What did the dad say when his son became a gardener?",
-      "punchline": "Son, I'm so proud - you've really grown!",
-      "categories": ["family", "outdoors"],
-      "tags": ["dad", "son", "gardener", "grown", "proud", "wordplay", "plants"]
-    },
-    {
-      "id": 397,
-      "setup": "Why did the mom bring a scale to the bakery?",
-      "punchline": "She wanted to weigh her options!",
-      "categories": ["family", "food"],
-      "tags": ["mom", "scale", "bakery", "weigh", "options", "wordplay", "decisions"]
-    },
-    {
-      "id": 398,
-      "setup": "What did the sister say when her brother told a bad joke?",
-      "punchline": "That's not even remotely funny - unlike the TV!",
-      "categories": ["family", "technology"],
-      "tags": ["sister", "brother", "joke", "remotely", "TV", "wordplay", "siblings"]
-    },
-    {
-      "id": 399,
-      "setup": "Why did the baby strawberry cry?",
-      "punchline": "Because its parents were in a jam!",
-      "categories": ["family", "food"],
-      "tags": ["baby", "strawberry", "crying", "parents", "jam", "wordplay", "fruit"]
-    },
-    {
-      "id": 400,
-      "setup": "What did the dad say when the family got lost on the road trip?",
-      "punchline": "Don't worry, we're making great time... wherever we're going!",
-      "categories": ["family", "travel"],
-      "tags": ["dad", "family", "road trip", "lost", "great time", "wordplay", "vacation"]
-    },
-    {
-      "id": 401,
-      "setup": "Why did the unicorn cross the road?",
-      "punchline": "To get to the other side of the rainbow!",
-      "categories": ["fantasy"],
-      "tags": ["unicorn", "rainbow", "crossing", "magical", "mythical", "horses", "wordplay"]
-    },
-    {
-      "id": 402,
-      "setup": "What do you call a fairy that doesn't take a bath?",
-      "punchline": "Stinker Bell!",
-      "categories": ["fantasy"],
-      "tags": ["fairy", "tinker bell", "bath", "smelly", "wordplay", "disney", "hygiene"]
-    },
-    {
-      "id": 403,
-      "setup": "Why don't dragons ever make good comedians?",
-      "punchline": "Because their jokes always fall flat... then burst into flames!",
-      "categories": ["fantasy"],
-      "tags": ["dragons", "comedy", "fire", "jokes", "wordplay", "mythical", "breathing fire"]
-    },
-    {
-      "id": 404,
-      "setup": "What do you call a wizard who's really good at golf?",
-      "punchline": "Harry Putter!",
-      "categories": ["fantasy", "sports"],
-      "tags": ["wizard", "golf", "harry potter", "putter", "wordplay", "magic", "sports"]
-    },
-    {
-      "id": 405,
-      "setup": "Why did the leprechaun turn down the job?",
-      "punchline": "The pay was too low - he wanted more gold!",
-      "categories": ["fantasy", "work"],
-      "tags": ["leprechaun", "job", "gold", "irish", "wordplay", "money", "pot of gold"]
-    },
-    {
-      "id": 406,
-      "setup": "What's a mermaid's favorite subject in school?",
-      "punchline": "Algae-bra!",
-      "categories": ["fantasy", "school"],
-      "tags": ["mermaid", "school", "algebra", "algae", "wordplay", "math", "ocean"]
-    },
-    {
-      "id": 407,
-      "setup": "Why did the troll start a podcast?",
-      "punchline": "Because he was great at living under bridges... and the internet!",
-      "categories": ["fantasy", "technology"],
-      "tags": ["troll", "podcast", "bridge", "internet troll", "wordplay", "mythical", "online"]
-    },
-    {
-      "id": 408,
-      "setup": "What do you call a unicorn with no horn?",
-      "punchline": "A horse with a great imagination!",
-      "categories": ["fantasy", "animals"],
-      "tags": ["unicorn", "horn", "horse", "imagination", "wordplay", "mythical", "pretend"]
-    },
-    {
-      "id": 409,
-      "setup": "Why did the elf go to therapy?",
-      "punchline": "He had low shelf esteem!",
-      "categories": ["fantasy", "work"],
-      "tags": ["elf", "therapy", "shelf", "self-esteem", "wordplay", "short", "mental health"]
-    },
-    {
-      "id": 410,
-      "setup": "What do you call a dragon that loves to read?",
-      "punchline": "A book wyrm!",
-      "categories": ["fantasy", "school"],
-      "tags": ["dragon", "reading", "bookworm", "wyrm", "wordplay", "books", "mythical"]
-    },
-    {
-      "id": 411,
-      "setup": "Why don't witches wear flat hats?",
-      "punchline": "Because there's no point!",
-      "categories": ["fantasy"],
-      "tags": ["witches", "hats", "pointy", "point", "wordplay", "magic", "fashion"]
-    },
-    {
-      "id": 412,
-      "setup": "What's a ghost's favorite dessert?",
-      "punchline": "Boo-berry pie!",
-      "categories": ["fantasy", "food"],
-      "tags": ["ghost", "dessert", "blueberry", "boo", "wordplay", "spooky", "pie"]
-    },
-    {
-      "id": 413,
-      "setup": "Why did the phoenix make a terrible employee?",
-      "punchline": "Because it kept getting fired!",
-      "categories": ["fantasy", "work"],
-      "tags": ["phoenix", "employee", "fired", "fire", "wordplay", "mythical", "job"]
-    },
-    {
-      "id": 414,
-      "setup": "What do you call a magical dog?",
-      "punchline": "A Labracadabrador!",
-      "categories": ["fantasy", "animals"],
-      "tags": ["dog", "magic", "labrador", "abracadabra", "wordplay", "pets", "spells"]
-    },
-    {
-      "id": 415,
-      "setup": "Why did the vampire go to art school?",
-      "punchline": "Because he wanted to learn how to draw blood!",
-      "categories": ["fantasy", "school"],
-      "tags": ["vampire", "art school", "draw", "blood", "wordplay", "spooky", "learning"]
-    },
-    {
-      "id": 416,
-      "setup": "What do you call a fairy that never cleans?",
-      "punchline": "Dust-inkerbell!",
-      "categories": ["fantasy", "home"],
-      "tags": ["fairy", "cleaning", "dust", "tinker bell", "wordplay", "messy", "housework"]
-    },
-    {
-      "id": 417,
-      "setup": "Why don't ogres ever share their food?",
-      "punchline": "Because they're too shellfish... wait, that's mermaids!",
-      "categories": ["fantasy", "food"],
-      "tags": ["ogres", "sharing", "food", "selfish", "wordplay", "shrek", "mythical"]
-    },
-    {
-      "id": 418,
-      "setup": "What do you call a wizard's nervous twitch?",
-      "punchline": "A spelling bee!",
-      "categories": ["fantasy", "school"],
-      "tags": ["wizard", "twitch", "spelling", "bee", "wordplay", "magic", "spells"]
-    },
-    {
-      "id": 419,
-      "setup": "Why did the genie get in trouble at school?",
-      "punchline": "He kept granting wishes instead of doing his homework!",
-      "categories": ["fantasy", "school"],
-      "tags": ["genie", "school", "wishes", "homework", "magic", "aladdin", "trouble"]
-    },
-    {
-      "id": 420,
-      "setup": "What's a dragon's favorite day of the week?",
-      "punchline": "Fry-day!",
-      "categories": ["fantasy"],
-      "tags": ["dragon", "friday", "fry", "fire", "wordplay", "days", "breathing fire"]
-    },
-    {
-      "id": 421,
-      "setup": "Why did the mermaid blush?",
-      "punchline": "Because she saw the ocean's bottom!",
-      "categories": ["fantasy", "geography"],
-      "tags": ["mermaid", "blushing", "ocean", "bottom", "wordplay", "sea", "embarrassed"]
-    },
-    {
-      "id": 422,
-      "setup": "What do you call a leprechaun who goes to jail?",
-      "punchline": "A lepre-con!",
-      "categories": ["fantasy"],
-      "tags": ["leprechaun", "jail", "con", "criminal", "wordplay", "irish", "prisoner"]
-    },
-    {
-      "id": 423,
-      "setup": "Why don't centaurs ever win at poker?",
-      "punchline": "Because they always show their hand... and their hoof!",
-      "categories": ["fantasy"],
-      "tags": ["centaur", "poker", "cards", "hand", "hoof", "wordplay", "mythical"]
-    },
-    {
-      "id": 424,
-      "setup": "What do you call a magical owl?",
-      "punchline": "Hoo-dini!",
-      "categories": ["fantasy", "animals"],
-      "tags": ["owl", "magic", "houdini", "hoo", "wordplay", "bird", "magician"]
-    },
-    {
-      "id": 425,
-      "setup": "Why did the witch break up with the warlock?",
-      "punchline": "Because he was a poor spell-er!",
-      "categories": ["fantasy"],
-      "tags": ["witch", "warlock", "breakup", "spell", "speller", "wordplay", "magic"]
-    },
-    {
-      "id": 426,
-      "setup": "What do you call a giant who steals all your soap?",
-      "punchline": "A clean freak!",
-      "categories": ["fantasy", "home"],
-      "tags": ["giant", "soap", "clean", "stealing", "wordplay", "hygiene", "fairy tale"]
-    },
-    {
-      "id": 427,
-      "setup": "Why did the elf refuse dessert?",
-      "punchline": "Because he was already stuffed from making toys!",
-      "categories": ["fantasy", "food"],
-      "tags": ["elf", "dessert", "stuffed", "toys", "christmas", "wordplay", "santa"]
-    },
-    {
-      "id": 428,
-      "setup": "What's a unicorn's favorite type of story?",
-      "punchline": "A fairy tale with a happy horn-ding!",
-      "categories": ["fantasy"],
-      "tags": ["unicorn", "story", "fairy tale", "horn", "ending", "wordplay", "happy"]
-    },
-    {
-      "id": 429,
-      "setup": "Why did the goblin start a bakery?",
-      "punchline": "Because he loved making goblin-cakes!",
-      "categories": ["fantasy", "food"],
-      "tags": ["goblin", "bakery", "bundt cakes", "baking", "wordplay", "mythical", "dessert"]
-    },
-    {
-      "id": 430,
-      "setup": "What do you call a wizard who's bad at magic?",
-      "punchline": "Ian... not a very good magician!",
-      "categories": ["fantasy"],
-      "tags": ["wizard", "bad magic", "magician", "wordplay", "pun", "spells", "incompetent"]
-    },
-    {
-      "id": 431,
-      "setup": "Why did the dragon go to the dentist?",
-      "punchline": "Because his breath was too hot to handle!",
-      "categories": ["fantasy"],
-      "tags": ["dragon", "dentist", "breath", "hot", "fire", "wordplay", "teeth"]
-    },
-    {
-      "id": 432,
-      "setup": "What do you call a sleeping witch?",
-      "punchline": "Broom-hilda!",
-      "categories": ["fantasy"],
-      "tags": ["witch", "sleeping", "broom", "broomhilda", "wordplay", "nap", "magic"]
-    },
-    {
-      "id": 433,
-      "setup": "Why don't vampires have more friends?",
-      "punchline": "Because they're a pain in the neck!",
-      "categories": ["fantasy"],
-      "tags": ["vampires", "friends", "neck", "pain", "wordplay", "biting", "spooky"]
-    },
-    {
-      "id": 434,
-      "setup": "What do you call a fairy that works at a coffee shop?",
-      "punchline": "A Java-winkle!",
-      "categories": ["fantasy", "food"],
-      "tags": ["fairy", "coffee", "java", "periwinkle", "wordplay", "barista", "magical"]
-    },
-    {
-      "id": 435,
-      "setup": "Why did the griffin get a job at the zoo?",
-      "punchline": "Because he was part eagle and part lion - he was over-qualified!",
-      "categories": ["fantasy", "work"],
-      "tags": ["griffin", "zoo", "eagle", "lion", "qualified", "job", "mythical"]
-    },
-    {
-      "id": 436,
-      "setup": "What do you call a mermaid who can sing opera?",
-      "punchline": "A tune-a fish!",
-      "categories": ["fantasy", "music"],
-      "tags": ["mermaid", "opera", "tuna", "singing", "wordplay", "fish", "musical"]
-    },
-    {
-      "id": 437,
-      "setup": "Why did the sorcerer carry a pencil?",
-      "punchline": "In case he needed to draw his wand!",
-      "categories": ["fantasy", "school"],
-      "tags": ["sorcerer", "pencil", "draw", "wand", "wordplay", "magic", "writing"]
-    },
-    {
-      "id": 438,
-      "setup": "What's a ghost's favorite ride at the amusement park?",
-      "punchline": "The roller-ghoster!",
-      "categories": ["fantasy", "travel"],
-      "tags": ["ghost", "amusement park", "roller coaster", "wordplay", "spooky", "ride", "fun"]
-    },
-    {
-      "id": 439,
-      "setup": "Why did the gnome become a banker?",
-      "punchline": "Because he was great with small change!",
-      "categories": ["fantasy", "work"],
-      "tags": ["gnome", "banker", "small", "change", "wordplay", "money", "tiny"]
-    },
-    {
-      "id": 440,
-      "setup": "What do you call a dragon who works at a restaurant?",
-      "punchline": "A flamer-on grill cook!",
-      "categories": ["fantasy", "food"],
-      "tags": ["dragon", "restaurant", "flame", "grill", "wordplay", "cooking", "fire"]
-    },
-    {
-      "id": 441,
-      "setup": "Why don't elves ever get lonely?",
-      "punchline": "Because they always hang out in shelves!",
-      "categories": ["fantasy"],
-      "tags": ["elves", "lonely", "shelves", "wordplay", "small", "groups", "mythical"]
-    },
-    {
-      "id": 442,
-      "setup": "What do you call a werewolf who does stand-up comedy?",
-      "punchline": "A howl-arious performer!",
-      "categories": ["fantasy"],
-      "tags": ["werewolf", "comedy", "howl", "hilarious", "wordplay", "stand-up", "monster"]
-    },
-    {
-      "id": 443,
-      "setup": "Why did the witch's broom get an award?",
-      "punchline": "Because it was outstanding in its field... of sweeping!",
-      "categories": ["fantasy", "home"],
-      "tags": ["witch", "broom", "award", "sweeping", "wordplay", "flying", "cleaning"]
-    },
-    {
-      "id": 444,
-      "setup": "What do you call a magical cat?",
-      "punchline": "Hocus Pocus with whiskers!",
-      "categories": ["fantasy", "animals"],
-      "tags": ["cat", "magic", "hocus pocus", "whiskers", "wordplay", "spell", "pet"]
-    },
-    {
-      "id": 445,
-      "setup": "Why did the cyclops close his school?",
-      "punchline": "Because he only had one pupil!",
-      "categories": ["fantasy", "school"],
-      "tags": ["cyclops", "school", "pupil", "eye", "one", "wordplay", "mythical"]
-    },
-    {
-      "id": 446,
-      "setup": "What's a vampire's favorite fruit?",
-      "punchline": "A blood orange!",
-      "categories": ["fantasy", "food"],
-      "tags": ["vampire", "fruit", "blood orange", "wordplay", "spooky", "citrus", "eating"]
-    },
-    {
-      "id": 447,
-      "setup": "Why did the princess kiss the frog?",
-      "punchline": "Because she wanted to see what all the hopping was about!",
-      "categories": ["fantasy", "animals"],
-      "tags": ["princess", "frog", "kiss", "hopping", "fairy tale", "wordplay", "prince"]
-    },
-    {
-      "id": 448,
-      "setup": "What do you call a lazy dragon?",
-      "punchline": "A drag-on!",
-      "categories": ["fantasy"],
-      "tags": ["dragon", "lazy", "drag", "slow", "wordplay", "mythical", "tired"]
-    },
-    {
-      "id": 449,
-      "setup": "Why did the genie get a smartphone?",
-      "punchline": "So people could make wireless wishes!",
-      "categories": ["fantasy", "technology"],
-      "tags": ["genie", "smartphone", "wireless", "wishes", "wordplay", "tech", "magic"]
-    },
-    {
-      "id": 450,
-      "setup": "What's a wizard's favorite computer program?",
-      "punchline": "Spell-check!",
-      "categories": ["fantasy", "technology"],
-      "tags": ["wizard", "computer", "spell check", "spells", "wordplay", "magic", "tech"]
-    },
-    {
-      "id": 451,
-      "setup": "Why did the mermaid wear seashells?",
-      "punchline": "Because she outgrew her B-shells!",
-      "categories": ["fantasy"],
-      "tags": ["mermaid", "seashells", "bra", "size", "wordplay", "ocean", "fashion"]
-    },
-    {
-      "id": 452,
-      "setup": "What do you call a polite unicorn?",
-      "punchline": "A uni-corny gentleman!",
-      "categories": ["fantasy"],
-      "tags": ["unicorn", "polite", "corny", "gentleman", "wordplay", "mythical", "manners"]
-    },
-    {
-      "id": 453,
-      "setup": "Why did the witch fail her driving test?",
-      "punchline": "She kept flying through stop signs!",
-      "categories": ["fantasy", "travel"],
-      "tags": ["witch", "driving", "flying", "broom", "stop signs", "wordplay", "test"]
-    },
-    {
-      "id": 454,
-      "setup": "What do you call a fairy that lives in a toadstool?",
-      "punchline": "A fun-gi to be around!",
-      "categories": ["fantasy", "outdoors"],
-      "tags": ["fairy", "toadstool", "fungi", "fun guy", "wordplay", "mushroom", "nature"]
-    },
-    {
-      "id": 455,
-      "setup": "Why don't ghosts like rain?",
-      "punchline": "Because it dampens their spirits!",
-      "categories": ["fantasy"],
-      "tags": ["ghosts", "rain", "spirits", "dampens", "wordplay", "weather", "spooky"]
-    },
-    {
-      "id": 456,
-      "setup": "What do you call a dragon with no wings?",
-      "punchline": "A ground-dwelling fire hazard!",
-      "categories": ["fantasy"],
-      "tags": ["dragon", "wings", "ground", "fire", "hazard", "wordplay", "walking"]
-    },
-    {
-      "id": 457,
-      "setup": "Why did the elf bring a ladder to the party?",
-      "punchline": "Because he heard the drinks were on the top shelf!",
-      "categories": ["fantasy"],
-      "tags": ["elf", "ladder", "party", "shelf", "short", "wordplay", "drinks"]
-    },
-    {
-      "id": 458,
-      "setup": "What's a werewolf's favorite day of the week?",
-      "punchline": "Moon-day!",
-      "categories": ["fantasy"],
-      "tags": ["werewolf", "monday", "moon", "day", "wordplay", "transformation", "week"]
-    },
-    {
-      "id": 459,
-      "setup": "Why did the knight break up with his girlfriend?",
-      "punchline": "Because she said his armor was too clingy!",
-      "categories": ["fantasy"],
-      "tags": ["knight", "girlfriend", "armor", "clingy", "wordplay", "medieval", "breakup"]
-    },
-    {
-      "id": 460,
-      "setup": "What do you call a magical horse that lives in the city?",
-      "punchline": "An urban-icorn!",
-      "categories": ["fantasy", "geography"],
-      "tags": ["unicorn", "city", "urban", "horse", "wordplay", "mythical", "downtown"]
-    },
-    {
-      "id": 461,
-      "setup": "Why did the ogre eat the comedian?",
-      "punchline": "He wanted a well-seasoned meal with some good taste!",
-      "categories": ["fantasy", "food"],
-      "tags": ["ogre", "comedian", "eating", "taste", "humor", "wordplay", "monster"]
-    },
-    {
-      "id": 462,
-      "setup": "What do you call a witch's garage?",
-      "punchline": "A broom closet!",
-      "categories": ["fantasy", "home"],
-      "tags": ["witch", "garage", "broom", "closet", "wordplay", "storage", "flying"]
-    },
-    {
-      "id": 463,
-      "setup": "Why did the fairy godmother become a hairdresser?",
-      "punchline": "Because she was great at making hair-raising transformations!",
-      "categories": ["fantasy", "work"],
-      "tags": ["fairy godmother", "hairdresser", "transformation", "hair", "wordplay", "magic", "cinderella"]
-    },
-    {
-      "id": 464,
-      "setup": "What do you call a sphinx that tells bad jokes?",
-      "punchline": "A riddick-ulous creature!",
-      "categories": ["fantasy"],
-      "tags": ["sphinx", "jokes", "riddles", "ridiculous", "wordplay", "mythical", "egypt"]
-    },
-    {
-      "id": 465,
-      "setup": "Why did the vampire become a teacher?",
-      "punchline": "Because he heard there was a lot of blood type-A students!",
-      "categories": ["fantasy", "school"],
-      "tags": ["vampire", "teacher", "blood", "type A", "students", "wordplay", "school"]
-    },
-    {
-      "id": 466,
-      "setup": "What do you call a dragon who does yoga?",
-      "punchline": "A fire-breathing relaxation expert!",
-      "categories": ["fantasy", "sports"],
-      "tags": ["dragon", "yoga", "fire", "breathing", "relaxation", "wordplay", "exercise"]
-    },
-    {
-      "id": 467,
-      "setup": "Why did the leprechaun refuse to climb the ladder?",
-      "punchline": "He didn't want to push his luck too high!",
-      "categories": ["fantasy"],
-      "tags": ["leprechaun", "ladder", "luck", "high", "wordplay", "irish", "climbing"]
-    },
-    {
-      "id": 468,
-      "setup": "What do you call a mermaid who fixes computers?",
-      "punchline": "A fish-nician!",
-      "categories": ["fantasy", "technology"],
-      "tags": ["mermaid", "computers", "technician", "fish", "wordplay", "tech", "repair"]
-    },
-    {
-      "id": 469,
-      "setup": "Why did the ghost join a band?",
-      "punchline": "Because he had great soul!",
-      "categories": ["fantasy", "music"],
-      "tags": ["ghost", "band", "soul", "music", "wordplay", "spirit", "singing"]
-    },
-    {
-      "id": 470,
-      "setup": "What do you call a clumsy fairy?",
-      "punchline": "Bumble-winkle!",
-      "categories": ["fantasy"],
-      "tags": ["fairy", "clumsy", "bumble", "periwinkle", "wordplay", "accident", "magical"]
-    },
-    {
-      "id": 471,
-      "setup": "Why did the wizard buy a new hat?",
-      "punchline": "Because his old one had lost its magic touch!",
-      "categories": ["fantasy"],
-      "tags": ["wizard", "hat", "magic", "old", "wordplay", "fashion", "spells"]
-    },
-    {
-      "id": 472,
-      "setup": "What do you call a centaur who runs marathons?",
-      "punchline": "A stable runner!",
-      "categories": ["fantasy", "sports"],
-      "tags": ["centaur", "marathon", "stable", "running", "wordplay", "horse", "exercise"]
-    },
-    {
-      "id": 473,
-      "setup": "Why did the troll start an online business?",
-      "punchline": "Because he was already an expert at bridge-building!",
-      "categories": ["fantasy", "work"],
-      "tags": ["troll", "online", "business", "bridge", "wordplay", "internet", "entrepreneur"]
-    },
-    {
-      "id": 474,
-      "setup": "What's a witch's favorite makeup?",
-      "punchline": "Ma-scare-a!",
-      "categories": ["fantasy"],
-      "tags": ["witch", "makeup", "mascara", "scare", "wordplay", "beauty", "spooky"]
-    },
-    {
-      "id": 475,
-      "setup": "Why did the unicorn go to the optometrist?",
-      "punchline": "To get his horn-rimmed glasses!",
-      "categories": ["fantasy"],
-      "tags": ["unicorn", "optometrist", "horn", "glasses", "wordplay", "vision", "eyes"]
-    },
-    {
-      "id": 476,
-      "setup": "What do you call a dragon who's a great chef?",
-      "punchline": "Gordon Ram-say... because everything is well done!",
-      "categories": ["fantasy", "food"],
-      "tags": ["dragon", "chef", "gordon ramsay", "well done", "wordplay", "cooking", "fire"]
-    },
-    {
-      "id": 477,
-      "setup": "Why did the elf get detention?",
-      "punchline": "For being too shelf-centered!",
-      "categories": ["fantasy", "school"],
-      "tags": ["elf", "detention", "shelf", "self-centered", "wordplay", "school", "trouble"]
-    },
-    {
-      "id": 478,
-      "setup": "What do you call a vampire who lives in the kitchen?",
-      "punchline": "Count Spatula!",
-      "categories": ["fantasy", "food"],
-      "tags": ["vampire", "kitchen", "count dracula", "spatula", "wordplay", "cooking", "spooky"]
-    },
-    {
-      "id": 479,
-      "setup": "Why did the pegasus win the race?",
-      "punchline": "Because he was flying through the competition!",
-      "categories": ["fantasy", "sports"],
-      "tags": ["pegasus", "race", "flying", "competition", "wordplay", "wings", "mythical"]
-    },
-    {
-      "id": 480,
-      "setup": "What do you call a lazy ghost?",
-      "punchline": "A boo-bonic plague on productivity!",
-      "categories": ["fantasy", "work"],
-      "tags": ["ghost", "lazy", "boo", "bubonic", "wordplay", "productivity", "spooky"]
-    },
-    {
-      "id": 481,
-      "setup": "Why did the gnome become a DJ?",
-      "punchline": "Because he loved underground music!",
-      "categories": ["fantasy", "music"],
-      "tags": ["gnome", "DJ", "underground", "music", "wordplay", "tiny", "garden"]
-    },
-    {
-      "id": 482,
-      "setup": "What do you call a mermaid's phone?",
-      "punchline": "A shell-phone!",
-      "categories": ["fantasy", "technology"],
-      "tags": ["mermaid", "phone", "shell", "cell phone", "wordplay", "ocean", "tech"]
-    },
-    {
-      "id": 483,
-      "setup": "Why did the sorcerer open a coffee shop?",
-      "punchline": "He specialized in magic beans!",
-      "categories": ["fantasy", "food"],
-      "tags": ["sorcerer", "coffee shop", "magic beans", "jack", "wordplay", "drinks", "fairy tale"]
-    },
-    {
-      "id": 484,
-      "setup": "What do you call a forgetful witch?",
-      "punchline": "Someone who keeps losing her hex-files!",
-      "categories": ["fantasy"],
-      "tags": ["witch", "forgetful", "hex", "x-files", "wordplay", "magic", "memory"]
-    },
-    {
-      "id": 485,
-      "setup": "Why did the dragon buy a computer?",
-      "punchline": "To improve his fire-wall!",
-      "categories": ["fantasy", "technology"],
-      "tags": ["dragon", "computer", "firewall", "fire", "wordplay", "tech", "security"]
-    },
-    {
-      "id": 486,
-      "setup": "What do you call a fairy who works out?",
-      "punchline": "A fitness sprite!",
-      "categories": ["fantasy", "sports"],
-      "tags": ["fairy", "workout", "sprite", "fitness", "wordplay", "exercise", "magical"]
-    },
-    {
-      "id": 487,
-      "setup": "Why did the giant go to the doctor?",
-      "punchline": "Because he was feeling a little giant-itis!",
-      "categories": ["fantasy"],
-      "tags": ["giant", "doctor", "sick", "gingivitis", "wordplay", "health", "big"]
-    },
-    {
-      "id": 488,
-      "setup": "What do you call a unicorn's dad?",
-      "punchline": "A pop-corn!",
-      "categories": ["fantasy", "family"],
-      "tags": ["unicorn", "dad", "popcorn", "horn", "wordplay", "father", "mythical"]
-    },
-    {
-      "id": 489,
-      "setup": "Why did the wizard break up with his calculator?",
-      "punchline": "Because he couldn't count on it for magic!",
-      "categories": ["fantasy", "math"],
-      "tags": ["wizard", "calculator", "count", "magic", "wordplay", "math", "breakup"]
-    },
-    {
-      "id": 490,
-      "setup": "What's a leprechaun's favorite type of music?",
-      "punchline": "Shamrock and roll!",
-      "categories": ["fantasy", "music"],
-      "tags": ["leprechaun", "music", "shamrock", "rock and roll", "wordplay", "irish", "dancing"]
-    },
-    {
-      "id": 491,
-      "setup": "Why did the ghost become a cheerleader?",
-      "punchline": "Because he had a lot of spirit!",
-      "categories": ["fantasy", "sports"],
-      "tags": ["ghost", "cheerleader", "spirit", "cheering", "wordplay", "spooky", "pep"]
-    },
-    {
-      "id": 492,
-      "setup": "What do you call a magical fish?",
-      "punchline": "A wizard of oz-ean!",
-      "categories": ["fantasy", "animals"],
-      "tags": ["fish", "magic", "wizard of oz", "ocean", "wordplay", "water", "spell"]
-    },
-    {
-      "id": 493,
-      "setup": "Why did the vampire open a blood bank?",
-      "punchline": "For liquid assets!",
-      "categories": ["fantasy", "work"],
-      "tags": ["vampire", "blood bank", "liquid", "assets", "wordplay", "money", "spooky"]
-    },
-    {
-      "id": 494,
-      "setup": "What do you call a dragon with a cold?",
-      "punchline": "A fire-breathing sneeze machine!",
-      "categories": ["fantasy"],
-      "tags": ["dragon", "cold", "sneezing", "fire", "sick", "wordplay", "mythical"]
-    },
-    {
-      "id": 495,
-      "setup": "Why did the elf refuse to play cards?",
-      "punchline": "Because he was afraid of dealing with the consequences!",
-      "categories": ["fantasy"],
-      "tags": ["elf", "cards", "dealing", "consequences", "wordplay", "games", "scared"]
-    },
-    {
-      "id": 496,
-      "setup": "What do you call a witch's report card?",
-      "punchline": "A grade-spell!",
-      "categories": ["fantasy", "school"],
-      "tags": ["witch", "report card", "grade", "spell", "wordplay", "school", "magic"]
-    },
-    {
-      "id": 497,
-      "setup": "Why did the mermaid bring a towel to school?",
-      "punchline": "In case there was a pop quiz and she needed to dry out!",
-      "categories": ["fantasy", "school"],
-      "tags": ["mermaid", "towel", "school", "pop quiz", "dry", "wordplay", "water"]
-    },
-    {
-      "id": 498,
-      "setup": "What do you call a magical cow?",
-      "punchline": "Moo-dini!",
-      "categories": ["fantasy", "animals"],
-      "tags": ["cow", "magic", "houdini", "moo", "wordplay", "farm", "tricks"]
-    },
-    {
-      "id": 499,
-      "setup": "Why did the goblin become a gardener?",
-      "punchline": "Because he had green thumbs... and green everything else!",
-      "categories": ["fantasy", "outdoors"],
-      "tags": ["goblin", "gardener", "green", "thumbs", "wordplay", "plants", "mythical"]
-    },
-    {
-      "id": 500,
-      "setup": "What do you call a polite ghost?",
-      "punchline": "A thanks-phantom!",
-      "categories": ["fantasy"],
-      "tags": ["ghost", "polite", "phantom", "thanks", "wordplay", "manners", "spooky"]
-    },
+    "id": 301,
+    "setup": "Why did the dad bring a ladder to the bar?",
+    "punchline": "Because he heard the drinks were on the house!",
+    "categories": ["family"],
+    "tags": ["dad", "bar", "ladder", "house", "classic"]
+  },
+  {
+    "id": 302,
+    "setup": "What did the daddy tomato say to the baby tomato?",
+    "punchline": "Catch up!",
+    "categories": ["family"],
+    "tags": ["parents", "kids", "tomato", "classic"]
+  },
+  {
+    "id": 303,
+    "setup": "Why do dads take an extra pair of socks golfing?",
+    "punchline": "In case they get a hole in one!",
+    "categories": ["family"],
+    "tags": ["dad", "golf", "socks", "classic"]
+  },
+  {
+    "id": 304,
+    "setup": "What did the mom broom say to the baby broom?",
+    "punchline": "It’s time to go to sweep!",
+    "categories": ["family"],
+    "tags": ["mom", "bedtime", "cleaning", "classic"]
+  },
+  {
+    "id": 305,
+    "setup": "Why did the father clock scold his son?",
+    "punchline": "Because he was talking back!",
+    "categories": ["family"],
+    "tags": ["father", "son", "clock", "pun"]
+  },
+  {
+    "id": 306,
+    "setup": "What did the mama corn say to the baby corn?",
+    "punchline": "Where’s pop?",
+    "categories": ["family"],
+    "tags": ["corn", "parents", "classic"]
+  },
+  {
+    "id": 307,
+    "setup": "Why did the kid put his dad in the fridge?",
+    "punchline": "Because he wanted a cold pop!",
+    "categories": ["family"],
+    "tags": ["kid", "dad", "pop", "classic"]
+  },
+  {
+    "id": 308,
+    "setup": "What do you call a grandma who tells jokes?",
+    "punchline": "A gram-cracker!",
+    "categories": ["family"],
+    "tags": ["grandma", "jokes", "classic"]
+  },
+  {
+    "id": 309,
+    "setup": "Why did the sister bring a pencil to the family reunion?",
+    "punchline": "In case she needed to draw some relatives!",
+    "categories": ["family"],
+    "tags": ["sister", "family", "reunion"]
+  },
+  {
+    "id": 310,
+    "setup": "What did the digital clock say to its mom?",
+    "punchline": "Look, Ma — no hands!",
+    "categories": ["family"],
+    "tags": ["mom", "clock", "classic"]
+  },
+
+  {
+    "id": 311,
+    "setup": "Why did the grandpa sit on the clock?",
+    "punchline": "He wanted to be on time!",
+    "categories": ["family"],
+    "tags": ["grandpa", "time", "classic"]
+  },
+  {
+    "id": 312,
+    "setup": "What did the dad spider say to his son?",
+    "punchline": "You spend too much time on the web!",
+    "categories": ["family"],
+    "tags": ["dad", "spider", "internet"]
+  },
+  {
+    "id": 313,
+    "setup": "Why did the baby light bulb love its mom?",
+    "punchline": "She brightened its day!",
+    "categories": ["family"],
+    "tags": ["mom", "light", "cute"]
+  },
+  {
+    "id": 314,
+    "setup": "Why did the dad joke book go to therapy?",
+    "punchline": "It had too many issues!",
+    "categories": ["family"],
+    "tags": ["dad", "jokes", "book"]
+  },
+  {
+    "id": 315,
+    "setup": "Why did the grandma knit three socks?",
+    "punchline": "Because her grandson grew another foot!",
+    "categories": ["family"],
+    "tags": ["grandma", "kids", "growth"]
+  },
+  {
+    "id": 316,
+    "setup": "What do you call a dad who falls through the ice?",
+    "punchline": "A pop-sicle!",
+    "categories": ["family"],
+    "tags": ["dad", "cold", "pun"]
+  },
+  {
+    "id": 317,
+    "setup": "Why did the dad sit on the calendar?",
+    "punchline": "He wanted to take a day off!",
+    "categories": ["family"],
+    "tags": ["dad", "calendar", "work"]
+  },
+  {
+    "id": 318,
+    "setup": "What did the papa tree say to the sapling?",
+    "punchline": "I’m rooting for you!",
+    "categories": ["family"],
+    "tags": ["parents", "support", "nature"]
+  },
+  {
+    "id": 319,
+    "setup": "Why did the mom bring a ruler to bed?",
+    "punchline": "To see how long she slept!",
+    "categories": ["family"],
+    "tags": ["mom", "sleep", "measurement"]
+  },
+  {
+    "id": 320,
+    "setup": "What did the dad say when the power went out?",
+    "punchline": "Well… I’m delighted!",
+    "categories": ["family"],
+    "tags": ["dad", "electricity", "pun"]
+  },
+
+  {
+    "id": 321,
+    "setup": "Why did the family go to the bank together?",
+    "punchline": "To check their balance!",
+    "categories": ["family"],
+    "tags": ["family", "money", "classic"]
+  },
+  {
+    "id": 322,
+    "setup": "What did the mom say when her kid asked for a puppy?",
+    "punchline": "I’m not making any ruff promises!",
+    "categories": ["family"],
+    "tags": ["mom", "pets", "pun"]
+  },
+  {
+    "id": 323,
+    "setup": "Why did the dad put wheels on his rocking chair?",
+    "punchline": "He wanted to rock and roll!",
+    "categories": ["family"],
+    "tags": ["dad", "music", "classic"]
+  },
+  {
+    "id": 324,
+    "setup": "What did the big hand on the clock say to the little hand?",
+    "punchline": "Got a minute?",
+    "categories": ["family"],
+    "tags": ["parent", "child", "time"]
+  },
+  {
+    "id": 325,
+    "setup": "Why did the mom bring a scale to the bakery?",
+    "punchline": "She wanted to weigh her options!",
+    "categories": ["family"],
+    "tags": ["mom", "decisions", "food"]
+  },
+  {
+    "id": 326,
+    "setup": "What did the dad say when his son became a gardener?",
+    "punchline": "I’m proud — you’ve really grown!",
+    "categories": ["family"],
+    "tags": ["dad", "son", "proud"]
+  },
+  {
+    "id": 327,
+    "setup": "Why did the grandma give directions?",
+    "punchline": "So everyone could find their way to her heart!",
+    "categories": ["family"],
+    "tags": ["grandma", "love", "family"]
+  },
+  {
+    "id": 328,
+    "setup": "What did the mama bee say to her misbehaving kid?",
+    "punchline": "Bee-have yourself!",
+    "categories": ["family"],
+    "tags": ["mom", "discipline", "animals"]
+  },
+  {
+    "id": 329,
+    "setup": "Why did the dad bring a dictionary to dinner?",
+    "punchline": "Because someone was going to eat their words!",
+    "categories": ["family"],
+    "tags": ["dad", "words", "classic"]
+  },
+  {
+    "id": 330,
+    "setup": "What did the papa fish say to his baby?",
+    "punchline": "You’re fin-tastic!",
+    "categories": ["family"],
+    "tags": ["dad", "animals", "cute"]
+  },
+
+  {
+    "id": 331,
+    "setup": "Why did the dad say bad jokes?",
+    "punchline": "Because the good ones were too mainstream!",
+    "categories": ["family"],
+    "tags": ["dad", "jokes", "meta"]
+  },
+  {
+    "id": 332,
+    "setup": "What did the mom say at bedtime?",
+    "punchline": "I love you… now go to sleep!",
+    "categories": ["family"],
+    "tags": ["mom", "bedtime", "kids"]
+  },
+  {
+    "id": 333,
+    "setup": "Why did the dad bring a compass?",
+    "punchline": "To keep the family on the right path!",
+    "categories": ["family"],
+    "tags": ["dad", "guidance", "family"]
+  },
+  {
+    "id": 334,
+    "setup": "What did the grandfather clock say to the kid clock?",
+    "punchline": "When I was your age, I had more time!",
+    "categories": ["family"],
+    "tags": ["grandparent", "time", "classic"]
+  },
+  {
+    "id": 335,
+    "setup": "Why did the dad buy a boat?",
+    "punchline": "Because his ship finally came in!",
+    "categories": ["family"],
+    "tags": ["dad", "success", "pun"]
+  },
+
+  {
+    "id": 336,
+    "setup": "Why did the mom put the report card on the fridge?",
+    "punchline": "To keep the grades cool!",
+    "categories": ["family"],
+    "tags": ["mom", "school", "kids"]
+  },
+  {
+    "id": 337,
+    "setup": "What did the dad say when the car broke down?",
+    "punchline": "Well… that’s not ideal.",
+    "categories": ["family"],
+    "tags": ["dad", "car", "dry humor"]
+  },
+  {
+    "id": 338,
+    "setup": "Why did the dad sit in the shade?",
+    "punchline": "Because the kids were throwing too much shade!",
+    "categories": ["family"],
+    "tags": ["dad", "kids", "shade"]
+  },
+  {
+    "id": 339,
+    "setup": "What did the mom say when dinner was ready?",
+    "punchline": "Food’s done — arguments start now!",
+    "categories": ["family"],
+    "tags": ["mom", "dinner", "family"]
+  },
+  {
+    "id": 340,
+    "setup": "Why did the dad bring a flashlight?",
+    "punchline": "In case the kids needed some light discipline!",
+    "categories": ["family"],
+    "tags": ["dad", "discipline", "pun"]
+  },
+
+  {
+    "id": 341,
+    "setup": "Why did the dad put the car in the oven?",
+    "punchline": "He wanted a hot rod!",
+    "categories": ["family"],
+    "tags": ["dad", "car", "classic"]
+  },
+  {
+    "id": 342,
+    "setup": "What did the mom say when her kid asked for money?",
+    "punchline": "I’m not made of it!",
+    "categories": ["family"],
+    "tags": ["mom", "money", "classic"]
+  },
+  {
+    "id": 343,
+    "setup": "Why did the dad bring a pencil to bed?",
+    "punchline": "To draw the curtains!",
+    "categories": ["family"],
+    "tags": ["dad", "bedtime", "pun"]
+  },
+  {
+    "id": 344,
+    "setup": "What did the parent math book say to the child math book?",
+    "punchline": "You can count on me!",
+    "categories": ["family"],
+    "tags": ["parents", "support", "school"]
+  },
+  {
+    "id": 345,
+    "setup": "Why did the dad wear sunglasses indoors?",
+    "punchline": "Because his kids were too bright!",
+    "categories": ["family"],
+    "tags": ["dad", "kids", "proud"]
+  },
+
+  {
+    "id": 346,
+    "setup": "What did the mom say when the house was quiet?",
+    "punchline": "Something’s wrong.",
+    "categories": ["family"],
+    "tags": ["mom", "kids", "truth"]
+  },
+  {
+    "id": 347,
+    "setup": "Why did the dad bring a notebook to the reunion?",
+    "punchline": "To keep track of the family history!",
+    "categories": ["family"],
+    "tags": ["dad", "family", "reunion"]
+  },
+  {
+    "id": 348,
+    "setup": "What did the dad say when his kid learned to walk?",
+    "punchline": "There goes my free time!",
+    "categories": ["family"],
+    "tags": ["dad", "parenting", "kids"]
+  },
+  {
+    "id": 349,
+    "setup": "Why did the grandma plant flowers?",
+    "punchline": "To help the family grow!",
+    "categories": ["family"],
+    "tags": ["grandma", "family", "growth"]
+  },
+  {
+    "id": 350,
+    "setup": "What did the dad say on the road trip?",
+    "punchline": "We’re not lost — we’re exploring!",
+    "categories": ["family"],
+    "tags": ["dad", "travel", "classic"]
+  },
+    {
+    "id": 351,
+    "setup": "Why did the dad bring a ruler to dinner?",
+    "punchline": "To see how long the meal would last!",
+    "categories": ["family"],
+    "tags": ["dad", "dinner", "measurement", "wordplay"]
+  },
+  {
+    "id": 352,
+    "setup": "Why did the mom bring a ladder to the kitchen?",
+    "punchline": "Because the recipe was on another level!",
+    "categories": ["family"],
+    "tags": ["mom", "cooking", "ladder", "wordplay"]
+  },
+  {
+    "id": 353,
+    "setup": "Why did the dad bring string to the family dinner?",
+    "punchline": "In case he needed to tie up loose ends!",
+    "categories": ["family"],
+    "tags": ["dad", "family", "string", "wordplay"]
+  },
+  {
+    "id": 354,
+    "setup": "Why did the grandpa sit on the clock?",
+    "punchline": "He wanted to be on time!",
+    "categories": ["family"],
+    "tags": ["grandpa", "clock", "time", "classic"]
+  },
+  {
+    "id": 355,
+    "setup": "Why did the dad bring a pencil to the reunion?",
+    "punchline": "To draw closer to the family!",
+    "categories": ["family"],
+    "tags": ["dad", "family", "pencil", "wordplay"]
+  },
+  {
+    "id": 356,
+    "setup": "Why did the mom bring a flashlight to dinner?",
+    "punchline": "She wanted to shed some light on the situation!",
+    "categories": ["family"],
+    "tags": ["mom", "flashlight", "wordplay"]
+  },
+  {
+    "id": 357,
+    "setup": "Why did the dad bring a map to the family reunion?",
+    "punchline": "Because the family tree was confusing!",
+    "categories": ["family"],
+    "tags": ["dad", "reunion", "family tree", "wordplay"]
+  },
+  {
+    "id": 358,
+    "setup": "Why did the grandma put her money in the freezer?",
+    "punchline": "She wanted cold hard cash!",
+    "categories": ["family"],
+    "tags": ["grandma", "money", "classic", "wordplay"]
+  },
+  {
+    "id": 359,
+    "setup": "Why did the dad bring a notebook to the playground?",
+    "punchline": "To take notes on the kids!",
+    "categories": ["family"],
+    "tags": ["dad", "kids", "parenting", "wordplay"]
+  },
+  {
+    "id": 360,
+    "setup": "Why did the mom bring a broom to the car?",
+    "punchline": "She wanted a clean drive!",
+    "categories": ["family"],
+    "tags": ["mom", "car", "cleaning", "wordplay"]
+  },
+
+  {
+    "id": 361,
+    "setup": "Why did the dad bring sunglasses to the family meeting?",
+    "punchline": "Because the future was looking bright!",
+    "categories": ["family"],
+    "tags": ["dad", "future", "wordplay"]
+  },
+  {
+    "id": 362,
+    "setup": "Why did the grandma bring a ladder to church?",
+    "punchline": "To reach the high notes!",
+    "categories": ["family"],
+    "tags": ["grandma", "music", "ladder", "wordplay"]
+  },
+  {
+    "id": 363,
+    "setup": "Why did the dad bring a calculator to the picnic?",
+    "punchline": "To count his blessings!",
+    "categories": ["family"],
+    "tags": ["dad", "gratitude", "calculator", "wordplay"]
+  },
+  {
+    "id": 364,
+    "setup": "Why did the mom bring a scale to the bakery?",
+    "punchline": "She wanted to weigh her options!",
+    "categories": ["family"],
+    "tags": ["mom", "bakery", "choices", "wordplay"]
+  },
+  {
+    "id": 365,
+    "setup": "Why did the dad bring a ladder to the bar?",
+    "punchline": "Because the drinks were on the house!",
+    "categories": ["family"],
+    "tags": ["dad", "ladder", "house", "classic"]
+  },
+  {
+    "id": 366,
+    "setup": "Why did the grandpa bring a pencil to bed?",
+    "punchline": "In case he needed to draw the curtains!",
+    "categories": ["family"],
+    "tags": ["grandpa", "pencil", "wordplay"]
+  },
+  {
+    "id": 367,
+    "setup": "Why did the dad bring a stopwatch to dinner?",
+    "punchline": "He wanted to time the arguments!",
+    "categories": ["family"],
+    "tags": ["dad", "dinner", "family", "wordplay"]
+  },
+  {
+    "id": 368,
+    "setup": "Why did the mom bring a ruler to bedtime?",
+    "punchline": "To see how long the kids would sleep!",
+    "categories": ["family"],
+    "tags": ["mom", "bedtime", "measurement", "wordplay"]
+  },
+  {
+    "id": 369,
+    "setup": "Why did the dad bring a broom to the family meeting?",
+    "punchline": "To sweep things under the rug!",
+    "categories": ["family"],
+    "tags": ["dad", "meeting", "wordplay"]
+  },
+  {
+    "id": 370,
+    "setup": "Why did the grandma bring a dictionary to dinner?",
+    "punchline": "Someone told her they were going to eat their words!",
+    "categories": ["family"],
+    "tags": ["grandma", "dictionary", "wordplay"]
+  },
+
+  {
+    "id": 371,
+    "setup": "Why did the dad bring a clock to the picnic?",
+    "punchline": "Because he wanted a good time!",
+    "categories": ["family"],
+    "tags": ["dad", "time", "classic"]
+  },
+  {
+    "id": 372,
+    "setup": "Why did the mom bring a mirror to the family dinner?",
+    "punchline": "For a little self-reflection!",
+    "categories": ["family"],
+    "tags": ["mom", "mirror", "wordplay"]
+  },
+  {
+    "id": 373,
+    "setup": "Why did the dad bring a ladder to the bookshelf?",
+    "punchline": "To reach a higher level of reading!",
+    "categories": ["family"],
+    "tags": ["dad", "books", "ladder", "wordplay"]
+  },
+  {
+    "id": 374,
+    "setup": "Why did the grandpa bring a shovel to the family reunion?",
+    "punchline": "He heard there would be a lot of digging up the past!",
+    "categories": ["family"],
+    "tags": ["grandpa", "reunion", "past", "wordplay"]
+  },
+  {
+    "id": 375,
+    "setup": "Why did the mom bring a compass to dinner?",
+    "punchline": "To help guide the conversation!",
+    "categories": ["family"],
+    "tags": ["mom", "conversation", "direction", "wordplay"]
+  },
+  {
+    "id": 376,
+    "setup": "Why did the dad bring a helmet to the family game night?",
+    "punchline": "He knew things could get dicey!",
+    "categories": ["family"],
+    "tags": ["dad", "games", "wordplay"]
+  },
+  {
+    "id": 377,
+    "setup": "Why did the grandma bring a broom to the reunion?",
+    "punchline": "She wanted to sweep everyone off their feet!",
+    "categories": ["family"],
+    "tags": ["grandma", "reunion", "wordplay"]
+  },
+  {
+    "id": 378,
+    "setup": "Why did the dad bring a map to the couch?",
+    "punchline": "He didn’t want to get lost during a nap!",
+    "categories": ["family"],
+    "tags": ["dad", "nap", "map", "wordplay"]
+  },
+  {
+    "id": 379,
+    "setup": "Why did the mom bring a bell to dinner?",
+    "punchline": "To ring in family time!",
+    "categories": ["family"],
+    "tags": ["mom", "bell", "wordplay"]
+  },
+  {
+    "id": 380,
+    "setup": "Why did the dad bring a flashlight to the fridge?",
+    "punchline": "He was looking for a bright snack!",
+    "categories": ["family"],
+    "tags": ["dad", "food", "wordplay"]
+  },
+
+  {
+    "id": 381,
+    "setup": "Why did the grandpa bring a ladder to the garage?",
+    "punchline": "He wanted to raise the roof!",
+    "categories": ["family"],
+    "tags": ["grandpa", "garage", "wordplay"]
+  },
+  {
+    "id": 382,
+    "setup": "Why did the dad bring a notebook to bed?",
+    "punchline": "He didn’t want to sleep on any ideas!",
+    "categories": ["family"],
+    "tags": ["dad", "ideas", "wordplay"]
+  },
+  {
+    "id": 383,
+    "setup": "Why did the mom bring a clock to the oven?",
+    "punchline": "She wanted to watch dinner closely!",
+    "categories": ["family"],
+    "tags": ["mom", "cooking", "time", "wordplay"]
+  },
+  {
+    "id": 384,
+    "setup": "Why did the dad bring a pencil to the car?",
+    "punchline": "To draw a conclusion!",
+    "categories": ["family"],
+    "tags": ["dad", "pencil", "classic"]
+  },
+  {
+    "id": 385,
+    "setup": "Why did the grandma bring a ruler to the garden?",
+    "punchline": "She wanted to see how much the kids had grown!",
+    "categories": ["family"],
+    "tags": ["grandma", "growth", "wordplay"]
+  },
+  {
+    "id": 386,
+    "setup": "Why did the dad bring a suitcase to the couch?",
+    "punchline": "He was planning a power nap!",
+    "categories": ["family"],
+    "tags": ["dad", "nap", "wordplay"]
+  },
+  {
+    "id": 387,
+    "setup": "Why did the mom bring a bell to bedtime?",
+    "punchline": "To ring in quiet time!",
+    "categories": ["family"],
+    "tags": ["mom", "bedtime", "wordplay"]
+  },
+  {
+    "id": 388,
+    "setup": "Why did the grandpa bring a map to the backyard?",
+    "punchline": "He didn’t want to lose his bearings!",
+    "categories": ["family"],
+    "tags": ["grandpa", "map", "wordplay"]
+  },
+  {
+    "id": 389,
+    "setup": "Why did the dad bring a mirror to the family photo?",
+    "punchline": "He wanted to reflect on the moment!",
+    "categories": ["family"],
+    "tags": ["dad", "photo", "wordplay"]
+  },
+  {
+    "id": 390,
+    "setup": "Why did the mom bring a ladder to bedtime stories?",
+    "punchline": "Because the plot was climbing!",
+    "categories": ["family"],
+    "tags": ["mom", "books", "ladder", "wordplay"]
+  },
+
+  {
+    "id": 391,
+    "setup": "Why did the dad bring a stopwatch to the couch?",
+    "punchline": "He wanted to time his nap!",
+    "categories": ["family"],
+    "tags": ["dad", "nap", "wordplay"]
+  },
+  {
+    "id": 392,
+    "setup": "Why did the grandma bring a pencil to dinner?",
+    "punchline": "To make a good point!",
+    "categories": ["family"],
+    "tags": ["grandma", "pencil", "classic"]
+  },
+  {
+    "id": 393,
+    "setup": "Why did the dad bring a compass to the kitchen?",
+    "punchline": "He was looking for direction in life!",
+    "categories": ["family"],
+    "tags": ["dad", "direction", "wordplay"]
+  },
+  {
+    "id": 394,
+    "setup": "Why did the mom bring a ladder to the pantry?",
+    "punchline": "Because the snacks were on a higher shelf!",
+    "categories": ["family"],
+    "tags": ["mom", "snacks", "ladder"]
+  },
+  {
+    "id": 395,
+    "setup": "Why did the grandpa bring a flashlight to the couch?",
+    "punchline": "He was looking for the remote!",
+    "categories": ["family"],
+    "tags": ["grandpa", "tv", "classic"]
+  },
+  {
+    "id": 396,
+    "setup": "Why did the dad bring a ruler to the car?",
+    "punchline": "To measure how far they’d gone!",
+    "categories": ["family"],
+    "tags": ["dad", "travel", "wordplay"]
+  },
+  {
+    "id": 397,
+    "setup": "Why did the mom bring a clock to the playground?",
+    "punchline": "She wanted to watch the kids!",
+    "categories": ["family"],
+    "tags": ["mom", "kids", "time"]
+  },
+  {
+    "id": 398,
+    "setup": "Why did the grandpa bring a notebook to dinner?",
+    "punchline": "He didn’t want to forget the punchline!",
+    "categories": ["family"],
+    "tags": ["grandpa", "jokes", "wordplay"]
+  },
+  {
+    "id": 399,
+    "setup": "Why did the dad bring a broom to bedtime?",
+    "punchline": "To sweep the kids off to sleep!",
+    "categories": ["family"],
+    "tags": ["dad", "bedtime", "wordplay"]
+  },
+  {
+    "id": 400,
+    "setup": "Why did the mom bring a ladder to the couch?",
+    "punchline": "She heard the family was going to level up!",
+    "categories": ["family"],
+    "tags": ["mom", "family", "wordplay"]
+  },
+    {
+    "id": 401,
+    "setup": "Why did the unicorn cross the road?",
+    "punchline": "To get to the other side of the rainbow!",
+    "categories": ["fantasy"],
+    "tags": ["unicorn", "rainbow", "classic", "wordplay"]
+  },
+  {
+    "id": 402,
+    "setup": "What do you call a fairy who doesn’t shower?",
+    "punchline": "Stinker Bell!",
+    "categories": ["fantasy"],
+    "tags": ["fairy", "tinker bell", "wordplay"]
+  },
+  {
+    "id": 403,
+    "setup": "Why did the dragon get a job as a chef?",
+    "punchline": "Because everything he made was well done!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "fire", "cooking", "wordplay"]
+  },
+  {
+    "id": 404,
+    "setup": "What do you call a wizard who’s great at golf?",
+    "punchline": "Harry Putter!",
+    "categories": ["fantasy"],
+    "tags": ["wizard", "golf", "wordplay"]
+  },
+  {
+    "id": 405,
+    "setup": "Why did the leprechaun bring a ladder to work?",
+    "punchline": "He wanted to reach his pot of gold!",
+    "categories": ["fantasy"],
+    "tags": ["leprechaun", "gold", "ladder"]
+  },
+  {
+    "id": 406,
+    "setup": "What’s a mermaid’s favorite math subject?",
+    "punchline": "Algae-bra!",
+    "categories": ["fantasy"],
+    "tags": ["mermaid", "math", "wordplay"]
+  },
+  {
+    "id": 407,
+    "setup": "Why did the troll start using social media?",
+    "punchline": "He was already great at posting under bridges!",
+    "categories": ["fantasy"],
+    "tags": ["troll", "internet", "wordplay"]
+  },
+  {
+    "id": 408,
+    "setup": "What do you call a unicorn without a horn?",
+    "punchline": "Just a really confident horse!",
+    "categories": ["fantasy"],
+    "tags": ["unicorn", "horse", "wordplay"]
+  },
+  {
+    "id": 409,
+    "setup": "Why did the elf go to therapy?",
+    "punchline": "He had low shelf-esteem!",
+    "categories": ["fantasy"],
+    "tags": ["elf", "self esteem", "wordplay"]
+  },
+  {
+    "id": 410,
+    "setup": "What do you call a dragon who loves books?",
+    "punchline": "A book wyrm!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "books", "wordplay"]
+  },
+
+  {
+    "id": 411,
+    "setup": "Why don’t witches wear flat hats?",
+    "punchline": "Because there’s no point!",
+    "categories": ["fantasy"],
+    "tags": ["witch", "hats", "wordplay"]
+  },
+  {
+    "id": 412,
+    "setup": "What’s a ghost’s favorite dessert?",
+    "punchline": "Boo-berry pie!",
+    "categories": ["fantasy"],
+    "tags": ["ghost", "dessert", "wordplay"]
+  },
+  {
+    "id": 413,
+    "setup": "Why did the phoenix make a bad employee?",
+    "punchline": "It kept getting fired!",
+    "categories": ["fantasy"],
+    "tags": ["phoenix", "fire", "work", "wordplay"]
+  },
+  {
+    "id": 414,
+    "setup": "What do you call a magical dog?",
+    "punchline": "A Labracadabrador!",
+    "categories": ["fantasy"],
+    "tags": ["dog", "magic", "wordplay"]
+  },
+  {
+    "id": 415,
+    "setup": "Why did the vampire go to art school?",
+    "punchline": "To learn how to draw blood!",
+    "categories": ["fantasy"],
+    "tags": ["vampire", "art", "wordplay"]
+  },
+  {
+    "id": 416,
+    "setup": "What do you call a fairy who never cleans?",
+    "punchline": "Dust-inkerbell!",
+    "categories": ["fantasy"],
+    "tags": ["fairy", "cleaning", "wordplay"]
+  },
+  {
+    "id": 417,
+    "setup": "Why did the ogre bring a spoon to the meeting?",
+    "punchline": "He heard someone was stirring up trouble!",
+    "categories": ["fantasy"],
+    "tags": ["ogre", "meeting", "wordplay"]
+  },
+  {
+    "id": 418,
+    "setup": "What do you call a wizard’s typo?",
+    "punchline": "A spelling error!",
+    "categories": ["fantasy"],
+    "tags": ["wizard", "spells", "wordplay"]
+  },
+  {
+    "id": 419,
+    "setup": "Why did the genie bring a pencil?",
+    "punchline": "In case he needed to draw a conclusion!",
+    "categories": ["fantasy"],
+    "tags": ["genie", "pencil", "wordplay"]
+  },
+  {
+    "id": 420,
+    "setup": "What’s a dragon’s favorite day of the week?",
+    "punchline": "Fry-day!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "days", "wordplay"]
+  },
+
+  {
+    "id": 421,
+    "setup": "Why did the mermaid bring a towel to school?",
+    "punchline": "In case she got a little tide up!",
+    "categories": ["fantasy"],
+    "tags": ["mermaid", "school", "wordplay"]
+  },
+  {
+    "id": 422,
+    "setup": "What do you call a leprechaun in jail?",
+    "punchline": "A lepre-con!",
+    "categories": ["fantasy"],
+    "tags": ["leprechaun", "jail", "wordplay"]
+  },
+  {
+    "id": 423,
+    "setup": "Why don’t centaurs ever win poker?",
+    "punchline": "They always show their hand!",
+    "categories": ["fantasy"],
+    "tags": ["centaur", "cards", "wordplay"]
+  },
+  {
+    "id": 424,
+    "setup": "What do you call a magical owl?",
+    "punchline": "Hoo-dini!",
+    "categories": ["fantasy"],
+    "tags": ["owl", "magic", "wordplay"]
+  },
+  {
+    "id": 425,
+    "setup": "Why did the witch break up with the warlock?",
+    "punchline": "He was a poor spell-er!",
+    "categories": ["fantasy"],
+    "tags": ["witch", "spells", "wordplay"]
+  },
+  {
+    "id": 426,
+    "setup": "What do you call a giant who steals soap?",
+    "punchline": "A clean freak!",
+    "categories": ["fantasy"],
+    "tags": ["giant", "cleaning", "wordplay"]
+  },
+  {
+    "id": 427,
+    "setup": "Why did the elf bring a ladder to the bar?",
+    "punchline": "The drinks were on the top shelf!",
+    "categories": ["fantasy"],
+    "tags": ["elf", "ladder", "wordplay"]
+  },
+  {
+    "id": 428,
+    "setup": "What’s a unicorn’s favorite kind of story?",
+    "punchline": "Anything with a happy horn-ending!",
+    "categories": ["fantasy"],
+    "tags": ["unicorn", "stories", "wordplay"]
+  },
+  {
+    "id": 429,
+    "setup": "Why did the goblin open a bakery?",
+    "punchline": "He was great at making goblin cakes!",
+    "categories": ["fantasy"],
+    "tags": ["goblin", "baking", "wordplay"]
+  },
+  {
+    "id": 430,
+    "setup": "What do you call a wizard who’s bad at magic?",
+    "punchline": "Ian.",
+    "categories": ["fantasy"],
+    "tags": ["wizard", "pun", "dry"]
+  },
+
+  {
+    "id": 431,
+    "setup": "Why did the dragon go to the dentist?",
+    "punchline": "Because he had bad breath!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "dentist", "wordplay"]
+  },
+  {
+    "id": 432,
+    "setup": "What do you call a sleeping witch?",
+    "punchline": "Broom-hilda!",
+    "categories": ["fantasy"],
+    "tags": ["witch", "sleep", "wordplay"]
+  },
+  {
+    "id": 433,
+    "setup": "Why don’t vampires have many friends?",
+    "punchline": "They’re a pain in the neck!",
+    "categories": ["fantasy"],
+    "tags": ["vampire", "friends", "wordplay"]
+  },
+  {
+    "id": 434,
+    "setup": "What do you call a fairy who works at a café?",
+    "punchline": "A Java-sprite!",
+    "categories": ["fantasy"],
+    "tags": ["fairy", "coffee", "wordplay"]
+  },
+  {
+    "id": 435,
+    "setup": "Why did the griffin get hired so quickly?",
+    "punchline": "He was over-qualified!",
+    "categories": ["fantasy"],
+    "tags": ["griffin", "job", "wordplay"]
+  },
+  {
+    "id": 436,
+    "setup": "What do you call a mermaid who sings opera?",
+    "punchline": "A tune-a fish!",
+    "categories": ["fantasy"],
+    "tags": ["mermaid", "music", "wordplay"]
+  },
+  {
+    "id": 437,
+    "setup": "Why did the sorcerer carry a pencil?",
+    "punchline": "In case he needed to draw his wand!",
+    "categories": ["fantasy"],
+    "tags": ["sorcerer", "pencil", "wordplay"]
+  },
+  {
+    "id": 438,
+    "setup": "What’s a ghost’s favorite ride?",
+    "punchline": "The roller-ghoster!",
+    "categories": ["fantasy"],
+    "tags": ["ghost", "rides", "wordplay"]
+  },
+  {
+    "id": 439,
+    "setup": "Why did the gnome become a banker?",
+    "punchline": "He was great with small change!",
+    "categories": ["fantasy"],
+    "tags": ["gnome", "money", "wordplay"]
+  },
+  {
+    "id": 440,
+    "setup": "What do you call a dragon who works in a kitchen?",
+    "punchline": "A flamer!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "cooking", "wordplay"]
+  },
+
+  {
+    "id": 441,
+    "setup": "Why don’t elves get lost?",
+    "punchline": "They always follow the shelf!",
+    "categories": ["fantasy"],
+    "tags": ["elf", "directions", "wordplay"]
+  },
+  {
+    "id": 442,
+    "setup": "What do you call a werewolf comedian?",
+    "punchline": "Howl-arious!",
+    "categories": ["fantasy"],
+    "tags": ["werewolf", "comedy", "wordplay"]
+  },
+  {
+    "id": 443,
+    "setup": "Why did the witch’s broom win an award?",
+    "punchline": "It was outstanding in its field!",
+    "categories": ["fantasy"],
+    "tags": ["witch", "broom", "classic"]
+  },
+  {
+    "id": 444,
+    "setup": "What do you call a magical cat?",
+    "punchline": "Purr-cadabra!",
+    "categories": ["fantasy"],
+    "tags": ["cat", "magic", "wordplay"]
+  },
+  {
+    "id": 445,
+    "setup": "Why did the cyclops close his school?",
+    "punchline": "He only had one pupil!",
+    "categories": ["fantasy"],
+    "tags": ["cyclops", "school", "wordplay"]
+  },
+  {
+    "id": 446,
+    "setup": "What’s a vampire’s favorite fruit?",
+    "punchline": "A blood orange!",
+    "categories": ["fantasy"],
+    "tags": ["vampire", "food", "wordplay"]
+  },
+  {
+    "id": 447,
+    "setup": "Why did the princess bring a ladder?",
+    "punchline": "She heard love was on another level!",
+    "categories": ["fantasy"],
+    "tags": ["princess", "ladder", "wordplay"]
+  },
+  {
+    "id": 448,
+    "setup": "What do you call a lazy dragon?",
+    "punchline": "A drag-on!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "lazy", "wordplay"]
+  },
+  {
+    "id": 449,
+    "setup": "Why did the genie buy a phone?",
+    "punchline": "To grant wireless wishes!",
+    "categories": ["fantasy"],
+    "tags": ["genie", "technology", "wordplay"]
+  },
+  {
+    "id": 450,
+    "setup": "What’s a wizard’s favorite computer tool?",
+    "punchline": "Spell-check!",
+    "categories": ["fantasy"],
+    "tags": ["wizard", "technology", "wordplay"]
+  },
+
+  {
+    "id": 451,
+    "setup": "Why did the witch fail her driving test?",
+    "punchline": "She kept flying through stop signs!",
+    "categories": ["fantasy"],
+    "tags": ["witch", "driving", "wordplay"]
+  },
+  {
+    "id": 452,
+    "setup": "What do you call a polite ghost?",
+    "punchline": "A thanks-phantom!",
+    "categories": ["fantasy"],
+    "tags": ["ghost", "manners", "wordplay"]
+  },
+  {
+    "id": 453,
+    "setup": "Why did the unicorn go to the eye doctor?",
+    "punchline": "To get horn-rimmed glasses!",
+    "categories": ["fantasy"],
+    "tags": ["unicorn", "glasses", "wordplay"]
+  },
+  {
+    "id": 454,
+    "setup": "What do you call a fairy in a mushroom?",
+    "punchline": "A fun-gi!",
+    "categories": ["fantasy"],
+    "tags": ["fairy", "mushroom", "wordplay"]
+  },
+  {
+    "id": 455,
+    "setup": "Why don’t ghosts like rain?",
+    "punchline": "It dampens their spirits!",
+    "categories": ["fantasy"],
+    "tags": ["ghost", "weather", "wordplay"]
+  },
+  {
+    "id": 456,
+    "setup": "What do you call a dragon with a cold?",
+    "punchline": "A fire-breathing sneeze!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "cold", "wordplay"]
+  },
+  {
+    "id": 457,
+    "setup": "Why did the knight bring a pencil?",
+    "punchline": "To draw his sword!",
+    "categories": ["fantasy"],
+    "tags": ["knight", "pencil", "wordplay"]
+  },
+  {
+    "id": 458,
+    "setup": "What’s a werewolf’s favorite day?",
+    "punchline": "Moon-day!",
+    "categories": ["fantasy"],
+    "tags": ["werewolf", "days", "wordplay"]
+  },
+  {
+    "id": 459,
+    "setup": "Why did the knight bring armor to dinner?",
+    "punchline": "He heard the stakes were high!",
+    "categories": ["fantasy"],
+    "tags": ["knight", "dinner", "wordplay"]
+  },
+  {
+    "id": 460,
+    "setup": "What do you call a city unicorn?",
+    "punchline": "An urban-icorn!",
+    "categories": ["fantasy"],
+    "tags": ["unicorn", "city", "wordplay"]
+  },
+
+  {
+    "id": 461,
+    "setup": "Why did the vampire open a blood bank?",
+    "punchline": "For liquid assets!",
+    "categories": ["fantasy"],
+    "tags": ["vampire", "money", "wordplay"]
+  },
+  {
+    "id": 462,
+    "setup": "What do you call a witch’s garage?",
+    "punchline": "A broom closet!",
+    "categories": ["fantasy"],
+    "tags": ["witch", "garage", "wordplay"]
+  },
+  {
+    "id": 463,
+    "setup": "Why did the fairy godmother bring scissors?",
+    "punchline": "She was cutting it close!",
+    "categories": ["fantasy"],
+    "tags": ["fairy godmother", "scissors", "wordplay"]
+  },
+  {
+    "id": 464,
+    "setup": "What do you call a sphinx who tells bad jokes?",
+    "punchline": "Riddle-iculous!",
+    "categories": ["fantasy"],
+    "tags": ["sphinx", "jokes", "wordplay"]
+  },
+  {
+    "id": 465,
+    "setup": "Why did the wizard break up with his calculator?",
+    "punchline": "He couldn’t count on it!",
+    "categories": ["fantasy"],
+    "tags": ["wizard", "math", "wordplay"]
+  },
+  {
+    "id": 466,
+    "setup": "What do you call a dragon doing yoga?",
+    "punchline": "A fire-breathing zen master!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "yoga", "wordplay"]
+  },
+  {
+    "id": 467,
+    "setup": "Why did the leprechaun stop climbing?",
+    "punchline": "He didn’t want to push his luck!",
+    "categories": ["fantasy"],
+    "tags": ["leprechaun", "luck", "wordplay"]
+  },
+  {
+    "id": 468,
+    "setup": "What do you call a mermaid who fixes computers?",
+    "punchline": "A fish-nician!",
+    "categories": ["fantasy"],
+    "tags": ["mermaid", "technology", "wordplay"]
+  },
+  {
+    "id": 469,
+    "setup": "Why did the ghost join a band?",
+    "punchline": "He had great spirit!",
+    "categories": ["fantasy"],
+    "tags": ["ghost", "music", "wordplay"]
+  },
+  {
+    "id": 470,
+    "setup": "What do you call a clumsy fairy?",
+    "punchline": "Bumble-wing!",
+    "categories": ["fantasy"],
+    "tags": ["fairy", "clumsy", "wordplay"]
+  },
+
+  {
+    "id": 471,
+    "setup": "Why did the wizard buy a new hat?",
+    "punchline": "The old one lost its magic!",
+    "categories": ["fantasy"],
+    "tags": ["wizard", "hat", "wordplay"]
+  },
+  {
+    "id": 472,
+    "setup": "What do you call a centaur marathon runner?",
+    "punchline": "A stable athlete!",
+    "categories": ["fantasy"],
+    "tags": ["centaur", "running", "wordplay"]
+  },
+  {
+    "id": 473,
+    "setup": "Why did the troll start a business?",
+    "punchline": "He was great at building bridges!",
+    "categories": ["fantasy"],
+    "tags": ["troll", "business", "wordplay"]
+  },
+  {
+    "id": 474,
+    "setup": "What’s a witch’s favorite makeup?",
+    "punchline": "Ma-scare-a!",
+    "categories": ["fantasy"],
+    "tags": ["witch", "makeup", "wordplay"]
+  },
+  {
+    "id": 475,
+    "setup": "Why did the unicorn visit the optometrist?",
+    "punchline": "He needed horn-rimmed glasses!",
+    "categories": ["fantasy"],
+    "tags": ["unicorn", "glasses", "wordplay"]
+  },
+  {
+    "id": 476,
+    "setup": "What do you call a forgetful witch?",
+    "punchline": "Someone who keeps losing her hex files!",
+    "categories": ["fantasy"],
+    "tags": ["witch", "memory", "wordplay"]
+  },
+  {
+    "id": 477,
+    "setup": "Why did the dragon buy a computer?",
+    "punchline": "To improve his firewall!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "technology", "wordplay"]
+  },
+  {
+    "id": 478,
+    "setup": "What do you call a fairy who lifts weights?",
+    "punchline": "A strong sprite!",
+    "categories": ["fantasy"],
+    "tags": ["fairy", "fitness", "wordplay"]
+  },
+  {
+    "id": 479,
+    "setup": "Why did the pegasus win the race?",
+    "punchline": "He was flying through the competition!",
+    "categories": ["fantasy"],
+    "tags": ["pegasus", "racing", "wordplay"]
+  },
+  {
+    "id": 480,
+    "setup": "What do you call a magical cow?",
+    "punchline": "Moo-dini!",
+    "categories": ["fantasy"],
+    "tags": ["cow", "magic", "wordplay"]
+  },
+
+  {
+    "id": 481,
+    "setup": "Why did the gnome become a DJ?",
+    "punchline": "He loved underground music!",
+    "categories": ["fantasy"],
+    "tags": ["gnome", "music", "wordplay"]
+  },
+  {
+    "id": 482,
+    "setup": "What do you call a mermaid’s phone?",
+    "punchline": "A shell phone!",
+    "categories": ["fantasy"],
+    "tags": ["mermaid", "technology", "wordplay"]
+  },
+  {
+    "id": 483,
+    "setup": "Why did the sorcerer open a coffee shop?",
+    "punchline": "He specialized in magic beans!",
+    "categories": ["fantasy"],
+    "tags": ["sorcerer", "coffee", "wordplay"]
+  },
+  {
+    "id": 484,
+    "setup": "Why did the goblin become a gardener?",
+    "punchline": "He had green thumbs!",
+    "categories": ["fantasy"],
+    "tags": ["goblin", "gardening", "wordplay"]
+  },
+  {
+    "id": 485,
+    "setup": "What do you call a polite ghost?",
+    "punchline": "A civil specter!",
+    "categories": ["fantasy"],
+    "tags": ["ghost", "manners", "wordplay"]
+  },
+  {
+    "id": 486,
+    "setup": "Why did the wizard bring a ladder?",
+    "punchline": "He wanted to level up!",
+    "categories": ["fantasy"],
+    "tags": ["wizard", "ladder", "wordplay"]
+  },
+  {
+    "id": 487,
+    "setup": "What do you call a sleepy dragon?",
+    "punchline": "A snooze-fire!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "sleep", "wordplay"]
+  },
+  {
+    "id": 488,
+    "setup": "Why did the elf bring a ruler?",
+    "punchline": "To measure up!",
+    "categories": ["fantasy"],
+    "tags": ["elf", "measurement", "wordplay"]
+  },
+  {
+    "id": 489,
+    "setup": "What do you call a knight who tells jokes?",
+    "punchline": "Sir Laughs-a-lot!",
+    "categories": ["fantasy"],
+    "tags": ["knight", "jokes", "wordplay"]
+  },
+  {
+    "id": 490,
+    "setup": "Why did the witch bring a notebook?",
+    "punchline": "To jot down her hexes!",
+    "categories": ["fantasy"],
+    "tags": ["witch", "notes", "wordplay"]
+  },
+
+  {
+    "id": 491,
+    "setup": "What do you call a dragon who tells dad jokes?",
+    "punchline": "A groan-don!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "dad jokes", "wordplay"]
+  },
+  {
+    "id": 492,
+    "setup": "Why did the fairy bring a clock?",
+    "punchline": "She wanted to make time fly!",
+    "categories": ["fantasy"],
+    "tags": ["fairy", "time", "wordplay"]
+  },
+  {
+    "id": 493,
+    "setup": "What do you call a wizard who loves gardening?",
+    "punchline": "A plant-mancer!",
+    "categories": ["fantasy"],
+    "tags": ["wizard", "plants", "wordplay"]
+  },
+  {
+    "id": 494,
+    "setup": "Why did the ghost bring a suitcase?",
+    "punchline": "He was ready to boo-gie!",
+    "categories": ["fantasy"],
+    "tags": ["ghost", "travel", "wordplay"]
+  },
+  {
+    "id": 495,
+    "setup": "What do you call a vampire chef?",
+    "punchline": "Count Spatula!",
+    "categories": ["fantasy"],
+    "tags": ["vampire", "cooking", "wordplay"]
+  },
+  {
+    "id": 496,
+    "setup": "Why did the unicorn bring a pencil?",
+    "punchline": "To draw some attention!",
+    "categories": ["fantasy"],
+    "tags": ["unicorn", "pencil", "wordplay"]
+  },
+  {
+    "id": 497,
+    "setup": "What do you call a dragon who loves math?",
+    "punchline": "A fire-nancial expert!",
+    "categories": ["fantasy"],
+    "tags": ["dragon", "math", "wordplay"]
+  },
+  {
+    "id": 498,
+    "setup": "Why did the wizard bring a mirror?",
+    "punchline": "For spell-flection!",
+    "categories": ["fantasy"],
+    "tags": ["wizard", "mirror", "wordplay"]
+  },
+  {
+    "id": 499,
+    "setup": "What do you call a fairy who tells jokes?",
+    "punchline": "Pun-derella!",
+    "categories": ["fantasy"],
+    "tags": ["fairy", "jokes", "wordplay"]
+  },
+  {
+    "id": 500,
+    "setup": "Why did the knight bring a map?",
+    "punchline": "He didn’t want to lose his way to the punchline!",
+    "categories": ["fantasy"],
+    "tags": ["knight", "map", "dad jokes"]
+  },
     {
       "id": 501,
       "setup": "Why did the bread break up with the butter?",
