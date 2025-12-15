@@ -6371,701 +6371,701 @@
       "id": 901,
       "setup": "Why did the broom get a promotion?",
       "punchline": "Because it swept the competition!",
-      "categories": ["home", "work"],
-      "tags": ["broom", "promotion", "swept", "competition", "wordplay", "cleaning", "success"]
+      "categories": ["home"],
+      "tags": ["broom", "cleaning", "promotion", "wordplay"]
     },
     {
       "id": 902,
       "setup": "What did the toilet say to the plunger?",
-      "punchline": "You really know how to get to the bottom of things!",
+      "punchline": "You really know how to stick with me!",
       "categories": ["home"],
-      "tags": ["toilet", "plunger", "bottom", "bathroom", "wordplay", "plumbing", "fixing"]
+      "tags": ["toilet", "plunger", "bathroom", "wordplay"]
     },
     {
       "id": 903,
       "setup": "Why did the lamp break up with the outlet?",
-      "punchline": "Because the relationship had no spark!",
+      "punchline": "There was no spark anymore!",
       "categories": ["home"],
-      "tags": ["lamp", "outlet", "spark", "electricity", "wordplay", "breakup", "relationship"]
+      "tags": ["lamp", "outlet", "electricity", "wordplay"]
     },
     {
       "id": 904,
       "setup": "What did the blanket say to the bed?",
-      "punchline": "I've got you covered!",
+      "punchline": "I’ve got you covered!",
       "categories": ["home"],
-      "tags": ["blanket", "bed", "covered", "bedroom", "wordplay", "sleeping", "comfort"]
+      "tags": ["blanket", "bed", "comfort", "wordplay"]
     },
     {
       "id": 905,
-      "setup": "Why did the vacuum cleaner stop working?",
-      "punchline": "Because it was just gathering dust!",
+      "setup": "Why did the vacuum cleaner get fired?",
+      "punchline": "Because it sucked at its job!",
       "categories": ["home"],
-      "tags": ["vacuum", "cleaner", "dust", "broken", "wordplay", "cleaning", "lazy"]
+      "tags": ["vacuum", "cleaning", "job", "wordplay"]
     },
     {
       "id": 906,
-      "setup": "Why did the wall feel supported?",
-      "punchline": "Because it had studs behind it!",
+      "setup": "Why did the wall blush?",
+      "punchline": "Because it saw the ceiling naked!",
       "categories": ["home"],
-      "tags": ["wall", "supported", "studs", "construction", "wordplay", "building", "structure"]
+      "tags": ["wall", "ceiling", "house", "wordplay"]
     },
     {
       "id": 907,
       "setup": "Why did the window go to the doctor?",
       "punchline": "Because it had panes!",
       "categories": ["home"],
-      "tags": ["window", "doctor", "panes", "pains", "wordplay", "glass", "sick"]
+      "tags": ["window", "panes", "glass", "wordplay"]
     },
     {
       "id": 908,
-      "setup": "What did the ceiling say to the chandelier?",
-      "punchline": "You're the light of my life!",
+      "setup": "What did the ceiling fan say to the room?",
+      "punchline": "I’m just trying to keep things cool!",
       "categories": ["home"],
-      "tags": ["ceiling", "chandelier", "light", "life", "wordplay", "hanging", "romantic"]
+      "tags": ["ceiling fan", "cool", "air", "wordplay"]
     },
     {
       "id": 909,
-      "setup": "Why did the chair go to therapy?",
-      "punchline": "Because it couldn't handle the pressure of everyone sitting on it!",
+      "setup": "Why did the chair get promoted?",
+      "punchline": "Because it really supported the team!",
       "categories": ["home"],
-      "tags": ["chair", "therapy", "pressure", "sitting", "wordplay", "furniture", "stress"]
+      "tags": ["chair", "support", "furniture", "wordplay"]
     },
     {
       "id": 910,
       "setup": "What did the rug say when it got stepped on?",
-      "punchline": "Don't walk all over me!",
+      "punchline": "Don’t walk all over me!",
       "categories": ["home"],
-      "tags": ["rug", "stepped on", "walk", "floor", "wordplay", "carpet", "respect"]
+      "tags": ["rug", "floor", "walk", "wordplay"]
     },
     {
       "id": 911,
-      "setup": "Why did the front door feel important?",
-      "punchline": "Because everyone always wanted to get through it!",
+      "setup": "Why did the door get promoted?",
+      "punchline": "It was always opening new opportunities!",
       "categories": ["home"],
-      "tags": ["door", "important", "through", "entrance", "wordplay", "front", "popular"]
+      "tags": ["door", "opportunity", "open", "wordplay"]
     },
     {
       "id": 912,
-      "setup": "What did the shower say to the bathtub?",
-      "punchline": "You just sit there while I do all the work!",
+      "setup": "What did the shower say to the soap?",
+      "punchline": "Let’s clean this up!",
       "categories": ["home"],
-      "tags": ["shower", "bathtub", "work", "bathroom", "wordplay", "washing", "lazy"]
+      "tags": ["shower", "soap", "cleaning", "wordplay"]
     },
     {
       "id": 913,
-      "setup": "Why did the stairs feel tired?",
-      "punchline": "Because people kept running them up and down!",
+      "setup": "Why don’t stairs ever get tired?",
+      "punchline": "Because they’re always one step ahead!",
       "categories": ["home"],
-      "tags": ["stairs", "tired", "running", "up down", "wordplay", "steps", "exhausted"]
+      "tags": ["stairs", "steps", "ahead", "wordplay"]
     },
     {
       "id": 914,
-      "setup": "What did the smoke detector say to the stove?",
-      "punchline": "You set me off every time!",
+      "setup": "Why did the smoke alarm break up with the toaster?",
+      "punchline": "Things were getting too heated!",
       "categories": ["home"],
-      "tags": ["smoke detector", "stove", "set off", "alarm", "wordplay", "kitchen", "cooking"]
+      "tags": ["smoke alarm", "toaster", "heat", "wordplay"]
     },
     {
       "id": 915,
-      "setup": "Why did the washing machine feel dizzy?",
-      "punchline": "Because it was going through another spin cycle!",
+      "setup": "Why did the washing machine laugh?",
+      "punchline": "Because it was in a spin!",
       "categories": ["home"],
-      "tags": ["washing machine", "dizzy", "spin cycle", "laundry", "wordplay", "clothes", "cleaning"]
+      "tags": ["washing machine", "spin", "laundry", "wordplay"]
     },
     {
       "id": 916,
-      "setup": "What did the refrigerator say when it was complimented?",
-      "punchline": "Thanks, I'm pretty cool!",
+      "setup": "What did the fridge say after a workout?",
+      "punchline": "I’m feeling pretty cool!",
       "categories": ["home"],
-      "tags": ["refrigerator", "compliment", "cool", "cold", "wordplay", "kitchen", "confident"]
+      "tags": ["fridge", "cool", "kitchen", "wordplay"]
     },
     {
       "id": 917,
-      "setup": "Why did the fireplace break up with the chimney?",
-      "punchline": "Because the relationship went up in smoke!",
+      "setup": "Why did the fireplace get grounded?",
+      "punchline": "It kept starting fires!",
       "categories": ["home"],
-      "tags": ["fireplace", "chimney", "smoke", "breakup", "wordplay", "fire", "relationship"]
+      "tags": ["fireplace", "fire", "house", "wordplay"]
     },
     {
       "id": 918,
-      "setup": "What did the pillow say after a long day?",
-      "punchline": "I'm totally beat!",
+      "setup": "Why did the pillow fail the test?",
+      "punchline": "It kept nodding off!",
       "categories": ["home"],
-      "tags": ["pillow", "tired", "beat", "bedroom", "wordplay", "sleeping", "exhausted"]
+      "tags": ["pillow", "sleep", "test", "wordplay"]
     },
     {
       "id": 919,
-      "setup": "Why did the fence feel insecure?",
-      "punchline": "Because it had too many posts about its flaws!",
-      "categories": ["home", "technology"],
-      "tags": ["fence", "insecure", "posts", "flaws", "wordplay", "yard", "social media"]
+      "setup": "Why did the fence get so many likes?",
+      "punchline": "It had great posts!",
+      "categories": ["home"],
+      "tags": ["fence", "posts", "yard", "wordplay"]
     },
     {
       "id": 920,
-      "setup": "What did the doorbell say to the visitor?",
+      "setup": "What did the doorbell say to the house?",
       "punchline": "You rang?",
       "categories": ["home"],
-      "tags": ["doorbell", "visitor", "rang", "entrance", "wordplay", "greeting", "classic"]
+      "tags": ["doorbell", "ring", "entrance", "wordplay"]
     },
     {
       "id": 921,
-      "setup": "Why did the curtains feel exposed?",
-      "punchline": "Because they were always being drawn!",
+      "setup": "Why did the curtains break up?",
+      "punchline": "They needed some space!",
       "categories": ["home"],
-      "tags": ["curtains", "exposed", "drawn", "window", "wordplay", "privacy", "opening"]
+      "tags": ["curtains", "space", "window", "wordplay"]
     },
     {
       "id": 922,
       "setup": "What did the sink say to the faucet?",
-      "punchline": "You're a real drip!",
+      "punchline": "You’re a real drip!",
       "categories": ["home"],
-      "tags": ["sink", "faucet", "drip", "water", "wordplay", "kitchen", "bathroom"]
+      "tags": ["sink", "faucet", "water", "wordplay"]
     },
     {
       "id": 923,
-      "setup": "Why did the attic feel forgotten?",
-      "punchline": "Because everyone just stored things up there and left!",
+      "setup": "Why did the attic stay quiet?",
+      "punchline": "It didn’t want to raise the roof!",
       "categories": ["home"],
-      "tags": ["attic", "forgotten", "stored", "upstairs", "wordplay", "storage", "lonely"]
+      "tags": ["attic", "roof", "noise", "wordplay"]
     },
     {
       "id": 924,
-      "setup": "What did the garage door say when it was opened?",
-      "punchline": "I'm really lifting things up around here!",
+      "setup": "Why did the garage feel accomplished?",
+      "punchline": "It had a lot of drive!",
       "categories": ["home"],
-      "tags": ["garage door", "opened", "lifting", "car", "wordplay", "automatic", "house"]
+      "tags": ["garage", "drive", "car", "wordplay"]
     },
     {
       "id": 925,
-      "setup": "Why did the closet feel stuffed?",
-      "punchline": "Because everyone kept hanging around inside!",
+      "setup": "Why did the closet feel confident?",
+      "punchline": "It had everything hanging together!",
       "categories": ["home"],
-      "tags": ["closet", "stuffed", "hanging", "clothes", "wordplay", "storage", "crowded"]
+      "tags": ["closet", "clothes", "hanging", "wordplay"]
     },
     {
       "id": 926,
       "setup": "What did the air conditioner say on a hot day?",
-      "punchline": "Don't worry, I'll keep my cool!",
+      "punchline": "Chill out!",
       "categories": ["home"],
-      "tags": ["air conditioner", "hot", "cool", "summer", "wordplay", "temperature", "calm"]
+      "tags": ["air conditioner", "cool", "summer", "wordplay"]
     },
     {
       "id": 927,
-      "setup": "Why did the basement feel down?",
-      "punchline": "Because it was always at the lowest point in the house!",
+      "setup": "Why did the basement feel humble?",
+      "punchline": "It knew it was below everyone!",
       "categories": ["home"],
-      "tags": ["basement", "down", "lowest", "underground", "wordplay", "sad", "house"]
+      "tags": ["basement", "below", "house", "wordplay"]
     },
     {
       "id": 928,
-      "setup": "What did the couch say to the remote control?",
-      "punchline": "You're always pushing my buttons!",
-      "categories": ["home", "technology"],
-      "tags": ["couch", "remote", "buttons", "tv", "wordplay", "living room", "annoying"]
+      "setup": "Why did the couch get promoted?",
+      "punchline": "It always supported the team!",
+      "categories": ["home"],
+      "tags": ["couch", "support", "furniture", "wordplay"]
     },
     {
       "id": 929,
       "setup": "Why did the mirror go to school?",
-      "punchline": "To reflect on its education!",
-      "categories": ["home", "school"],
-      "tags": ["mirror", "school", "reflect", "education", "wordplay", "bathroom", "thinking"]
+      "punchline": "To reflect on things!",
+      "categories": ["home"],
+      "tags": ["mirror", "reflect", "school", "wordplay"]
     },
     {
       "id": 930,
-      "setup": "What did the dishwasher say to the dirty plates?",
-      "punchline": "You're in hot water now!",
+      "setup": "What did the dishwasher say to the plates?",
+      "punchline": "You’re in hot water now!",
       "categories": ["home"],
-      "tags": ["dishwasher", "plates", "hot water", "trouble", "wordplay", "kitchen", "cleaning"]
+      "tags": ["dishwasher", "plates", "kitchen", "wordplay"]
     },
     {
       "id": 931,
-      "setup": "Why did the doorknob feel twisted?",
-      "punchline": "Because everyone kept turning on it!",
+      "setup": "Why did the doorknob get dizzy?",
+      "punchline": "It kept getting turned around!",
       "categories": ["home"],
-      "tags": ["doorknob", "twisted", "turning", "door", "wordplay", "handle", "used"]
+      "tags": ["doorknob", "turning", "door", "wordplay"]
     },
     {
       "id": 932,
       "setup": "What did the roof say during the storm?",
-      "punchline": "I've got you all covered!",
+      "punchline": "I’ve got you covered!",
       "categories": ["home"],
-      "tags": ["roof", "storm", "covered", "protection", "wordplay", "rain", "shelter"]
+      "tags": ["roof", "covered", "storm", "wordplay"]
     },
     {
       "id": 933,
-      "setup": "Why did the microwave feel impatient?",
-      "punchline": "Because it was always waiting for things to heat up!",
-      "categories": ["home", "food"],
-      "tags": ["microwave", "impatient", "heat up", "waiting", "wordplay", "kitchen", "cooking"]
+      "setup": "Why did the microwave break up with dinner?",
+      "punchline": "Things heated up too fast!",
+      "categories": ["home"],
+      "tags": ["microwave", "heat", "food", "wordplay"]
     },
     {
       "id": 934,
       "setup": "What did the bookshelf say to the books?",
-      "punchline": "I've got your back!",
+      "punchline": "I’ve got your back!",
       "categories": ["home"],
-      "tags": ["bookshelf", "books", "back", "support", "wordplay", "reading", "furniture"]
+      "tags": ["bookshelf", "books", "support", "wordplay"]
     },
     {
       "id": 935,
       "setup": "Why did the light switch feel powerful?",
-      "punchline": "Because it could brighten or darken anyone's day!",
+      "punchline": "It could change the mood instantly!",
       "categories": ["home"],
-      "tags": ["light switch", "powerful", "brighten", "darken", "wordplay", "electricity", "control"]
+      "tags": ["light switch", "power", "mood", "wordplay"]
     },
     {
       "id": 936,
-      "setup": "What did the toaster say to the bread?",
-      "punchline": "I'm going to make you hot!",
-      "categories": ["home", "food"],
-      "tags": ["toaster", "bread", "hot", "toast", "wordplay", "kitchen", "breakfast"]
+      "setup": "Why did the toaster get a job?",
+      "punchline": "It wanted to bring home the bread!",
+      "categories": ["home"],
+      "tags": ["toaster", "bread", "job", "wordplay"]
     },
     {
       "id": 937,
-      "setup": "Why did the porch feel left out?",
-      "punchline": "Because it was always outside the house!",
+      "setup": "Why did the porch stay calm?",
+      "punchline": "It knew how to step back!",
       "categories": ["home"],
-      "tags": ["porch", "left out", "outside", "house", "wordplay", "front", "lonely"]
+      "tags": ["porch", "steps", "house", "wordplay"]
     },
     {
       "id": 938,
       "setup": "What did the clock say to the calendar?",
       "punchline": "Your days are numbered!",
       "categories": ["home"],
-      "tags": ["clock", "calendar", "days numbered", "time", "wordplay", "counting", "threat"]
+      "tags": ["clock", "calendar", "time", "wordplay"]
     },
     {
       "id": 939,
-      "setup": "Why did the tile feel flat?",
-      "punchline": "Because it was always getting walked on!",
+      "setup": "Why did the floor feel proud?",
+      "punchline": "Everyone looked up to it!",
       "categories": ["home"],
-      "tags": ["tile", "flat", "walked on", "floor", "wordplay", "bathroom", "kitchen"]
+      "tags": ["floor", "support", "house", "wordplay"]
     },
     {
       "id": 940,
-      "setup": "What did the dryer say to the wet clothes?",
-      "punchline": "I'm going to turn up the heat on this relationship!",
+      "setup": "Why did the dryer feel confident?",
+      "punchline": "It always brought the heat!",
       "categories": ["home"],
-      "tags": ["dryer", "clothes", "heat", "laundry", "wordplay", "relationship", "drying"]
+      "tags": ["dryer", "heat", "laundry", "wordplay"]
     },
     {
       "id": 941,
-      "setup": "Why did the mailbox feel popular?",
-      "punchline": "Because it was always getting letters!",
+      "setup": "Why did the mailbox smile?",
+      "punchline": "It was getting a lot of letters!",
       "categories": ["home"],
-      "tags": ["mailbox", "popular", "letters", "mail", "wordplay", "delivery", "outside"]
+      "tags": ["mailbox", "letters", "mail", "wordplay"]
     },
     {
       "id": 942,
       "setup": "What did the blender say at the party?",
-      "punchline": "Let's mix things up!",
-      "categories": ["home", "food"],
-      "tags": ["blender", "party", "mix", "kitchen", "wordplay", "appliance", "fun"]
+      "punchline": "Let’s mix things up!",
+      "categories": ["home"],
+      "tags": ["blender", "mix", "kitchen", "wordplay"]
     },
     {
       "id": 943,
-      "setup": "Why did the mattress feel supportive?",
-      "punchline": "Because it always had everyone's back!",
+      "setup": "Why did the mattress get praised?",
+      "punchline": "It really supported the team!",
       "categories": ["home"],
-      "tags": ["mattress", "supportive", "back", "bed", "wordplay", "sleeping", "comfort"]
+      "tags": ["mattress", "support", "sleep", "wordplay"]
     },
     {
       "id": 944,
-      "setup": "What did the hallway say to the rooms?",
-      "punchline": "I'm the one who connects you all!",
+      "setup": "Why did the hallway feel important?",
+      "punchline": "It connected everyone!",
       "categories": ["home"],
-      "tags": ["hallway", "rooms", "connects", "house", "wordplay", "passage", "important"]
+      "tags": ["hallway", "connect", "house", "wordplay"]
     },
     {
       "id": 945,
-      "setup": "Why did the garden hose feel tangled up?",
-      "punchline": "Because it was all wound up about something!",
-      "categories": ["home", "outdoors"],
-      "tags": ["garden hose", "tangled", "wound up", "yard", "wordplay", "watering", "stressed"]
+      "setup": "Why did the hose feel stressed?",
+      "punchline": "It was all wound up!",
+      "categories": ["home"],
+      "tags": ["hose", "wound", "yard", "wordplay"]
     },
     {
       "id": 946,
-      "setup": "What did the garbage disposal say to the food scraps?",
-      "punchline": "I'm going to chew you out!",
-      "categories": ["home", "food"],
-      "tags": ["garbage disposal", "food scraps", "chew out", "kitchen", "wordplay", "sink", "grinding"]
+      "setup": "What did the garbage disposal say?",
+      "punchline": "I can handle this!",
+      "categories": ["home"],
+      "tags": ["garbage disposal", "kitchen", "wordplay"]
     },
     {
       "id": 947,
-      "setup": "Why did the thermostat feel controlling?",
-      "punchline": "Because it was always trying to change the atmosphere!",
+      "setup": "Why did the thermostat get promoted?",
+      "punchline": "It set the tone!",
       "categories": ["home"],
-      "tags": ["thermostat", "controlling", "atmosphere", "temperature", "wordplay", "climate", "house"]
+      "tags": ["thermostat", "temperature", "wordplay"]
     },
     {
       "id": 948,
-      "setup": "What did the extension cord say to the outlet?",
-      "punchline": "I'm really stretching to reach you!",
+      "setup": "Why did the extension cord stretch?",
+      "punchline": "It went the extra length!",
       "categories": ["home"],
-      "tags": ["extension cord", "outlet", "stretching", "reach", "wordplay", "electricity", "long"]
+      "tags": ["extension cord", "stretch", "wordplay"]
     },
     {
       "id": 949,
-      "setup": "Why did the pantry feel stuffed?",
-      "punchline": "Because it was full of canned personalities!",
-      "categories": ["home", "food"],
-      "tags": ["pantry", "stuffed", "canned", "food", "wordplay", "storage", "kitchen"]
+      "setup": "Why did the pantry feel organized?",
+      "punchline": "Everything was canned and ready!",
+      "categories": ["home"],
+      "tags": ["pantry", "canned food", "wordplay"]
     },
     {
       "id": 950,
-      "setup": "What did the welcome mat say to the shoes?",
-      "punchline": "Wipe that attitude off before you come in!",
+      "setup": "What did the welcome mat say?",
+      "punchline": "Come on in!",
       "categories": ["home"],
-      "tags": ["welcome mat", "shoes", "wipe", "attitude", "wordplay", "entrance", "feet"]
+      "tags": ["welcome mat", "entrance", "wordplay"]
     },
     {
       "id": 951,
-      "setup": "Why did the nightstand feel overlooked?",
-      "punchline": "Because everyone just put stuff on it and went to sleep!",
+      "setup": "Why did the nightstand stay quiet?",
+      "punchline": "It didn’t want to wake anyone!",
       "categories": ["home"],
-      "tags": ["nightstand", "overlooked", "sleep", "bedroom", "wordplay", "furniture", "ignored"]
+      "tags": ["nightstand", "sleep", "wordplay"]
     },
     {
       "id": 952,
-      "setup": "What did the ceiling fan say when asked to work harder?",
-      "punchline": "I'm already spinning out of control!",
+      "setup": "Why did the ceiling fan feel dizzy?",
+      "punchline": "It got spun around!",
       "categories": ["home"],
-      "tags": ["ceiling fan", "work", "spinning", "control", "wordplay", "cooling", "stressed"]
+      "tags": ["ceiling fan", "spin", "wordplay"]
     },
     {
       "id": 953,
-      "setup": "Why did the soap feel bubbly?",
-      "punchline": "Because it had an effervescent personality!",
+      "setup": "Why did the soap feel confident?",
+      "punchline": "It was on a clean streak!",
       "categories": ["home"],
-      "tags": ["soap", "bubbly", "effervescent", "bathroom", "wordplay", "washing", "personality"]
+      "tags": ["soap", "clean", "wordplay"]
     },
     {
       "id": 954,
       "setup": "What did the ironing board say to the iron?",
-      "punchline": "You really know how to smooth things over!",
+      "punchline": "You really smooth things over!",
       "categories": ["home"],
-      "tags": ["ironing board", "iron", "smooth", "laundry", "wordplay", "wrinkles", "clothes"]
+      "tags": ["ironing board", "iron", "wordplay"]
     },
     {
       "id": 955,
       "setup": "Why did the key feel important?",
-      "punchline": "Because it was the key to everything!",
+      "punchline": "It unlocked everything!",
       "categories": ["home"],
-      "tags": ["key", "important", "lock", "door", "wordplay", "security", "essential"]
+      "tags": ["key", "lock", "wordplay"]
     },
     {
       "id": 956,
-      "setup": "What did the bathrobe say after the shower?",
-      "punchline": "I've got you wrapped up in comfort!",
+      "setup": "Why did the bathrobe relax?",
+      "punchline": "It was all wrapped up!",
       "categories": ["home"],
-      "tags": ["bathrobe", "shower", "wrapped", "comfort", "wordplay", "bathroom", "cozy"]
+      "tags": ["bathrobe", "comfort", "wordplay"]
     },
     {
       "id": 957,
-      "setup": "Why did the lawn mower feel cutting edge?",
-      "punchline": "Because it was always ahead of the grass!",
-      "categories": ["home", "outdoors"],
-      "tags": ["lawn mower", "cutting edge", "grass", "yard", "wordplay", "garden", "modern"]
+      "setup": "Why did the lawn mower feel sharp?",
+      "punchline": "It stayed cutting edge!",
+      "categories": ["home"],
+      "tags": ["lawn mower", "cutting", "wordplay"]
     },
     {
       "id": 958,
       "setup": "What did the picture frame say to the photo?",
-      "punchline": "I'm just here to make you look good!",
+      "punchline": "I’m just here to support you!",
       "categories": ["home"],
-      "tags": ["picture frame", "photo", "look good", "wall", "wordplay", "decoration", "support"]
+      "tags": ["picture frame", "photo", "wordplay"]
     },
     {
       "id": 959,
-      "setup": "Why did the doormat feel used?",
-      "punchline": "Because everyone kept walking all over it!",
+      "setup": "Why did the doormat stay humble?",
+      "punchline": "It never got a big head!",
       "categories": ["home"],
-      "tags": ["doormat", "used", "walking", "entrance", "wordplay", "feet", "disrespected"]
+      "tags": ["doormat", "humble", "wordplay"]
     },
     {
       "id": 960,
-      "setup": "What did the coffee maker say every morning?",
-      "punchline": "Let's perk things up around here!",
-      "categories": ["home", "food"],
-      "tags": ["coffee maker", "morning", "perk up", "kitchen", "wordplay", "coffee", "energy"]
+      "setup": "Why did the coffee maker wake up early?",
+      "punchline": "It had grounds to!",
+      "categories": ["home"],
+      "tags": ["coffee maker", "grounds", "wordplay"]
     },
     {
       "id": 961,
-      "setup": "Why did the dresser feel full of itself?",
-      "punchline": "Because it had so many drawers to brag about!",
+      "setup": "Why did the dresser feel proud?",
+      "punchline": "It had its drawers in order!",
       "categories": ["home"],
-      "tags": ["dresser", "full", "drawers", "bedroom", "wordplay", "furniture", "bragging"]
+      "tags": ["dresser", "drawers", "wordplay"]
     },
     {
       "id": 962,
-      "setup": "What did the showerhead say to the drain?",
-      "punchline": "Everything I do just goes down to you!",
+      "setup": "Why did the showerhead sing?",
+      "punchline": "It loved hitting high notes!",
       "categories": ["home"],
-      "tags": ["showerhead", "drain", "goes down", "bathroom", "wordplay", "water", "plumbing"]
+      "tags": ["showerhead", "sing", "wordplay"]
     },
     {
       "id": 963,
-      "setup": "Why did the trash can feel unappreciated?",
-      "punchline": "Because everyone just threw things at it!",
+      "setup": "Why did the trash can get promoted?",
+      "punchline": "It took out the competition!",
       "categories": ["home"],
-      "tags": ["trash can", "unappreciated", "threw", "garbage", "wordplay", "kitchen", "waste"]
+      "tags": ["trash can", "competition", "wordplay"]
     },
     {
       "id": 964,
-      "setup": "What did the dining table say to the chairs?",
-      "punchline": "Pull up, let's have a meal together!",
-      "categories": ["home", "food"],
-      "tags": ["dining table", "chairs", "pull up", "meal", "wordplay", "eating", "furniture"]
+      "setup": "Why did the dining table feel important?",
+      "punchline": "It brought everyone together!",
+      "categories": ["home"],
+      "tags": ["dining table", "family", "wordplay"]
     },
     {
       "id": 965,
-      "setup": "Why did the alarm clock feel annoying?",
-      "punchline": "Because it was always going off on people!",
+      "setup": "Why did the alarm clock get in trouble?",
+      "punchline": "It kept going off!",
       "categories": ["home"],
-      "tags": ["alarm clock", "annoying", "going off", "morning", "wordplay", "waking up", "loud"]
+      "tags": ["alarm clock", "morning", "wordplay"]
     },
     {
       "id": 966,
-      "setup": "What did the floor say to the table?",
-      "punchline": "I see you've got legs, but you're not going anywhere!",
+      "setup": "Why did the table stay grounded?",
+      "punchline": "It had four solid legs!",
       "categories": ["home"],
-      "tags": ["floor", "table", "legs", "standing", "wordplay", "furniture", "stationary"]
+      "tags": ["table", "legs", "wordplay"]
     },
     {
       "id": 967,
-      "setup": "Why did the towel feel hung up?",
-      "punchline": "Because it was always left hanging in the bathroom!",
+      "setup": "Why did the towel relax?",
+      "punchline": "It finally got hung up!",
       "categories": ["home"],
-      "tags": ["towel", "hung up", "hanging", "bathroom", "wordplay", "drying", "left"]
+      "tags": ["towel", "bathroom", "wordplay"]
     },
     {
       "id": 968,
-      "setup": "What did the oven say to the chef?",
-      "punchline": "You really know how to turn me on!",
-      "categories": ["home", "food"],
-      "tags": ["oven", "chef", "turn on", "cooking", "wordplay", "kitchen", "heat"]
+      "setup": "Why did the oven get angry?",
+      "punchline": "It was fired up!",
+      "categories": ["home"],
+      "tags": ["oven", "heat", "wordplay"]
     },
     {
       "id": 969,
-      "setup": "Why did the welcome sign feel friendly?",
-      "punchline": "Because it greeted everyone who came by!",
+      "setup": "Why did the welcome sign smile?",
+      "punchline": "It loved making a good first impression!",
       "categories": ["home"],
-      "tags": ["welcome sign", "friendly", "greeting", "entrance", "wordplay", "front door", "hospitable"]
+      "tags": ["welcome sign", "entrance", "wordplay"]
     },
     {
       "id": 970,
-      "setup": "What did the smoke alarm say to the burnt toast?",
-      "punchline": "You're really setting me off today!",
-      "categories": ["home", "food"],
-      "tags": ["smoke alarm", "burnt toast", "setting off", "kitchen", "wordplay", "alarm", "cooking"]
+      "setup": "Why did the smoke alarm panic?",
+      "punchline": "It sensed trouble!",
+      "categories": ["home"],
+      "tags": ["smoke alarm", "danger", "wordplay"]
     },
     {
       "id": 971,
-      "setup": "Why did the recliner feel lazy?",
-      "punchline": "Because it was always leaning back on the job!",
+      "setup": "Why did the recliner win an award?",
+      "punchline": "It leaned into comfort!",
       "categories": ["home"],
-      "tags": ["recliner", "lazy", "leaning back", "furniture", "wordplay", "relaxing", "chair"]
+      "tags": ["recliner", "comfort", "wordplay"]
     },
     {
       "id": 972,
-      "setup": "What did the flower pot say to the plant?",
-      "punchline": "I'm rooting for you!",
-      "categories": ["home", "outdoors"],
-      "tags": ["flower pot", "plant", "rooting", "support", "wordplay", "garden", "growing"]
+      "setup": "Why did the flower pot smile?",
+      "punchline": "It was rooting for success!",
+      "categories": ["home"],
+      "tags": ["flower pot", "plants", "wordplay"]
     },
     {
       "id": 973,
-      "setup": "Why did the light bulb feel bright?",
-      "punchline": "Because it had so many brilliant ideas!",
+      "setup": "Why did the light bulb feel smart?",
+      "punchline": "It had a bright idea!",
       "categories": ["home"],
-      "tags": ["light bulb", "bright", "brilliant", "ideas", "wordplay", "electricity", "smart"]
+      "tags": ["light bulb", "idea", "wordplay"]
     },
     {
       "id": 974,
-      "setup": "What did the knife block say to the knives?",
-      "punchline": "You all make the cut!",
-      "categories": ["home", "food"],
-      "tags": ["knife block", "knives", "cut", "kitchen", "wordplay", "sharp", "approval"]
+      "setup": "Why did the knife block feel proud?",
+      "punchline": "Everyone made the cut!",
+      "categories": ["home"],
+      "tags": ["knife block", "cut", "wordplay"]
     },
     {
       "id": 975,
-      "setup": "Why did the screen door feel transparent?",
-      "punchline": "Because everyone could see right through it!",
+      "setup": "Why did the screen door stay calm?",
+      "punchline": "It let things pass!",
       "categories": ["home"],
-      "tags": ["screen door", "transparent", "see through", "entrance", "wordplay", "mesh", "obvious"]
+      "tags": ["screen door", "pass", "wordplay"]
     },
     {
       "id": 976,
-      "setup": "What did the deck say to the backyard?",
-      "punchline": "I'm just here to raise the level of our relationship!",
-      "categories": ["home", "outdoors"],
-      "tags": ["deck", "backyard", "level", "raised", "wordplay", "patio", "relationship"]
+      "setup": "Why did the deck feel elevated?",
+      "punchline": "It was raised right!",
+      "categories": ["home"],
+      "tags": ["deck", "raised", "wordplay"]
     },
     {
       "id": 977,
-      "setup": "Why did the toilet brush feel undervalued?",
-      "punchline": "Because it had a really crappy job!",
-      "categories": ["home", "work"],
-      "tags": ["toilet brush", "undervalued", "crappy", "bathroom", "wordplay", "cleaning", "job"]
+      "setup": "Why did the toilet brush feel important?",
+      "punchline": "It handled dirty work!",
+      "categories": ["home"],
+      "tags": ["toilet brush", "cleaning", "wordplay"]
     },
     {
       "id": 978,
-      "setup": "What did the freezer say to the ice cream?",
-      "punchline": "Chill out, you're not going anywhere!",
-      "categories": ["home", "food"],
-      "tags": ["freezer", "ice cream", "chill", "cold", "wordplay", "kitchen", "frozen"]
+      "setup": "Why did the freezer relax?",
+      "punchline": "Everything was chill!",
+      "categories": ["home"],
+      "tags": ["freezer", "cold", "wordplay"]
     },
     {
       "id": 979,
-      "setup": "Why did the venetian blinds feel confused?",
-      "punchline": "Because they couldn't decide if they were open or closed!",
+      "setup": "Why did the blinds feel confused?",
+      "punchline": "They couldn’t see clearly!",
       "categories": ["home"],
-      "tags": ["venetian blinds", "confused", "open", "closed", "wordplay", "window", "indecisive"]
+      "tags": ["blinds", "window", "wordplay"]
     },
     {
       "id": 980,
-      "setup": "What did the hammer say to the nail?",
-      "punchline": "I'm really going to hit it off with you!",
-      "categories": ["home", "work"],
-      "tags": ["hammer", "nail", "hit it off", "tools", "wordplay", "construction", "building"]
+      "setup": "Why did the hammer feel confident?",
+      "punchline": "It always nailed it!",
+      "categories": ["home"],
+      "tags": ["hammer", "tools", "wordplay"]
     },
     {
       "id": 981,
-      "setup": "Why did the bathroom scale feel judgmental?",
-      "punchline": "Because it was always weighing in on people!",
+      "setup": "Why did the bathroom scale feel honest?",
+      "punchline": "It told the weight of the truth!",
       "categories": ["home"],
-      "tags": ["bathroom scale", "judgmental", "weighing in", "weight", "wordplay", "opinion", "measuring"]
+      "tags": ["scale", "weight", "wordplay"]
     },
     {
       "id": 982,
-      "setup": "What did the power strip say to all the plugs?",
-      "punchline": "There's room for everyone here!",
-      "categories": ["home", "technology"],
-      "tags": ["power strip", "plugs", "room", "electricity", "wordplay", "outlets", "inclusive"]
+      "setup": "Why did the power strip feel popular?",
+      "punchline": "Everyone plugged into it!",
+      "categories": ["home"],
+      "tags": ["power strip", "electricity", "wordplay"]
     },
     {
       "id": 983,
-      "setup": "Why did the paint can feel colorful?",
-      "punchline": "Because it was always making a splash!",
+      "setup": "Why did the paint feel confident?",
+      "punchline": "It always made a bold statement!",
       "categories": ["home"],
-      "tags": ["paint can", "colorful", "splash", "decorating", "wordplay", "walls", "art"]
+      "tags": ["paint", "decor", "wordplay"]
     },
     {
       "id": 984,
-      "setup": "What did the staircase say to the elevator?",
-      "punchline": "You have your ups and downs, but I take it step by step!",
+      "setup": "Why did the stairs beat the elevator?",
+      "punchline": "They took things step by step!",
       "categories": ["home"],
-      "tags": ["staircase", "elevator", "ups downs", "steps", "wordplay", "building", "levels"]
+      "tags": ["stairs", "steps", "wordplay"]
     },
     {
       "id": 985,
-      "setup": "Why did the tissue box feel emotional?",
-      "punchline": "Because it was always there for people's tears!",
+      "setup": "Why did the tissue box feel needed?",
+      "punchline": "It was always there for tough moments!",
       "categories": ["home"],
-      "tags": ["tissue box", "emotional", "tears", "crying", "wordplay", "support", "comfort"]
+      "tags": ["tissue", "comfort", "wordplay"]
     },
     {
       "id": 986,
-      "setup": "What did the wifi router say to the devices?",
-      "punchline": "We have a strong connection!",
-      "categories": ["home", "technology"],
-      "tags": ["wifi router", "devices", "connection", "internet", "wordplay", "signal", "relationship"]
+      "setup": "Why did the Wi-Fi router feel strong?",
+      "punchline": "It had a solid connection!",
+      "categories": ["home"],
+      "tags": ["router", "wifi", "wordplay"]
     },
     {
       "id": 987,
       "setup": "Why did the candle feel burned out?",
-      "punchline": "Because it was working around the wick!",
+      "punchline": "It worked around the wick!",
       "categories": ["home"],
-      "tags": ["candle", "burned out", "wick", "clock", "wordplay", "light", "exhausted"]
+      "tags": ["candle", "burnout", "wordplay"]
     },
     {
       "id": 988,
       "setup": "What did the coat rack say to the jackets?",
-      "punchline": "Just hang in there!",
+      "punchline": "Hang in there!",
       "categories": ["home"],
-      "tags": ["coat rack", "jackets", "hang in there", "support", "wordplay", "entrance", "encouragement"]
+      "tags": ["coat rack", "jackets", "wordplay"]
     },
     {
       "id": 989,
-      "setup": "Why did the cutting board feel chopped up?",
-      "punchline": "Because it was always getting sliced into the action!",
-      "categories": ["home", "food"],
-      "tags": ["cutting board", "chopped", "sliced", "kitchen", "wordplay", "cooking", "preparing"]
+      "setup": "Why did the cutting board feel important?",
+      "punchline": "It was central to the action!",
+      "categories": ["home"],
+      "tags": ["cutting board", "kitchen", "wordplay"]
     },
     {
       "id": 990,
-      "setup": "What did the sprinkler say to the lawn?",
-      "punchline": "I'm going to shower you with attention!",
-      "categories": ["home", "outdoors"],
-      "tags": ["sprinkler", "lawn", "shower", "attention", "wordplay", "yard", "watering"]
+      "setup": "Why did the sprinkler feel proud?",
+      "punchline": "It showered everyone with attention!",
+      "categories": ["home"],
+      "tags": ["sprinkler", "yard", "wordplay"]
     },
     {
       "id": 991,
-      "setup": "Why did the electrical outlet feel shocked?",
-      "punchline": "Because someone stuck a fork in it!",
+      "setup": "Why did the outlet feel shocked?",
+      "punchline": "It didn’t see that coming!",
       "categories": ["home"],
-      "tags": ["outlet", "shocked", "fork", "electricity", "wordplay", "dangerous", "surprised"]
+      "tags": ["outlet", "electricity", "wordplay"]
     },
     {
       "id": 992,
-      "setup": "What did the spice rack say to the salt?",
-      "punchline": "You're the seasoned veteran around here!",
-      "categories": ["home", "food"],
-      "tags": ["spice rack", "salt", "seasoned", "veteran", "wordplay", "kitchen", "cooking"]
+      "setup": "Why did the spice rack feel seasoned?",
+      "punchline": "It had years of experience!",
+      "categories": ["home"],
+      "tags": ["spice rack", "seasoned", "wordplay"]
     },
     {
       "id": 993,
-      "setup": "Why did the shutter feel closed off?",
-      "punchline": "Because it was always blocking out the world!",
+      "setup": "Why did the shutter close up?",
+      "punchline": "It needed privacy!",
       "categories": ["home"],
-      "tags": ["shutter", "closed off", "blocking", "window", "wordplay", "privacy", "isolated"]
+      "tags": ["shutter", "privacy", "wordplay"]
     },
     {
       "id": 994,
-      "setup": "What did the soap dish say to the bar of soap?",
-      "punchline": "You're really wearing thin these days!",
+      "setup": "What did the soap dish say to the soap?",
+      "punchline": "You’re wearing thin!",
       "categories": ["home"],
-      "tags": ["soap dish", "soap", "wearing thin", "bathroom", "wordplay", "shrinking", "used"]
+      "tags": ["soap dish", "soap", "wordplay"]
     },
     {
       "id": 995,
-      "setup": "Why did the DVD player feel outdated?",
-      "punchline": "Because everyone kept streaming past it!",
-      "categories": ["home", "technology"],
-      "tags": ["dvd player", "outdated", "streaming", "technology", "wordplay", "old", "obsolete"]
+      "setup": "Why did the DVD player retire?",
+      "punchline": "It couldn’t keep up with streaming!",
+      "categories": ["home"],
+      "tags": ["dvd player", "streaming", "wordplay"]
     },
     {
       "id": 996,
       "setup": "What did the measuring cup say to the flour?",
-      "punchline": "I've got your measure!",
-      "categories": ["home", "food"],
-      "tags": ["measuring cup", "flour", "measure", "baking", "wordplay", "kitchen", "precise"]
+      "punchline": "I’ve got your measure!",
+      "categories": ["home"],
+      "tags": ["measuring cup", "baking", "wordplay"]
     },
     {
       "id": 997,
-      "setup": "Why did the doorstop feel stuck?",
-      "punchline": "Because it was always holding things in place!",
+      "setup": "Why did the doorstop stay put?",
+      "punchline": "It knew its role!",
       "categories": ["home"],
-      "tags": ["doorstop", "stuck", "holding", "door", "wordplay", "wedge", "stationary"]
+      "tags": ["doorstop", "door", "wordplay"]
     },
     {
       "id": 998,
-      "setup": "What did the toilet paper say to the bathroom?",
-      "punchline": "I'm on a roll today!",
+      "setup": "Why did the toilet paper celebrate?",
+      "punchline": "It was on a roll!",
       "categories": ["home"],
-      "tags": ["toilet paper", "bathroom", "roll", "success", "wordplay", "restroom", "essential"]
+      "tags": ["toilet paper", "bathroom", "wordplay"]
     },
     {
       "id": 999,
-      "setup": "Why did the address numbers feel identified?",
-      "punchline": "Because they really knew their place!",
+      "setup": "Why did the house number feel confident?",
+      "punchline": "It knew its place!",
       "categories": ["home"],
-      "tags": ["address numbers", "identified", "place", "house", "wordplay", "location", "identity"]
+      "tags": ["address", "house", "wordplay"]
     },
     {
       "id": 1000,
-      "setup": "What did the house say to the family?",
-      "punchline": "Home is where the heart is, and you've got mine!",
-      "categories": ["home", "family"],
-      "tags": ["house", "family", "heart", "home", "wordplay", "love", "belonging"]
+      "setup": "Why did the house smile?",
+      "punchline": "Because it was full of love!",
+      "categories": ["home"],
+      "tags": ["house", "home", "family"]
     },
     {
       "id": 1001,
