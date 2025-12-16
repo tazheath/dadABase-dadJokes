@@ -8677,243 +8677,243 @@
     "categories": ["outdoors"],
     "tags": ["boomerang", "wordplay", "throwing", "objects", "humor"]
   },
-    {
+  {
     "id": 1231,
-    "setup": "Why did the lightning break up with the thunder?",
-    "punchline": "It was tired of all the noise!",
+    "setup": "Why did the lightning get kicked out of the band?",
+    "punchline": "It kept stealing the thunder!",
     "categories": ["outdoors"],
     "tags": ["lightning", "thunder", "weather", "wordplay", "storm"]
   },
   {
     "id": 1232,
-    "setup": "What did the tree wear to the pool party?",
-    "punchline": "Swimming trunks!",
+    "setup": "What did the tree wear to the swimming pool?",
+    "punchline": "Its swimming trunks!",
     "categories": ["outdoors"],
     "tags": ["tree", "trunks", "swimming", "wordplay", "summer"]
   },
   {
     "id": 1233,
-    "setup": "Why did the robin feel sad?",
-    "punchline": "It had too many eggs to sit on!",
+    "setup": "Why did the bird bring a ladder to the nest?",
+    "punchline": "Because it wanted to reach new heights!",
     "categories": ["outdoors", "animals"],
-    "tags": ["robin", "birds", "eggs", "wordplay", "nest"]
+    "tags": ["bird", "nest", "ladder", "wordplay", "flying"]
   },
   {
     "id": 1234,
-    "setup": "What do you call a sleeping bag in the forest?",
-    "punchline": "A nap-sack!",
+    "setup": "What do you call a sleeping bag that tells jokes?",
+    "punchline": "A real nap-sack comedian!",
     "categories": ["outdoors"],
-    "tags": ["sleeping bag", "camping", "sleep", "wordplay", "outdoors"]
+    "tags": ["sleeping bag", "camping", "nap", "wordplay", "jokes"]
   },
   {
     "id": 1235,
-    "setup": "Why did the frog take public transportation?",
-    "punchline": "Its car got toad away!",
+    "setup": "Why did the frog take the bus?",
+    "punchline": "His car got toad away!",
     "categories": ["outdoors", "animals"],
     "tags": ["frog", "toad", "transportation", "wordplay", "animals"]
   },
   {
     "id": 1236,
-    "setup": "What did the rock say to the geologist?",
-    "punchline": "Don’t take me for granite!",
+    "setup": "What did the rock say when it won the argument?",
+    "punchline": "I guess I really made my point!",
     "categories": ["outdoors"],
-    "tags": ["rocks", "geology", "granite", "wordplay", "science"]
+    "tags": ["rock", "geology", "point", "wordplay", "nature"]
   },
   {
     "id": 1237,
-    "setup": "Why did the compass feel confident?",
-    "punchline": "It always knew where it stood!",
+    "setup": "Why did the compass break up with the map?",
+    "punchline": "It felt like the relationship was going nowhere!",
     "categories": ["outdoors"],
-    "tags": ["compass", "navigation", "direction", "wordplay", "travel"]
+    "tags": ["compass", "map", "direction", "wordplay", "navigation"]
   },
   {
     "id": 1238,
-    "setup": "What do you call a cow having a bad day?",
-    "punchline": "Moody!",
+    "setup": "What do you call a cow that just gave birth?",
+    "punchline": "De-calf-inated!",
     "categories": ["outdoors", "animals"],
-    "tags": ["cow", "farm", "moo", "wordplay", "animals"]
+    "tags": ["cow", "calf", "farm", "wordplay", "animals"]
   },
   {
     "id": 1239,
-    "setup": "Why did the stream feel stressed?",
-    "punchline": "Everything was going downstream!",
+    "setup": "Why did the stream bring a notebook?",
+    "punchline": "To keep track of its current events!",
     "categories": ["outdoors"],
-    "tags": ["stream", "water", "stress", "wordplay", "nature"]
+    "tags": ["stream", "current", "water", "wordplay", "nature"]
   },
   {
     "id": 1240,
-    "setup": "What did the seed say to the flower?",
-    "punchline": "OK, bloomer!",
+    "setup": "What did the seed say when it got promoted?",
+    "punchline": "I guess I really grew into this role!",
     "categories": ["outdoors"],
-    "tags": ["seed", "flower", "plants", "wordplay", "garden"]
+    "tags": ["seed", "growth", "plants", "wordplay", "garden"]
   },
   {
     "id": 1241,
-    "setup": "Why did the hiker bring a pencil?",
-    "punchline": "In case they needed to draw a conclusion!",
+    "setup": "Why did the hiker bring string on the trail?",
+    "punchline": "In case they needed to tie up loose ends!",
     "categories": ["outdoors"],
-    "tags": ["hiking", "pencil", "wordplay", "trails", "adventure"]
+    "tags": ["hiking", "string", "trail", "wordplay", "outdoors"]
   },
   {
     "id": 1242,
-    "setup": "What do you call a wet bear?",
+    "setup": "What do you call a bear caught in the rain?",
     "punchline": "A drizzly bear!",
     "categories": ["outdoors", "animals"],
     "tags": ["bear", "rain", "grizzly", "wordplay", "wildlife"]
   },
   {
     "id": 1243,
-    "setup": "Why did the gardener quit their job?",
-    "punchline": "They couldn’t make enough celery!",
+    "setup": "Why did the gardener bring a calculator?",
+    "punchline": "To figure out his celery!",
     "categories": ["outdoors"],
     "tags": ["gardener", "celery", "salary", "wordplay", "plants"]
   },
   {
     "id": 1244,
-    "setup": "What did the beaver say before leaving?",
-    "punchline": "It’s been nice gnawing you!",
+    "setup": "What did the beaver say when it finished the job?",
+    "punchline": "Well… that gnawed be done!",
     "categories": ["outdoors", "animals"],
-    "tags": ["beaver", "gnawing", "wood", "wordplay", "animals"]
+    "tags": ["beaver", "wood", "gnaw", "wordplay", "animals"]
   },
   {
     "id": 1245,
-    "setup": "Why did the sun break up with the moon?",
-    "punchline": "They needed some space!",
+    "setup": "Why did the sun bring sunglasses to space?",
+    "punchline": "Because it didn’t want to be too bright!",
     "categories": ["outdoors"],
-    "tags": ["sun", "moon", "space", "wordplay", "sky"]
+    "tags": ["sun", "space", "bright", "wordplay", "sky"]
   },
   {
     "id": 1246,
-    "setup": "What did the grass say to the lawn mower?",
-    "punchline": "Are you stalking me?",
+    "setup": "Why did the lawn mower get promoted?",
+    "punchline": "It really cut above the rest!",
     "categories": ["outdoors"],
-    "tags": ["grass", "lawn mower", "stalk", "wordplay", "yard"]
+    "tags": ["lawn mower", "yard", "cutting", "wordplay", "home"]
   },
   {
     "id": 1247,
-    "setup": "Why did the fisherman blush?",
-    "punchline": "He saw the lake’s bottom!",
+    "setup": "Why did the fisherman bring a pencil?",
+    "punchline": "In case he needed to draw a line!",
     "categories": ["outdoors"],
-    "tags": ["fishing", "lake", "wordplay", "water", "embarrassed"]
+    "tags": ["fishing", "pencil", "line", "wordplay", "water"]
   },
   {
     "id": 1248,
-    "setup": "What do you call a butterfly that won’t slow down?",
-    "punchline": "A flutter-by!",
+    "setup": "What do you call a butterfly that tells secrets?",
+    "punchline": "A social flutter!",
     "categories": ["outdoors", "animals"],
-    "tags": ["butterfly", "insects", "flying", "wordplay", "nature"]
+    "tags": ["butterfly", "insects", "flutter", "wordplay", "nature"]
   },
   {
     "id": 1249,
-    "setup": "Why did the forest win an award?",
-    "punchline": "It was tree-mendous!",
+    "setup": "Why did the forest start a podcast?",
+    "punchline": "It had a lot of logs to share!",
     "categories": ["outdoors"],
-    "tags": ["forest", "trees", "tremendous", "wordplay", "nature"]
+    "tags": ["forest", "logs", "trees", "wordplay", "nature"]
   },
   {
     "id": 1250,
-    "setup": "What do you call a chicken that tells jokes?",
+    "setup": "What do you call a chicken that loves stand-up comedy?",
     "punchline": "A comedi-hen!",
     "categories": ["outdoors", "animals"],
     "tags": ["chicken", "farm", "comedian", "wordplay", "animals"]
   },
   {
     "id": 1251,
-    "setup": "Why did the sunset blush?",
-    "punchline": "It saw the ocean wave!",
+    "setup": "Why did the sunset apply for a job?",
+    "punchline": "It wanted to make a bright impression!",
     "categories": ["outdoors"],
-    "tags": ["sunset", "ocean", "sky", "wordplay", "evening"]
+    "tags": ["sunset", "sky", "bright", "wordplay", "evening"]
   },
   {
     "id": 1252,
-    "setup": "What did the tent say to the camper?",
-    "punchline": "I’ve got you covered!",
+    "setup": "Why did the tent break up with the camper?",
+    "punchline": "It needed more space!",
     "categories": ["outdoors"],
-    "tags": ["tent", "camping", "shelter", "wordplay", "outdoors"]
+    "tags": ["tent", "camping", "space", "wordplay", "outdoors"]
   },
   {
     "id": 1253,
-    "setup": "Why did the acorn feel confident?",
-    "punchline": "It knew everything would be oak-ay!",
+    "setup": "What did the acorn say to calm itself down?",
+    "punchline": "I’m going to be oak-ay!",
     "categories": ["outdoors"],
     "tags": ["acorn", "oak", "trees", "wordplay", "growth"]
   },
   {
     "id": 1254,
-    "setup": "What do you call a pig relaxing in the sun?",
-    "punchline": "Bacon in the sunshine!",
+    "setup": "What do you call a pig that knows karate?",
+    "punchline": "Pork chop!",
     "categories": ["outdoors", "animals"],
-    "tags": ["pig", "farm", "bacon", "wordplay", "sun"]
+    "tags": ["pig", "karate", "pork chop", "wordplay", "animals"]
   },
   {
     "id": 1255,
-    "setup": "Why did the moss leave the rock?",
-    "punchline": "Things were getting too clingy!",
+    "setup": "Why did the moss start a podcast?",
+    "punchline": "It wanted to cover more ground!",
     "categories": ["outdoors"],
-    "tags": ["moss", "rock", "plants", "wordplay", "nature"]
+    "tags": ["moss", "ground", "plants", "wordplay", "nature"]
   },
   {
     "id": 1256,
-    "setup": "What did the log say as it rolled downhill?",
-    "punchline": "That’s how I roll!",
+    "setup": "What do you call a log that tells the truth?",
+    "punchline": "An honest timber!",
     "categories": ["outdoors"],
-    "tags": ["log", "forest", "rolling", "wordplay", "trees"]
+    "tags": ["log", "timber", "truth", "wordplay", "forest"]
   },
   {
     "id": 1257,
-    "setup": "Why did the caterpillar feel unfinished?",
-    "punchline": "It was still a work in chrysalis!",
+    "setup": "Why did the caterpillar get a promotion?",
+    "punchline": "It showed real potential!",
     "categories": ["outdoors", "animals"],
-    "tags": ["caterpillar", "butterfly", "chrysalis", "wordplay", "transformation"]
+    "tags": ["caterpillar", "butterfly", "growth", "wordplay", "transformation"]
   },
   {
     "id": 1258,
-    "setup": "What do you call a snake building things?",
+    "setup": "What do you call a snake that builds houses?",
     "punchline": "A boa constructor!",
     "categories": ["outdoors", "animals"],
     "tags": ["snake", "boa", "construction", "wordplay", "reptile"]
   },
   {
     "id": 1259,
-    "setup": "Why did the cloud dump the fog?",
-    "punchline": "Things were getting too misty!",
+    "setup": "Why did the cloud bring a pencil?",
+    "punchline": "In case it needed to draw some rain!",
     "categories": ["outdoors"],
-    "tags": ["cloud", "fog", "weather", "wordplay", "sky"]
+    "tags": ["cloud", "rain", "weather", "wordplay", "sky"]
   },
   {
     "id": 1260,
-    "setup": "What did the dandelion say after regrowing?",
-    "punchline": "I’m back for more!",
+    "setup": "What did the dandelion say after spreading seeds?",
+    "punchline": "My work here is blown!",
     "categories": ["outdoors"],
-    "tags": ["dandelion", "plants", "regrowth", "wordplay", "nature"]
+    "tags": ["dandelion", "seeds", "wind", "wordplay", "plants"]
   },
   {
     "id": 1261,
-    "setup": "Why did the picnic table feel popular?",
-    "punchline": "Everyone kept gathering around it!",
+    "setup": "Why did the picnic table bring a jacket?",
+    "punchline": "It was expecting some cold cuts!",
     "categories": ["outdoors"],
-    "tags": ["picnic", "table", "park", "wordplay", "outdoors"]
+    "tags": ["picnic table", "food", "cuts", "wordplay", "park"]
   },
   {
     "id": 1262,
-    "setup": "What do you call a fish who fixes people?",
+    "setup": "What do you call a fish who performs surgery?",
     "punchline": "A sturgeon!",
     "categories": ["outdoors", "animals"],
     "tags": ["fish", "doctor", "sturgeon", "wordplay", "pond"]
   },
   {
     "id": 1263,
-    "setup": "Why was the mountain so confident?",
-    "punchline": "It was at the peak of its abilities!",
+    "setup": "Why did the mountain get a promotion?",
+    "punchline": "It reached a new peak!",
     "categories": ["outdoors"],
-    "tags": ["mountain", "peak", "confidence", "wordplay", "geography"]
+    "tags": ["mountain", "peak", "promotion", "wordplay", "geography"]
   },
   {
     "id": 1264,
-    "setup": "What did one firefly say to the other?",
-    "punchline": "You really light up the room!",
+    "setup": "What do fireflies use to communicate?",
+    "punchline": "Glow-mail!",
     "categories": ["outdoors", "animals"],
-    "tags": ["firefly", "light", "insects", "wordplay", "night"]
+    "tags": ["firefly", "light", "communication", "wordplay", "insects"]
   },
   {
     "id": 1265,
@@ -8924,31 +8924,31 @@
   },
   {
     "id": 1266,
-    "setup": "What do you call a rabbit who loves gardening?",
-    "punchline": "A green-thumb bunny!",
+    "setup": "What do you call a rabbit who works in landscaping?",
+    "punchline": "A hare-dresser!",
     "categories": ["outdoors", "animals"],
-    "tags": ["rabbit", "gardening", "plants", "wordplay", "animals"]
+    "tags": ["rabbit", "hare", "landscaping", "wordplay", "animals"]
   },
   {
     "id": 1267,
-    "setup": "Why did the waterfall feel awkward?",
-    "punchline": "It caught the river running!",
+    "setup": "Why did the waterfall bring a towel?",
+    "punchline": "It knew things were about to get wet!",
     "categories": ["outdoors"],
-    "tags": ["waterfall", "river", "wordplay", "water", "nature"]
+    "tags": ["waterfall", "water", "wet", "wordplay", "nature"]
   },
   {
     "id": 1268,
-    "setup": "What did the rock climber name their child?",
+    "setup": "What did the rock climber name his kid?",
     "punchline": "Cliff!",
     "categories": ["outdoors"],
     "tags": ["rock climbing", "cliff", "names", "wordplay", "mountains"]
   },
   {
     "id": 1269,
-    "setup": "Why did the worm cross the playground?",
-    "punchline": "To get to the other slide!",
+    "setup": "Why did the worm bring a ruler?",
+    "punchline": "To measure how far it crawled!",
     "categories": ["outdoors", "animals"],
-    "tags": ["worm", "playground", "slide", "wordplay", "animals"]
+    "tags": ["worm", "measuring", "crawl", "wordplay", "animals"]
   },
   {
     "id": 1270,
@@ -8959,17 +8959,17 @@
   },
   {
     "id": 1271,
-    "setup": "Why did the wildflower get in trouble?",
-    "punchline": "It refused to be tamed!",
+    "setup": "Why did the wildflower refuse directions?",
+    "punchline": "It preferred to grow its own way!",
     "categories": ["outdoors"],
-    "tags": ["wildflower", "plants", "nature", "wordplay", "garden"]
+    "tags": ["wildflower", "plants", "growth", "wordplay", "nature"]
   },
   {
     "id": 1272,
-    "setup": "What did the rain say to the parade?",
-    "punchline": "Sorry about this!",
+    "setup": "Why did the rain bring an apology letter?",
+    "punchline": "It didn’t mean to shower everyone!",
     "categories": ["outdoors"],
-    "tags": ["rain", "parade", "weather", "wordplay", "events"]
+    "tags": ["rain", "weather", "shower", "wordplay", "sky"]
   },
   {
     "id": 1273,
@@ -8980,17 +8980,17 @@
   },
   {
     "id": 1274,
-    "setup": "What do you call a sleeping dinosaur outside?",
+    "setup": "What do you call a sleeping dinosaur outdoors?",
     "punchline": "A dino-snore!",
     "categories": ["outdoors", "animals"],
     "tags": ["dinosaur", "sleeping", "snore", "wordplay", "animals"]
   },
   {
     "id": 1275,
-    "setup": "Why did the kayak feel stressed?",
-    "punchline": "It kept getting flipped over!",
+    "setup": "Why did the kayak bring a helmet?",
+    "punchline": "It was expecting a rough ride!",
     "categories": ["outdoors"],
-    "tags": ["kayak", "water", "paddling", "wordplay", "sports"]
+    "tags": ["kayak", "river", "paddling", "wordplay", "sports"]
   },
   {
     "id": 1276,
@@ -9001,171 +9001,171 @@
   },
   {
     "id": 1277,
-    "setup": "Why did the farmer get promoted?",
-    "punchline": "He was outstanding in his field!",
+    "setup": "Why did the farmer bring a ruler?",
+    "punchline": "To measure his crops!",
     "categories": ["outdoors"],
-    "tags": ["farmer", "field", "wordplay", "farm", "work"]
+    "tags": ["farmer", "crops", "farm", "wordplay", "work"]
   },
   {
     "id": 1278,
     "setup": "What do you call a camel without humps?",
     "punchline": "Humphrey!",
     "categories": ["outdoors", "animals"],
-    "tags": ["camel", "desert", "wordplay", "animals", "names"]
+    "tags": ["camel", "desert", "names", "wordplay", "animals"]
   },
   {
     "id": 1279,
-    "setup": "Why did the ivy get so attached?",
-    "punchline": "It couldn’t let go!",
+    "setup": "Why did the ivy start a podcast?",
+    "punchline": "It had a lot of clingy topics!",
     "categories": ["outdoors"],
-    "tags": ["ivy", "plants", "climbing", "wordplay", "walls"]
+    "tags": ["ivy", "plants", "climbing", "wordplay", "nature"]
   },
   {
     "id": 1280,
-    "setup": "What did the fishing rod say to the fish?",
-    "punchline": "Catch you later!",
+    "setup": "Why did the fishing rod get promoted?",
+    "punchline": "It really knew how to reel people in!",
     "categories": ["outdoors", "animals"],
-    "tags": ["fishing", "fish", "catch", "wordplay", "water"]
+    "tags": ["fishing", "rod", "reel", "wordplay", "water"]
   },
   {
     "id": 1281,
-    "setup": "Why did the pinecone seem annoyed?",
-    "punchline": "It was having a rough day!",
+    "setup": "Why did the pinecone bring sandpaper?",
+    "punchline": "It wanted to smooth things over!",
     "categories": ["outdoors"],
-    "tags": ["pinecone", "rough", "forest", "wordplay", "nature"]
+    "tags": ["pinecone", "rough", "smooth", "wordplay", "forest"]
   },
   {
     "id": 1282,
-    "setup": "What do you call a horse that lives next door?",
+    "setup": "What do you call a horse who lives next door?",
     "punchline": "A neigh-bor!",
     "categories": ["outdoors", "animals"],
     "tags": ["horse", "neighbor", "farm", "wordplay", "animals"]
   },
   {
     "id": 1283,
-    "setup": "Why did the rainbow feel confident?",
-    "punchline": "It had all the right colors!",
+    "setup": "Why did the rainbow get hired?",
+    "punchline": "It really added color to the team!",
     "categories": ["outdoors"],
     "tags": ["rainbow", "colors", "weather", "wordplay", "sky"]
   },
   {
     "id": 1284,
-    "setup": "What did the dew say to the grass?",
-    "punchline": "I’m falling for you!",
+    "setup": "Why did the dew bring a ladder?",
+    "punchline": "It wanted to rise in the morning!",
     "categories": ["outdoors"],
-    "tags": ["dew", "grass", "morning", "wordplay", "nature"]
+    "tags": ["dew", "morning", "rise", "wordplay", "nature"]
   },
   {
     "id": 1285,
-    "setup": "Why did the owl become a detective?",
+    "setup": "Why did the owl become a private investigator?",
     "punchline": "It was great at night stakeouts!",
     "categories": ["outdoors", "animals"],
     "tags": ["owl", "detective", "night", "wordplay", "birds"]
   },
   {
     "id": 1286,
-    "setup": "What do you call a snail on a boat?",
+    "setup": "What do you call a snail that works on a ship?",
     "punchline": "A snailor!",
     "categories": ["outdoors", "animals"],
-    "tags": ["snail", "boat", "sailor", "wordplay", "animals"]
+    "tags": ["snail", "ship", "sailor", "wordplay", "animals"]
   },
   {
     "id": 1287,
-    "setup": "Why did the park bench feel important?",
-    "punchline": "Everyone leaned on it!",
+    "setup": "Why did the park bench bring a pillow?",
+    "punchline": "It was tired of people leaning on it!",
     "categories": ["outdoors"],
-    "tags": ["park bench", "rest", "sitting", "wordplay", "parks"]
+    "tags": ["park bench", "rest", "sleep", "wordplay", "park"]
   },
   {
     "id": 1288,
-    "setup": "What did the tornado say to the car?",
-    "punchline": "Want to go for a spin?",
+    "setup": "Why did the tornado get a job offer?",
+    "punchline": "It really knew how to make an impact!",
     "categories": ["outdoors"],
-    "tags": ["tornado", "wind", "spin", "wordplay", "weather"]
+    "tags": ["tornado", "weather", "impact", "wordplay", "wind"]
   },
   {
     "id": 1289,
-    "setup": "Why did the hedgehog cross the road?",
-    "punchline": "To prove it wasn’t chicken!",
+    "setup": "What do you call a hedgehog that tells jokes?",
+    "punchline": "A real prick-up comic!",
     "categories": ["outdoors", "animals"],
-    "tags": ["hedgehog", "road", "crossing", "wordplay", "animals"]
+    "tags": ["hedgehog", "jokes", "prickly", "wordplay", "animals"]
   },
   {
     "id": 1290,
-    "setup": "What did the cactus say to the desert?",
-    "punchline": "I’m stuck on you!",
+    "setup": "Why did the cactus bring duct tape?",
+    "punchline": "In case things got stuck!",
     "categories": ["outdoors"],
-    "tags": ["cactus", "desert", "plants", "wordplay", "dry"]
+    "tags": ["cactus", "desert", "stuck", "wordplay", "plants"]
   },
   {
     "id": 1291,
-    "setup": "Why did the lake avoid deep talks?",
-    "punchline": "It preferred to keep things shallow!",
+    "setup": "Why did the lake bring a microphone?",
+    "punchline": "It wanted to sound deep!",
     "categories": ["outdoors"],
-    "tags": ["lake", "water", "depth", "wordplay", "geography"]
+    "tags": ["lake", "deep", "sound", "wordplay", "water"]
   },
   {
     "id": 1292,
-    "setup": "What do you call a moose that plays music?",
+    "setup": "What do you call a moose that plays guitar?",
     "punchline": "A moose-ician!",
     "categories": ["outdoors", "animals"],
     "tags": ["moose", "music", "musician", "wordplay", "wildlife"]
   },
   {
     "id": 1293,
-    "setup": "Why did the trail look exhausted?",
-    "punchline": "Too many hikers walked all over it!",
+    "setup": "Why did the hiking trail get a therapist?",
+    "punchline": "It had too many paths to work through!",
     "categories": ["outdoors"],
-    "tags": ["trail", "hiking", "path", "wordplay", "nature"]
+    "tags": ["trail", "paths", "hiking", "wordplay", "nature"]
   },
   {
     "id": 1294,
-    "setup": "What did the willow tree say when sad?",
-    "punchline": "I’m feeling a little weepy!",
+    "setup": "What did the willow tree say at the comedy show?",
+    "punchline": "I’m really cracking up over here!",
     "categories": ["outdoors"],
-    "tags": ["willow tree", "sad", "weeping", "wordplay", "trees"]
+    "tags": ["willow tree", "trees", "comedy", "wordplay", "nature"]
   },
   {
     "id": 1295,
-    "setup": "Why did the pelican share its food?",
-    "punchline": "It had more than it could beak!",
+    "setup": "Why did the pelican open a restaurant?",
+    "punchline": "It already had the perfect bill!",
     "categories": ["outdoors", "animals"],
-    "tags": ["pelican", "birds", "beak", "wordplay", "sharing"]
+    "tags": ["pelican", "bill", "restaurant", "wordplay", "birds"]
   },
   {
     "id": 1296,
-    "setup": "What do you call a mountain goat having a bad day?",
-    "punchline": "A real cliff-hanger!",
+    "setup": "What do you call a mountain goat who tells scary stories?",
+    "punchline": "A cliff-hanger!",
     "categories": ["outdoors", "animals"],
-    "tags": ["mountain goat", "cliff", "wordplay", "animals", "mountains"]
+    "tags": ["mountain goat", "cliff", "stories", "wordplay", "animals"]
   },
   {
     "id": 1297,
-    "setup": "Why did the hammock feel so calm?",
-    "punchline": "It was just hanging around!",
+    "setup": "Why did the hammock bring a calendar?",
+    "punchline": "It wanted to hang out all day!",
     "categories": ["outdoors"],
-    "tags": ["hammock", "relaxing", "camping", "wordplay", "leisure"]
+    "tags": ["hammock", "relaxing", "hanging", "wordplay", "camping"]
   },
   {
     "id": 1298,
-    "setup": "What did the vine say to the fence?",
-    "punchline": "I’m growing on you!",
+    "setup": "Why did the vine go to therapy?",
+    "punchline": "It had attachment issues!",
     "categories": ["outdoors"],
-    "tags": ["vine", "plants", "fence", "wordplay", "garden"]
+    "tags": ["vine", "plants", "attachment", "wordplay", "garden"]
   },
   {
     "id": 1299,
-    "setup": "Why did the park ranger feel uneasy?",
-    "punchline": "Too many trees were watching!",
-    "categories": ["outdoors"],
-    "tags": ["park ranger", "forest", "trees", "wordplay", "nature"]
+    "setup": "Why did the park ranger bring graph paper?",
+    "punchline": "To keep track of the plots!",
+    "categories": ["outdoors", "work"],
+    "tags": ["park ranger", "plots", "forest", "wordplay", "nature"]
   },
   {
     "id": 1300,
-    "setup": "What did the campfire say to the marshmallow?",
-    "punchline": "You’re really on a roll!",
-    "categories": ["outdoors"],
-    "tags": ["campfire", "marshmallow", "camping", "wordplay", "s'mores"]
+    "setup": "Why did the campfire start a band?",
+    "punchline": "It already had great logs!",
+    "categories": ["outdoors", "food"],
+    "tags": ["campfire", "logs", "music", "wordplay", "camping"]
   },
     {
       "id": 1301,
