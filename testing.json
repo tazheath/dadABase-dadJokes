@@ -3144,715 +3144,705 @@
       "tags": ["raisin", "prune", "date", "dating", "wordplay", "famous", "fruit"]
     },
     {
-    "id": 301,
-    "setup": "Why did the dad bring a ladder to the bar?",
-    "punchline": "Because he heard the drinks were on the house!",
-    "categories": ["family"],
-    "tags": ["dad", "bar", "ladder", "house", "classic"]
-  },
-  {
-    "id": 302,
-    "setup": "What did the daddy tomato say to the baby tomato?",
-    "punchline": "Catch up!",
-    "categories": ["family"],
-    "tags": ["parents", "kids", "tomato", "classic"]
-  },
-  {
-    "id": 303,
-    "setup": "Why do dads take an extra pair of socks golfing?",
-    "punchline": "In case they get a hole in one!",
-    "categories": ["family"],
-    "tags": ["dad", "golf", "socks", "classic"]
-  },
-  {
-    "id": 304,
-    "setup": "What did the mom broom say to the baby broom?",
-    "punchline": "It’s time to go to sweep!",
-    "categories": ["family"],
-    "tags": ["mom", "bedtime", "cleaning", "classic"]
-  },
-  {
-    "id": 305,
-    "setup": "Why did the father clock scold his son?",
-    "punchline": "Because he was talking back!",
-    "categories": ["family"],
-    "tags": ["father", "son", "clock", "pun"]
-  },
-  {
-    "id": 306,
-    "setup": "What did the mama corn say to the baby corn?",
-    "punchline": "Where’s pop?",
-    "categories": ["family"],
-    "tags": ["corn", "parents", "classic"]
-  },
-  {
-    "id": 307,
-    "setup": "Why did the kid put his dad in the fridge?",
-    "punchline": "Because he wanted a cold pop!",
-    "categories": ["family"],
-    "tags": ["kid", "dad", "pop", "classic"]
-  },
-  {
-    "id": 308,
-    "setup": "What do you call a grandma who tells jokes?",
-    "punchline": "A gram-cracker!",
-    "categories": ["family"],
-    "tags": ["grandma", "jokes", "classic"]
-  },
-  {
-    "id": 309,
-    "setup": "Why did the sister bring a pencil to the family reunion?",
-    "punchline": "In case she needed to draw some relatives!",
-    "categories": ["family"],
-    "tags": ["sister", "family", "reunion"]
-  },
-  {
-    "id": 310,
-    "setup": "What did the digital clock say to its mom?",
-    "punchline": "Look, Ma — no hands!",
-    "categories": ["family"],
-    "tags": ["mom", "clock", "classic"]
-  },
-
-  {
-    "id": 311,
-    "setup": "Why did the grandpa sit on the clock?",
-    "punchline": "He wanted to be on time!",
-    "categories": ["family"],
-    "tags": ["grandpa", "time", "classic"]
-  },
-  {
-    "id": 312,
-    "setup": "What did the dad spider say to his son?",
-    "punchline": "You spend too much time on the web!",
-    "categories": ["family"],
-    "tags": ["dad", "spider", "internet"]
-  },
-  {
-    "id": 313,
-    "setup": "Why did the baby light bulb love its mom?",
-    "punchline": "She brightened its day!",
-    "categories": ["family"],
-    "tags": ["mom", "light", "cute"]
-  },
-  {
-    "id": 314,
-    "setup": "Why did the dad joke book go to therapy?",
-    "punchline": "It had too many issues!",
-    "categories": ["family"],
-    "tags": ["dad", "jokes", "book"]
-  },
-  {
-    "id": 315,
-    "setup": "Why did the grandma knit three socks?",
-    "punchline": "Because her grandson grew another foot!",
-    "categories": ["family"],
-    "tags": ["grandma", "kids", "growth"]
-  },
-  {
-    "id": 316,
-    "setup": "What do you call a dad who falls through the ice?",
-    "punchline": "A pop-sicle!",
-    "categories": ["family"],
-    "tags": ["dad", "cold", "pun"]
-  },
-  {
-    "id": 317,
-    "setup": "Why did the dad sit on the calendar?",
-    "punchline": "He wanted to take a day off!",
-    "categories": ["family"],
-    "tags": ["dad", "calendar", "work"]
-  },
-  {
-    "id": 318,
-    "setup": "What did the papa tree say to the sapling?",
-    "punchline": "I’m rooting for you!",
-    "categories": ["family"],
-    "tags": ["parents", "support", "nature"]
-  },
-  {
-    "id": 319,
-    "setup": "Why did the mom bring a ruler to bed?",
-    "punchline": "To see how long she slept!",
-    "categories": ["family"],
-    "tags": ["mom", "sleep", "measurement"]
-  },
-  {
-    "id": 320,
-    "setup": "What did the dad say when the power went out?",
-    "punchline": "Well… I’m delighted!",
-    "categories": ["family"],
-    "tags": ["dad", "electricity", "pun"]
-  },
-
-  {
-    "id": 321,
-    "setup": "Why did the family go to the bank together?",
-    "punchline": "To check their balance!",
-    "categories": ["family"],
-    "tags": ["family", "money", "classic"]
-  },
-  {
-    "id": 322,
-    "setup": "What did the mom say when her kid asked for a puppy?",
-    "punchline": "I’m not making any ruff promises!",
-    "categories": ["family"],
-    "tags": ["mom", "pets", "pun"]
-  },
-  {
-    "id": 323,
-    "setup": "Why did the dad put wheels on his rocking chair?",
-    "punchline": "He wanted to rock and roll!",
-    "categories": ["family"],
-    "tags": ["dad", "music", "classic"]
-  },
-  {
-    "id": 324,
-    "setup": "What did the big hand on the clock say to the little hand?",
-    "punchline": "Got a minute?",
-    "categories": ["family"],
-    "tags": ["parent", "child", "time"]
-  },
-  {
-    "id": 325,
-    "setup": "Why did the mom bring a scale to the bakery?",
-    "punchline": "She wanted to weigh her options!",
-    "categories": ["family"],
-    "tags": ["mom", "decisions", "food"]
-  },
-  {
-    "id": 326,
-    "setup": "What did the dad say when his son became a gardener?",
-    "punchline": "I’m proud — you’ve really grown!",
-    "categories": ["family"],
-    "tags": ["dad", "son", "proud"]
-  },
-  {
-    "id": 327,
-    "setup": "Why did the grandma give directions?",
-    "punchline": "So everyone could find their way to her heart!",
-    "categories": ["family"],
-    "tags": ["grandma", "love", "family"]
-  },
-  {
-    "id": 328,
-    "setup": "What did the mama bee say to her misbehaving kid?",
-    "punchline": "Bee-have yourself!",
-    "categories": ["family"],
-    "tags": ["mom", "discipline", "animals"]
-  },
-  {
-    "id": 329,
-    "setup": "Why did the dad bring a dictionary to dinner?",
-    "punchline": "Because someone was going to eat their words!",
-    "categories": ["family"],
-    "tags": ["dad", "words", "classic"]
-  },
-  {
-    "id": 330,
-    "setup": "What did the papa fish say to his baby?",
-    "punchline": "You’re fin-tastic!",
-    "categories": ["family"],
-    "tags": ["dad", "animals", "cute"]
-  },
-
-  {
-    "id": 331,
-    "setup": "Why did the dad say bad jokes?",
-    "punchline": "Because the good ones were too mainstream!",
-    "categories": ["family"],
-    "tags": ["dad", "jokes", "meta"]
-  },
-  {
-    "id": 332,
-    "setup": "What did the mom say at bedtime?",
-    "punchline": "I love you… now go to sleep!",
-    "categories": ["family"],
-    "tags": ["mom", "bedtime", "kids"]
-  },
-  {
-    "id": 333,
-    "setup": "Why did the dad bring a compass?",
-    "punchline": "To keep the family on the right path!",
-    "categories": ["family"],
-    "tags": ["dad", "guidance", "family"]
-  },
-  {
-    "id": 334,
-    "setup": "What did the grandfather clock say to the kid clock?",
-    "punchline": "When I was your age, I had more time!",
-    "categories": ["family"],
-    "tags": ["grandparent", "time", "classic"]
-  },
-  {
-    "id": 335,
-    "setup": "Why did the dad buy a boat?",
-    "punchline": "Because his ship finally came in!",
-    "categories": ["family"],
-    "tags": ["dad", "success", "pun"]
-  },
-
-  {
-    "id": 336,
-    "setup": "Why did the mom put the report card on the fridge?",
-    "punchline": "To keep the grades cool!",
-    "categories": ["family"],
-    "tags": ["mom", "school", "kids"]
-  },
-  {
-    "id": 337,
-    "setup": "What did the dad say when the car broke down?",
-    "punchline": "Well… that’s not ideal.",
-    "categories": ["family"],
-    "tags": ["dad", "car", "dry humor"]
-  },
-  {
-    "id": 338,
-    "setup": "Why did the dad sit in the shade?",
-    "punchline": "Because the kids were throwing too much shade!",
-    "categories": ["family"],
-    "tags": ["dad", "kids", "shade"]
-  },
-  {
-    "id": 339,
-    "setup": "What did the mom say when dinner was ready?",
-    "punchline": "Food’s done — arguments start now!",
-    "categories": ["family"],
-    "tags": ["mom", "dinner", "family"]
-  },
-  {
-    "id": 340,
-    "setup": "Why did the dad bring a flashlight?",
-    "punchline": "In case the kids needed some light discipline!",
-    "categories": ["family"],
-    "tags": ["dad", "discipline", "pun"]
-  },
-
-  {
-    "id": 341,
-    "setup": "Why did the dad put the car in the oven?",
-    "punchline": "He wanted a hot rod!",
-    "categories": ["family"],
-    "tags": ["dad", "car", "classic"]
-  },
-  {
-    "id": 342,
-    "setup": "What did the mom say when her kid asked for money?",
-    "punchline": "I’m not made of it!",
-    "categories": ["family"],
-    "tags": ["mom", "money", "classic"]
-  },
-  {
-    "id": 343,
-    "setup": "Why did the dad bring a pencil to bed?",
-    "punchline": "To draw the curtains!",
-    "categories": ["family"],
-    "tags": ["dad", "bedtime", "pun"]
-  },
-  {
-    "id": 344,
-    "setup": "What did the parent math book say to the child math book?",
-    "punchline": "You can count on me!",
-    "categories": ["family"],
-    "tags": ["parents", "support", "school"]
-  },
-  {
-    "id": 345,
-    "setup": "Why did the dad wear sunglasses indoors?",
-    "punchline": "Because his kids were too bright!",
-    "categories": ["family"],
-    "tags": ["dad", "kids", "proud"]
-  },
-
-  {
-    "id": 346,
-    "setup": "What did the mom say when the house was quiet?",
-    "punchline": "Something’s wrong.",
-    "categories": ["family"],
-    "tags": ["mom", "kids", "truth"]
-  },
-  {
-    "id": 347,
-    "setup": "Why did the dad bring a notebook to the reunion?",
-    "punchline": "To keep track of the family history!",
-    "categories": ["family"],
-    "tags": ["dad", "family", "reunion"]
-  },
-  {
-    "id": 348,
-    "setup": "What did the dad say when his kid learned to walk?",
-    "punchline": "There goes my free time!",
-    "categories": ["family"],
-    "tags": ["dad", "parenting", "kids"]
-  },
-  {
-    "id": 349,
-    "setup": "Why did the grandma plant flowers?",
-    "punchline": "To help the family grow!",
-    "categories": ["family"],
-    "tags": ["grandma", "family", "growth"]
-  },
-  {
-    "id": 350,
-    "setup": "What did the dad say on the road trip?",
-    "punchline": "We’re not lost — we’re exploring!",
-    "categories": ["family"],
-    "tags": ["dad", "travel", "classic"]
-  },
+      "id": 301,
+      "setup": "Why did the dad bring a ladder to the bar?",
+      "punchline": "Because he heard the drinks were on the house!",
+      "categories": ["family"],
+      "tags": ["dad", "bar", "ladder", "drinks", "wordplay", "house", "free"]
+    },
     {
-    "id": 351,
-    "setup": "Why did the dad bring a ruler to dinner?",
-    "punchline": "To see how long the meal would last!",
-    "categories": ["family"],
-    "tags": ["dad", "dinner", "measurement", "wordplay"]
-  },
-  {
-    "id": 352,
-    "setup": "Why did the mom bring a ladder to the kitchen?",
-    "punchline": "Because the recipe was on another level!",
-    "categories": ["family"],
-    "tags": ["mom", "cooking", "ladder", "wordplay"]
-  },
-  {
-    "id": 353,
-    "setup": "Why did the dad bring string to the family dinner?",
-    "punchline": "In case he needed to tie up loose ends!",
-    "categories": ["family"],
-    "tags": ["dad", "family", "string", "wordplay"]
-  },
-  {
-    "id": 354,
-    "setup": "Why did the grandpa sit on the clock?",
-    "punchline": "He wanted to be on time!",
-    "categories": ["family"],
-    "tags": ["grandpa", "clock", "time", "classic"]
-  },
-  {
-    "id": 355,
-    "setup": "Why did the dad bring a pencil to the reunion?",
-    "punchline": "To draw closer to the family!",
-    "categories": ["family"],
-    "tags": ["dad", "family", "pencil", "wordplay"]
-  },
-  {
-    "id": 356,
-    "setup": "Why did the mom bring a flashlight to dinner?",
-    "punchline": "She wanted to shed some light on the situation!",
-    "categories": ["family"],
-    "tags": ["mom", "flashlight", "wordplay"]
-  },
-  {
-    "id": 357,
-    "setup": "Why did the dad bring a map to the family reunion?",
-    "punchline": "Because the family tree was confusing!",
-    "categories": ["family"],
-    "tags": ["dad", "reunion", "family tree", "wordplay"]
-  },
-  {
-    "id": 358,
-    "setup": "Why did the grandma put her money in the freezer?",
-    "punchline": "She wanted cold hard cash!",
-    "categories": ["family"],
-    "tags": ["grandma", "money", "classic", "wordplay"]
-  },
-  {
-    "id": 359,
-    "setup": "Why did the dad bring a notebook to the playground?",
-    "punchline": "To take notes on the kids!",
-    "categories": ["family"],
-    "tags": ["dad", "kids", "parenting", "wordplay"]
-  },
-  {
-    "id": 360,
-    "setup": "Why did the mom bring a broom to the car?",
-    "punchline": "She wanted a clean drive!",
-    "categories": ["family"],
-    "tags": ["mom", "car", "cleaning", "wordplay"]
-  },
-
-  {
-    "id": 361,
-    "setup": "Why did the dad bring sunglasses to the family meeting?",
-    "punchline": "Because the future was looking bright!",
-    "categories": ["family"],
-    "tags": ["dad", "future", "wordplay"]
-  },
-  {
-    "id": 362,
-    "setup": "Why did the grandma bring a ladder to church?",
-    "punchline": "To reach the high notes!",
-    "categories": ["family"],
-    "tags": ["grandma", "music", "ladder", "wordplay"]
-  },
-  {
-    "id": 363,
-    "setup": "Why did the dad bring a calculator to the picnic?",
-    "punchline": "To count his blessings!",
-    "categories": ["family"],
-    "tags": ["dad", "gratitude", "calculator", "wordplay"]
-  },
-  {
-    "id": 364,
-    "setup": "Why did the mom bring a scale to the bakery?",
-    "punchline": "She wanted to weigh her options!",
-    "categories": ["family"],
-    "tags": ["mom", "bakery", "choices", "wordplay"]
-  },
-  {
-    "id": 365,
-    "setup": "Why did the dad bring a ladder to the bar?",
-    "punchline": "Because the drinks were on the house!",
-    "categories": ["family"],
-    "tags": ["dad", "ladder", "house", "classic"]
-  },
-  {
-    "id": 366,
-    "setup": "Why did the grandpa bring a pencil to bed?",
-    "punchline": "In case he needed to draw the curtains!",
-    "categories": ["family"],
-    "tags": ["grandpa", "pencil", "wordplay"]
-  },
-  {
-    "id": 367,
-    "setup": "Why did the dad bring a stopwatch to dinner?",
-    "punchline": "He wanted to time the arguments!",
-    "categories": ["family"],
-    "tags": ["dad", "dinner", "family", "wordplay"]
-  },
-  {
-    "id": 368,
-    "setup": "Why did the mom bring a ruler to bedtime?",
-    "punchline": "To see how long the kids would sleep!",
-    "categories": ["family"],
-    "tags": ["mom", "bedtime", "measurement", "wordplay"]
-  },
-  {
-    "id": 369,
-    "setup": "Why did the dad bring a broom to the family meeting?",
-    "punchline": "To sweep things under the rug!",
-    "categories": ["family"],
-    "tags": ["dad", "meeting", "wordplay"]
-  },
-  {
-    "id": 370,
-    "setup": "Why did the grandma bring a dictionary to dinner?",
-    "punchline": "Someone told her they were going to eat their words!",
-    "categories": ["family"],
-    "tags": ["grandma", "dictionary", "wordplay"]
-  },
-
-  {
-    "id": 371,
-    "setup": "Why did the dad bring a clock to the picnic?",
-    "punchline": "Because he wanted a good time!",
-    "categories": ["family"],
-    "tags": ["dad", "time", "classic"]
-  },
-  {
-    "id": 372,
-    "setup": "Why did the mom bring a mirror to the family dinner?",
-    "punchline": "For a little self-reflection!",
-    "categories": ["family"],
-    "tags": ["mom", "mirror", "wordplay"]
-  },
-  {
-    "id": 373,
-    "setup": "Why did the dad bring a ladder to the bookshelf?",
-    "punchline": "To reach a higher level of reading!",
-    "categories": ["family"],
-    "tags": ["dad", "books", "ladder", "wordplay"]
-  },
-  {
-    "id": 374,
-    "setup": "Why did the grandpa bring a shovel to the family reunion?",
-    "punchline": "He heard there would be a lot of digging up the past!",
-    "categories": ["family"],
-    "tags": ["grandpa", "reunion", "past", "wordplay"]
-  },
-  {
-    "id": 375,
-    "setup": "Why did the mom bring a compass to dinner?",
-    "punchline": "To help guide the conversation!",
-    "categories": ["family"],
-    "tags": ["mom", "conversation", "direction", "wordplay"]
-  },
-  {
-    "id": 376,
-    "setup": "Why did the dad bring a helmet to the family game night?",
-    "punchline": "He knew things could get dicey!",
-    "categories": ["family"],
-    "tags": ["dad", "games", "wordplay"]
-  },
-  {
-    "id": 377,
-    "setup": "Why did the grandma bring a broom to the reunion?",
-    "punchline": "She wanted to sweep everyone off their feet!",
-    "categories": ["family"],
-    "tags": ["grandma", "reunion", "wordplay"]
-  },
-  {
-    "id": 378,
-    "setup": "Why did the dad bring a map to the couch?",
-    "punchline": "He didn’t want to get lost during a nap!",
-    "categories": ["family"],
-    "tags": ["dad", "nap", "map", "wordplay"]
-  },
-  {
-    "id": 379,
-    "setup": "Why did the mom bring a bell to dinner?",
-    "punchline": "To ring in family time!",
-    "categories": ["family"],
-    "tags": ["mom", "bell", "wordplay"]
-  },
-  {
-    "id": 380,
-    "setup": "Why did the dad bring a flashlight to the fridge?",
-    "punchline": "He was looking for a bright snack!",
-    "categories": ["family"],
-    "tags": ["dad", "food", "wordplay"]
-  },
-
-  {
-    "id": 381,
-    "setup": "Why did the grandpa bring a ladder to the garage?",
-    "punchline": "He wanted to raise the roof!",
-    "categories": ["family"],
-    "tags": ["grandpa", "garage", "wordplay"]
-  },
-  {
-    "id": 382,
-    "setup": "Why did the dad bring a notebook to bed?",
-    "punchline": "He didn’t want to sleep on any ideas!",
-    "categories": ["family"],
-    "tags": ["dad", "ideas", "wordplay"]
-  },
-  {
-    "id": 383,
-    "setup": "Why did the mom bring a clock to the oven?",
-    "punchline": "She wanted to watch dinner closely!",
-    "categories": ["family"],
-    "tags": ["mom", "cooking", "time", "wordplay"]
-  },
-  {
-    "id": 384,
-    "setup": "Why did the dad bring a pencil to the car?",
-    "punchline": "To draw a conclusion!",
-    "categories": ["family"],
-    "tags": ["dad", "pencil", "classic"]
-  },
-  {
-    "id": 385,
-    "setup": "Why did the grandma bring a ruler to the garden?",
-    "punchline": "She wanted to see how much the kids had grown!",
-    "categories": ["family"],
-    "tags": ["grandma", "growth", "wordplay"]
-  },
-  {
-    "id": 386,
-    "setup": "Why did the dad bring a suitcase to the couch?",
-    "punchline": "He was planning a power nap!",
-    "categories": ["family"],
-    "tags": ["dad", "nap", "wordplay"]
-  },
-  {
-    "id": 387,
-    "setup": "Why did the mom bring a bell to bedtime?",
-    "punchline": "To ring in quiet time!",
-    "categories": ["family"],
-    "tags": ["mom", "bedtime", "wordplay"]
-  },
-  {
-    "id": 388,
-    "setup": "Why did the grandpa bring a map to the backyard?",
-    "punchline": "He didn’t want to lose his bearings!",
-    "categories": ["family"],
-    "tags": ["grandpa", "map", "wordplay"]
-  },
-  {
-    "id": 389,
-    "setup": "Why did the dad bring a mirror to the family photo?",
-    "punchline": "He wanted to reflect on the moment!",
-    "categories": ["family"],
-    "tags": ["dad", "photo", "wordplay"]
-  },
-  {
-    "id": 390,
-    "setup": "Why did the mom bring a ladder to bedtime stories?",
-    "punchline": "Because the plot was climbing!",
-    "categories": ["family"],
-    "tags": ["mom", "books", "ladder", "wordplay"]
-  },
-
-  {
-    "id": 391,
-    "setup": "Why did the dad bring a stopwatch to the couch?",
-    "punchline": "He wanted to time his nap!",
-    "categories": ["family"],
-    "tags": ["dad", "nap", "wordplay"]
-  },
-  {
-    "id": 392,
-    "setup": "Why did the grandma bring a pencil to dinner?",
-    "punchline": "To make a good point!",
-    "categories": ["family"],
-    "tags": ["grandma", "pencil", "classic"]
-  },
-  {
-    "id": 393,
-    "setup": "Why did the dad bring a compass to the kitchen?",
-    "punchline": "He was looking for direction in life!",
-    "categories": ["family"],
-    "tags": ["dad", "direction", "wordplay"]
-  },
-  {
-    "id": 394,
-    "setup": "Why did the mom bring a ladder to the pantry?",
-    "punchline": "Because the snacks were on a higher shelf!",
-    "categories": ["family"],
-    "tags": ["mom", "snacks", "ladder"]
-  },
-  {
-    "id": 395,
-    "setup": "Why did the grandpa bring a flashlight to the couch?",
-    "punchline": "He was looking for the remote!",
-    "categories": ["family"],
-    "tags": ["grandpa", "tv", "classic"]
-  },
-  {
-    "id": 396,
-    "setup": "Why did the dad bring a ruler to the car?",
-    "punchline": "To measure how far they’d gone!",
-    "categories": ["family"],
-    "tags": ["dad", "travel", "wordplay"]
-  },
-  {
-    "id": 397,
-    "setup": "Why did the mom bring a clock to the playground?",
-    "punchline": "She wanted to watch the kids!",
-    "categories": ["family"],
-    "tags": ["mom", "kids", "time"]
-  },
-  {
-    "id": 398,
-    "setup": "Why did the grandpa bring a notebook to dinner?",
-    "punchline": "He didn’t want to forget the punchline!",
-    "categories": ["family"],
-    "tags": ["grandpa", "jokes", "wordplay"]
-  },
-  {
-    "id": 399,
-    "setup": "Why did the dad bring a broom to bedtime?",
-    "punchline": "To sweep the kids off to sleep!",
-    "categories": ["family"],
-    "tags": ["dad", "bedtime", "wordplay"]
-  },
-  {
-    "id": 400,
-    "setup": "Why did the mom bring a ladder to the couch?",
-    "punchline": "She heard the family was going to level up!",
-    "categories": ["family"],
-    "tags": ["mom", "family", "wordplay"]
-  },
+      "id": 302,
+      "setup": "What did the daddy tomato say to the baby tomato?",
+      "punchline": "Catch up!",
+      "categories": ["family", "food"],
+      "tags": ["tomato", "ketchup", "catch up", "parent", "wordplay", "vegetables", "walking"]
+    },
+    {
+      "id": 303,
+      "setup": "Why do dads always carry a spare sock?",
+      "punchline": "In case they get a hole in one!",
+      "categories": ["family"],
+      "tags": ["dad", "socks", "golf", "hole in one", "wordplay", "clothing", "prepared"]
+    },
+    {
+      "id": 304,
+      "setup": "What did the mom broom say to the baby broom?",
+      "punchline": "It's time to go to sweep!",
+      "categories": ["family", "home"],
+      "tags": ["mom", "broom", "sleep", "sweep", "wordplay", "bedtime", "cleaning"]
+    },
+    {
+      "id": 305,
+      "setup": "Why did the father clock scold his son?",
+      "punchline": "Because he was tocking back!",
+      "categories": ["family", "home"],
+      "tags": ["clock", "father", "son", "talking back", "tock", "wordplay", "discipline"]
+    },
+    {
+      "id": 306,
+      "setup": "What did the mama corn say to the baby corn?",
+      "punchline": "Where's popcorn?",
+      "categories": ["family", "food"],
+      "tags": ["corn", "popcorn", "papa", "mom", "wordplay", "snacks", "missing"]
+    },
+    {
+      "id": 307,
+      "setup": "Why did the kid put his dad in the refrigerator?",
+      "punchline": "Because he wanted a cold pop!",
+      "categories": ["family", "food"],
+      "tags": ["kid", "dad", "pop", "soda", "cold", "wordplay", "refrigerator"]
+    },
+    {
+      "id": 308,
+      "setup": "What do you call a grandmother who tells jokes?",
+      "punchline": "A gram-cracker!",
+      "categories": ["family", "food"],
+      "tags": ["grandmother", "grandma", "jokes", "graham cracker", "wordplay", "funny", "snacks"]
+    },
+    {
+      "id": 309,
+      "setup": "Why did the sister bring a pencil to the family reunion?",
+      "punchline": "In case she needed to draw some relatives!",
+      "categories": ["family"],
+      "tags": ["sister", "pencil", "reunion", "relatives", "draw", "wordplay", "gathering"]
+    },
+    {
+      "id": 310,
+      "setup": "What did the digital clock say to its mother?",
+      "punchline": "Look, Ma! No hands!",
+      "categories": ["family", "technology"],
+      "tags": ["clock", "digital", "mother", "hands", "wordplay", "tech", "proud"]
+    },
+    {
+      "id": 311,
+      "setup": "Why do fathers take an extra pair of socks when they go golfing?",
+      "punchline": "In case they get a hole in one!",
+      "categories": ["family", "sports"],
+      "tags": ["father", "golf", "socks", "hole in one", "wordplay", "sports", "prepared"]
+    },
+    {
+      "id": 312,
+      "setup": "What did the baby light bulb say to the mama light bulb?",
+      "punchline": "I wuv you watts and watts!",
+      "categories": ["family", "home"],
+      "tags": ["baby", "light bulb", "love", "watts", "lots", "wordplay", "electricity"]
+    },
+    {
+      "id": 313,
+      "setup": "Why did the grandpa sit on the clock?",
+      "punchline": "He wanted to be on time!",
+      "categories": ["family"],
+      "tags": ["grandpa", "clock", "time", "sitting", "wordplay", "punctual", "grandfather"]
+    },
+    {
+      "id": 314,
+      "setup": "What did the father spider say to his son?",
+      "punchline": "You spend too much time on the web!",
+      "categories": ["family", "technology"],
+      "tags": ["spider", "father", "son", "web", "internet", "wordplay", "screen time"]
+    },
+    {
+      "id": 315,
+      "setup": "Why did the mom bring a bar of soap to dinner?",
+      "punchline": "To wash down the food!",
+      "categories": ["family", "food"],
+      "tags": ["mom", "soap", "dinner", "wash down", "wordplay", "eating", "cleaning"]
+    },
+    {
+      "id": 316,
+      "setup": "What did the uncle say at the family barbecue?",
+      "punchline": "This is a rare medium well done!",
+      "categories": ["family", "food"],
+      "tags": ["uncle", "barbecue", "steak", "rare", "medium", "well done", "wordplay"]
+    },
+    {
+      "id": 317,
+      "setup": "Why did the brother put his money in the blender?",
+      "punchline": "He wanted to make some liquid assets!",
+      "categories": ["family", "work"],
+      "tags": ["brother", "money", "blender", "liquid assets", "wordplay", "finance", "silly"]
+    },
+    {
+      "id": 318,
+      "setup": "What did the mama volcano say to the baby volcano?",
+      "punchline": "I lava you so much!",
+      "categories": ["family", "geography"],
+      "tags": ["volcano", "mama", "baby", "lava", "love", "wordplay", "nature"]
+    },
+    {
+      "id": 319,
+      "setup": "Why did the dad joke book go to therapy?",
+      "punchline": "It had too many issues!",
+      "categories": ["family"],
+      "tags": ["dad jokes", "book", "therapy", "issues", "wordplay", "mental health", "magazines"]
+    },
+    {
+      "id": 320,
+      "setup": "What did the sister battery say to the brother battery?",
+      "punchline": "I'm positive you're negative!",
+      "categories": ["family", "science"],
+      "tags": ["sister", "brother", "battery", "positive", "negative", "wordplay", "electricity"]
+    },
+    {
+      "id": 321,
+      "setup": "Why did the grandma knit three socks?",
+      "punchline": "Because her grandson grew another foot!",
+      "categories": ["family"],
+      "tags": ["grandma", "knitting", "socks", "grandson", "foot", "wordplay", "growing"]
+    },
+    {
+      "id": 322,
+      "setup": "What do you call a dad who falls through the ice?",
+      "punchline": "A pop-sicle!",
+      "categories": ["family", "food"],
+      "tags": ["dad", "ice", "popsicle", "pop", "cold", "wordplay", "frozen"]
+    },
+    {
+      "id": 323,
+      "setup": "Why did the mother needle get mad at the baby needle?",
+      "punchline": "Because it was too sew-sew in school!",
+      "categories": ["family", "school"],
+      "tags": ["mother", "needle", "sewing", "so-so", "school", "wordplay", "grades"]
+    },
+    {
+      "id": 324,
+      "setup": "What did the dad say when his kid asked for a bookmark?",
+      "punchline": "Why? You should know my name by now!",
+      "categories": ["family", "school"],
+      "tags": ["dad", "bookmark", "name", "mark", "wordplay", "reading", "books"]
+    },
+    {
+      "id": 325,
+      "setup": "Why did the aunt bring string to the family photo?",
+      "punchline": "To tie up some loose ends!",
+      "categories": ["family"],
+      "tags": ["aunt", "string", "photo", "loose ends", "wordplay", "family photo", "gathering"]
+    },
+    {
+      "id": 326,
+      "setup": "What did the papa tree say to his sapling?",
+      "punchline": "I'm rooting for you!",
+      "categories": ["family", "outdoors"],
+      "tags": ["tree", "papa", "sapling", "rooting", "wordplay", "nature", "support"]
+    },
+    {
+      "id": 327,
+      "setup": "Why did the mom calendar feel popular?",
+      "punchline": "Because she had so many dates with the kids!",
+      "categories": ["family"],
+      "tags": ["mom", "calendar", "dates", "kids", "popular", "wordplay", "busy"]
+    },
+    {
+      "id": 328,
+      "setup": "What did the father firefly say to his kids?",
+      "punchline": "You all glow, kids!",
+      "categories": ["family"],
+      "tags": ["firefly", "father", "kids", "glow", "you go", "wordplay", "insects"]
+    },
+    {
+      "id": 329,
+      "setup": "Why did the twin bananas get along so well?",
+      "punchline": "Because they were a perfect pair!",
+      "categories": ["family", "food"],
+      "tags": ["twins", "bananas", "pair", "peel", "wordplay", "siblings", "fruit"]
+    },
+    {
+      "id": 330,
+      "setup": "What did the mama bear say when her cub was messy?",
+      "punchline": "You're un-bear-able!",
+      "categories": ["family", "animals"],
+      "tags": ["bear", "mama", "cub", "unbearable", "messy", "wordplay", "wildlife"]
+    },
+    {
+      "id": 331,
+      "setup": "Why did the grandfather bring a ladder to church?",
+      "punchline": "To get to the high notes in the hymns!",
+      "categories": ["family", "music"],
+      "tags": ["grandfather", "ladder", "church", "hymns", "high notes", "wordplay", "singing"]
+    },
+    {
+      "id": 332,
+      "setup": "What did the mama ocean say to her kids?",
+      "punchline": "Nothing, she just waved!",
+      "categories": ["family", "geography"],
+      "tags": ["ocean", "mama", "kids", "wave", "waved", "wordplay", "water"]
+    },
+    {
+      "id": 333,
+      "setup": "Why did the dad buy a boat?",
+      "punchline": "Because his ship finally came in!",
+      "categories": ["family", "travel"],
+      "tags": ["dad", "boat", "ship", "luck", "wordplay", "sailing", "success"]
+    },
+    {
+      "id": 334,
+      "setup": "What do you call a sleeping father?",
+      "punchline": "A nap-pa!",
+      "categories": ["family"],
+      "tags": ["father", "sleeping", "nap", "papa", "wordplay", "tired", "rest"]
+    },
+    {
+      "id": 335,
+      "setup": "Why did the brother computer crash?",
+      "punchline": "He had too many windows open with his siblings!",
+      "categories": ["family", "technology"],
+      "tags": ["brother", "computer", "crash", "windows", "siblings", "wordplay", "tech"]
+    },
+    {
+      "id": 336,
+      "setup": "What did the mama strawberry say to her naughty kid?",
+      "punchline": "You're in a real jam now!",
+      "categories": ["family", "food"],
+      "tags": ["strawberry", "mama", "jam", "trouble", "wordplay", "fruit", "naughty"]
+    },
+    {
+      "id": 337,
+      "setup": "Why did the dad wear glasses to the math test?",
+      "punchline": "To improve his di-vision!",
+      "categories": ["family", "math"],
+      "tags": ["dad", "glasses", "math", "division", "vision", "wordplay", "test"]
+    },
+    {
+      "id": 338,
+      "setup": "What did the grandpa pencil say to the grandson pencil?",
+      "punchline": "You're looking sharp today!",
+      "categories": ["family", "school"],
+      "tags": ["grandpa", "grandson", "pencil", "sharp", "wordplay", "compliment", "writing"]
+    },
+    {
+      "id": 339,
+      "setup": "Why did the mom go to art school?",
+      "punchline": "Because she wanted to draw her own conclusions!",
+      "categories": ["family", "school"],
+      "tags": ["mom", "art school", "draw", "conclusions", "wordplay", "education", "thinking"]
+    },
+    {
+      "id": 340,
+      "setup": "What did the baby corn ask the mama corn?",
+      "punchline": "Where's pop corn?",
+      "categories": ["family", "food"],
+      "tags": ["baby", "corn", "popcorn", "pop", "dad", "wordplay", "snacks"]
+    },
+    {
+      "id": 341,
+      "setup": "Why did the family go to the bank together?",
+      "punchline": "To check their balance!",
+      "categories": ["family", "work"],
+      "tags": ["family", "bank", "balance", "money", "wordplay", "together", "finance"]
+    },
+    {
+      "id": 342,
+      "setup": "What did the dad say when the power went out?",
+      "punchline": "Well, I'm delighted!",
+      "categories": ["family", "home"],
+      "tags": ["dad", "power", "light", "delighted", "wordplay", "electricity", "dark"]
+    },
+    {
+      "id": 343,
+      "setup": "Why did the sister bring a baseball to the reunion?",
+      "punchline": "In case she wanted to catch up!",
+      "categories": ["family", "sports"],
+      "tags": ["sister", "baseball", "reunion", "catch up", "wordplay", "sports", "gathering"]
+    },
+    {
+      "id": 344,
+      "setup": "What did the parent math book say to the child math book?",
+      "punchline": "You can count on me!",
+      "categories": ["family", "math"],
+      "tags": ["parent", "child", "math", "count", "wordplay", "support", "books"]
+    },
+    {
+      "id": 345,
+      "setup": "Why did the dad sit on the calendar?",
+      "punchline": "He wanted to take a day off!",
+      "categories": ["family", "work"],
+      "tags": ["dad", "calendar", "day off", "sitting", "wordplay", "vacation", "rest"]
+    },
+    {
+      "id": 346,
+      "setup": "What did the mama kangaroo say when her joey was misbehaving?",
+      "punchline": "Don't make me come in there!",
+      "categories": ["family", "animals"],
+      "tags": ["kangaroo", "mama", "joey", "pouch", "misbehaving", "wordplay", "discipline"]
+    },
+    {
+      "id": 347,
+      "setup": "Why did the brother bring a mirror to the family meeting?",
+      "punchline": "For some self-reflection!",
+      "categories": ["family"],
+      "tags": ["brother", "mirror", "meeting", "reflection", "self-reflection", "wordplay", "thinking"]
+    },
+    {
+      "id": 348,
+      "setup": "What did the father candle say to his son?",
+      "punchline": "Don't burn out too quickly!",
+      "categories": ["family"],
+      "tags": ["father", "candle", "son", "burn out", "advice", "wordplay", "fire"]
+    },
+    {
+      "id": 349,
+      "setup": "Why did the grandmother plant bulbs in her garden?",
+      "punchline": "Because she wanted her family to grow!",
+      "categories": ["family", "outdoors"],
+      "tags": ["grandmother", "garden", "bulbs", "grow", "family", "wordplay", "planting"]
+    },
+    {
+      "id": 350,
+      "setup": "What did the dad say to the lazy ceiling?",
+      "punchline": "I'm not a fan of you!",
+      "categories": ["family", "home"],
+      "tags": ["dad", "ceiling", "fan", "lazy", "wordplay", "not impressed", "house"]
+    },
+    {
+      "id": 351,
+      "setup": "Why did the cousin bring a map to the reunion?",
+      "punchline": "Because the family tree was confusing!",
+      "categories": ["family", "geography"],
+      "tags": ["cousin", "map", "reunion", "family tree", "confused", "wordplay", "relatives"]
+    },
+    {
+      "id": 352,
+      "setup": "What did the mama computer call her baby?",
+      "punchline": "A microchip off the old block!",
+      "categories": ["family", "technology"],
+      "tags": ["computer", "mama", "baby", "microchip", "chip", "wordplay", "tech"]
+    },
+    {
+      "id": 353,
+      "setup": "Why did the dad bring a ruler to bed?",
+      "punchline": "To see how long he slept!",
+      "categories": ["family", "home"],
+      "tags": ["dad", "ruler", "bed", "sleep", "long", "wordplay", "measuring"]
+    },
+    {
+      "id": 354,
+      "setup": "What did the brother say when his sister stole his phone charger?",
+      "punchline": "That's a power move!",
+      "categories": ["family", "technology"],
+      "tags": ["brother", "sister", "phone charger", "power", "wordplay", "stealing", "tech"]
+    },
+    {
+      "id": 355,
+      "setup": "Why did the family tree go to the doctor?",
+      "punchline": "It needed to get to the root of its problems!",
+      "categories": ["family", "outdoors"],
+      "tags": ["family tree", "doctor", "root", "problems", "wordplay", "genealogy", "health"]
+    },
+    {
+      "id": 356,
+      "setup": "What did the dad say when he saw the electric bill?",
+      "punchline": "I'm shocked!",
+      "categories": ["family", "home"],
+      "tags": ["dad", "electric bill", "shocked", "electricity", "wordplay", "expensive", "bills"]
+    },
+    {
+      "id": 357,
+      "setup": "Why did the mom measure the window?",
+      "punchline": "She wanted to see if she had any room to grow!",
+      "categories": ["family", "home"],
+      "tags": ["mom", "window", "measure", "room", "grow", "wordplay", "house"]
+    },
+    {
+      "id": 358,
+      "setup": "What did the papa phone say to the baby phone?",
+      "punchline": "You're just like me when I was your age - small and always ringing!",
+      "categories": ["family", "technology"],
+      "tags": ["phone", "papa", "baby", "ringing", "small", "wordplay", "tech"]
+    },
+    {
+      "id": 359,
+      "setup": "Why did the son bring his dad to school for show and tell?",
+      "punchline": "Because his dad was a real class act!",
+      "categories": ["family", "school"],
+      "tags": ["son", "dad", "school", "show and tell", "class act", "wordplay", "proud"]
+    },
+    {
+      "id": 360,
+      "setup": "What did the grandmother say to the egg?",
+      "punchline": "You crack me up!",
+      "categories": ["family", "food"],
+      "tags": ["grandmother", "egg", "crack", "funny", "laughing", "wordplay", "breakfast"]
+    },
+    {
+      "id": 361,
+      "setup": "Why did the dad put wheels on his rocking chair?",
+      "punchline": "He wanted to rock and roll!",
+      "categories": ["family", "music"],
+      "tags": ["dad", "rocking chair", "wheels", "rock and roll", "wordplay", "music", "dancing"]
+    },
+    {
+      "id": 362,
+      "setup": "What did the mama stove say to the baby stove?",
+      "punchline": "You're really heating up, kid!",
+      "categories": ["family", "home"],
+      "tags": ["stove", "mama", "baby", "heating up", "wordplay", "kitchen", "cooking"]
+    },
+    {
+      "id": 363,
+      "setup": "Why did the brother bring an umbrella to the family discussion?",
+      "punchline": "He heard there would be a brainstorm!",
+      "categories": ["family"],
+      "tags": ["brother", "umbrella", "discussion", "brainstorm", "wordplay", "ideas", "weather"]
+    },
+    {
+      "id": 364,
+      "setup": "What did the dad say when his son asked for money?",
+      "punchline": "Money doesn't grow on trees, but I'm still your biggest fan-ancier!",
+      "categories": ["family", "work"],
+      "tags": ["dad", "son", "money", "trees", "financier", "wordplay", "allowance"]
+    },
+    {
+      "id": 365,
+      "setup": "Why did the sister call her brother a pizza?",
+      "punchline": "Because he was so cheesy!",
+      "categories": ["family", "food"],
+      "tags": ["sister", "brother", "pizza", "cheesy", "wordplay", "siblings", "funny"]
+    },
+    {
+      "id": 366,
+      "setup": "What did the mama chair say to the baby chair?",
+      "punchline": "Sit up straight!",
+      "categories": ["family", "home"],
+      "tags": ["chair", "mama", "baby", "sit up", "straight", "wordplay", "furniture"]
+    },
+    {
+      "id": 367,
+      "setup": "Why did the dad astronaut break up with the mom astronaut?",
+      "punchline": "They needed some space!",
+      "categories": ["family", "science"],
+      "tags": ["astronaut", "dad", "mom", "space", "breakup", "wordplay", "nasa"]
+    },
+    {
+      "id": 368,
+      "setup": "What did the grandfather clock say to his grandson?",
+      "punchline": "When I was your age, I had more time!",
+      "categories": ["family", "home"],
+      "tags": ["grandfather clock", "grandson", "time", "age", "wordplay", "old", "advice"]
+    },
+    {
+      "id": 369,
+      "setup": "Why did the aunt bring a ladder to the wedding?",
+      "punchline": "She wanted to raise a toast!",
+      "categories": ["family", "wedding"],
+      "tags": ["aunt", "ladder", "wedding", "toast", "raise", "wordplay", "celebration"]
+    },
+    {
+      "id": 370,
+      "setup": "What did the dad say when his daughter made a calendar?",
+      "punchline": "Your days are numbered!",
+      "categories": ["family"],
+      "tags": ["dad", "daughter", "calendar", "days numbered", "wordplay", "craft", "time"]
+    },
+    {
+      "id": 371,
+      "setup": "Why did the mom put her kid's report card in a frame?",
+      "punchline": "Because it was picture perfect... well, almost!",
+      "categories": ["family", "school"],
+      "tags": ["mom", "report card", "frame", "picture perfect", "wordplay", "grades", "proud"]
+    },
+    {
+      "id": 372,
+      "setup": "What did the baby corn say to the mama corn?",
+      "punchline": "Where's pop?",
+      "categories": ["family", "food"],
+      "tags": ["corn", "baby", "mama", "pop", "popcorn", "wordplay", "dad"]
+    },
+    {
+      "id": 373,
+      "setup": "Why did the dad put his car in the oven?",
+      "punchline": "Because he wanted a hot rod!",
+      "categories": ["family", "travel"],
+      "tags": ["dad", "car", "oven", "hot rod", "wordplay", "vehicles", "silly"]
+    },
+    {
+      "id": 374,
+      "setup": "What did the mama earthquake say to her kids?",
+      "punchline": "It's not my fault!",
+      "categories": ["family", "science"],
+      "tags": ["earthquake", "mama", "kids", "fault", "geology", "wordplay", "blame"]
+    },
+    {
+      "id": 375,
+      "setup": "Why did the son bring honey to the family gathering?",
+      "punchline": "To sweeten the conversation!",
+      "categories": ["family", "food"],
+      "tags": ["son", "honey", "gathering", "sweeten", "conversation", "wordplay", "talking"]
+    },
+    {
+      "id": 376,
+      "setup": "What did the dad say when his son asked how lightning works?",
+      "punchline": "I'm shocked you don't know!",
+      "categories": ["family", "science"],
+      "tags": ["dad", "son", "lightning", "shocked", "wordplay", "electricity", "teaching"]
+    },
+    {
+      "id": 377,
+      "setup": "Why did the grandmother give her grandkids a map?",
+      "punchline": "So they could find their way to her heart!",
+      "categories": ["family", "geography"],
+      "tags": ["grandmother", "grandkids", "map", "heart", "love", "wordplay", "directions"]
+    },
+    {
+      "id": 378,
+      "setup": "What did the mom say when her kid asked for a puppy?",
+      "punchline": "We'll see - I'm not making any ruff promises!",
+      "categories": ["family", "animals"],
+      "tags": ["mom", "kid", "puppy", "ruff", "rough", "wordplay", "pets"]
+    },
+    {
+      "id": 379,
+      "setup": "Why did the dad bring a dictionary to dinner?",
+      "punchline": "Because his son wanted to eat his words!",
+      "categories": ["family", "food"],
+      "tags": ["dad", "dictionary", "dinner", "eat words", "wordplay", "talking", "apology"]
+    },
+    {
+      "id": 380,
+      "setup": "What did the papa fish say to his baby fish?",
+      "punchline": "You're fin-tastic!",
+      "categories": ["family", "animals"],
+      "tags": ["fish", "papa", "baby", "fin", "fantastic", "wordplay", "ocean"]
+    },
+    {
+      "id": 381,
+      "setup": "Why did the mom bring a stopwatch to the family race?",
+      "punchline": "She wanted to see who had the best family time!",
+      "categories": ["family", "sports"],
+      "tags": ["mom", "stopwatch", "race", "family time", "wordplay", "running", "competition"]
+    },
+    {
+      "id": 382,
+      "setup": "What did the grandfather say when he lost his glasses?",
+      "punchline": "I've lost sight of what's important!",
+      "categories": ["family", "home"],
+      "tags": ["grandfather", "glasses", "lost", "sight", "wordplay", "vision", "important"]
+    },
+    {
+      "id": 383,
+      "setup": "Why did the dad put his kids on a scale?",
+      "punchline": "He wanted to see how much they weigh on his mind!",
+      "categories": ["family"],
+      "tags": ["dad", "kids", "scale", "weigh", "mind", "wordplay", "thinking"]
+    },
+    {
+      "id": 384,
+      "setup": "What did the mama bee say to her misbehaving baby bee?",
+      "punchline": "Bee-have yourself!",
+      "categories": ["family", "animals"],
+      "tags": ["bee", "mama", "baby", "behave", "wordplay", "insects", "discipline"]
+    },
+    {
+      "id": 385,
+      "setup": "Why did the sister put her brother in the blender?",
+      "punchline": "She wanted a baby brother smoothie! Just kidding - she wanted to mix things up!",
+      "categories": ["family", "food"],
+      "tags": ["sister", "brother", "blender", "smoothie", "mix up", "wordplay", "siblings"]
+    },
+    {
+      "id": 386,
+      "setup": "What did the dad say when his son wouldn't stop playing piano?",
+      "punchline": "You're really keying me up!",
+      "categories": ["family", "music"],
+      "tags": ["dad", "son", "piano", "keys", "keying up", "wordplay", "music"]
+    },
+    {
+      "id": 387,
+      "setup": "Why did the mom give her kids a compass?",
+      "punchline": "So they'd always know which direction to take in life!",
+      "categories": ["family", "travel"],
+      "tags": ["mom", "kids", "compass", "direction", "life", "wordplay", "guidance"]
+    },
+    {
+      "id": 388,
+      "setup": "What did the big hand on the clock say to the little hand?",
+      "punchline": "Got a minute?",
+      "categories": ["family", "home"],
+      "tags": ["clock", "hands", "minute", "time", "wordplay", "parent", "child"]
+    },
+    {
+      "id": 389,
+      "setup": "Why did the dad tell bad jokes?",
+      "punchline": "Because the good ones were too mainstream!",
+      "categories": ["family"],
+      "tags": ["dad", "jokes", "bad", "mainstream", "wordplay", "humor", "funny"]
+    },
+    {
+      "id": 390,
+      "setup": "What did the mama drum say to the baby drum?",
+      "punchline": "Beat it!",
+      "categories": ["family", "music"],
+      "tags": ["drum", "mama", "baby", "beat", "wordplay", "music", "instruments"]
+    },
+    {
+      "id": 391,
+      "setup": "Why did the grandmother bring a flashlight to the family reunion?",
+      "punchline": "To brighten up the conversation!",
+      "categories": ["family"],
+      "tags": ["grandmother", "flashlight", "reunion", "brighten", "conversation", "wordplay", "light"]
+    },
+    {
+      "id": 392,
+      "setup": "What did the dad say when his daughter asked about his workout?",
+      "punchline": "It's going well - I'm raising the bar!",
+      "categories": ["family", "sports"],
+      "tags": ["dad", "daughter", "workout", "raising the bar", "wordplay", "exercise", "fitness"]
+    },
+    {
+      "id": 393,
+      "setup": "Why did the uncle bring a vacuum to the barbecue?",
+      "punchline": "Because he heard it really sucks!",
+      "categories": ["family", "food"],
+      "tags": ["uncle", "vacuum", "barbecue", "sucks", "wordplay", "cleaning", "party"]
+    },
+    {
+      "id": 394,
+      "setup": "What did the mom say when her son asked for a bedtime story?",
+      "punchline": "Once upon a time... now go to sleep!",
+      "categories": ["family"],
+      "tags": ["mom", "son", "bedtime story", "sleep", "wordplay", "once upon a time", "night"]
+    },
+    {
+      "id": 395,
+      "setup": "Why did the grandfather bring a tennis racket to dinner?",
+      "punchline": "In case anyone wanted to serve the food!",
+      "categories": ["family", "sports"],
+      "tags": ["grandfather", "tennis racket", "dinner", "serve", "wordplay", "food", "sports"]
+    },
+    {
+      "id": 396,
+      "setup": "What did the dad say when his son became a gardener?",
+      "punchline": "Son, I'm so proud - you've really grown!",
+      "categories": ["family", "outdoors"],
+      "tags": ["dad", "son", "gardener", "grown", "proud", "wordplay", "plants"]
+    },
+    {
+      "id": 397,
+      "setup": "Why did the mom bring a scale to the bakery?",
+      "punchline": "She wanted to weigh her options!",
+      "categories": ["family", "food"],
+      "tags": ["mom", "scale", "bakery", "weigh", "options", "wordplay", "decisions"]
+    },
+    {
+      "id": 398,
+      "setup": "What did the sister say when her brother told a bad joke?",
+      "punchline": "That's not even remotely funny - unlike the TV!",
+      "categories": ["family", "technology"],
+      "tags": ["sister", "brother", "joke", "remotely", "TV", "wordplay", "siblings"]
+    },
+    {
+      "id": 399,
+      "setup": "Why did the baby strawberry cry?",
+      "punchline": "Because its parents were in a jam!",
+      "categories": ["family", "food"],
+      "tags": ["baby", "strawberry", "crying", "parents", "jam", "wordplay", "fruit"]
+    },
+    {
+      "id": 400,
+      "setup": "What did the dad say when the family got lost on the road trip?",
+      "punchline": "Don't worry, we're making great time... wherever we're going!",
+      "categories": ["family", "travel"],
+      "tags": ["dad", "family", "road trip", "lost", "great time", "wordplay", "vacation"]
+    },
     {
     "id": 401,
     "setup": "Why did the unicorn cross the road?",
