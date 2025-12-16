@@ -19638,701 +19638,1758 @@
       "id": 1601,
       "setup": "Why did the computer apply for a job?",
       "punchline": "Because it wanted to quit being a free-lancer!",
-      "categories": ["technology"],
-      "tags": ["computer", "job", "freelancer", "work", "wordplay", "career", "employment"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "job",
+        "freelancer",
+        "work",
+        "wordplay",
+        "career",
+        "employment"
+      ]
     },
     {
       "id": 1602,
       "setup": "What do you call a computer that sings?",
       "punchline": "A-Dell!",
-      "categories": ["technology", "music"],
-      "tags": ["computer", "sings", "dell", "adele", "wordplay", "singer", "brand"]
+      "categories": [
+        "technology",
+        "music"
+      ],
+      "tags": [
+        "computer",
+        "sings",
+        "dell",
+        "adele",
+        "wordplay",
+        "singer",
+        "brand"
+      ]
     },
     {
       "id": 1603,
       "setup": "Why was the smartphone wearing glasses?",
       "punchline": "Because it lost its contacts!",
-      "categories": ["technology"],
-      "tags": ["smartphone", "glasses", "contacts", "vision", "wordplay", "phone", "lost"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "smartphone",
+        "glasses",
+        "contacts",
+        "vision",
+        "wordplay",
+        "phone",
+        "lost"
+      ]
     },
     {
       "id": 1604,
       "setup": "What's a computer's favorite snack?",
       "punchline": "Microchips!",
-      "categories": ["technology", "food"],
-      "tags": ["computer", "snack", "microchips", "chips", "wordplay", "hardware", "eating"]
+      "categories": [
+        "technology",
+        "food"
+      ],
+      "tags": [
+        "computer",
+        "snack",
+        "microchips",
+        "chips",
+        "wordplay",
+        "hardware",
+        "eating"
+      ]
     },
     {
       "id": 1605,
       "setup": "Why did the PowerPoint presentation cross the road?",
       "punchline": "To get to the other slide!",
-      "categories": ["technology", "work"],
-      "tags": ["powerpoint", "presentation", "slide", "side", "wordplay", "office", "crossing"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "powerpoint",
+        "presentation",
+        "slide",
+        "side",
+        "wordplay",
+        "office",
+        "crossing"
+      ]
     },
     {
       "id": 1606,
       "setup": "What do you call a spider that works on the internet?",
       "punchline": "A web developer!",
-      "categories": ["technology", "animals"],
-      "tags": ["spider", "internet", "web developer", "coding", "wordplay", "programming", "job"]
+      "categories": [
+        "technology",
+        "animals"
+      ],
+      "tags": [
+        "spider",
+        "internet",
+        "web developer",
+        "coding",
+        "wordplay",
+        "programming",
+        "job"
+      ]
     },
     {
       "id": 1607,
       "setup": "Why did the computer break up with the internet?",
       "punchline": "Because there was no connection!",
-      "categories": ["technology"],
-      "tags": ["computer", "internet", "breakup", "connection", "wordplay", "wifi", "relationship"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "internet",
+        "breakup",
+        "connection",
+        "wordplay",
+        "wifi",
+        "relationship"
+      ]
     },
     {
       "id": 1608,
       "setup": "What did the router say to the doctor?",
       "punchline": "It hurts when IP!",
-      "categories": ["technology"],
-      "tags": ["router", "doctor", "ip address", "pee", "wordplay", "networking", "pain"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "router",
+        "doctor",
+        "ip address",
+        "pee",
+        "wordplay",
+        "networking",
+        "pain"
+      ]
     },
     {
       "id": 1609,
       "setup": "Why was the JavaScript developer sad?",
       "punchline": "Because he didn't Node how to Express himself!",
-      "categories": ["technology"],
-      "tags": ["javascript", "developer", "node", "express", "wordplay", "programming", "frameworks"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "javascript",
+        "developer",
+        "node",
+        "express",
+        "wordplay",
+        "programming",
+        "frameworks"
+      ]
     },
     {
       "id": 1610,
       "setup": "What do you call a computer superhero?",
       "punchline": "A screen saver!",
-      "categories": ["technology"],
-      "tags": ["computer", "superhero", "screen saver", "saving", "wordplay", "hero", "monitor"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "superhero",
+        "screen saver",
+        "saving",
+        "wordplay",
+        "hero",
+        "monitor"
+      ]
     },
     {
       "id": 1611,
       "setup": "Why did the programmer quit his job?",
       "punchline": "Because he didn't get arrays!",
-      "categories": ["technology", "work"],
-      "tags": ["programmer", "quit", "arrays", "raise", "wordplay", "coding", "salary"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "programmer",
+        "quit",
+        "arrays",
+        "raise",
+        "wordplay",
+        "coding",
+        "salary"
+      ]
     },
     {
       "id": 1612,
       "setup": "What's a computer's least favorite food?",
       "punchline": "Spam!",
-      "categories": ["technology", "food"],
-      "tags": ["computer", "food", "spam", "email", "wordplay", "junk", "meat"]
+      "categories": [
+        "technology",
+        "food"
+      ],
+      "tags": [
+        "computer",
+        "food",
+        "spam",
+        "email",
+        "wordplay",
+        "junk",
+        "meat"
+      ]
     },
     {
       "id": 1613,
       "setup": "Why did the keyboard break up with the mouse?",
       "punchline": "Because it wasn't her type!",
-      "categories": ["technology"],
-      "tags": ["keyboard", "mouse", "breakup", "type", "wordplay", "peripherals", "relationship"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "keyboard",
+        "mouse",
+        "breakup",
+        "type",
+        "wordplay",
+        "peripherals",
+        "relationship"
+      ]
     },
     {
       "id": 1614,
       "setup": "What do you call 8 hobbits?",
       "punchline": "A hobbyte!",
-      "categories": ["technology", "fantasy"],
-      "tags": ["hobbits", "byte", "lord of the rings", "data", "wordplay", "storage", "fantasy"]
+      "categories": [
+        "technology",
+        "fantasy"
+      ],
+      "tags": [
+        "hobbits",
+        "byte",
+        "lord of the rings",
+        "data",
+        "wordplay",
+        "storage",
+        "fantasy"
+      ]
     },
     {
       "id": 1615,
       "setup": "Why was the cell phone wearing a jacket?",
       "punchline": "Because it was on airplane mode!",
-      "categories": ["technology", "travel"],
-      "tags": ["cell phone", "jacket", "airplane mode", "cold", "wordplay", "flying", "settings"]
+      "categories": [
+        "technology",
+        "travel"
+      ],
+      "tags": [
+        "cell phone",
+        "jacket",
+        "airplane mode",
+        "cold",
+        "wordplay",
+        "flying",
+        "settings"
+      ]
     },
     {
       "id": 1616,
       "setup": "What's a robot's favorite type of music?",
       "punchline": "Heavy metal!",
-      "categories": ["technology", "music"],
-      "tags": ["robot", "music", "heavy metal", "genre", "wordplay", "android", "rock"]
+      "categories": [
+        "technology",
+        "music"
+      ],
+      "tags": [
+        "robot",
+        "music",
+        "heavy metal",
+        "genre",
+        "wordplay",
+        "android",
+        "rock"
+      ]
     },
     {
       "id": 1617,
       "setup": "Why did the computer start a band?",
       "punchline": "Because it had great sound bytes!",
-      "categories": ["technology", "music"],
-      "tags": ["computer", "band", "sound bytes", "music", "wordplay", "audio", "data"]
+      "categories": [
+        "technology",
+        "music"
+      ],
+      "tags": [
+        "computer",
+        "band",
+        "sound bytes",
+        "music",
+        "wordplay",
+        "audio",
+        "data"
+      ]
     },
     {
       "id": 1618,
       "setup": "What do you call a computer that can pick up heavy things?",
       "punchline": "A strong server!",
-      "categories": ["technology"],
-      "tags": ["computer", "heavy", "server", "strong", "wordplay", "lifting", "hardware"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "heavy",
+        "server",
+        "strong",
+        "wordplay",
+        "lifting",
+        "hardware"
+      ]
     },
     {
       "id": 1619,
       "setup": "Why did the developer go broke?",
       "punchline": "Because he used up all his cache!",
-      "categories": ["technology", "work"],
-      "tags": ["developer", "broke", "cache", "cash", "wordplay", "programming", "money"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "developer",
+        "broke",
+        "cache",
+        "cash",
+        "wordplay",
+        "programming",
+        "money"
+      ]
     },
     {
       "id": 1620,
       "setup": "What's a computer's favorite dance?",
       "punchline": "The disk-o!",
-      "categories": ["technology", "music"],
-      "tags": ["computer", "dance", "disco", "disk", "wordplay", "dancing", "storage"]
+      "categories": [
+        "technology",
+        "music"
+      ],
+      "tags": [
+        "computer",
+        "dance",
+        "disco",
+        "disk",
+        "wordplay",
+        "dancing",
+        "storage"
+      ]
     },
     {
       "id": 1621,
       "setup": "Why did the Wi-Fi go to therapy?",
       "punchline": "Because it had too many connection issues!",
-      "categories": ["technology"],
-      "tags": ["wifi", "therapy", "connection", "issues", "wordplay", "internet", "problems"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "wifi",
+        "therapy",
+        "connection",
+        "issues",
+        "wordplay",
+        "internet",
+        "problems"
+      ]
     },
     {
       "id": 1622,
       "setup": "What do you call a frozen computer?",
       "punchline": "A crashed igloo!",
-      "categories": ["technology"],
-      "tags": ["computer", "frozen", "crashed", "igloo", "wordplay", "cold", "error"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "frozen",
+        "crashed",
+        "igloo",
+        "wordplay",
+        "cold",
+        "error"
+      ]
     },
     {
       "id": 1623,
       "setup": "Why did the database administrator leave his wife?",
       "punchline": "She had one-to-many relationships!",
-      "categories": ["technology", "family"],
-      "tags": ["database", "administrator", "relationships", "one-to-many", "wordplay", "sql", "marriage"]
+      "categories": [
+        "technology",
+        "family"
+      ],
+      "tags": [
+        "database",
+        "administrator",
+        "relationships",
+        "one-to-many",
+        "wordplay",
+        "sql",
+        "marriage"
+      ]
     },
     {
       "id": 1624,
       "setup": "What's a shark's favorite programming language?",
       "punchline": "C... because it smells like food!",
-      "categories": ["technology", "animals"],
-      "tags": ["shark", "programming", "c language", "sea", "wordplay", "coding", "ocean"]
+      "categories": [
+        "technology",
+        "animals"
+      ],
+      "tags": [
+        "shark",
+        "programming",
+        "c language",
+        "sea",
+        "wordplay",
+        "coding",
+        "ocean"
+      ]
     },
     {
       "id": 1625,
       "setup": "Why did the computer get cold?",
       "punchline": "Because it left its Windows open!",
-      "categories": ["technology", "home"],
-      "tags": ["computer", "cold", "windows", "open", "wordplay", "operating system", "microsoft"]
+      "categories": [
+        "technology",
+        "home"
+      ],
+      "tags": [
+        "computer",
+        "cold",
+        "windows",
+        "open",
+        "wordplay",
+        "operating system",
+        "microsoft"
+      ]
     },
     {
       "id": 1626,
       "setup": "What do you call a group of unorganized cats on the internet?",
       "punchline": "A cat-astrophic error!",
-      "categories": ["technology", "animals"],
-      "tags": ["cats", "internet", "catastrophic", "error", "wordplay", "memes", "crash"]
+      "categories": [
+        "technology",
+        "animals"
+      ],
+      "tags": [
+        "cats",
+        "internet",
+        "catastrophic",
+        "error",
+        "wordplay",
+        "memes",
+        "crash"
+      ]
     },
     {
       "id": 1627,
       "setup": "Why was the software developer always calm?",
       "punchline": "Because they knew how to handle exceptions!",
-      "categories": ["technology", "work"],
-      "tags": ["software developer", "calm", "exceptions", "handling", "wordplay", "programming", "errors"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "software developer",
+        "calm",
+        "exceptions",
+        "handling",
+        "wordplay",
+        "programming",
+        "errors"
+      ]
     },
     {
       "id": 1628,
       "setup": "What did the computer say when it met its motherboard for the first time?",
       "punchline": "Where have you been all my processing life?",
-      "categories": ["technology", "family"],
-      "tags": ["computer", "motherboard", "processing", "life", "wordplay", "hardware", "meeting"]
+      "categories": [
+        "technology",
+        "family"
+      ],
+      "tags": [
+        "computer",
+        "motherboard",
+        "processing",
+        "life",
+        "wordplay",
+        "hardware",
+        "meeting"
+      ]
     },
     {
       "id": 1629,
       "setup": "Why did the printer go to the gym?",
       "punchline": "To get more toner!",
-      "categories": ["technology", "sports"],
-      "tags": ["printer", "gym", "toner", "toned", "wordplay", "fitness", "ink"]
+      "categories": [
+        "technology",
+        "sports"
+      ],
+      "tags": [
+        "printer",
+        "gym",
+        "toner",
+        "toned",
+        "wordplay",
+        "fitness",
+        "ink"
+      ]
     },
     {
       "id": 1630,
       "setup": "What's a programmer's favorite hangout place?",
       "punchline": "Foo Bar!",
-      "categories": ["technology", "food"],
-      "tags": ["programmer", "hangout", "foo bar", "bar", "wordplay", "coding", "variables"]
+      "categories": [
+        "technology",
+        "food"
+      ],
+      "tags": [
+        "programmer",
+        "hangout",
+        "foo bar",
+        "bar",
+        "wordplay",
+        "coding",
+        "variables"
+      ]
     },
     {
       "id": 1631,
       "setup": "Why did the computer keep singing?",
       "punchline": "Because it was stuck on a loop!",
-      "categories": ["technology", "music"],
-      "tags": ["computer", "singing", "loop", "stuck", "wordplay", "programming", "repeat"]
+      "categories": [
+        "technology",
+        "music"
+      ],
+      "tags": [
+        "computer",
+        "singing",
+        "loop",
+        "stuck",
+        "wordplay",
+        "programming",
+        "repeat"
+      ]
     },
     {
       "id": 1632,
       "setup": "What do you call a sad coffee maker?",
       "punchline": "A depresso machine!",
-      "categories": ["technology", "food"],
-      "tags": ["coffee maker", "sad", "depresso", "espresso", "wordplay", "appliance", "emotions"]
+      "categories": [
+        "technology",
+        "food"
+      ],
+      "tags": [
+        "coffee maker",
+        "sad",
+        "depresso",
+        "espresso",
+        "wordplay",
+        "appliance",
+        "emotions"
+      ]
     },
     {
       "id": 1633,
-      "setup": "Why did the CPU feel unappreciated?",
-      "punchline": "Because everyone took it for granite... I mean, granted!",
-      "categories": ["technology"],
-      "tags": ["cpu", "unappreciated", "granted", "processor", "wordplay", "hardware", "computing"]
+      "setup": "Why did the CPU go to the beach?",
+      "punchline": "To cool off from all that processing!",
+      "categories": [
+        "technology",
+        "outdoors"
+      ],
+      "tags": [
+        "cpu",
+        "beach",
+        "cool",
+        "processing",
+        "wordplay",
+        "computer",
+        "heat"
+      ]
     },
     {
       "id": 1634,
       "setup": "What's a computer's favorite beat?",
       "punchline": "An algo-rhythm!",
-      "categories": ["technology", "music"],
-      "tags": ["computer", "beat", "algorithm", "rhythm", "wordplay", "programming", "music"]
+      "categories": [
+        "technology",
+        "music"
+      ],
+      "tags": [
+        "computer",
+        "beat",
+        "algorithm",
+        "rhythm",
+        "wordplay",
+        "programming",
+        "music"
+      ]
     },
     {
       "id": 1635,
       "setup": "Why did the laptop go on a diet?",
       "punchline": "To lose some wait time!",
-      "categories": ["technology"],
-      "tags": ["laptop", "diet", "wait time", "weight", "wordplay", "loading", "speed"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "laptop",
+        "diet",
+        "wait time",
+        "weight",
+        "wordplay",
+        "loading",
+        "speed"
+      ]
     },
     {
       "id": 1636,
       "setup": "What do you call a computer error at a fancy restaurant?",
       "punchline": "A runtime exception... with wine!",
-      "categories": ["technology", "food"],
-      "tags": ["computer", "error", "runtime", "restaurant", "wordplay", "programming", "dining"]
+      "categories": [
+        "technology",
+        "food"
+      ],
+      "tags": [
+        "computer",
+        "error",
+        "runtime",
+        "restaurant",
+        "wordplay",
+        "programming",
+        "dining"
+      ]
     },
     {
       "id": 1637,
       "setup": "Why did the tech support agent bring a ladder?",
       "punchline": "To help users reach the cloud!",
-      "categories": ["technology", "work"],
-      "tags": ["tech support", "ladder", "cloud", "reaching", "wordplay", "computing", "storage"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "tech support",
+        "ladder",
+        "cloud",
+        "reaching",
+        "wordplay",
+        "computing",
+        "storage"
+      ]
     },
     {
       "id": 1638,
       "setup": "What did the hashtag say to the at symbol?",
       "punchline": "You're looking @ your best today!",
-      "categories": ["technology"],
-      "tags": ["hashtag", "at symbol", "compliment", "social media", "wordplay", "symbols", "keyboard"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "hashtag",
+        "at symbol",
+        "compliment",
+        "social media",
+        "wordplay",
+        "symbols",
+        "keyboard"
+      ]
     },
     {
       "id": 1639,
       "setup": "Why was the computer monitor stressed?",
       "punchline": "Because it was under too much screen pressure!",
-      "categories": ["technology"],
-      "tags": ["monitor", "stressed", "screen", "pressure", "wordplay", "display", "anxiety"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "monitor",
+        "stressed",
+        "screen",
+        "pressure",
+        "wordplay",
+        "display",
+        "anxiety"
+      ]
     },
     {
       "id": 1640,
       "setup": "What do you call a bee that works in IT?",
       "punchline": "A USB!",
-      "categories": ["technology", "animals"],
-      "tags": ["bee", "it", "usb", "buzzing", "wordplay", "port", "insect"]
+      "categories": [
+        "technology",
+        "animals"
+      ],
+      "tags": [
+        "bee",
+        "it",
+        "usb",
+        "buzzing",
+        "wordplay",
+        "port",
+        "insect"
+      ]
     },
     {
       "id": 1641,
       "setup": "Why did the Bluetooth device feel isolated?",
       "punchline": "Because it couldn't pair with anyone!",
-      "categories": ["technology"],
-      "tags": ["bluetooth", "isolated", "pair", "connecting", "wordplay", "wireless", "lonely"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "bluetooth",
+        "isolated",
+        "pair",
+        "connecting",
+        "wordplay",
+        "wireless",
+        "lonely"
+      ]
     },
     {
       "id": 1642,
       "setup": "What's a computer's favorite exercise?",
       "punchline": "Running programs!",
-      "categories": ["technology", "sports"],
-      "tags": ["computer", "exercise", "running", "programs", "wordplay", "software", "fitness"]
+      "categories": [
+        "technology",
+        "sports"
+      ],
+      "tags": [
+        "computer",
+        "exercise",
+        "running",
+        "programs",
+        "wordplay",
+        "software",
+        "fitness"
+      ]
     },
     {
       "id": 1643,
       "setup": "Why did the hard drive break up with the floppy disk?",
       "punchline": "Because their relationship was outdated!",
-      "categories": ["technology"],
-      "tags": ["hard drive", "floppy disk", "breakup", "outdated", "wordplay", "storage", "obsolete"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "hard drive",
+        "floppy disk",
+        "breakup",
+        "outdated",
+        "wordplay",
+        "storage",
+        "obsolete"
+      ]
     },
     {
       "id": 1644,
       "setup": "What do programmers wear in the winter?",
       "punchline": "JavaScript... or should I say, Java-jackets!",
-      "categories": ["technology"],
-      "tags": ["programmers", "winter", "javascript", "jackets", "wordplay", "coding", "clothing"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "programmers",
+        "winter",
+        "javascript",
+        "jackets",
+        "wordplay",
+        "coding",
+        "clothing"
+      ]
     },
     {
       "id": 1645,
       "setup": "Why did the smartphone need therapy?",
       "punchline": "Because it had too many hang-ups!",
-      "categories": ["technology"],
-      "tags": ["smartphone", "therapy", "hang-ups", "calls", "wordplay", "phone", "issues"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "smartphone",
+        "therapy",
+        "hang-ups",
+        "calls",
+        "wordplay",
+        "phone",
+        "issues"
+      ]
     },
     {
       "id": 1646,
       "setup": "What's a ghost's favorite computer?",
       "punchline": "One with a BOO-tloader!",
-      "categories": ["technology", "fantasy"],
-      "tags": ["ghost", "computer", "bootloader", "boo", "wordplay", "spooky", "startup"]
+      "categories": [
+        "technology",
+        "fantasy"
+      ],
+      "tags": [
+        "ghost",
+        "computer",
+        "bootloader",
+        "boo",
+        "wordplay",
+        "spooky",
+        "startup"
+      ]
     },
     {
       "id": 1647,
       "setup": "Why was the computer so good at golf?",
       "punchline": "Because it had a hard drive!",
-      "categories": ["technology", "sports"],
-      "tags": ["computer", "golf", "hard drive", "driving", "wordplay", "storage", "sports"]
+      "categories": [
+        "technology",
+        "sports"
+      ],
+      "tags": [
+        "computer",
+        "golf",
+        "hard drive",
+        "driving",
+        "wordplay",
+        "storage",
+        "sports"
+      ]
     },
     {
       "id": 1648,
-      "setup": "What do you call a computer that loves nature?",
-      "punchline": "A tree-coder... wait, I mean, a root user!",
-      "categories": ["technology", "outdoors"],
-      "tags": ["computer", "nature", "root user", "tree", "wordplay", "linux", "admin"]
+      "setup": "What do you call a computer in the woods?",
+      "punchline": "A Dell in a dell!",
+      "categories": [
+        "technology",
+        "outdoors"
+      ],
+      "tags": [
+        "computer",
+        "woods",
+        "dell",
+        "valley",
+        "wordplay",
+        "nature",
+        "brand"
+      ]
     },
     {
       "id": 1649,
       "setup": "Why did the email feel unread?",
       "punchline": "Because nobody opened up to it!",
-      "categories": ["technology"],
-      "tags": ["email", "unread", "opened", "feelings", "wordplay", "inbox", "lonely"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "email",
+        "unread",
+        "opened",
+        "feelings",
+        "wordplay",
+        "inbox",
+        "lonely"
+      ]
     },
     {
       "id": 1650,
       "setup": "What's a pirate's favorite programming language?",
       "punchline": "R!",
-      "categories": ["technology", "history"],
-      "tags": ["pirate", "programming", "r language", "arrr", "wordplay", "coding", "statistics"]
+      "categories": [
+        "technology",
+        "history"
+      ],
+      "tags": [
+        "pirate",
+        "programming",
+        "r language",
+        "arrr",
+        "wordplay",
+        "coding",
+        "statistics"
+      ]
     },
     {
       "id": 1651,
       "setup": "Why did the computer have bad breath?",
       "punchline": "Because it didn't use a firewall... just kidding, it forgot to clean its cookies!",
-      "categories": ["technology", "food"],
-      "tags": ["computer", "bad breath", "cookies", "cleaning", "wordplay", "browser", "hygiene"]
+      "categories": [
+        "technology",
+        "food"
+      ],
+      "tags": [
+        "computer",
+        "bad breath",
+        "cookies",
+        "cleaning",
+        "wordplay",
+        "browser",
+        "hygiene"
+      ]
     },
     {
       "id": 1652,
       "setup": "What did the phone say when it was fully charged?",
       "punchline": "I'm feeling absolutely positive!",
-      "categories": ["technology"],
-      "tags": ["phone", "charged", "positive", "battery", "wordplay", "energy", "electricity"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "phone",
+        "charged",
+        "positive",
+        "battery",
+        "wordplay",
+        "energy",
+        "electricity"
+      ]
     },
     {
       "id": 1653,
       "setup": "Why was the Python programmer frustrated?",
       "punchline": "Because his code had too many bugs... and not the snake kind!",
-      "categories": ["technology", "animals"],
-      "tags": ["python", "programmer", "bugs", "snake", "wordplay", "coding", "errors"]
+      "categories": [
+        "technology",
+        "animals"
+      ],
+      "tags": [
+        "python",
+        "programmer",
+        "bugs",
+        "snake",
+        "wordplay",
+        "coding",
+        "errors"
+      ]
     },
     {
       "id": 1654,
       "setup": "What do you call a nervous computer?",
       "punchline": "A laptop with butterflies in its hard drive!",
-      "categories": ["technology"],
-      "tags": ["computer", "nervous", "butterflies", "hard drive", "wordplay", "anxiety", "storage"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "nervous",
+        "butterflies",
+        "hard drive",
+        "wordplay",
+        "anxiety",
+        "storage"
+      ]
     },
     {
       "id": 1655,
       "setup": "Why did the browser go to school?",
       "punchline": "To improve its tabs!",
-      "categories": ["technology", "school"],
-      "tags": ["browser", "school", "tabs", "learning", "wordplay", "internet", "keeping track"]
+      "categories": [
+        "technology",
+        "school"
+      ],
+      "tags": [
+        "browser",
+        "school",
+        "tabs",
+        "learning",
+        "wordplay",
+        "internet",
+        "keeping track"
+      ]
     },
     {
       "id": 1656,
       "setup": "What's a computer's favorite animal?",
       "punchline": "A RAM!",
-      "categories": ["technology", "animals"],
-      "tags": ["computer", "animal", "ram", "memory", "wordplay", "hardware", "sheep"]
+      "categories": [
+        "technology",
+        "animals"
+      ],
+      "tags": [
+        "computer",
+        "animal",
+        "ram",
+        "memory",
+        "wordplay",
+        "hardware",
+        "sheep"
+      ]
     },
     {
       "id": 1657,
       "setup": "Why did the USB cable feel left out?",
       "punchline": "Because it was always being unplugged from conversations!",
-      "categories": ["technology"],
-      "tags": ["usb cable", "left out", "unplugged", "conversations", "wordplay", "connecting", "lonely"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "usb cable",
+        "left out",
+        "unplugged",
+        "conversations",
+        "wordplay",
+        "connecting",
+        "lonely"
+      ]
     },
     {
       "id": 1658,
       "setup": "What do you call a dinosaur who is good with computers?",
       "punchline": "A dino-byte!",
-      "categories": ["technology", "animals"],
-      "tags": ["dinosaur", "computers", "byte", "prehistoric", "wordplay", "data", "storage"]
+      "categories": [
+        "technology",
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "computers",
+        "byte",
+        "prehistoric",
+        "wordplay",
+        "data",
+        "storage"
+      ]
     },
     {
       "id": 1659,
       "setup": "Why was the cursor so arrogant?",
       "punchline": "Because it was always pointing at others!",
-      "categories": ["technology"],
-      "tags": ["cursor", "arrogant", "pointing", "mouse", "wordplay", "screen", "attitude"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "cursor",
+        "arrogant",
+        "pointing",
+        "mouse",
+        "wordplay",
+        "screen",
+        "attitude"
+      ]
     },
     {
       "id": 1660,
       "setup": "What did the ethernet cable say to the Wi-Fi?",
       "punchline": "You're so unstable... I prefer committed connections!",
-      "categories": ["technology"],
-      "tags": ["ethernet", "wifi", "unstable", "connections", "wordplay", "networking", "relationship"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "ethernet",
+        "wifi",
+        "unstable",
+        "connections",
+        "wordplay",
+        "networking",
+        "relationship"
+      ]
     },
     {
       "id": 1661,
       "setup": "Why did the developer bring a compass?",
       "punchline": "To find their true north... in the code!",
-      "categories": ["technology", "outdoors"],
-      "tags": ["developer", "compass", "true north", "code", "wordplay", "navigation", "programming"]
+      "categories": [
+        "technology",
+        "outdoors"
+      ],
+      "tags": [
+        "developer",
+        "compass",
+        "true north",
+        "code",
+        "wordplay",
+        "navigation",
+        "programming"
+      ]
     },
     {
       "id": 1662,
-      "setup": "What's a computer's favorite candy?",
-      "punchline": "Memory chips... wait, I mean chocolate chips!",
-      "categories": ["technology", "food"],
-      "tags": ["computer", "candy", "chips", "chocolate", "wordplay", "hardware", "sweets"]
+      "setup": "Why did the router go to therapy?",
+      "punchline": "It had too many connection issues!",
+      "categories": [
+        [
+          "technology"
+        ]
+      ],
+      "tags": [
+        "router",
+        "therapy",
+        "connection",
+        "issues",
+        "wordplay",
+        "internet",
+        "wifi"
+      ]
     },
     {
       "id": 1663,
       "setup": "Why did the charging cable feel pulled in two directions?",
       "punchline": "Because it was always caught between the phone and the wall!",
-      "categories": ["technology"],
-      "tags": ["charging cable", "pulled", "directions", "phone", "wordplay", "power", "connection"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "charging cable",
+        "pulled",
+        "directions",
+        "phone",
+        "wordplay",
+        "power",
+        "connection"
+      ]
     },
     {
       "id": 1664,
       "setup": "What do you call a computer in the ocean?",
       "punchline": "Dell under the sea!",
-      "categories": ["technology", "geography"],
-      "tags": ["computer", "ocean", "dell", "under the sea", "wordplay", "brand", "water"]
+      "categories": [
+        "technology",
+        "geography"
+      ],
+      "tags": [
+        "computer",
+        "ocean",
+        "dell",
+        "under the sea",
+        "wordplay",
+        "brand",
+        "water"
+      ]
     },
     {
       "id": 1665,
       "setup": "Why did the HDMI cable win the award?",
       "punchline": "Because it made the best connections!",
-      "categories": ["technology"],
-      "tags": ["hdmi", "cable", "award", "connections", "wordplay", "video", "quality"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "hdmi",
+        "cable",
+        "award",
+        "connections",
+        "wordplay",
+        "video",
+        "quality"
+      ]
     },
     {
       "id": 1666,
       "setup": "What's a tree's favorite file format?",
       "punchline": "A log file!",
-      "categories": ["technology", "outdoors"],
-      "tags": ["tree", "file format", "log", "nature", "wordplay", "programming", "debugging"]
+      "categories": [
+        "technology",
+        "outdoors"
+      ],
+      "tags": [
+        "tree",
+        "file format",
+        "log",
+        "nature",
+        "wordplay",
+        "programming",
+        "debugging"
+      ]
     },
     {
       "id": 1667,
       "setup": "Why was the antivirus software feeling heroic?",
       "punchline": "Because it was always saving the day!",
-      "categories": ["technology"],
-      "tags": ["antivirus", "software", "heroic", "saving", "wordplay", "protection", "security"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "antivirus",
+        "software",
+        "heroic",
+        "saving",
+        "wordplay",
+        "protection",
+        "security"
+      ]
     },
     {
       "id": 1668,
       "setup": "What do computers eat for breakfast?",
       "punchline": "Silicon bacon and chips!",
-      "categories": ["technology", "food"],
-      "tags": ["computers", "breakfast", "silicon", "chips", "wordplay", "hardware", "eating"]
+      "categories": [
+        "technology",
+        "food"
+      ],
+      "tags": [
+        "computers",
+        "breakfast",
+        "silicon",
+        "chips",
+        "wordplay",
+        "hardware",
+        "eating"
+      ]
     },
     {
       "id": 1669,
       "setup": "Why did the webcam feel self-conscious?",
       "punchline": "Because it was always being watched watching others!",
-      "categories": ["technology"],
-      "tags": ["webcam", "self-conscious", "watched", "video", "wordplay", "camera", "privacy"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "webcam",
+        "self-conscious",
+        "watched",
+        "video",
+        "wordplay",
+        "camera",
+        "privacy"
+      ]
     },
     {
       "id": 1670,
       "setup": "What's a computer's favorite yoga pose?",
       "punchline": "The Ctrl-Alt-Delete... for a fresh start!",
-      "categories": ["technology", "sports"],
-      "tags": ["computer", "yoga", "ctrl alt delete", "restart", "wordplay", "keyboard", "relaxation"]
+      "categories": [
+        "technology",
+        "sports"
+      ],
+      "tags": [
+        "computer",
+        "yoga",
+        "ctrl alt delete",
+        "restart",
+        "wordplay",
+        "keyboard",
+        "relaxation"
+      ]
     },
     {
       "id": 1671,
       "setup": "Why did the programmer always carry a clock?",
       "punchline": "Because timing is everything in code!",
-      "categories": ["technology", "work"],
-      "tags": ["programmer", "clock", "timing", "code", "wordplay", "programming", "time"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "programmer",
+        "clock",
+        "timing",
+        "code",
+        "wordplay",
+        "programming",
+        "time"
+      ]
     },
     {
       "id": 1672,
       "setup": "What do you call a robot that always takes the long way?",
       "punchline": "A de-tour bot!",
-      "categories": ["technology", "travel"],
-      "tags": ["robot", "long way", "detour", "bot", "wordplay", "navigation", "route"]
+      "categories": [
+        "technology",
+        "travel"
+      ],
+      "tags": [
+        "robot",
+        "long way",
+        "detour",
+        "bot",
+        "wordplay",
+        "navigation",
+        "route"
+      ]
     },
     {
       "id": 1673,
       "setup": "Why was the graphics card feeling artistic?",
       "punchline": "Because it was always rendering beautiful images!",
-      "categories": ["technology"],
-      "tags": ["graphics card", "artistic", "rendering", "images", "wordplay", "gpu", "visuals"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "graphics card",
+        "artistic",
+        "rendering",
+        "images",
+        "wordplay",
+        "gpu",
+        "visuals"
+      ]
     },
     {
       "id": 1674,
       "setup": "What did the old computer say to the new one?",
       "punchline": "Back in my day, we had floppy disks and we liked it!",
-      "categories": ["technology", "history"],
-      "tags": ["old computer", "new computer", "floppy disks", "nostalgia", "wordplay", "storage", "generation"]
+      "categories": [
+        "technology",
+        "history"
+      ],
+      "tags": [
+        "old computer",
+        "new computer",
+        "floppy disks",
+        "nostalgia",
+        "wordplay",
+        "storage",
+        "generation"
+      ]
     },
     {
       "id": 1675,
       "setup": "Why did the firewall get promoted?",
       "punchline": "Because it was great at blocking negativity!",
-      "categories": ["technology", "work"],
-      "tags": ["firewall", "promoted", "blocking", "negativity", "wordplay", "security", "career"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "firewall",
+        "promoted",
+        "blocking",
+        "negativity",
+        "wordplay",
+        "security",
+        "career"
+      ]
     },
     {
       "id": 1676,
       "setup": "What's a computer's favorite holiday?",
       "punchline": "Cyber Monday!",
-      "categories": ["technology", "holidays"],
-      "tags": ["computer", "holiday", "cyber monday", "shopping", "wordplay", "sales", "online"]
+      "categories": [
+        "technology",
+        "holidays"
+      ],
+      "tags": [
+        "computer",
+        "holiday",
+        "cyber monday",
+        "shopping",
+        "wordplay",
+        "sales",
+        "online"
+      ]
     },
     {
       "id": 1677,
       "setup": "Why did the motherboard go to family therapy?",
       "punchline": "Because it had issues with all its children components!",
-      "categories": ["technology", "family"],
-      "tags": ["motherboard", "therapy", "children", "components", "wordplay", "hardware", "family"]
+      "categories": [
+        "technology",
+        "family"
+      ],
+      "tags": [
+        "motherboard",
+        "therapy",
+        "children",
+        "components",
+        "wordplay",
+        "hardware",
+        "family"
+      ]
     },
     {
       "id": 1678,
       "setup": "What do you call a computer that loves the beach?",
       "punchline": "A sandy disk!",
-      "categories": ["technology", "outdoors"],
-      "tags": ["computer", "beach", "sandy", "disk", "wordplay", "vacation", "storage"]
+      "categories": [
+        "technology",
+        "outdoors"
+      ],
+      "tags": [
+        "computer",
+        "beach",
+        "sandy",
+        "disk",
+        "wordplay",
+        "vacation",
+        "storage"
+      ]
     },
     {
       "id": 1679,
       "setup": "Why did the AI assistant feel undervalued?",
       "punchline": "Because everyone just wanted quick answers!",
-      "categories": ["technology"],
-      "tags": ["ai", "assistant", "undervalued", "answers", "wordplay", "artificial intelligence", "help"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "ai",
+        "assistant",
+        "undervalued",
+        "answers",
+        "wordplay",
+        "artificial intelligence",
+        "help"
+      ]
     },
     {
       "id": 1680,
       "setup": "What's a computer virus's favorite game?",
       "punchline": "Hide and corrupt!",
-      "categories": ["technology"],
-      "tags": ["virus", "game", "hide and seek", "corrupt", "wordplay", "malware", "playing"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "virus",
+        "game",
+        "hide and seek",
+        "corrupt",
+        "wordplay",
+        "malware",
+        "playing"
+      ]
     },
     {
       "id": 1681,
       "setup": "Why did the SSD feel superior?",
       "punchline": "Because it had no moving parts to hold it back!",
-      "categories": ["technology"],
-      "tags": ["ssd", "superior", "moving parts", "speed", "wordplay", "storage", "solid state"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "ssd",
+        "superior",
+        "moving parts",
+        "speed",
+        "wordplay",
+        "storage",
+        "solid state"
+      ]
     },
     {
       "id": 1682,
       "setup": "What do you call a polite computer?",
       "punchline": "Please and thank-you-nix!",
-      "categories": ["technology"],
-      "tags": ["computer", "polite", "unix", "manners", "wordplay", "operating system", "linux"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "polite",
+        "unix",
+        "manners",
+        "wordplay",
+        "operating system",
+        "linux"
+      ]
     },
     {
       "id": 1683,
       "setup": "Why did the tablet feel flat?",
       "punchline": "Because everyone was always swiping left on it!",
-      "categories": ["technology"],
-      "tags": ["tablet", "flat", "swiping", "dating", "wordplay", "touchscreen", "rejection"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "tablet",
+        "flat",
+        "swiping",
+        "dating",
+        "wordplay",
+        "touchscreen",
+        "rejection"
+      ]
     },
     {
       "id": 1684,
       "setup": "What's a chicken's favorite programming language?",
-      "punchline": "Cluck++ ... I mean, C++!",
-      "categories": ["technology", "animals"],
-      "tags": ["chicken", "programming", "c++", "cluck", "wordplay", "coding", "language"]
+      "punchline": "Coop-ol!",
+      "categories": [
+        "technology",
+        "animals"
+      ],
+      "tags": [
+        "chicken",
+        "programming",
+        "cobol",
+        "coop",
+        "wordplay",
+        "coding",
+        "poultry"
+      ]
     },
     {
       "id": 1685,
       "setup": "Why was the network engineer always calm?",
       "punchline": "Because they had a lot of bandwidth for stress!",
-      "categories": ["technology", "work"],
-      "tags": ["network engineer", "calm", "bandwidth", "stress", "wordplay", "networking", "capacity"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "network engineer",
+        "calm",
+        "bandwidth",
+        "stress",
+        "wordplay",
+        "networking",
+        "capacity"
+      ]
     },
     {
       "id": 1686,
       "setup": "What did the code say to the bug?",
       "punchline": "You're not a feature, you're a mistake!",
-      "categories": ["technology"],
-      "tags": ["code", "bug", "feature", "mistake", "wordplay", "programming", "debugging"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "code",
+        "bug",
+        "feature",
+        "mistake",
+        "wordplay",
+        "programming",
+        "debugging"
+      ]
     },
     {
       "id": 1687,
       "setup": "Why did the operating system break up with the user?",
       "punchline": "Because they had too many compatibility issues!",
-      "categories": ["technology"],
-      "tags": ["operating system", "user", "breakup", "compatibility", "wordplay", "software", "relationship"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "operating system",
+        "user",
+        "breakup",
+        "compatibility",
+        "wordplay",
+        "software",
+        "relationship"
+      ]
     },
     {
       "id": 1688,
       "setup": "What's a computer's favorite sitcom?",
       "punchline": "The Big Bang Theory... because of all the geeks!",
-      "categories": ["technology"],
-      "tags": ["computer", "sitcom", "big bang theory", "geeks", "wordplay", "tv show", "nerds"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "sitcom",
+        "big bang theory",
+        "geeks",
+        "wordplay",
+        "tv show",
+        "nerds"
+      ]
     },
     {
       "id": 1689,
-      "setup": "Why did the smartwatch feel watched?",
-      "punchline": "Because it was always on someone's case... I mean, wrist!",
-      "categories": ["technology"],
-      "tags": ["smartwatch", "watched", "wrist", "case", "wordplay", "wearable", "paranoid"]
+      "setup": "Why did the smartwatch break up with the fitness tracker?",
+      "punchline": "They just couldn't sync anymore!",
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "smartwatch",
+        "fitness tracker",
+        "sync",
+        "relationship",
+        "wordplay",
+        "breakup",
+        "wearables"
+      ]
     },
     {
       "id": 1690,
       "setup": "What do you call a computer error on Valentine's Day?",
       "punchline": "A fatal attraction!",
-      "categories": ["technology", "holidays"],
-      "tags": ["computer", "error", "valentines day", "fatal", "wordplay", "crash", "love"]
+      "categories": [
+        "technology",
+        "holidays"
+      ],
+      "tags": [
+        "computer",
+        "error",
+        "valentines day",
+        "fatal",
+        "wordplay",
+        "crash",
+        "love"
+      ]
     },
     {
       "id": 1691,
       "setup": "Why did the backup drive feel secure?",
       "punchline": "Because it always had a copy of everything!",
-      "categories": ["technology"],
-      "tags": ["backup drive", "secure", "copy", "everything", "wordplay", "storage", "safety"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "backup drive",
+        "secure",
+        "copy",
+        "everything",
+        "wordplay",
+        "storage",
+        "safety"
+      ]
     },
     {
       "id": 1692,
       "setup": "What's a plumber's favorite website?",
       "punchline": "Pipe-terest!",
-      "categories": ["technology", "work"],
-      "tags": ["plumber", "website", "pinterest", "pipes", "wordplay", "social media", "job"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "plumber",
+        "website",
+        "pinterest",
+        "pipes",
+        "wordplay",
+        "social media",
+        "job"
+      ]
     },
     {
       "id": 1693,
       "setup": "Why did the app feel rejected?",
       "punchline": "Because everyone kept uninstalling it!",
-      "categories": ["technology"],
-      "tags": ["app", "rejected", "uninstalling", "phone", "wordplay", "software", "deleted"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "app",
+        "rejected",
+        "uninstalling",
+        "phone",
+        "wordplay",
+        "software",
+        "deleted"
+      ]
     },
     {
       "id": 1694,
       "setup": "What do you call a sleeping computer?",
       "punchline": "A laptop taking a screensaver nap!",
-      "categories": ["technology"],
-      "tags": ["computer", "sleeping", "laptop", "screensaver", "wordplay", "nap", "hibernation"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "sleeping",
+        "laptop",
+        "screensaver",
+        "wordplay",
+        "nap",
+        "hibernation"
+      ]
     },
     {
       "id": 1695,
       "setup": "Why did the encryption feel lonely?",
       "punchline": "Because nobody could understand it!",
-      "categories": ["technology"],
-      "tags": ["encryption", "lonely", "understand", "security", "wordplay", "code", "misunderstood"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "encryption",
+        "lonely",
+        "understand",
+        "security",
+        "wordplay",
+        "code",
+        "misunderstood"
+      ]
     },
     {
       "id": 1696,
       "setup": "What's a cat's favorite button on the keyboard?",
-      "punchline": "The paws button... I mean, pause!",
-      "categories": ["technology", "animals"],
-      "tags": ["cat", "keyboard", "pause", "paws", "wordplay", "button", "pet"]
+      "punchline": "The paws button!",
+      "categories": [
+        "technology",
+        "animals"
+      ],
+      "tags": [
+        "cat",
+        "keyboard",
+        "paws",
+        "pause",
+        "wordplay",
+        "pets",
+        "typing"
+      ]
     },
     {
       "id": 1697,
       "setup": "Why did the 404 error feel lost?",
       "punchline": "Because it couldn't find itself!",
-      "categories": ["technology"],
-      "tags": ["404 error", "lost", "find", "page", "wordplay", "website", "not found"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "404 error",
+        "lost",
+        "find",
+        "page",
+        "wordplay",
+        "website",
+        "not found"
+      ]
     },
     {
       "id": 1698,
       "setup": "What do you call a computer that can't stop joking?",
       "punchline": "A stand-up desktop!",
-      "categories": ["technology"],
-      "tags": ["computer", "joking", "stand-up", "desktop", "wordplay", "comedy", "humor"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "joking",
+        "stand-up",
+        "desktop",
+        "wordplay",
+        "comedy",
+        "humor"
+      ]
     },
     {
       "id": 1699,
       "setup": "Why did the pixel feel insignificant?",
       "punchline": "Because it was just a small part of the bigger picture!",
-      "categories": ["technology"],
-      "tags": ["pixel", "insignificant", "small", "picture", "wordplay", "display", "image"]
+      "categories": [
+        "technology"
+      ],
+      "tags": [
+        "pixel",
+        "insignificant",
+        "small",
+        "picture",
+        "wordplay",
+        "display",
+        "image"
+      ]
     },
     {
       "id": 1700,
       "setup": "What did the server say to the client?",
       "punchline": "I'm always here to serve you... with data!",
-      "categories": ["technology", "work"],
-      "tags": ["server", "client", "serve", "data", "wordplay", "networking", "hosting"]
+      "categories": [
+        "technology",
+        "work"
+      ],
+      "tags": [
+        "server",
+        "client",
+        "serve",
+        "data",
+        "wordplay",
+        "networking",
+        "hosting"
+      ]
     },
     {
       "id": 1701,
