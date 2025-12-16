@@ -21395,701 +21395,1745 @@
       "id": 1701,
       "setup": "Why did the airplane break up with the runway?",
       "punchline": "Because it needed more space to take off!",
-      "categories": ["travel"],
-      "tags": ["airplane", "runway", "breakup", "space", "wordplay", "flying", "airport"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "airplane",
+        "runway",
+        "breakup",
+        "space",
+        "wordplay",
+        "flying",
+        "airport"
+      ]
     },
     {
       "id": 1702,
       "setup": "What do you call a traveling nut?",
       "punchline": "A road-cashew!",
-      "categories": ["travel", "food"],
-      "tags": ["nut", "traveling", "road", "cashew", "wordplay", "driving", "snack"]
+      "categories": [
+        "travel",
+        "food"
+      ],
+      "tags": [
+        "nut",
+        "traveling",
+        "road",
+        "cashew",
+        "wordplay",
+        "driving",
+        "snack"
+      ]
     },
     {
       "id": 1703,
       "setup": "Why did the suitcase go to therapy?",
       "punchline": "Because it had too much emotional baggage!",
-      "categories": ["travel"],
-      "tags": ["suitcase", "therapy", "baggage", "emotional", "wordplay", "luggage", "feelings"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "suitcase",
+        "therapy",
+        "baggage",
+        "emotional",
+        "wordplay",
+        "luggage",
+        "feelings"
+      ]
     },
     {
       "id": 1704,
       "setup": "What did the tourist say to the map?",
       "punchline": "I'm totally lost without you!",
-      "categories": ["travel"],
-      "tags": ["tourist", "map", "lost", "navigation", "wordplay", "directions", "love"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "tourist",
+        "map",
+        "lost",
+        "navigation",
+        "wordplay",
+        "directions",
+        "love"
+      ]
     },
     {
       "id": 1705,
       "setup": "Why did the passport feel important?",
       "punchline": "Because it was always getting stamped with approval!",
-      "categories": ["travel"],
-      "tags": ["passport", "important", "stamped", "approval", "wordplay", "international", "documents"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "passport",
+        "important",
+        "stamped",
+        "approval",
+        "wordplay",
+        "international",
+        "documents"
+      ]
     },
     {
       "id": 1706,
       "setup": "What do you call a train that sneezes?",
       "punchline": "Achoo-choo train!",
-      "categories": ["travel"],
-      "tags": ["train", "sneezes", "achoo", "choo choo", "wordplay", "locomotive", "sick"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "train",
+        "sneezes",
+        "achoo",
+        "choo choo",
+        "wordplay",
+        "locomotive",
+        "sick"
+      ]
     },
     {
       "id": 1707,
       "setup": "Why did the car apply for a job?",
       "punchline": "Because it wanted to quit being exhausted!",
-      "categories": ["travel", "work"],
-      "tags": ["car", "job", "exhausted", "exhaust", "wordplay", "tired", "driving"]
+      "categories": [
+        "travel",
+        "work"
+      ],
+      "tags": [
+        "car",
+        "job",
+        "exhausted",
+        "exhaust",
+        "wordplay",
+        "tired",
+        "driving"
+      ]
     },
     {
       "id": 1708,
       "setup": "What did the ocean liner say to the pier?",
       "punchline": "I'll be docking by later!",
-      "categories": ["travel", "geography"],
-      "tags": ["ocean liner", "pier", "docking", "stopping by", "wordplay", "cruise", "harbor"]
+      "categories": [
+        "travel",
+        "geography"
+      ],
+      "tags": [
+        "ocean liner",
+        "pier",
+        "docking",
+        "stopping by",
+        "wordplay",
+        "cruise",
+        "harbor"
+      ]
     },
     {
       "id": 1709,
       "setup": "Why did the GPS get promoted?",
       "punchline": "Because it always knew the right direction to take!",
-      "categories": ["travel", "technology"],
-      "tags": ["gps", "promoted", "direction", "navigation", "wordplay", "career", "guidance"]
+      "categories": [
+        "travel",
+        "technology"
+      ],
+      "tags": [
+        "gps",
+        "promoted",
+        "direction",
+        "navigation",
+        "wordplay",
+        "career",
+        "guidance"
+      ]
     },
     {
       "id": 1710,
       "setup": "What do you call a lazy airplane?",
       "punchline": "A plane that won't take off!",
-      "categories": ["travel"],
-      "tags": ["airplane", "lazy", "take off", "flying", "wordplay", "unmotivated", "grounded"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "airplane",
+        "lazy",
+        "take off",
+        "flying",
+        "wordplay",
+        "unmotivated",
+        "grounded"
+      ]
     },
     {
       "id": 1711,
       "setup": "Why did the hotel pillow feel flattered?",
       "punchline": "Because guests were always resting their heads on it!",
-      "categories": ["travel", "home"],
-      "tags": ["hotel", "pillow", "flattered", "resting", "wordplay", "sleeping", "comfort"]
+      "categories": [
+        "travel",
+        "home"
+      ],
+      "tags": [
+        "hotel",
+        "pillow",
+        "flattered",
+        "resting",
+        "wordplay",
+        "sleeping",
+        "comfort"
+      ]
     },
     {
       "id": 1712,
       "setup": "What did the road say to the bridge?",
       "punchline": "You really help me get over things!",
-      "categories": ["travel"],
-      "tags": ["road", "bridge", "get over", "crossing", "wordplay", "infrastructure", "support"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "road",
+        "bridge",
+        "get over",
+        "crossing",
+        "wordplay",
+        "infrastructure",
+        "support"
+      ]
     },
     {
       "id": 1713,
       "setup": "Why did the taxi driver win an award?",
       "punchline": "Because he really knew how to pick people up!",
-      "categories": ["travel", "work"],
-      "tags": ["taxi driver", "award", "pick up", "passengers", "wordplay", "compliment", "driving"]
+      "categories": [
+        "travel",
+        "work"
+      ],
+      "tags": [
+        "taxi driver",
+        "award",
+        "pick up",
+        "passengers",
+        "wordplay",
+        "compliment",
+        "driving"
+      ]
     },
     {
       "id": 1714,
       "setup": "What do you call a traveling bee?",
       "punchline": "A bee on a buzz-iness trip!",
-      "categories": ["travel", "animals"],
-      "tags": ["bee", "traveling", "business trip", "buzz", "wordplay", "insect", "work"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "bee",
+        "traveling",
+        "business trip",
+        "buzz",
+        "wordplay",
+        "insect",
+        "work"
+      ]
     },
     {
       "id": 1715,
       "setup": "Why did the luggage carousel feel dizzy?",
       "punchline": "Because it was always going around in circles!",
-      "categories": ["travel"],
-      "tags": ["luggage carousel", "dizzy", "circles", "airport", "wordplay", "spinning", "baggage"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "luggage carousel",
+        "dizzy",
+        "circles",
+        "airport",
+        "wordplay",
+        "spinning",
+        "baggage"
+      ]
     },
     {
       "id": 1716,
       "setup": "What did the flight attendant say to the nervous passenger?",
       "punchline": "Don't worry, we'll get through this turbulence together!",
-      "categories": ["travel"],
-      "tags": ["flight attendant", "passenger", "turbulence", "nervous", "wordplay", "airplane", "support"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "flight attendant",
+        "passenger",
+        "turbulence",
+        "nervous",
+        "wordplay",
+        "airplane",
+        "support"
+      ]
     },
     {
       "id": 1717,
       "setup": "Why did the cruise ship go to school?",
       "punchline": "To improve its navigation skills!",
-      "categories": ["travel", "school"],
-      "tags": ["cruise ship", "school", "navigation", "skills", "wordplay", "ocean", "learning"]
+      "categories": [
+        "travel",
+        "school"
+      ],
+      "tags": [
+        "cruise ship",
+        "school",
+        "navigation",
+        "skills",
+        "wordplay",
+        "ocean",
+        "learning"
+      ]
     },
     {
       "id": 1718,
       "setup": "What do you call a bear at the airport?",
       "punchline": "A carry-on grizzly!",
-      "categories": ["travel", "animals"],
-      "tags": ["bear", "airport", "carry-on", "grizzly", "wordplay", "luggage", "wildlife"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "bear",
+        "airport",
+        "carry-on",
+        "grizzly",
+        "wordplay",
+        "luggage",
+        "wildlife"
+      ]
     },
     {
       "id": 1719,
       "setup": "Why did the backpacker bring a dictionary?",
       "punchline": "To help define their journey!",
-      "categories": ["travel", "school"],
-      "tags": ["backpacker", "dictionary", "define", "journey", "wordplay", "adventure", "words"]
+      "categories": [
+        "travel",
+        "school"
+      ],
+      "tags": [
+        "backpacker",
+        "dictionary",
+        "define",
+        "journey",
+        "wordplay",
+        "adventure",
+        "words"
+      ]
     },
     {
       "id": 1720,
       "setup": "What did the tire say to the road?",
       "punchline": "I'm really tired of rolling over you!",
-      "categories": ["travel"],
-      "tags": ["tire", "road", "tired", "rolling", "wordplay", "driving", "exhausted"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "tire",
+        "road",
+        "tired",
+        "rolling",
+        "wordplay",
+        "driving",
+        "exhausted"
+      ]
     },
     {
       "id": 1721,
       "setup": "Why did the travel agent go to jail?",
       "punchline": "For booking too many flights!",
-      "categories": ["travel", "work"],
-      "tags": ["travel agent", "jail", "booking", "flights", "wordplay", "crime", "reservations"]
+      "categories": [
+        "travel",
+        "work"
+      ],
+      "tags": [
+        "travel agent",
+        "jail",
+        "booking",
+        "flights",
+        "wordplay",
+        "crime",
+        "reservations"
+      ]
     },
     {
       "id": 1722,
       "setup": "What do you call a sleeping bus?",
       "punchline": "A bus that needs to get moving!",
-      "categories": ["travel"],
-      "tags": ["bus", "sleeping", "moving", "transportation", "wordplay", "rest", "lazy"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "bus",
+        "sleeping",
+        "moving",
+        "transportation",
+        "wordplay",
+        "rest",
+        "lazy"
+      ]
     },
     {
       "id": 1723,
       "setup": "Why did the airport runway feel walked on?",
       "punchline": "Because planes were always taking off on it!",
-      "categories": ["travel"],
-      "tags": ["airport", "runway", "walked on", "planes", "wordplay", "flying", "used"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "airport",
+        "runway",
+        "walked on",
+        "planes",
+        "wordplay",
+        "flying",
+        "used"
+      ]
     },
     {
       "id": 1724,
       "setup": "What did the elevator say in the hotel?",
       "punchline": "I'm really uplifting!",
-      "categories": ["travel", "home"],
-      "tags": ["elevator", "hotel", "uplifting", "floors", "wordplay", "positive", "lifting"]
+      "categories": [
+        "travel",
+        "home"
+      ],
+      "tags": [
+        "elevator",
+        "hotel",
+        "uplifting",
+        "floors",
+        "wordplay",
+        "positive",
+        "lifting"
+      ]
     },
     {
       "id": 1725,
       "setup": "Why did the GPS break up with the compass?",
       "punchline": "Because it said the relationship was going in circles!",
-      "categories": ["travel"],
-      "tags": ["gps", "compass", "breakup", "circles", "wordplay", "navigation", "relationship"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "gps",
+        "compass",
+        "breakup",
+        "circles",
+        "wordplay",
+        "navigation",
+        "relationship"
+      ]
     },
     {
       "id": 1726,
       "setup": "What do you call a dinosaur that travels?",
       "punchline": "A roam-a-saurus!",
-      "categories": ["travel", "animals"],
-      "tags": ["dinosaur", "travels", "roam", "prehistoric", "wordplay", "wandering", "adventure"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "travels",
+        "roam",
+        "prehistoric",
+        "wordplay",
+        "wandering",
+        "adventure"
+      ]
     },
     {
       "id": 1727,
       "setup": "Why did the boarding pass feel special?",
       "punchline": "Because it was first class!",
-      "categories": ["travel"],
-      "tags": ["boarding pass", "special", "first class", "airplane", "wordplay", "flying", "upgrade"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "boarding pass",
+        "special",
+        "first class",
+        "airplane",
+        "wordplay",
+        "flying",
+        "upgrade"
+      ]
     },
     {
       "id": 1728,
       "setup": "What did the gas station say to the car?",
       "punchline": "Stop by anytime, I'm always pumped to see you!",
-      "categories": ["travel"],
-      "tags": ["gas station", "car", "pumped", "fuel", "wordplay", "driving", "excited"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "gas station",
+        "car",
+        "pumped",
+        "fuel",
+        "wordplay",
+        "driving",
+        "excited"
+      ]
     },
     {
       "id": 1729,
       "setup": "Why did the pilot become a comedian?",
       "punchline": "Because his jokes really landed with the audience!",
-      "categories": ["travel", "work"],
-      "tags": ["pilot", "comedian", "landed", "jokes", "wordplay", "flying", "audience"]
+      "categories": [
+        "travel",
+        "work"
+      ],
+      "tags": [
+        "pilot",
+        "comedian",
+        "landed",
+        "jokes",
+        "wordplay",
+        "flying",
+        "audience"
+      ]
     },
     {
       "id": 1730,
       "setup": "What do you call a traveling musician?",
       "punchline": "A road-y!",
-      "categories": ["travel", "music"],
-      "tags": ["traveling", "musician", "roadie", "touring", "wordplay", "band", "concerts"]
+      "categories": [
+        "travel",
+        "music"
+      ],
+      "tags": [
+        "traveling",
+        "musician",
+        "roadie",
+        "touring",
+        "wordplay",
+        "band",
+        "concerts"
+      ]
     },
     {
       "id": 1731,
       "setup": "Why did the train conductor feel on track?",
       "punchline": "Because everything was going exactly as scheduled!",
-      "categories": ["travel", "work"],
-      "tags": ["train conductor", "on track", "scheduled", "railroad", "wordplay", "timing", "job"]
+      "categories": [
+        "travel",
+        "work"
+      ],
+      "tags": [
+        "train conductor",
+        "on track",
+        "scheduled",
+        "railroad",
+        "wordplay",
+        "timing",
+        "job"
+      ]
     },
     {
       "id": 1732,
       "setup": "What did the toll booth say to the car?",
       "punchline": "You can pass, but it's gonna cost you!",
-      "categories": ["travel"],
-      "tags": ["toll booth", "car", "pass", "cost", "wordplay", "highway", "money"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "toll booth",
+        "car",
+        "pass",
+        "cost",
+        "wordplay",
+        "highway",
+        "money"
+      ]
     },
     {
       "id": 1733,
       "setup": "Why did the jet lag feel exhausted?",
       "punchline": "Because it was stuck between time zones!",
-      "categories": ["travel"],
-      "tags": ["jet lag", "exhausted", "time zones", "flying", "wordplay", "tired", "international"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "jet lag",
+        "exhausted",
+        "time zones",
+        "flying",
+        "wordplay",
+        "tired",
+        "international"
+      ]
     },
     {
       "id": 1734,
       "setup": "What do you call a chicken crossing international borders?",
       "punchline": "Poultry in motion!",
-      "categories": ["travel", "animals"],
-      "tags": ["chicken", "international", "borders", "poetry in motion", "wordplay", "crossing", "bird"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "chicken",
+        "international",
+        "borders",
+        "poetry in motion",
+        "wordplay",
+        "crossing",
+        "bird"
+      ]
     },
     {
       "id": 1735,
       "setup": "Why did the hotel bed feel overworked?",
       "punchline": "Because everyone was always lying on it!",
-      "categories": ["travel", "home"],
-      "tags": ["hotel", "bed", "overworked", "lying", "wordplay", "sleeping", "rest"]
+      "categories": [
+        "travel",
+        "home"
+      ],
+      "tags": [
+        "hotel",
+        "bed",
+        "overworked",
+        "lying",
+        "wordplay",
+        "sleeping",
+        "rest"
+      ]
     },
     {
       "id": 1736,
       "setup": "What did the bicycle say on vacation?",
       "punchline": "I'm wheely having a great time!",
-      "categories": ["travel"],
-      "tags": ["bicycle", "vacation", "wheely", "really", "wordplay", "cycling", "fun"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "bicycle",
+        "vacation",
+        "wheely",
+        "really",
+        "wordplay",
+        "cycling",
+        "fun"
+      ]
     },
     {
       "id": 1737,
       "setup": "Why did the ferry feel important?",
       "punchline": "Because it was always making waves!",
-      "categories": ["travel"],
-      "tags": ["ferry", "important", "waves", "boat", "wordplay", "water", "impact"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "ferry",
+        "important",
+        "waves",
+        "boat",
+        "wordplay",
+        "water",
+        "impact"
+      ]
     },
     {
       "id": 1738,
       "setup": "What do you call a snowman on vacation?",
       "punchline": "A puddle!",
-      "categories": ["travel", "holidays"],
-      "tags": ["snowman", "vacation", "puddle", "melting", "wordplay", "beach", "hot"]
+      "categories": [
+        "travel",
+        "holidays"
+      ],
+      "tags": [
+        "snowman",
+        "vacation",
+        "puddle",
+        "melting",
+        "wordplay",
+        "beach",
+        "hot"
+      ]
     },
     {
       "id": 1739,
       "setup": "Why did the motorcycle feel lonely?",
       "punchline": "Because it was a solo rider!",
-      "categories": ["travel"],
-      "tags": ["motorcycle", "lonely", "solo", "rider", "wordplay", "driving", "alone"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "motorcycle",
+        "lonely",
+        "solo",
+        "rider",
+        "wordplay",
+        "driving",
+        "alone"
+      ]
     },
     {
       "id": 1740,
       "setup": "What did the tourist say at the buffet?",
       "punchline": "This is an all-inclusive experience!",
-      "categories": ["travel", "food"],
-      "tags": ["tourist", "buffet", "all-inclusive", "resort", "wordplay", "eating", "vacation"]
+      "categories": [
+        "travel",
+        "food"
+      ],
+      "tags": [
+        "tourist",
+        "buffet",
+        "all-inclusive",
+        "resort",
+        "wordplay",
+        "eating",
+        "vacation"
+      ]
     },
     {
       "id": 1741,
       "setup": "Why did the highway feel stretched?",
       "punchline": "Because it was always going the extra mile!",
-      "categories": ["travel"],
-      "tags": ["highway", "stretched", "extra mile", "road", "wordplay", "effort", "distance"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "highway",
+        "stretched",
+        "extra mile",
+        "road",
+        "wordplay",
+        "effort",
+        "distance"
+      ]
     },
     {
       "id": 1742,
       "setup": "What do you call a fish on an airplane?",
       "punchline": "A flying fish... literally!",
-      "categories": ["travel", "animals"],
-      "tags": ["fish", "airplane", "flying fish", "literal", "wordplay", "ocean", "sky"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "airplane",
+        "flying fish",
+        "literal",
+        "wordplay",
+        "ocean",
+        "sky"
+      ]
     },
     {
       "id": 1743,
       "setup": "Why did the RV feel at home everywhere?",
       "punchline": "Because home is wherever it's parked!",
-      "categories": ["travel", "home"],
-      "tags": ["rv", "home", "parked", "camping", "wordplay", "mobile", "adventure"]
+      "categories": [
+        "travel",
+        "home"
+      ],
+      "tags": [
+        "rv",
+        "home",
+        "parked",
+        "camping",
+        "wordplay",
+        "mobile",
+        "adventure"
+      ]
     },
     {
       "id": 1744,
       "setup": "What did the seat belt say to the passenger?",
       "punchline": "I've got you wrapped up tight for safety!",
-      "categories": ["travel"],
-      "tags": ["seat belt", "passenger", "wrapped", "safety", "wordplay", "car", "protection"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "seat belt",
+        "passenger",
+        "wrapped",
+        "safety",
+        "wordplay",
+        "car",
+        "protection"
+      ]
     },
     {
       "id": 1745,
       "setup": "Why did the travel blog get so many views?",
       "punchline": "Because it really knew how to take people places!",
-      "categories": ["travel", "technology"],
-      "tags": ["travel blog", "views", "places", "writing", "wordplay", "internet", "adventure"]
+      "categories": [
+        "travel",
+        "technology"
+      ],
+      "tags": [
+        "travel blog",
+        "views",
+        "places",
+        "writing",
+        "wordplay",
+        "internet",
+        "adventure"
+      ]
     },
     {
       "id": 1746,
       "setup": "What do you call a polar bear in Hawaii?",
       "punchline": "Very lost and very hot!",
-      "categories": ["travel", "animals"],
-      "tags": ["polar bear", "hawaii", "lost", "hot", "wordplay", "wrong place", "vacation"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "polar bear",
+        "hawaii",
+        "lost",
+        "hot",
+        "wordplay",
+        "wrong place",
+        "vacation"
+      ]
     },
     {
       "id": 1747,
       "setup": "Why did the airplane food taste so bad?",
       "punchline": "Because it was plane food!",
-      "categories": ["travel", "food"],
-      "tags": ["airplane", "food", "plane", "plain", "wordplay", "flying", "bland"]
+      "categories": [
+        "travel",
+        "food"
+      ],
+      "tags": [
+        "airplane",
+        "food",
+        "plane",
+        "plain",
+        "wordplay",
+        "flying",
+        "bland"
+      ]
     },
     {
       "id": 1748,
       "setup": "What did the speed bump say to the car?",
       "punchline": "Slow down, we need to talk!",
-      "categories": ["travel"],
-      "tags": ["speed bump", "car", "slow down", "talk", "wordplay", "driving", "road"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "speed bump",
+        "car",
+        "slow down",
+        "talk",
+        "wordplay",
+        "driving",
+        "road"
+      ]
     },
     {
       "id": 1749,
       "setup": "Why did the tourist take a photo of the stairs?",
       "punchline": "Because they were step-tacular!",
-      "categories": ["travel"],
-      "tags": ["tourist", "photo", "stairs", "spectacular", "wordplay", "sightseeing", "steps"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "tourist",
+        "photo",
+        "stairs",
+        "spectacular",
+        "wordplay",
+        "sightseeing",
+        "steps"
+      ]
     },
     {
       "id": 1750,
       "setup": "What do you call a boat that never sinks?",
       "punchline": "A friendship... because it stays afloat!",
-      "categories": ["travel"],
-      "tags": ["boat", "sinks", "friendship", "afloat", "wordplay", "relationship", "water"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "boat",
+        "sinks",
+        "friendship",
+        "afloat",
+        "wordplay",
+        "relationship",
+        "water"
+      ]
     },
     {
       "id": 1751,
       "setup": "Why did the bus driver quit?",
       "punchline": "Because passengers kept pushing his buttons!",
-      "categories": ["travel", "work"],
-      "tags": ["bus driver", "quit", "buttons", "passengers", "wordplay", "job", "annoyed"]
+      "categories": [
+        "travel",
+        "work"
+      ],
+      "tags": [
+        "bus driver",
+        "quit",
+        "buttons",
+        "passengers",
+        "wordplay",
+        "job",
+        "annoyed"
+      ]
     },
     {
       "id": 1752,
       "setup": "What did the postcard say to the stamp?",
       "punchline": "Stick with me and we'll go places!",
-      "categories": ["travel"],
-      "tags": ["postcard", "stamp", "stick", "places", "wordplay", "mail", "adventure"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "postcard",
+        "stamp",
+        "stick",
+        "places",
+        "wordplay",
+        "mail",
+        "adventure"
+      ]
     },
     {
       "id": 1753,
       "setup": "Why did the hotel give the ghost a room?",
       "punchline": "Because it was a boo-king!",
-      "categories": ["travel", "fantasy"],
-      "tags": ["hotel", "ghost", "room", "booking", "wordplay", "spooky", "reservation"]
+      "categories": [
+        "travel",
+        "fantasy"
+      ],
+      "tags": [
+        "hotel",
+        "ghost",
+        "room",
+        "booking",
+        "wordplay",
+        "spooky",
+        "reservation"
+      ]
     },
     {
       "id": 1754,
       "setup": "What do you call a camel on a road trip?",
       "punchline": "A hump-day driver!",
-      "categories": ["travel", "animals"],
-      "tags": ["camel", "road trip", "hump day", "driving", "wordplay", "desert", "wednesday"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "camel",
+        "road trip",
+        "hump day",
+        "driving",
+        "wordplay",
+        "desert",
+        "wednesday"
+      ]
     },
     {
       "id": 1755,
       "setup": "Why did the escalator win the race?",
       "punchline": "Because it was always one step ahead!",
-      "categories": ["travel"],
-      "tags": ["escalator", "race", "step ahead", "winning", "wordplay", "stairs", "moving"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "escalator",
+        "race",
+        "step ahead",
+        "winning",
+        "wordplay",
+        "stairs",
+        "moving"
+      ]
     },
     {
       "id": 1756,
       "setup": "What did the luggage tag say?",
       "punchline": "I'm just along for the ride!",
-      "categories": ["travel"],
-      "tags": ["luggage tag", "ride", "along", "baggage", "wordplay", "traveling", "attached"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "luggage tag",
+        "ride",
+        "along",
+        "baggage",
+        "wordplay",
+        "traveling",
+        "attached"
+      ]
     },
     {
       "id": 1757,
       "setup": "Why did the globe feel well-rounded?",
       "punchline": "Because it had seen every side of the world!",
-      "categories": ["travel", "geography"],
-      "tags": ["globe", "well-rounded", "world", "sides", "wordplay", "sphere", "education"]
+      "categories": [
+        "travel",
+        "geography"
+      ],
+      "tags": [
+        "globe",
+        "well-rounded",
+        "world",
+        "sides",
+        "wordplay",
+        "sphere",
+        "education"
+      ]
     },
     {
       "id": 1758,
-      "setup": "What do you call a nervous helicopter?",
-      "punchline": "A chopper that's losing its blades... I mean, cool!",
-      "categories": ["travel"],
-      "tags": ["helicopter", "nervous", "chopper", "blades", "wordplay", "flying", "anxiety"]
+      "setup": "Why did the helicopter break up with the airplane?",
+      "punchline": "The relationship wasn't taking off!",
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "helicopter",
+        "airplane",
+        "breakup",
+        "taking off",
+        "wordplay",
+        "flying",
+        "relationship"
+      ]
     },
     {
       "id": 1759,
       "setup": "Why did the souvenir shop feel memorable?",
       "punchline": "Because everyone took a piece of it home!",
-      "categories": ["travel"],
-      "tags": ["souvenir shop", "memorable", "piece", "home", "wordplay", "keepsake", "tourist"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "souvenir shop",
+        "memorable",
+        "piece",
+        "home",
+        "wordplay",
+        "keepsake",
+        "tourist"
+      ]
     },
     {
       "id": 1760,
       "setup": "What did the airport say during the busy season?",
       "punchline": "I'm totally plane crazy right now!",
-      "categories": ["travel"],
-      "tags": ["airport", "busy season", "plane crazy", "flying", "wordplay", "hectic", "travel"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "airport",
+        "busy season",
+        "plane crazy",
+        "flying",
+        "wordplay",
+        "hectic",
+        "travel"
+      ]
     },
     {
       "id": 1761,
       "setup": "Why did the tour guide feel appreciated?",
       "punchline": "Because everyone followed their lead!",
-      "categories": ["travel", "work"],
-      "tags": ["tour guide", "appreciated", "followed", "lead", "wordplay", "job", "guiding"]
+      "categories": [
+        "travel",
+        "work"
+      ],
+      "tags": [
+        "tour guide",
+        "appreciated",
+        "followed",
+        "lead",
+        "wordplay",
+        "job",
+        "guiding"
+      ]
     },
     {
       "id": 1762,
       "setup": "What do you call a sleepy train?",
       "punchline": "The Snooze Express!",
-      "categories": ["travel"],
-      "tags": ["train", "sleepy", "snooze", "express", "wordplay", "tired", "railroad"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "train",
+        "sleepy",
+        "snooze",
+        "express",
+        "wordplay",
+        "tired",
+        "railroad"
+      ]
     },
     {
       "id": 1763,
       "setup": "Why did the rental car feel used?",
       "punchline": "Because everyone was just passing through!",
-      "categories": ["travel"],
-      "tags": ["rental car", "used", "passing through", "temporary", "wordplay", "driving", "borrowed"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "rental car",
+        "used",
+        "passing through",
+        "temporary",
+        "wordplay",
+        "driving",
+        "borrowed"
+      ]
     },
     {
       "id": 1764,
       "setup": "What did the beach umbrella say to the tourist?",
       "punchline": "I've got you covered!",
-      "categories": ["travel", "outdoors"],
-      "tags": ["beach umbrella", "tourist", "covered", "shade", "wordplay", "vacation", "protection"]
+      "categories": [
+        "travel",
+        "outdoors"
+      ],
+      "tags": [
+        "beach umbrella",
+        "tourist",
+        "covered",
+        "shade",
+        "wordplay",
+        "vacation",
+        "protection"
+      ]
     },
     {
       "id": 1765,
       "setup": "Why did the subway feel underground?",
       "punchline": "Because nobody recognized its talents above ground!",
-      "categories": ["travel"],
-      "tags": ["subway", "underground", "talents", "recognized", "wordplay", "metro", "hidden"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "subway",
+        "underground",
+        "talents",
+        "recognized",
+        "wordplay",
+        "metro",
+        "hidden"
+      ]
     },
     {
       "id": 1766,
       "setup": "What do you call a wolf that travels?",
       "punchline": "A roam-ing predator!",
-      "categories": ["travel", "animals"],
-      "tags": ["wolf", "travels", "roaming", "predator", "wordplay", "wildlife", "wandering"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "wolf",
+        "travels",
+        "roaming",
+        "predator",
+        "wordplay",
+        "wildlife",
+        "wandering"
+      ]
     },
     {
       "id": 1767,
       "setup": "Why did the parachute feel let down?",
       "punchline": "Because it was always being dropped!",
-      "categories": ["travel"],
-      "tags": ["parachute", "let down", "dropped", "skydiving", "wordplay", "falling", "disappointed"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "parachute",
+        "let down",
+        "dropped",
+        "skydiving",
+        "wordplay",
+        "falling",
+        "disappointed"
+      ]
     },
     {
       "id": 1768,
       "setup": "What did the overnight bag say to the suitcase?",
       "punchline": "You're so much more packed than me!",
-      "categories": ["travel"],
-      "tags": ["overnight bag", "suitcase", "packed", "luggage", "wordplay", "busy", "traveling"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "overnight bag",
+        "suitcase",
+        "packed",
+        "luggage",
+        "wordplay",
+        "busy",
+        "traveling"
+      ]
     },
     {
       "id": 1769,
       "setup": "Why did the stoplight go on vacation?",
       "punchline": "Because it needed to change its routine!",
-      "categories": ["travel"],
-      "tags": ["stoplight", "vacation", "change", "routine", "wordplay", "traffic", "break"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "stoplight",
+        "vacation",
+        "change",
+        "routine",
+        "wordplay",
+        "traffic",
+        "break"
+      ]
     },
     {
       "id": 1770,
       "setup": "What do you call a traveling electrician?",
       "punchline": "A current tourist!",
-      "categories": ["travel", "work"],
-      "tags": ["electrician", "traveling", "current", "tourist", "wordplay", "electricity", "job"]
+      "categories": [
+        "travel",
+        "work"
+      ],
+      "tags": [
+        "electrician",
+        "traveling",
+        "current",
+        "tourist",
+        "wordplay",
+        "electricity",
+        "job"
+      ]
     },
     {
       "id": 1771,
       "setup": "Why did the hot air balloon feel uplifted?",
       "punchline": "Because it was full of hot air... and optimism!",
-      "categories": ["travel"],
-      "tags": ["hot air balloon", "uplifted", "hot air", "optimism", "wordplay", "flying", "positive"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "hot air balloon",
+        "uplifted",
+        "hot air",
+        "optimism",
+        "wordplay",
+        "flying",
+        "positive"
+      ]
     },
     {
       "id": 1772,
       "setup": "What did the windshield say to the bug?",
       "punchline": "I bet you don't have the guts to do that again!",
-      "categories": ["travel", "animals"],
-      "tags": ["windshield", "bug", "guts", "splat", "wordplay", "driving", "insect"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "windshield",
+        "bug",
+        "guts",
+        "splat",
+        "wordplay",
+        "driving",
+        "insect"
+      ]
     },
     {
       "id": 1773,
       "setup": "Why did the itinerary feel planned?",
       "punchline": "Because every moment was scheduled!",
-      "categories": ["travel"],
-      "tags": ["itinerary", "planned", "scheduled", "moments", "wordplay", "organization", "trip"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "itinerary",
+        "planned",
+        "scheduled",
+        "moments",
+        "wordplay",
+        "organization",
+        "trip"
+      ]
     },
     {
       "id": 1774,
       "setup": "What do you call a sheep on a plane?",
       "punchline": "A frequent flyer!",
-      "categories": ["travel", "animals"],
-      "tags": ["sheep", "plane", "frequent flyer", "fleece", "wordplay", "flying", "wool"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "sheep",
+        "plane",
+        "frequent flyer",
+        "fleece",
+        "wordplay",
+        "flying",
+        "wool"
+      ]
     },
     {
       "id": 1775,
       "setup": "Why did the vacation photo look so relaxed?",
       "punchline": "Because it was taken in the moment!",
-      "categories": ["travel"],
-      "tags": ["vacation", "photo", "relaxed", "moment", "wordplay", "picture", "memories"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "vacation",
+        "photo",
+        "relaxed",
+        "moment",
+        "wordplay",
+        "picture",
+        "memories"
+      ]
     },
     {
       "id": 1776,
       "setup": "What did the convertible say on a sunny day?",
       "punchline": "I'm feeling topless and free!",
-      "categories": ["travel"],
-      "tags": ["convertible", "sunny", "topless", "free", "wordplay", "car", "driving"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "convertible",
+        "sunny",
+        "topless",
+        "free",
+        "wordplay",
+        "car",
+        "driving"
+      ]
     },
     {
       "id": 1777,
       "setup": "Why did the hitchhiker feel grateful?",
       "punchline": "Because someone finally picked them up!",
-      "categories": ["travel"],
-      "tags": ["hitchhiker", "grateful", "picked up", "ride", "wordplay", "thankful", "road"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "hitchhiker",
+        "grateful",
+        "picked up",
+        "ride",
+        "wordplay",
+        "thankful",
+        "road"
+      ]
     },
     {
       "id": 1778,
       "setup": "What do you call a crab that won't share the beach?",
       "punchline": "Shellfish!",
-      "categories": ["travel", "animals"],
-      "tags": ["crab", "share", "beach", "shellfish", "selfish", "wordplay", "ocean"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "crab",
+        "share",
+        "beach",
+        "shellfish",
+        "selfish",
+        "wordplay",
+        "ocean"
+      ]
     },
     {
       "id": 1779,
       "setup": "Why did the camping trip feel intense?",
       "punchline": "Because it was in tents!",
-      "categories": ["travel", "outdoors"],
-      "tags": ["camping", "intense", "tents", "outdoors", "wordplay", "vacation", "nature"]
+      "categories": [
+        "travel",
+        "outdoors"
+      ],
+      "tags": [
+        "camping",
+        "intense",
+        "tents",
+        "outdoors",
+        "wordplay",
+        "vacation",
+        "nature"
+      ]
     },
     {
       "id": 1780,
       "setup": "What did the jet engine say to the pilot?",
       "punchline": "I'm really revved up for this flight!",
-      "categories": ["travel"],
-      "tags": ["jet engine", "pilot", "revved up", "flight", "wordplay", "airplane", "excited"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "jet engine",
+        "pilot",
+        "revved up",
+        "flight",
+        "wordplay",
+        "airplane",
+        "excited"
+      ]
     },
     {
       "id": 1781,
       "setup": "Why did the roadside motel feel cheap?",
       "punchline": "Because it was just a stop along the way!",
-      "categories": ["travel"],
-      "tags": ["motel", "cheap", "stop", "roadside", "wordplay", "budget", "temporary"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "motel",
+        "cheap",
+        "stop",
+        "roadside",
+        "wordplay",
+        "budget",
+        "temporary"
+      ]
     },
     {
       "id": 1782,
       "setup": "What do you call a traveling cow?",
       "punchline": "A moo-ver and shaker!",
-      "categories": ["travel", "animals"],
-      "tags": ["cow", "traveling", "mover and shaker", "moo", "wordplay", "farm", "important"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "cow",
+        "traveling",
+        "mover and shaker",
+        "moo",
+        "wordplay",
+        "farm",
+        "important"
+      ]
     },
     {
       "id": 1783,
       "setup": "Why did the yacht feel superior?",
       "punchline": "Because it was in a different class!",
-      "categories": ["travel"],
-      "tags": ["yacht", "superior", "class", "boat", "wordplay", "wealthy", "sailing"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "yacht",
+        "superior",
+        "class",
+        "boat",
+        "wordplay",
+        "wealthy",
+        "sailing"
+      ]
     },
     {
       "id": 1784,
-      "setup": "What did the departure gate say to the passengers?",
-      "punchline": "It's time to get this show on the road... I mean, runway!",
-      "categories": ["travel"],
-      "tags": ["departure gate", "passengers", "runway", "airport", "wordplay", "flying", "leaving"]
+      "setup": "What did the passport say to the customs officer?",
+      "punchline": "I'm just here for a stamp of approval!",
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "passport",
+        "customs",
+        "stamp",
+        "approval",
+        "wordplay",
+        "airport",
+        "travel"
+      ]
     },
     {
       "id": 1785,
       "setup": "Why did the beach ball go on vacation?",
       "punchline": "Because it was on a roll!",
-      "categories": ["travel", "sports"],
-      "tags": ["beach ball", "vacation", "roll", "beach", "wordplay", "playing", "fun"]
+      "categories": [
+        "travel",
+        "sports"
+      ],
+      "tags": [
+        "beach ball",
+        "vacation",
+        "roll",
+        "beach",
+        "wordplay",
+        "playing",
+        "fun"
+      ]
     },
     {
       "id": 1786,
       "setup": "What do you call a traveling spider?",
       "punchline": "A globe trotter with eight legs!",
-      "categories": ["travel", "animals"],
-      "tags": ["spider", "traveling", "globe trotter", "eight legs", "wordplay", "web", "adventure"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "spider",
+        "traveling",
+        "globe trotter",
+        "eight legs",
+        "wordplay",
+        "web",
+        "adventure"
+      ]
     },
     {
       "id": 1787,
       "setup": "Why did the taxi meter feel stressed?",
       "punchline": "Because it was always running!",
-      "categories": ["travel"],
-      "tags": ["taxi meter", "stressed", "running", "fare", "wordplay", "cab", "counting"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "taxi meter",
+        "stressed",
+        "running",
+        "fare",
+        "wordplay",
+        "cab",
+        "counting"
+      ]
     },
     {
       "id": 1788,
       "setup": "What did the mountain say to the hiker?",
       "punchline": "You really peaked my interest!",
-      "categories": ["travel", "outdoors"],
-      "tags": ["mountain", "hiker", "peaked", "interest", "wordplay", "climbing", "nature"]
+      "categories": [
+        "travel",
+        "outdoors"
+      ],
+      "tags": [
+        "mountain",
+        "hiker",
+        "peaked",
+        "interest",
+        "wordplay",
+        "climbing",
+        "nature"
+      ]
     },
     {
       "id": 1789,
       "setup": "Why did the airplane seat feel cramped?",
       "punchline": "Because there was no room to stretch the truth!",
-      "categories": ["travel"],
-      "tags": ["airplane seat", "cramped", "stretch", "truth", "wordplay", "flying", "tight"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "airplane seat",
+        "cramped",
+        "stretch",
+        "truth",
+        "wordplay",
+        "flying",
+        "tight"
+      ]
     },
     {
       "id": 1790,
       "setup": "What do you call a duck at the airport?",
       "punchline": "A quack traveler!",
-      "categories": ["travel", "animals"],
-      "tags": ["duck", "airport", "quack", "traveler", "wordplay", "bird", "flying"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "duck",
+        "airport",
+        "quack",
+        "traveler",
+        "wordplay",
+        "bird",
+        "flying"
+      ]
     },
     {
       "id": 1791,
       "setup": "Why did the suitcase wheel feel tired?",
       "punchline": "Because it was always being dragged around!",
-      "categories": ["travel"],
-      "tags": ["suitcase wheel", "tired", "dragged", "luggage", "wordplay", "rolling", "exhausted"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "suitcase wheel",
+        "tired",
+        "dragged",
+        "luggage",
+        "wordplay",
+        "rolling",
+        "exhausted"
+      ]
     },
     {
       "id": 1792,
       "setup": "What did the travel pillow say to the neck?",
       "punchline": "I've got your back... well, your neck!",
-      "categories": ["travel"],
-      "tags": ["travel pillow", "neck", "support", "comfort", "wordplay", "sleeping", "airplane"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "travel pillow",
+        "neck",
+        "support",
+        "comfort",
+        "wordplay",
+        "sleeping",
+        "airplane"
+      ]
     },
     {
       "id": 1793,
       "setup": "Why did the scooter feel overlooked?",
       "punchline": "Because everyone wanted the bigger ride!",
-      "categories": ["travel"],
-      "tags": ["scooter", "overlooked", "bigger", "ride", "wordplay", "transportation", "small"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "scooter",
+        "overlooked",
+        "bigger",
+        "ride",
+        "wordplay",
+        "transportation",
+        "small"
+      ]
     },
     {
       "id": 1794,
       "setup": "What do you call a traveling skeleton?",
       "punchline": "A bone-afide tourist!",
-      "categories": ["travel", "fantasy"],
-      "tags": ["skeleton", "traveling", "bonafide", "tourist", "wordplay", "bones", "adventure"]
+      "categories": [
+        "travel",
+        "fantasy"
+      ],
+      "tags": [
+        "skeleton",
+        "traveling",
+        "bonafide",
+        "tourist",
+        "wordplay",
+        "bones",
+        "adventure"
+      ]
     },
     {
       "id": 1795,
       "setup": "Why did the traffic jam feel stuck?",
       "punchline": "Because nobody was moving forward!",
-      "categories": ["travel"],
-      "tags": ["traffic jam", "stuck", "moving", "forward", "wordplay", "driving", "congestion"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "traffic jam",
+        "stuck",
+        "moving",
+        "forward",
+        "wordplay",
+        "driving",
+        "congestion"
+      ]
     },
     {
       "id": 1796,
       "setup": "What did the compass say to the lost traveler?",
       "punchline": "Don't worry, I'll point you in the right direction!",
-      "categories": ["travel"],
-      "tags": ["compass", "lost", "traveler", "direction", "wordplay", "navigation", "help"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "compass",
+        "lost",
+        "traveler",
+        "direction",
+        "wordplay",
+        "navigation",
+        "help"
+      ]
     },
     {
       "id": 1797,
       "setup": "Why did the duty-free shop feel tax-free?",
       "punchline": "Because it was above the rules!",
-      "categories": ["travel"],
-      "tags": ["duty-free", "shop", "tax-free", "rules", "wordplay", "airport", "shopping"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "duty-free",
+        "shop",
+        "tax-free",
+        "rules",
+        "wordplay",
+        "airport",
+        "shopping"
+      ]
     },
     {
       "id": 1798,
       "setup": "What do you call an elephant on a plane?",
       "punchline": "A jumbo jet passenger!",
-      "categories": ["travel", "animals"],
-      "tags": ["elephant", "plane", "jumbo jet", "passenger", "wordplay", "big", "flying"]
+      "categories": [
+        "travel",
+        "animals"
+      ],
+      "tags": [
+        "elephant",
+        "plane",
+        "jumbo jet",
+        "passenger",
+        "wordplay",
+        "big",
+        "flying"
+      ]
     },
     {
       "id": 1799,
       "setup": "Why did the departure board feel important?",
       "punchline": "Because everyone was always looking up to it!",
-      "categories": ["travel"],
-      "tags": ["departure board", "important", "looking up", "airport", "wordplay", "information", "flights"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "departure board",
+        "important",
+        "looking up",
+        "airport",
+        "wordplay",
+        "information",
+        "flights"
+      ]
     },
     {
       "id": 1800,
       "setup": "What did the traveler say after the amazing trip?",
       "punchline": "That was truly destination-worthy!",
-      "categories": ["travel"],
-      "tags": ["traveler", "amazing trip", "destination", "worthy", "wordplay", "vacation", "memorable"]
+      "categories": [
+        "travel"
+      ],
+      "tags": [
+        "traveler",
+        "amazing trip",
+        "destination",
+        "worthy",
+        "wordplay",
+        "vacation",
+        "memorable"
+      ]
     },
     {
       "id": 1801,
