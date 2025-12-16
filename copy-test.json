@@ -2,704 +2,704 @@
   "jokes": [
     {
       "id": 1,
-      "setup": "Why don't cats play poker in the jungle?",
-      "punchline": "Too many cheetahs!",
-      "categories": ["animals"],
-      "tags": ["cats", "jungle", "games", "cheating", "wordplay", "cards", "wildlife"]
-    },
-    {
-      "id": 2,
-      "setup": "What do you call a fish without eyes?",
-      "punchline": "A fsh!",
-      "categories": ["animals"],
-      "tags": ["fish", "ocean", "spelling", "wordplay", "classic", "sea", "marine"]
-    },
-    {
-      "id": 3,
-      "setup": "What do you call a sleeping dinosaur?",
-      "punchline": "A dino-snore!",
-      "categories": ["animals"],
-      "tags": ["dinosaurs", "sleeping", "snoring", "wordplay", "kids", "prehistoric", "bedtime"]
-    },
-    {
-      "id": 4,
-      "setup": "What do you call an obnoxious reindeer?",
-      "punchline": "Rude-olph!",
-      "categories": ["animals", "holidays"],
-      "tags": ["christmas", "reindeer", "rudolph", "rude", "winter", "santa", "wordplay"]
-    },
-    {
-      "id": 5,
-      "setup": "What do you call two spiders who just got married?",
-      "punchline": "Newlywebs!",
-      "categories": ["animals", "wedding"],
-      "tags": ["spiders", "newlyweds", "webs", "marriage", "wordplay", "insects", "love"]
-    },
-    {
-      "id": 6,
-      "setup": "What do you call a bear with no teeth?",
-      "punchline": "A gummy bear!",
-      "categories": ["animals"],
-      "tags": ["bears", "teeth", "candy", "wordplay", "classic", "wildlife", "dentist"]
-    },
-    {
-      "id": 7,
-      "setup": "Why do cows wear bells?",
-      "punchline": "Because their horns don't work!",
-      "categories": ["animals"],
-      "tags": ["cows", "farm", "bells", "horns", "wordplay", "classic", "livestock"]
-    },
-    {
-      "id": 8,
-      "setup": "What do you call a dinosaur that crashes their car?",
-      "punchline": "Tyrannosaurus Wrecks!",
-      "categories": ["animals"],
-      "tags": ["dinosaurs", "cars", "accidents", "t-rex", "wordplay", "prehistoric", "driving"]
-    },
-    {
-      "id": 9,
-      "setup": "Why don't elephants use computers?",
-      "punchline": "Because they're afraid of the mouse!",
-      "categories": ["animals", "technology"],
-      "tags": ["elephants", "computers", "mouse", "scared", "wordplay", "wildlife", "tech"]
-    },
-    {
-      "id": 10,
-      "setup": "What do you call a lazy kangaroo?",
-      "punchline": "A pouch potato!",
-      "categories": ["animals"],
-      "tags": ["kangaroo", "lazy", "couch potato", "australia", "wordplay", "marsupial", "tv"]
-    },
-    {
-      "id": 11,
-      "setup": "Why did the chicken go to the séance?",
-      "punchline": "To get to the other side!",
-      "categories": ["animals"],
-      "tags": ["chicken", "crossing road", "classic", "wordplay", "twist", "supernatural", "ghosts"]
-    },
-    {
-      "id": 12,
-      "setup": "What do you call a pig that does karate?",
-      "punchline": "A pork chop!",
-      "categories": ["animals", "sports"],
-      "tags": ["pig", "karate", "martial arts", "food", "wordplay", "farm", "fighting"]
-    },
-    {
-      "id": 13,
-      "setup": "Why are frogs so happy?",
-      "punchline": "They eat whatever bugs them!",
-      "categories": ["animals"],
-      "tags": ["frogs", "bugs", "happy", "eating", "wordplay", "amphibians", "insects"]
-    },
-    {
-      "id": 14,
-      "setup": "What do you call a cow with no legs?",
-      "punchline": "Ground beef!",
-      "categories": ["animals", "food"],
-      "tags": ["cow", "beef", "legs", "wordplay", "classic", "farm", "meat"]
-    },
-    {
-      "id": 15,
-      "setup": "Why did the duck go to rehab?",
-      "punchline": "Because he was a quack addict!",
-      "categories": ["animals"],
-      "tags": ["duck", "quack", "rehab", "wordplay", "birds", "addiction", "water"]
-    },
-    {
-      "id": 16,
-      "setup": "What do you call a fish that wears a bowtie?",
-      "punchline": "So-fish-ticated!",
-      "categories": ["animals"],
-      "tags": ["fish", "fancy", "fashion", "bowtie", "wordplay", "ocean", "sophisticated"]
-    },
-    {
-      "id": 17,
-      "setup": "Why don't oysters share?",
-      "punchline": "Because they're shellfish!",
-      "categories": ["animals"],
-      "tags": ["oysters", "selfish", "sharing", "shellfish", "wordplay", "ocean", "seafood"]
-    },
-    {
-      "id": 18,
-      "setup": "What do you call a dog magician?",
-      "punchline": "A Labracadabrador!",
-      "categories": ["animals"],
-      "tags": ["dog", "magic", "labrador", "abracadabra", "wordplay", "pets", "tricks"]
-    },
-    {
-      "id": 19,
-      "setup": "Why do bees have sticky hair?",
-      "punchline": "Because they use honeycombs!",
-      "categories": ["animals"],
-      "tags": ["bees", "honey", "hair", "combs", "wordplay", "insects", "grooming"]
-    },
-    {
-      "id": 20,
-      "setup": "What do you call a deer with no eyes?",
-      "punchline": "No eye-deer!",
-      "categories": ["animals"],
-      "tags": ["deer", "eyes", "no idea", "wordplay", "classic", "wildlife", "hunting"]
-    },
-    {
-      "id": 21,
-      "setup": "Why did the spider go to the computer?",
-      "punchline": "To check his website!",
-      "categories": ["animals", "technology"],
-      "tags": ["spider", "computer", "website", "web", "wordplay", "internet", "insects"]
-    },
-    {
-      "id": 22,
-      "setup": "What do you call a dinosaur that knows a lot of words?",
-      "punchline": "A thesaurus!",
-      "categories": ["animals", "school"],
-      "tags": ["dinosaur", "thesaurus", "words", "vocabulary", "wordplay", "prehistoric", "books"]
-    },
-    {
-      "id": 23,
-      "setup": "Why did the cow cross the road?",
-      "punchline": "To get to the udder side!",
-      "categories": ["animals"],
-      "tags": ["cow", "crossing road", "udder", "other", "wordplay", "classic", "farm"]
-    },
-    {
-      "id": 24,
-      "setup": "What do you call a cat that gets anything it wants?",
-      "punchline": "Purrr-suasive!",
-      "categories": ["animals"],
-      "tags": ["cat", "purr", "persuasive", "wordplay", "pets", "spoiled", "convincing"]
-    },
-    {
-      "id": 25,
-      "setup": "Why don't seagulls fly over the bay?",
-      "punchline": "Because then they'd be bagels!",
-      "categories": ["animals", "food"],
-      "tags": ["seagulls", "bay", "bagels", "birds", "wordplay", "ocean", "beach"]
-    },
-    {
-      "id": 26,
-      "setup": "What do you call a snake that's exactly 3.14 meters long?",
-      "punchline": "A pi-thon!",
-      "categories": ["animals", "math"],
-      "tags": ["snake", "python", "pi", "math", "wordplay", "reptiles", "numbers"]
-    },
-    {
-      "id": 27,
-      "setup": "Why do gorillas have big nostrils?",
-      "punchline": "Because they have big fingers!",
-      "categories": ["animals"],
-      "tags": ["gorillas", "nose", "fingers", "picking", "wordplay", "apes", "gross"]
-    },
-    {
-      "id": 28,
-      "setup": "What do you call a sleeping bull?",
-      "punchline": "A bulldozer!",
-      "categories": ["animals"],
-      "tags": ["bull", "sleeping", "bulldozer", "construction", "wordplay", "farm", "napping"]
-    },
-    {
-      "id": 29,
-      "setup": "Why did the turtle cross the road?",
-      "punchline": "To get to the Shell station!",
-      "categories": ["animals"],
-      "tags": ["turtle", "shell", "gas station", "crossing road", "wordplay", "reptiles", "driving"]
-    },
-    {
-      "id": 30,
-      "setup": "What do you call an alligator in a vest?",
-      "punchline": "An investigator!",
-      "categories": ["animals"],
-      "tags": ["alligator", "vest", "investigator", "detective", "wordplay", "reptiles", "fashion"]
-    },
-    {
-      "id": 31,
-      "setup": "Why do hummingbirds hum?",
-      "punchline": "Because they don't know the words!",
-      "categories": ["animals", "music"],
-      "tags": ["hummingbirds", "humming", "singing", "words", "birds", "music", "wordplay"]
-    },
-    {
-      "id": 32,
-      "setup": "What do you call a fish that practices medicine?",
-      "punchline": "A sturgeon!",
-      "categories": ["animals"],
-      "tags": ["fish", "surgeon", "doctor", "medicine", "wordplay", "ocean", "hospital"]
-    },
-    {
-      "id": 33,
-      "setup": "Why did the horse go behind the tree?",
-      "punchline": "To change his jockeys!",
-      "categories": ["animals", "sports"],
-      "tags": ["horse", "jockeys", "underwear", "changing", "wordplay", "racing", "privacy"]
-    },
-    {
-      "id": 34,
-      "setup": "What do you call a monkey at the North Pole?",
-      "punchline": "Lost!",
-      "categories": ["animals", "geography"],
-      "tags": ["monkey", "north pole", "lost", "cold", "arctic", "apes", "directions"]
-    },
-    {
-      "id": 35,
-      "setup": "Why did the octopus beat the shark in a fight?",
-      "punchline": "Because it was well-armed!",
-      "categories": ["animals"],
-      "tags": ["octopus", "shark", "arms", "fighting", "wordplay", "ocean", "tentacles"]
-    },
-    {
-      "id": 36,
-      "setup": "What do you call a bird that's afraid to fly?",
-      "punchline": "Chicken!",
-      "categories": ["animals"],
-      "tags": ["bird", "chicken", "scared", "flying", "coward", "wordplay", "poultry"]
-    },
-    {
-      "id": 37,
-      "setup": "Why do pandas like old movies?",
-      "punchline": "Because they're in black and white!",
-      "categories": ["animals"],
-      "tags": ["pandas", "movies", "black and white", "classic films", "wordplay", "bears", "china"]
-    },
-    {
-      "id": 38,
-      "setup": "What do you call a cow that plays an instrument?",
-      "punchline": "A moo-sician!",
-      "categories": ["animals", "music"],
-      "tags": ["cow", "music", "musician", "moo", "wordplay", "farm", "instruments"]
-    },
-    {
-      "id": 39,
-      "setup": "Why did the lion eat the tightrope walker?",
-      "punchline": "He wanted a well-balanced meal!",
-      "categories": ["animals"],
-      "tags": ["lion", "circus", "balance", "eating", "wordplay", "tightrope", "meal"]
-    },
-    {
-      "id": 40,
-      "setup": "What do you call a penguin in the desert?",
-      "punchline": "Lost!",
-      "categories": ["animals", "geography"],
-      "tags": ["penguin", "desert", "lost", "hot", "cold", "birds", "directions"]
-    },
-    {
-      "id": 41,
-      "setup": "Why don't dogs make good dancers?",
-      "punchline": "Because they have two left feet!",
-      "categories": ["animals"],
-      "tags": ["dogs", "dancing", "feet", "clumsy", "wordplay", "pets", "paws"]
-    },
-    {
-      "id": 42,
-      "setup": "What do you call a group of disorganized cats?",
-      "punchline": "A cat-astrophe!",
-      "categories": ["animals"],
-      "tags": ["cats", "catastrophe", "disorganized", "group", "wordplay", "pets", "disaster"]
-    },
-    {
-      "id": 43,
-      "setup": "Why did the dinosaur refuse to wear deodorant?",
-      "punchline": "Because he didn't want to be ex-stinct!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "extinct", "stink", "deodorant", "wordplay", "prehistoric", "smelly"]
-    },
-    {
-      "id": 44,
-      "setup": "What do you call a sheep with no legs?",
-      "punchline": "A cloud!",
-      "categories": ["animals"],
-      "tags": ["sheep", "cloud", "legs", "fluffy", "wool", "farm", "sky"]
-    },
-    {
-      "id": 45,
-      "setup": "Why do birds fly south for the winter?",
-      "punchline": "Because it's too far to walk!",
-      "categories": ["animals", "travel"],
-      "tags": ["birds", "flying", "winter", "south", "walking", "migration", "seasons"]
-    },
-    {
-      "id": 46,
-      "setup": "What do you call a rabbit with fleas?",
-      "punchline": "Bugs Bunny!",
-      "categories": ["animals"],
-      "tags": ["rabbit", "fleas", "bugs bunny", "cartoon", "wordplay", "pets", "insects"]
-    },
-    {
-      "id": 47,
-      "setup": "Why did the cat sit on the computer?",
-      "punchline": "To keep an eye on the mouse!",
-      "categories": ["animals", "technology"],
-      "tags": ["cat", "computer", "mouse", "watching", "wordplay", "pets", "tech"]
-    },
-    {
-      "id": 48,
-      "setup": "What do you call a dinosaur with an extensive vocabulary?",
-      "punchline": "A Thesaurus Rex!",
-      "categories": ["animals", "school"],
-      "tags": ["dinosaur", "t-rex", "thesaurus", "vocabulary", "wordplay", "prehistoric", "words"]
-    },
-    {
-      "id": 49,
-      "setup": "Why do elephants never forget?",
-      "punchline": "Because nobody ever tells them anything!",
-      "categories": ["animals"],
-      "tags": ["elephants", "memory", "forget", "telling", "wordplay", "wildlife", "smart"]
-    },
-    {
-      "id": 50,
-      "setup": "What do you call a camel with no humps?",
-      "punchline": "Humphrey!",
-      "categories": ["animals"],
-      "tags": ["camel", "humps", "humphrey", "name", "wordplay", "desert", "middle east"]
-    },
-    {
-      "id": 51,
-      "setup": "Why did the pony get sent to his room?",
-      "punchline": "He wouldn't stop horsing around!",
-      "categories": ["animals", "family"],
-      "tags": ["pony", "horse", "horsing around", "trouble", "wordplay", "kids", "punishment"]
-    },
-    {
-      "id": 52,
-      "setup": "What do you call a parrot that flew away?",
-      "punchline": "A polygon!",
-      "categories": ["animals", "math"],
-      "tags": ["parrot", "polygon", "polly gone", "flying", "wordplay", "birds", "shapes"]
-    },
-    {
-      "id": 53,
-      "setup": "Why are fish so smart?",
-      "punchline": "Because they live in schools!",
-      "categories": ["animals", "school"],
-      "tags": ["fish", "smart", "schools", "ocean", "wordplay", "education", "marine"]
-    },
-    {
-      "id": 54,
-      "setup": "What do you call a cow on a trampoline?",
-      "punchline": "A milkshake!",
-      "categories": ["animals", "food"],
-      "tags": ["cow", "trampoline", "milkshake", "bouncing", "wordplay", "dairy", "drinks"]
-    },
-    {
-      "id": 55,
-      "setup": "Why did the snake lose his court case?",
-      "punchline": "He didn't have a leg to stand on!",
-      "categories": ["animals"],
-      "tags": ["snake", "court", "legs", "lawyer", "wordplay", "reptiles", "legal"]
-    },
-    {
-      "id": 56,
-      "setup": "What do you call a pig that knows karate?",
-      "punchline": "Pork chop!",
-      "categories": ["animals", "sports"],
-      "tags": ["pig", "karate", "pork chop", "martial arts", "wordplay", "farm", "food"]
-    },
-    {
-      "id": 57,
-      "setup": "Why did the chicken join a band?",
-      "punchline": "Because he had the drumsticks!",
-      "categories": ["animals", "music"],
-      "tags": ["chicken", "band", "drumsticks", "drums", "wordplay", "poultry", "music"]
-    },
-    {
-      "id": 58,
-      "setup": "What do you call a crocodile that likes to bowl?",
-      "punchline": "An alley-gator!",
-      "categories": ["animals", "sports"],
-      "tags": ["crocodile", "alligator", "bowling", "alley", "wordplay", "reptiles", "games"]
-    },
-    {
-      "id": 59,
-      "setup": "Why do cows have hooves instead of feet?",
-      "punchline": "Because they lactose!",
-      "categories": ["animals"],
-      "tags": ["cows", "hooves", "feet", "lactose", "lack toes", "wordplay", "dairy"]
-    },
-    {
-      "id": 60,
-      "setup": "What do you call a dog that meditates?",
-      "punchline": "Aware wolf!",
-      "categories": ["animals"],
-      "tags": ["dog", "wolf", "meditation", "aware", "werewolf", "wordplay", "zen"]
-    },
-    {
-      "id": 61,
-      "setup": "Why did the pelican get kicked out of the restaurant?",
-      "punchline": "Because he had a very big bill!",
-      "categories": ["animals", "food"],
-      "tags": ["pelican", "restaurant", "bill", "money", "wordplay", "birds", "beak"]
-    },
-    {
-      "id": 62,
-      "setup": "What do you call a snake that's exactly one meter long?",
-      "punchline": "A meter snake!",
-      "categories": ["animals", "science"],
-      "tags": ["snake", "meter", "measuring", "reptiles", "wordplay", "metric", "length"]
-    },
-    {
-      "id": 63,
-      "setup": "Why did the butterfly refuse to go to the dance?",
-      "punchline": "Because it was a moth ball!",
-      "categories": ["animals"],
-      "tags": ["butterfly", "moth", "dance", "mothball", "wordplay", "insects", "party"]
-    },
-    {
-      "id": 64,
-      "setup": "What do you call a baby monkey?",
-      "punchline": "A chimp off the old block!",
-      "categories": ["animals", "family"],
-      "tags": ["monkey", "baby", "chimp", "chip", "wordplay", "apes", "family"]
-    },
-    {
-      "id": 65,
-      "setup": "Why don't crabs give to charity?",
-      "punchline": "Because they're shellfish!",
-      "categories": ["animals"],
-      "tags": ["crabs", "charity", "shellfish", "selfish", "wordplay", "ocean", "seafood"]
-    },
-    {
-      "id": 66,
-      "setup": "What do you call a dinosaur who's a noisy sleeper?",
-      "punchline": "A Brontosnorus!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "brontosaurus", "sleeping", "snoring", "wordplay", "prehistoric", "bedtime"]
-    },
-    {
-      "id": 67,
-      "setup": "Why did the rooster go to KFC?",
-      "punchline": "He wanted to see a chicken strip!",
-      "categories": ["animals", "food"],
-      "tags": ["rooster", "chicken", "KFC", "strip", "wordplay", "fast food", "poultry"]
-    },
-    {
-      "id": 68,
-      "setup": "What do you call a bee that lives in America?",
-      "punchline": "A USB!",
-      "categories": ["animals", "technology"],
-      "tags": ["bee", "USB", "america", "US", "wordplay", "insects", "tech"]
-    },
-    {
-      "id": 69,
-      "setup": "Why did the ant fall off the sugar bowl?",
-      "punchline": "Because he was a little too sweet on himself!",
-      "categories": ["animals", "food"],
-      "tags": ["ant", "sugar", "sweet", "falling", "wordplay", "insects", "kitchen"]
-    },
-    {
-      "id": 70,
-      "setup": "What do you call a squirrel in a church?",
-      "punchline": "A pray-rie dog!",
-      "categories": ["animals"],
-      "tags": ["squirrel", "prairie dog", "church", "praying", "wordplay", "religion", "rodents"]
-    },
-    {
-      "id": 71,
-      "setup": "Why do dolphins live in salt water?",
-      "punchline": "Because pepper makes them sneeze!",
-      "categories": ["animals", "food"],
-      "tags": ["dolphins", "salt", "pepper", "sneezing", "ocean", "marine", "wordplay"]
-    },
-    {
-      "id": 72,
-      "setup": "What do you call a chicken looking at a salad?",
-      "punchline": "Chicken sees a salad!",
-      "categories": ["animals", "food"],
-      "tags": ["chicken", "salad", "caesar", "looking", "wordplay", "poultry", "restaurant"]
-    },
-    {
-      "id": 73,
-      "setup": "Why did the sheep say 'moo'?",
-      "punchline": "It was learning a foreign language!",
-      "categories": ["animals", "school"],
-      "tags": ["sheep", "cow", "moo", "language", "learning", "farm", "wordplay"]
-    },
-    {
-      "id": 74,
-      "setup": "What do you call an exploding monkey?",
-      "punchline": "A baboom!",
-      "categories": ["animals"],
-      "tags": ["monkey", "baboon", "explosion", "boom", "wordplay", "apes", "loud"]
-    },
-    {
-      "id": 75,
-      "setup": "Why did the shark spit out the clown?",
-      "punchline": "Because he tasted funny!",
-      "categories": ["animals"],
-      "tags": ["shark", "clown", "funny", "taste", "wordplay", "ocean", "circus"]
-    },
-    {
-      "id": 76,
-      "setup": "What do you call a dinosaur that never gives up?",
-      "punchline": "A Try-Try-Triceratops!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "triceratops", "trying", "determination", "wordplay", "prehistoric", "motivation"]
-    },
-    {
-      "id": 77,
-      "setup": "Why don't bears wear shoes?",
-      "punchline": "What's the point? They'd still have bear feet!",
-      "categories": ["animals"],
-      "tags": ["bears", "shoes", "bare feet", "wordplay", "wildlife", "fashion", "puns"]
-    },
-    {
-      "id": 78,
-      "setup": "What do you call a cat that eats lemons?",
-      "punchline": "A sourpuss!",
-      "categories": ["animals", "food"],
-      "tags": ["cat", "lemons", "sourpuss", "sour", "wordplay", "pets", "fruit"]
-    },
-    {
-      "id": 79,
-      "setup": "Why did the owl invite his friends over?",
-      "punchline": "He didn't want to be owl by himself!",
-      "categories": ["animals"],
-      "tags": ["owl", "alone", "all", "friends", "wordplay", "birds", "lonely"]
-    },
-    {
-      "id": 80,
-      "setup": "What do you call a fish that needs help with singing?",
-      "punchline": "Autotuna!",
-      "categories": ["animals", "music"],
-      "tags": ["fish", "tuna", "autotune", "singing", "wordplay", "music", "ocean"]
-    },
-    {
-      "id": 81,
-      "setup": "Why did the giraffe get bad grades?",
-      "punchline": "He had his head in the clouds!",
-      "categories": ["animals", "school"],
-      "tags": ["giraffe", "grades", "clouds", "tall", "school", "distracted", "wildlife"]
-    },
-    {
-      "id": 82,
-      "setup": "What do you call a dinosaur ghost?",
-      "punchline": "A scaredactyl!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "pterodactyl", "ghost", "scared", "wordplay", "prehistoric", "halloween"]
-    },
-    {
-      "id": 83,
-      "setup": "Why did the flamingo lift up one leg?",
-      "punchline": "Because if it lifted both, it would fall over!",
-      "categories": ["animals"],
-      "tags": ["flamingo", "legs", "balance", "standing", "birds", "pink", "logic"]
-    },
-    {
-      "id": 84,
-      "setup": "What do you call a dog that does magic tricks?",
-      "punchline": "A labracadabrador!",
-      "categories": ["animals"],
-      "tags": ["dog", "labrador", "magic", "tricks", "wordplay", "pets", "abracadabra"]
-    },
-    {
-      "id": 85,
-      "setup": "Why are dolphins so smart?",
-      "punchline": "Because within three hours they can train a human to stand at the edge of the pool and throw them fish!",
-      "categories": ["animals"],
-      "tags": ["dolphins", "smart", "training", "humans", "fish", "pool", "marine"]
-    },
-    {
-      "id": 86,
-      "setup": "What do you call a grizzly bear caught in the rain?",
-      "punchline": "A drizzly bear!",
-      "categories": ["animals"],
-      "tags": ["bear", "grizzly", "rain", "drizzle", "wordplay", "weather", "wildlife"]
-    },
-    {
-      "id": 87,
-      "setup": "Why did the horse chew with his mouth open?",
-      "punchline": "Because he had bad stable manners!",
-      "categories": ["animals", "family"],
-      "tags": ["horse", "stable", "table manners", "eating", "wordplay", "rude", "farm"]
-    },
-    {
-      "id": 88,
-      "setup": "What do you call a cold dog?",
-      "punchline": "A chili dog!",
-      "categories": ["animals", "food"],
-      "tags": ["dog", "cold", "chili dog", "hot dog", "wordplay", "pets", "food"]
-    },
-    {
-      "id": 89,
-      "setup": "Why did the pigeon go to the doctor?",
-      "punchline": "Because it was feeling coo-coo!",
-      "categories": ["animals"],
-      "tags": ["pigeon", "doctor", "coo", "cuckoo", "wordplay", "birds", "sick"]
-    },
-    {
-      "id": 90,
-      "setup": "What do you call a dinosaur that never stops talking?",
-      "punchline": "A dinobore!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "talking", "boring", "dino-bore", "wordplay", "prehistoric", "annoying"]
-    },
-    {
-      "id": 91,
-      "setup": "Why did the bee get married?",
-      "punchline": "Because he found his honey!",
-      "categories": ["animals", "wedding"],
-      "tags": ["bee", "honey", "marriage", "wedding", "wordplay", "insects", "love"]
-    },
-    {
-      "id": 92,
-      "setup": "What do you call a snake wearing a hard hat?",
-      "punchline": "A boa constructor!",
-      "categories": ["animals", "work"],
-      "tags": ["snake", "boa", "constructor", "construction", "wordplay", "reptiles", "building"]
-    },
-    {
-      "id": 93,
-      "setup": "Why did the zebra cross the road?",
-      "punchline": "Because it was at a zebra crossing!",
-      "categories": ["animals"],
-      "tags": ["zebra", "crossing", "road", "stripes", "wordplay", "wildlife", "traffic"]
-    },
-    {
-      "id": 94,
-      "setup": "What do you call a llama with a map?",
-      "punchline": "A navigator!",
-      "categories": ["animals", "geography"],
-      "tags": ["llama", "drama", "map", "navigation", "wordplay", "travel", "directions"]
-    },
-    {
-      "id": 95,
-      "setup": "Why did the bird go to the hospital?",
-      "punchline": "To get a tweetment!",
-      "categories": ["animals"],
-      "tags": ["bird", "hospital", "tweet", "treatment", "wordplay", "sick", "doctor"]
-    },
-    {
-      "id": 96,
-      "setup": "What do you call a rabbit that's been working out?",
-      "punchline": "A hot cross bunny!",
-      "categories": ["animals", "sports"],
-      "tags": ["rabbit", "bunny", "working out", "hot cross buns", "wordplay", "exercise", "gym"]
-    },
-    {
-      "id": 97,
-      "setup": "Why don't leopards play hide and seek?",
-      "punchline": "Because they're always spotted!",
-      "categories": ["animals"],
-      "tags": ["leopard", "spots", "hide and seek", "spotted", "wordplay", "games", "wildlife"]
-    },
-    {
-      "id": 98,
-      "setup": "What do you call a hen looking at a salad?",
-      "punchline": "Chicken Caesar!",
-      "categories": ["animals", "food"],
-      "tags": ["chicken", "hen", "salad", "caesar", "wordplay", "poultry", "restaurant"]
-    },
-    {
-      "id": 99,
-      "setup": "Why did the dinosaur break up with the other dinosaur?",
-      "punchline": "Because their relationship was getting prehistoric!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "relationship", "breakup", "prehistoric", "wordplay", "dating", "old"]
-    },
-    {
-      "id": 100,
-      "setup": "What do you call a crab who throws things?",
-      "punchline": "A lobster!",
-      "categories": ["animals"],
-      "tags": ["crab", "lobster", "throwing", "lob", "wordplay", "ocean", "seafood"]
-    },
+    "setup": "Why don't cats play poker in the jungle?",
+    "punchline": "Too many cheetahs!",
+    "categories": ["animals"],
+    "tags": ["cats", "jungle", "poker", "cheating", "cheetah", "card-games", "wordplay"]
+  },
+  {
+    "id": 2,
+    "setup": "What do you call a fish without eyes?",
+    "punchline": "A fsh!",
+    "categories": ["animals"],
+    "tags": ["fish", "pun", "spelling", "sea", "ocean", "classic", "wordplay"]
+  },
+  {
+    "id": 3,
+    "setup": "What do you call a sleeping dinosaur?",
+    "punchline": "A dino-snore!",
+    "categories": ["animals"],
+    "tags": ["dinosaurs", "sleep", "snoring", "bedtime", "pun", "prehistoric", "kids"]
+  },
+  {
+    "id": 4,
+    "setup": "What do you call a bear with no teeth?",
+    "punchline": "A gummy bear!",
+    "categories": ["animals"],
+    "tags": ["bear", "teeth", "candy", "gummy", "pun", "wildlife", "classic"]
+  },
+  {
+    "id": 5,
+    "setup": "Why do cows wear bells?",
+    "punchline": "Because their horns don't work!",
+    "categories": ["animals"],
+    "tags": ["cow", "farm", "bells", "horns", "pun", "livestock", "classic"]
+  },
+  {
+    "id": 6,
+    "setup": "Why don't elephants use computers?",
+    "punchline": "Because they're afraid of the mouse!",
+    "categories": ["animals"],
+    "tags": ["elephant", "computer", "mouse", "technology", "fear", "pun", "classic"]
+  },
+  {
+    "id": 7,
+    "setup": "What do you call a lazy kangaroo?",
+    "punchline": "A pouch potato!",
+    "categories": ["animals"],
+    "tags": ["kangaroo", "lazy", "pouch", "couch-potato", "australia", "pun", "marsupial"]
+  },
+  {
+    "id": 8,
+    "setup": "Why did the chicken go to the séance?",
+    "punchline": "To get to the other side!",
+    "categories": ["animals"],
+    "tags": ["chicken", "seance", "other-side", "classic", "twist", "pun", "birds"]
+  },
+  {
+    "id": 9,
+    "setup": "What do you call a pig that does karate?",
+    "punchline": "A pork chop!",
+    "categories": ["animals"],
+    "tags": ["pig", "karate", "martial-arts", "pun", "farm", "food", "classic"]
+  },
+  {
+    "id": 10,
+    "setup": "Why are frogs so happy?",
+    "punchline": "They eat whatever bugs them!",
+    "categories": ["animals"],
+    "tags": ["frog", "bugs", "happy", "pun", "insects", "amphibian", "wordplay"]
+  },
+  {
+    "id": 11,
+    "setup": "What do you call a cow with no legs?",
+    "punchline": "Ground beef!",
+    "categories": ["animals"],
+    "tags": ["cow", "no-legs", "ground-beef", "pun", "farm", "food", "classic"]
+  },
+  {
+    "id": 12,
+    "setup": "What do you call a fish that wears a bowtie?",
+    "punchline": "So-fish-ticated!",
+    "categories": ["animals"],
+    "tags": ["fish", "bowtie", "fancy", "fashion", "pun", "ocean", "wordplay"]
+  },
+  {
+    "id": 13,
+    "setup": "Why don't oysters share?",
+    "punchline": "Because they're shellfish!",
+    "categories": ["animals"],
+    "tags": ["oyster", "sharing", "selfish", "shellfish", "pun", "seafood", "classic"]
+  },
+  {
+    "id": 14,
+    "setup": "Why do bees have sticky hair?",
+    "punchline": "Because they use honeycombs!",
+    "categories": ["animals"],
+    "tags": ["bee", "honey", "comb", "hair", "pun", "insect", "wordplay"]
+  },
+  {
+    "id": 15,
+    "setup": "What do you call a deer with no eyes?",
+    "punchline": "No eye-deer!",
+    "categories": ["animals"],
+    "tags": ["deer", "no-idea", "eyes", "pun", "wildlife", "classic", "wordplay"]
+  },
+  {
+    "id": 16,
+    "setup": "Why did the spider buy a computer?",
+    "punchline": "To check his website!",
+    "categories": ["animals"],
+    "tags": ["spider", "web", "website", "computer", "pun", "insect", "internet"]
+  },
+  {
+    "id": 17,
+    "setup": "Why did the cow cross the road?",
+    "punchline": "To get to the udder side!",
+    "categories": ["animals"],
+    "tags": ["cow", "crossing-road", "udder", "pun", "farm", "classic", "wordplay"]
+  },
+  {
+    "id": 18,
+    "setup": "Why don't seagulls fly over the bay?",
+    "punchline": "Because then they'd be bagels!",
+    "categories": ["animals"],
+    "tags": ["seagull", "bay", "bagel", "pun", "birds", "beach", "wordplay"]
+  },
+  {
+    "id": 19,
+    "setup": "What do you call a snake that's exactly 3.14 meters long?",
+    "punchline": "A pi-thon!",
+    "categories": ["animals"],
+    "tags": ["snake", "python", "pi", "math", "pun", "reptile", "wordplay"]
+  },
+  {
+    "id": 20,
+    "setup": "What do you call a sleeping bull?",
+    "punchline": "A bulldozer!",
+    "categories": ["animals"],
+    "tags": ["bull", "sleep", "bulldozer", "pun", "farm", "construction", "wordplay"]
+  },
+  {
+    "id": 21,
+    "setup": "What do you call an alligator in a vest?",
+    "punchline": "An investigator!",
+    "categories": ["animals"],
+    "tags": ["alligator", "vest", "investigator", "pun", "reptile", "detective", "wordplay"]
+  },
+  {
+    "id": 22,
+    "setup": "Why do hummingbirds hum?",
+    "punchline": "Because they don't know the words!",
+    "categories": ["animals"],
+    "tags": ["hummingbird", "music", "hum", "lyrics", "pun", "birds", "wordplay"]
+  },
+  {
+    "id": 23,
+    "setup": "What do you call a fish that practices medicine?",
+    "punchline": "A sturgeon!",
+    "categories": ["animals"],
+    "tags": ["fish", "surgeon", "doctor", "pun", "ocean", "hospital", "wordplay"]
+  },
+  {
+    "id": 24,
+    "setup": "Why did the horse sit behind the tree?",
+    "punchline": "He wanted some shade for his neigh-borhood!",
+    "categories": ["animals"],
+    "tags": ["horse", "tree", "shade", "neigh", "pun", "farm", "wordplay"]
+  },
+  {
+    "id": 25,
+    "setup": "Why did the octopus win the debate?",
+    "punchline": "Because it had a lot of points!",
+    "categories": ["animals"],
+    "tags": ["octopus", "points", "tentacles", "pun", "ocean", "clever", "wordplay"]
+  },
+  {
+    "id": 26,
+    "setup": "Why do pandas like old movies?",
+    "punchline": "Because they're in black and white!",
+    "categories": ["animals"],
+    "tags": ["panda", "movies", "black-and-white", "pun", "bears", "classic", "wordplay"]
+  },
+  {
+    "id": 27,
+    "setup": "What do you call a cow that plays an instrument?",
+    "punchline": "A moo-sician!",
+    "categories": ["animals"],
+    "tags": ["cow", "music", "musician", "moo", "pun", "farm", "wordplay"]
+  },
+  {
+    "id": 28,
+    "setup": "Why don't dogs make good dancers?",
+    "punchline": "Because they have two left feet!",
+    "categories": ["animals"],
+    "tags": ["dog", "dancing", "clumsy", "feet", "pun", "pets", "classic"]
+  },
+  {
+    "id": 29,
+    "setup": "What do you call a group of disorganized cats?",
+    "punchline": "A cat-astrophe!",
+    "categories": ["animals"],
+    "tags": ["cat", "catastrophe", "messy", "pun", "pets", "group", "wordplay"]
+  },
+  {
+    "id": 30,
+    "setup": "What do you call a sheep with no legs?",
+    "punchline": "A cloud!",
+    "categories": ["animals"],
+    "tags": ["sheep", "cloud", "wool", "fluffy", "pun", "farm", "wordplay"]
+  },
+  {
+    "id": 31,
+    "setup": "Why do birds fly south for the winter?",
+    "punchline": "Because it's too far to walk!",
+    "categories": ["animals"],
+    "tags": ["birds", "migration", "winter", "south", "pun", "travel", "classic"]
+  },
+  {
+    "id": 32,
+    "setup": "Why did the cat sit on the computer?",
+    "punchline": "To keep an eye on the mouse!",
+    "categories": ["animals"],
+    "tags": ["cat", "computer", "mouse", "pets", "pun", "technology", "classic"]
+  },
+  {
+    "id": 33,
+    "setup": "What do you call a camel with no humps?",
+    "punchline": "Humphrey!",
+    "categories": ["animals"],
+    "tags": ["camel", "humps", "name", "desert", "pun", "wordplay", "classic"]
+  },
+  {
+    "id": 34,
+    "setup": "Why did the pony get sent to his room?",
+    "punchline": "He wouldn't stop horsing around!",
+    "categories": ["animals"],
+    "tags": ["pony", "horse", "horsing-around", "kids", "pun", "family", "classic"]
+  },
+  {
+    "id": 35,
+    "setup": "Why are fish so smart?",
+    "punchline": "Because they live in schools!",
+    "categories": ["animals"],
+    "tags": ["fish", "school", "smart", "pun", "ocean", "education", "classic"]
+  },
+  {
+    "id": 36,
+    "setup": "What do you call a cow on a trampoline?",
+    "punchline": "A milkshake!",
+    "categories": ["animals"],
+    "tags": ["cow", "trampoline", "milkshake", "bouncing", "pun", "dairy", "wordplay"]
+  },
+  {
+    "id": 37,
+    "setup": "Why did the snake do so well in court?",
+    "punchline": "Because he had a hiss-terical defense!",
+    "categories": ["animals"],
+    "tags": ["snake", "court", "hiss", "law", "pun", "reptile", "wordplay"]
+  },
+  {
+    "id": 38,
+    "setup": "Why did the chicken join a band?",
+    "punchline": "Because it already had the drumsticks!",
+    "categories": ["animals"],
+    "tags": ["chicken", "band", "drums", "drumsticks", "pun", "music", "wordplay"]
+  },
+  {
+    "id": 39,
+    "setup": "What do you call a crocodile that likes to bowl?",
+    "punchline": "An alley-gator!",
+    "categories": ["animals"],
+    "tags": ["crocodile", "alligator", "bowling", "alley", "pun", "reptile", "wordplay"]
+  },
+  {
+    "id": 40,
+    "setup": "Why do cows have hooves instead of feet?",
+    "punchline": "Because they lactose!",
+    "categories": ["animals"],
+    "tags": ["cow", "hooves", "lactose", "lack-toes", "pun", "dairy", "wordplay"]
+  },
+  {
+    "id": 41,
+    "setup": "Why did the pelican get kicked out of the restaurant?",
+    "punchline": "Because it had a very big bill!",
+    "categories": ["animals"],
+    "tags": ["pelican", "restaurant", "bill", "beak", "pun", "birds", "wordplay"]
+  },
+  {
+    "id": 42,
+    "setup": "Why did the butterfly bring deodorant?",
+    "punchline": "In case it started to flutter-stink!",
+    "categories": ["animals"],
+    "tags": ["butterfly", "flutter", "smell", "pun", "insect", "silly", "wordplay"]
+  },
+  {
+    "id": 43,
+    "setup": "Why don't crabs donate to charity?",
+    "punchline": "Because they're shellfish!",
+    "categories": ["animals"],
+    "tags": ["crab", "charity", "shellfish", "selfish", "pun", "ocean", "classic"]
+  },
+  {
+    "id": 44,
+    "setup": "Why did the owl start a band?",
+    "punchline": "Because it had all the right hoot-keys!",
+    "categories": ["animals"],
+    "tags": ["owl", "hoot", "music", "band", "pun", "birds", "wordplay"]
+  },
+  {
+    "id": 45,
+    "setup": "Why do dolphins live in salt water?",
+    "punchline": "Because pepper makes them sneeze!",
+    "categories": ["animals"],
+    "tags": ["dolphin", "salt-water", "pepper", "sneeze", "pun", "ocean", "classic"]
+  },
+  {
+    "id": 46,
+    "setup": "Why did the sheep say \"moo\"?",
+    "punchline": "It was trying to learn a new language!",
+    "categories": ["animals"],
+    "tags": ["sheep", "moo", "language", "learning", "pun", "farm", "wordplay"]
+  },
+  {
+    "id": 47,
+    "setup": "Why did the shark spit out the clownfish?",
+    "punchline": "Because it tasted funny!",
+    "categories": ["animals"],
+    "tags": ["shark", "clownfish", "funny", "taste", "pun", "ocean", "wordplay"]
+  },
+  {
+    "id": 48,
+    "setup": "Why don't leopards play hide and seek?",
+    "punchline": "Because they're always spotted!",
+    "categories": ["animals"],
+    "tags": ["leopard", "spots", "hide-and-seek", "spotted", "pun", "wildlife", "classic"]
+  },
+  {
+    "id": 49,
+    "setup": "Why did the pigeon go to the doctor?",
+    "punchline": "Because it was feeling a little coo-coo!",
+    "categories": ["animals"],
+    "tags": ["pigeon", "doctor", "coo", "sick", "pun", "birds", "wordplay"]
+  },
+  {
+    "id": 50,
+    "setup": "Why did the zebra cross the road?",
+    "punchline": "Because it was at a zebra crossing!",
+    "categories": ["animals"],
+    "tags": ["zebra", "crossing", "road", "stripes", "pun", "traffic", "wordplay"]
+  },
+  {
+    "id": 51,
+    "setup": "What do you call a llama that tells jokes?",
+    "punchline": "A lamao!",
+    "categories": ["animals"],
+    "tags": ["llama", "jokes", "laugh", "pun", "wordplay", "silly", "animals"]
+  },
+  {
+    "id": 52,
+    "setup": "What do you call a rabbit that tells one-liners?",
+    "punchline": "A funny bunny!",
+    "categories": ["animals"],
+    "tags": ["rabbit", "bunny", "one-liners", "pun", "cute", "classic", "wordplay"]
+  },
+  {
+    "id": 53,
+    "setup": "Why did the duck bring a towel?",
+    "punchline": "Because it was going to make a splash!",
+    "categories": ["animals"],
+    "tags": ["duck", "towel", "splash", "water", "pun", "birds", "silly"]
+  },
+  {
+    "id": 54,
+    "setup": "What do you call a dog that can do magic?",
+    "punchline": "A Labracadabrador!",
+    "categories": ["animals"],
+    "tags": ["dog", "labrador", "magic", "abracadabra", "pun", "pets", "classic"]
+  },
+  {
+    "id": 55,
+    "setup": "Why did the giraffe get invited to every party?",
+    "punchline": "Because it was a real neck-strovert!",
+    "categories": ["animals"],
+    "tags": ["giraffe", "neck", "party", "extrovert", "pun", "wildlife", "wordplay"]
+  },
+  {
+    "id": 56,
+    "setup": "Why did the turtle cross the road?",
+    "punchline": "To get to the Shell station!",
+    "categories": ["animals"],
+    "tags": ["turtle", "shell", "gas-station", "road", "pun", "reptile", "wordplay"]
+  },
+  {
+    "id": 57,
+    "setup": "What do you call a bird that's afraid to fly?",
+    "punchline": "A chicken!",
+    "categories": ["animals"],
+    "tags": ["bird", "chicken", "afraid", "flying", "pun", "classic", "wordplay"]
+  },
+  {
+    "id": 58,
+    "setup": "Why did the lion eat the tightrope walker?",
+    "punchline": "Because it wanted a well-balanced meal!",
+    "categories": ["animals"],
+    "tags": ["lion", "circus", "tightrope", "balanced", "pun", "wildlife", "wordplay"]
+  },
+  {
+    "id": 59,
+    "setup": "Why don't bears wear shoes?",
+    "punchline": "Because they prefer bear feet!",
+    "categories": ["animals"],
+    "tags": ["bear", "shoes", "bare-feet", "pun", "wildlife", "classic", "wordplay"]
+  },
+  {
+    "id": 60,
+    "setup": "What do you call a cat that eats lemons?",
+    "punchline": "A sourpuss!",
+    "categories": ["animals"],
+    "tags": ["cat", "lemons", "sour", "sourpuss", "pun", "pets", "wordplay"]
+  },
+  {
+    "id": 61,
+    "setup": "Why did the owl invite friends over?",
+    "punchline": "Because it didn't want to be owl by itself!",
+    "categories": ["animals"],
+    "tags": ["owl", "alone", "friends", "pun", "birds", "lonely", "wordplay"]
+  },
+  {
+    "id": 62,
+    "setup": "What do you call a fish that loves karaoke?",
+    "punchline": "A tune-a!",
+    "categories": ["animals"],
+    "tags": ["fish", "tuna", "karaoke", "singing", "pun", "music", "wordplay"]
+  },
+  {
+    "id": 63,
+    "setup": "Why did the flamingo stand on one leg?",
+    "punchline": "Because if it lifted both, it would fall over!",
+    "categories": ["animals"],
+    "tags": ["flamingo", "one-leg", "balance", "birds", "pun", "classic", "silly"]
+  },
+  {
+    "id": 64,
+    "setup": "What do you call a grizzly bear caught in the rain?",
+    "punchline": "A drizzly bear!",
+    "categories": ["animals"],
+    "tags": ["bear", "grizzly", "rain", "drizzle", "pun", "weather", "wordplay"]
+  },
+  {
+    "id": 65,
+    "setup": "What do you call a cold dog?",
+    "punchline": "A chili dog!",
+    "categories": ["animals"],
+    "tags": ["dog", "cold", "chili-dog", "hot-dog", "pun", "pets", "food"]
+  },
+  {
+    "id": 66,
+    "setup": "Why did the ant bring a suitcase?",
+    "punchline": "It was going on a small trip!",
+    "categories": ["animals"],
+    "tags": ["ant", "suitcase", "travel", "small", "pun", "insect", "wordplay"]
+  },
+  {
+    "id": 67,
+    "setup": "What do you call a rabbit that's been working out?",
+    "punchline": "A hare-culean athlete!",
+    "categories": ["animals"],
+    "tags": ["rabbit", "hare", "workout", "gym", "pun", "fitness", "wordplay"]
+  },
+  {
+    "id": 68,
+    "setup": "Why did the snail buy a fast car?",
+    "punchline": "So it could say, \"Look at that S-car-go!\"",
+    "categories": ["animals"],
+    "tags": ["snail", "car", "escargot", "fast", "pun", "wordplay", "silly"]
+  },
+  {
+    "id": 69,
+    "setup": "What do you call a nervous chameleon?",
+    "punchline": "A reptile dysfunction!",
+    "categories": ["animals"],
+    "tags": ["chameleon", "nervous", "reptile", "pun", "wordplay", "lizard", "silly"]
+  },
+  {
+    "id": 70,
+    "setup": "Why did the dog sit in the shade?",
+    "punchline": "Because it didn't want to be a hot dog!",
+    "categories": ["animals"],
+    "tags": ["dog", "shade", "hot-dog", "summer", "pun", "pets", "wordplay"]
+  },
+  {
+    "id": 71,
+    "setup": "What do you call a cat who works for the Red Cross?",
+    "punchline": "A first-aid kit!",
+    "categories": ["animals"],
+    "tags": ["cat", "first-aid", "red-cross", "kit", "pun", "pets", "wordplay"]
+  },
+  {
+    "id": 72,
+    "setup": "Why did the koala get a new job?",
+    "punchline": "It wanted to branch out!",
+    "categories": ["animals"],
+    "tags": ["koala", "job", "branch", "trees", "pun", "australia", "wordplay"]
+  },
+  {
+    "id": 73,
+    "setup": "What do you call an elephant that doesn't matter?",
+    "punchline": "An irrelephant!",
+    "categories": ["animals"],
+    "tags": ["elephant", "irrelevant", "pun", "wordplay", "wildlife", "silly", "classic"]
+  },
+  {
+    "id": 74,
+    "setup": "Why did the dog cross the road?",
+    "punchline": "To get to the barking lot!",
+    "categories": ["animals"],
+    "tags": ["dog", "crossing-road", "parking-lot", "barking", "pun", "pets", "wordplay"]
+  },
+  {
+    "id": 75,
+    "setup": "What do you call a cow that can't stop talking?",
+    "punchline": "A moo-thpiece!",
+    "categories": ["animals"],
+    "tags": ["cow", "talking", "mouthpiece", "moo", "pun", "farm", "wordplay"]
+  },
+  {
+    "id": 76,
+    "setup": "Why did the cat get a job at the bakery?",
+    "punchline": "Because it kneaded the dough!",
+    "categories": ["animals"],
+    "tags": ["cat", "bakery", "knead", "dough", "pun", "pets", "wordplay"]
+  },
+  {
+    "id": 77,
+    "setup": "What do you call a penguin wearing a bowtie?",
+    "punchline": "Well-dressed and ice-olated!",
+    "categories": ["animals"],
+    "tags": ["penguin", "bowtie", "fancy", "ice", "pun", "birds", "wordplay"]
+  },
+  {
+    "id": 78,
+    "setup": "Why did the bee sit on the clock?",
+    "punchline": "Because it wanted to be on time!",
+    "categories": ["animals"],
+    "tags": ["bee", "clock", "on-time", "pun", "insect", "wordplay", "silly"]
+  },
+  {
+    "id": 79,
+    "setup": "What do you call a dog that loves math?",
+    "punchline": "A multi-pup-plier!",
+    "categories": ["animals"],
+    "tags": ["dog", "math", "multiply", "pun", "pets", "numbers", "wordplay"]
+  },
+  {
+    "id": 80,
+    "setup": "Why did the squirrel bring a ladder to the tree?",
+    "punchline": "Because it wanted to raise the roof-nuts!",
+    "categories": ["animals"],
+    "tags": ["squirrel", "tree", "ladder", "nuts", "pun", "rodent", "wordplay"]
+  },
+  {
+    "id": 81,
+    "setup": "What do you call a bee that can't make up its mind?",
+    "punchline": "A maybee!",
+    "categories": ["animals"],
+    "tags": ["bee", "maybe", "indecisive", "pun", "insect", "classic", "wordplay"]
+  },
+  {
+    "id": 82,
+    "setup": "Why did the whale blush...",
+    "punchline": "Because it saw the ocean's bottom!",
+    "categories": ["animals"],
+    "tags": ["whale", "blush", "ocean", "bottom", "pun", "sea", "wordplay"]
+  },
+  {
+    "id": 83,
+    "setup": "What do you call a dinosaur that crashes its car?",
+    "punchline": "Tyrannosaurus Wrecks!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "t-rex", "car", "accident", "pun", "prehistoric", "wordplay"]
+  },
+  {
+    "id": 84,
+    "setup": "What do you call a dinosaur that knows a lot of words?",
+    "punchline": "A thesaurus!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "thesaurus", "words", "vocabulary", "pun", "books", "wordplay"]
+  },
+  {
+    "id": 85,
+    "setup": "What do you call a dinosaur who uses good vocabulary?",
+    "punchline": "A Thesaurus Rex!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "t-rex", "thesaurus", "vocabulary", "pun", "school", "wordplay"]
+  },
+  {
+    "id": 86,
+    "setup": "Why did the dinosaur refuse to wear deodorant?",
+    "punchline": "Because it didn't want to be ex-stinct!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "extinct", "stink", "deodorant", "pun", "prehistoric", "wordplay"]
+  },
+  {
+    "id": 87,
+    "setup": "What do you call a dinosaur ghost?",
+    "punchline": "A scaredactyl!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "pterodactyl", "ghost", "scared", "pun", "halloween", "wordplay"]
+  },
+  {
+    "id": 88,
+    "setup": "What do you call a dinosaur that never gives up?",
+    "punchline": "A try-try-triceratops!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "triceratops", "never-give-up", "trying", "pun", "motivation", "wordplay"]
+  },
+  {
+    "id": 89,
+    "setup": "What do you call a dinosaur who loves to nap?",
+    "punchline": "A dino-snooze!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "nap", "sleep", "snooze", "pun", "prehistoric", "wordplay"]
+  },
+  {
+    "id": 90,
+    "setup": "Why can't you hear a pterodactyl use the bathroom?",
+    "punchline": "Because the \"P\" is silent!",
+    "categories": ["animals"],
+    "tags": ["pterodactyl", "silent-p", "bathroom", "pun", "dinosaur", "classic", "wordplay"]
+  },
+  {
+    "id": 91,
+    "setup": "Why did the dinosaur bring a pencil to dinner?",
+    "punchline": "Because it wanted to draw its conclusion!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "pencil", "draw", "conclusion", "pun", "silly", "wordplay"]
+  },
+  {
+    "id": 92,
+    "setup": "What do you call a dinosaur that tells bad jokes?",
+    "punchline": "A dino-bore!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "bad-jokes", "boring", "pun", "prehistoric", "wordplay", "classic"]
+  },
+  {
+    "id": 93,
+    "setup": "Why did the T-Rex cross the road?",
+    "punchline": "To get to the dino-store!",
+    "categories": ["animals"],
+    "tags": ["t-rex", "crossing-road", "dino-store", "pun", "dinosaur", "wordplay", "silly"]
+  },
+  {
+    "id": 94,
+    "setup": "What do you call a dinosaur with great manners?",
+    "punchline": "A please-iosaur!",
+    "categories": ["animals"],
+    "tags": ["dinosaur", "plesiosaur", "manners", "please", "pun", "wordplay", "kids"]
+  },
+  {
+    "id": 95,
+    "setup": "Why did the stegosaurus sit on a cactus?",
+    "punchline": "It wanted a spine-tingling experience!",
+    "categories": ["animals"],
+    "tags": ["stegosaurus", "cactus", "spines", "pun", "dinosaur", "silly", "wordplay"]
+  },
+  {
+    "id": 96,
+    "setup": "Why did the cat bring a ladder to the bar?",
+    "punchline": "Because it heard the drinks were on the house!",
+    "categories": ["animals"],
+    "tags": ["cat", "ladder", "house", "pun", "pets", "wordplay", "classic"]
+  },
+  {
+    "id": 97,
+    "setup": "What do you call a dog that loves the beach?",
+    "punchline": "A sand-wich!",
+    "categories": ["animals"],
+    "tags": ["dog", "beach", "sandwich", "pun", "pets", "summer", "wordplay"]
+  },
+  {
+    "id": 98,
+    "setup": "Why did the hamster stop running...",
+    "punchline": "Because it was wheel-y tired!",
+    "categories": ["animals"],
+    "tags": ["hamster", "wheel", "tired", "pun", "pet", "rodent", "wordplay"]
+  },
+  {
+    "id": 99,
+    "setup": "What do you call a lazy bird?",
+    "punchline": "A perch potato!",
+    "categories": ["animals"],
+    "tags": ["bird", "lazy", "perch", "pun", "sleepy", "wordplay", "silly"]
+  },
+  {
+    "id": 100,
+    "setup": "What do you call a crab that throws things?",
+    "punchline": "A lobster!",
+    "categories": ["animals"],
+    "tags": ["crab", "lobster", "throwing", "lob", "pun", "ocean", "wordplay"]
+  },
     {
       "id": 101,
       "setup": "Why do candles always go on top of birthday cakes?",
@@ -4335,7 +4335,7 @@
     },
     {
       "id": 620,
-      "setup": "What did Idaho to Missouri?",
+      "setup": "What did Idaho say to Missouri?",
       "punchline": "I don't know, Alaska!",
       "categories": ["geography"],
       "tags": ["idaho", "missouri", "alaska", "states", "wordplay", "usa", "asking"]
