@@ -6966,713 +6966,1762 @@
       ]
     },
     {
-    "id": 701,
-    "setup": "Why did the archaeologist go broke?",
-    "punchline": "Because his career was in ruins!",
-    "categories": ["history"],
-    "tags": ["archaeology", "ruins", "career"]
-  },
-  {
-    "id": 702,
-    "setup": "What did the medieval knight say when he saw a dragon?",
-    "punchline": "Well, that’s a fire time to leave!",
-    "categories": ["history"],
-    "tags": ["knight", "dragon", "medieval"]
-  },
-  {
-    "id": 703,
-    "setup": "Why was the Egyptian pharaoh so confident?",
-    "punchline": "Because he was in de-Nile!",
-    "categories": ["history"],
-    "tags": ["egypt", "pharaoh", "nile"]
-  },
-  {
-    "id": 704,
-    "setup": "What do you call a Roman emperor with a cold?",
-    "punchline": "Julius Sneezer!",
-    "categories": ["history"],
-    "tags": ["rome", "caesar", "cold"]
-  },
-  {
-    "id": 705,
-    "setup": "Why did the history teacher break up with the math teacher?",
-    "punchline": "There were too many problems in the past!",
-    "categories": ["history"],
-    "tags": ["teachers", "school", "past"]
-  },
-  {
-    "id": 706,
-    "setup": "What was the most popular dance in colonial America?",
-    "punchline": "The indepen-dance!",
-    "categories": ["history"],
-    "tags": ["colonial", "independence", "dance"]
-  },
-  {
-    "id": 707,
-    "setup": "Why did the Viking buy a boat?",
-    "punchline": "Because it was on sail!",
-    "categories": ["history"],
-    "tags": ["viking", "boat", "sale"]
-  },
-  {
-    "id": 708,
-    "setup": "What did the ancient Greek say when his toga ripped?",
-    "punchline": "Seams like I need a new one!",
-    "categories": ["history"],
-    "tags": ["greek", "toga", "clothing"]
-  },
-  {
-    "id": 709,
-    "setup": "Why couldn’t the mummy answer the phone?",
-    "punchline": "Because he was all wrapped up!",
-    "categories": ["history"],
-    "tags": ["mummy", "egypt", "busy"]
-  },
-  {
-    "id": 710,
-    "setup": "What’s a pirate’s favorite letter?",
-    "punchline": "You’d think it’s R, but it’s really the C!",
-    "categories": ["history"],
-    "tags": ["pirate", "sea", "letters"]
-  },
-
-  {
-    "id": 711,
-    "setup": "Why did Napoleon keep his hand in his jacket?",
-    "punchline": "He was guarding his empire!",
-    "categories": ["history"],
-    "tags": ["napoleon", "france", "emperor"]
-  },
-  {
-    "id": 712,
-    "setup": "What did the caveman say after inventing fire?",
-    "punchline": "This idea is really catching on!",
-    "categories": ["history"],
-    "tags": ["caveman", "fire", "invention"]
-  },
-  {
-    "id": 713,
-    "setup": "Why was the medieval dungeon so popular?",
-    "punchline": "Because it was cell-ebrated!",
-    "categories": ["history"],
-    "tags": ["dungeon", "medieval", "cells"]
-  },
-  {
-    "id": 714,
-    "setup": "What do you call a sleeping dinosaur?",
-    "punchline": "A dino-snore!",
-    "categories": ["history"],
-    "tags": ["dinosaur", "sleep", "prehistoric"]
-  },
-  {
-    "id": 715,
-    "setup": "Why did the Pilgrims’ pants keep falling down?",
-    "punchline": "Because their belt buckles were on their hats!",
-    "categories": ["history"],
-    "tags": ["pilgrims", "thanksgiving", "clothing"]
-  },
-  {
-    "id": 716,
-    "setup": "What did the Stone Age man say when he stubbed his toe?",
-    "punchline": "That rocks!",
-    "categories": ["history"],
-    "tags": ["stone age", "rocks", "pain"]
-  },
-  {
-    "id": 717,
-    "setup": "Why did George Washington have trouble sleeping?",
-    "punchline": "Because he couldn’t lie!",
-    "categories": ["history"],
-    "tags": ["washington", "honesty", "president"]
-  },
-  {
-    "id": 718,
-    "setup": "What do you call a knight who’s afraid to fight?",
-    "punchline": "Sir Render!",
-    "categories": ["history"],
-    "tags": ["knight", "surrender", "medieval"]
-  },
-  {
-    "id": 719,
-    "setup": "Why did the Roman gladiator go to school?",
-    "punchline": "To get his Latin degree!",
-    "categories": ["history"],
-    "tags": ["rome", "latin", "school"]
-  },
-  {
-    "id": 720,
-    "setup": "What did the Egyptian pyramid say to the other pyramid?",
-    "punchline": "How’s your mummy?",
-    "categories": ["history"],
-    "tags": ["egypt", "pyramid", "mummy"]
-  },
-
-  {
-    "id": 721,
-    "setup": "Why was the Renaissance such a bright time?",
-    "punchline": "There were a lot of bright ideas!",
-    "categories": ["history"],
-    "tags": ["renaissance", "art", "ideas"]
-  },
-  {
-    "id": 722,
-    "setup": "What do you call a medieval ruler who’s always online?",
-    "punchline": "The serfing king!",
-    "categories": ["history"],
-    "tags": ["medieval", "king", "internet"]
-  },
-  {
-    "id": 723,
-    "setup": "Why did the Aztec refuse to fight?",
-    "punchline": "He didn’t have the heart for it!",
-    "categories": ["history"],
-    "tags": ["aztec", "ancient", "battle"]
-  },
-  {
-    "id": 724,
-    "setup": "What was Cleopatra’s favorite day of the week?",
-    "punchline": "Pharaoh-day!",
-    "categories": ["history"],
-    "tags": ["cleopatra", "egypt", "weekdays"]
-  },
-  {
-    "id": 725,
-    "setup": "Why did the samurai go to therapy?",
-    "punchline": "He had too many inner battles!",
-    "categories": ["history"],
-    "tags": ["samurai", "japan", "warrior"]
-  },
-  {
-    "id": 726,
-    "setup": "What did Benjamin Franklin say when he discovered electricity?",
-    "punchline": "I’m shocked!",
-    "categories": ["history"],
-    "tags": ["franklin", "electricity", "science"]
-  },
-  {
-    "id": 727,
-    "setup": "Why were the Dark Ages so dark?",
-    "punchline": "Because there were so many knights!",
-    "categories": ["history"],
-    "tags": ["dark ages", "knights", "medieval"]
-  },
-  {
-    "id": 728,
-    "setup": "What do you call a Roman barber?",
-    "punchline": "A little Caesar!",
-    "categories": ["history"],
-    "tags": ["rome", "barber", "caesar"]
-  },
-  {
-    "id": 729,
-    "setup": "Why did the historian break up with his partner?",
-    "punchline": "Too much baggage from the past!",
-    "categories": ["history"],
-    "tags": ["historian", "past", "relationship"]
-  },
-  {
-    "id": 730,
-    "setup": "What did the pirate say on his 80th birthday?",
-    "punchline": "Aye matey!",
-    "categories": ["history"],
-    "tags": ["pirate", "birthday", "age"]
-  },
-
-  {
-    "id": 731,
-    "setup": "Why did the Civil War soldier carry a pencil?",
-    "punchline": "In case he needed to draw his weapon!",
-    "categories": ["history"],
-    "tags": ["civil war", "soldier", "draw"]
-  },
-  {
-    "id": 732,
-    "setup": "What do you call an ancient Egyptian comedian?",
-    "punchline": "A mummy who really killed it!",
-    "categories": ["history"],
-    "tags": ["egypt", "mummy", "comedy"]
-  },
-  {
-    "id": 733,
-    "setup": "Why did the medieval peasant do well in school?",
-    "punchline": "He was an A-serf student!",
-    "categories": ["history"],
-    "tags": ["medieval", "serf", "school"]
-  },
-  {
-    "id": 734,
-    "setup": "What did the Viking name his son?",
-    "punchline": "Leif!",
-    "categories": ["history"],
-    "tags": ["viking", "leif", "norse"]
-  },
-  {
-    "id": 735,
-    "setup": "Why was the wheel such a great invention?",
-    "punchline": "It got things rolling!",
-    "categories": ["history"],
-    "tags": ["wheel", "invention", "ancient"]
-  },
-  {
-    "id": 736,
-    "setup": "What did the Greek philosopher say to his student?",
-    "punchline": "I’m Plato-nically proud of you!",
-    "categories": ["history"],
-    "tags": ["plato", "philosophy", "student"]
-  },
-  {
-    "id": 737,
-    "setup": "Why did the medieval king go to the dentist?",
-    "punchline": "To get his crown checked!",
-    "categories": ["history"],
-    "tags": ["king", "crown", "dentist"]
-  },
-  {
-    "id": 738,
-    "setup": "Why did the history book go to the doctor?",
-    "punchline": "It had a broken spine!",
-    "categories": ["history"],
-    "tags": ["book", "history", "spine"]
-  },
-  {
-    "id": 739,
-    "setup": "What did Abraham Lincoln say after a long day?",
-    "punchline": "I need to log out!",
-    "categories": ["history"],
-    "tags": ["lincoln", "log", "president"]
-  },
-  {
-    "id": 740,
-    "setup": "Why did the Trojan ignore the wooden horse?",
-    "punchline": "He didn’t want to look a gift horse in the mouth!",
-    "categories": ["history"],
-    "tags": ["trojan horse", "gift", "greek"]
-  },
-
-  {
-    "id": 741,
-    "setup": "Why did the medieval castle feel cold?",
-    "punchline": "It was full of drafts!",
-    "categories": ["history"],
-    "tags": ["castle", "drafts", "medieval"]
-  },
-  {
-    "id": 742,
-    "setup": "What did the Roman say at the salad bar?",
-    "punchline": "Romaine calm!",
-    "categories": ["history"],
-    "tags": ["roman", "salad", "romaine"]
-  },
-  {
-    "id": 743,
-    "setup": "Why did the Ottoman get upset?",
-    "punchline": "Someone sat on his empire!",
-    "categories": ["history"],
-    "tags": ["ottoman", "empire", "furniture"]
-  },
-  {
-    "id": 744,
-    "setup": "Why did the medieval knight refuse dessert?",
-    "punchline": "He was already stuffed into his armor!",
-    "categories": ["history"],
-    "tags": ["knight", "armor", "food"]
-  },
-  {
-    "id": 745,
-    "setup": "What did the ancient runner say after the marathon?",
-    "punchline": "That was quite the feat!",
-    "categories": ["history"],
-    "tags": ["marathon", "greek", "running"]
-  },
-  {
-    "id": 746,
-    "setup": "Why did the caveman’s wife leave him?",
-    "punchline": "He took her for granite!",
-    "categories": ["history"],
-    "tags": ["caveman", "granite", "relationship"]
-  },
-  {
-    "id": 747,
-    "setup": "What did Socrates say at the coffee shop?",
-    "punchline": "I think, therefore I espresso!",
-    "categories": ["history"],
-    "tags": ["socrates", "coffee", "philosophy"]
-  },
-  {
-    "id": 748,
-    "setup": "Why did the ancient scroll get promoted?",
-    "punchline": "It was on a roll!",
-    "categories": ["history"],
-    "tags": ["scroll", "promotion", "writing"]
-  },
-  {
-    "id": 749,
-    "setup": "Why did the sundial go to school?",
-    "punchline": "To learn about the times!",
-    "categories": ["history"],
-    "tags": ["sundial", "time", "ancient"]
-  },
-  {
-    "id": 750,
-    "setup": "What did the history teacher say on the last day of class?",
-    "punchline": "Well… that’s history!",
-    "categories": ["history"],
-    "tags": ["teacher", "school", "ending"]
-  },
+      "id": 701,
+      "setup": "Why did the archaeologist go broke?",
+      "punchline": "Because his career was in ruins!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "archaeologist",
+        "broke",
+        "ruins",
+        "career",
+        "wordplay",
+        "ancient",
+        "money"
+      ]
+    },
     {
-    "id": 751,
-    "setup": "Why did the medieval blacksmith bring a ladder to work?",
-    "punchline": "Because business was really looking up!",
-    "categories": ["history"],
-    "tags": ["blacksmith", "medieval", "work", "ladder"]
-  },
-  {
-    "id": 752,
-    "setup": "Why did the ancient Greek bring string to class?",
-    "punchline": "In case he needed to tie a theorem together!",
-    "categories": ["history"],
-    "tags": ["ancient greece", "math", "school"]
-  },
-  {
-    "id": 753,
-    "setup": "Why did the pirate get kicked out of history class?",
-    "punchline": "He kept talking about the high C’s!",
-    "categories": ["history"],
-    "tags": ["pirate", "school", "sea"]
-  },
-  {
-    "id": 754,
-    "setup": "Why did the pharaoh bring toilet paper to the pyramid?",
-    "punchline": "Just in case he got wrapped up!",
-    "categories": ["history"],
-    "tags": ["pharaoh", "egypt", "mummy"]
-  },
-  {
-    "id": 755,
-    "setup": "Why did the Revolutionary War soldier bring a notebook?",
-    "punchline": "He wanted to write his rights down!",
-    "categories": ["history"],
-    "tags": ["revolutionary war", "writing", "rights"]
-  },
-  {
-    "id": 756,
-    "setup": "Why did the Mongol warrior bring a map to battle?",
-    "punchline": "So he wouldn’t lose his horde!",
-    "categories": ["history"],
-    "tags": ["mongol", "map", "battle"]
-  },
-  {
-    "id": 757,
-    "setup": "Why did the ancient library hire a security guard?",
-    "punchline": "Too many readers were checking things out!",
-    "categories": ["history"],
-    "tags": ["library", "ancient", "books"]
-  },
-  {
-    "id": 758,
-    "setup": "Why did the medieval jester carry a pencil?",
-    "punchline": "In case he needed to draw a laugh!",
-    "categories": ["history"],
-    "tags": ["jester", "medieval", "comedy"]
-  },
-  {
-    "id": 759,
-    "setup": "Why did the colonists throw tea into the harbor?",
-    "punchline": "They wanted to steep up their rebellion!",
-    "categories": ["history"],
-    "tags": ["boston tea party", "tea", "revolution"]
-  },
-  {
-    "id": 760,
-    "setup": "Why did Julius Caesar read books at the gym?",
-    "punchline": "He wanted to work on his Latin!",
-    "categories": ["history"],
-    "tags": ["roman", "caesar", "latin"]
-  },
-
-  {
-    "id": 761,
-    "setup": "Why did the dinosaur bring a suitcase?",
-    "punchline": "He was going on a dino-sore!",
-    "categories": ["history"],
-    "tags": ["dinosaur", "prehistoric", "travel"]
-  },
-  {
-    "id": 762,
-    "setup": "Why did the Mayans bring a pencil to their calendar?",
-    "punchline": "In case they needed to draw conclusions!",
-    "categories": ["history"],
-    "tags": ["mayan", "calendar", "ancient"]
-  },
-  {
-    "id": 763,
-    "setup": "Why did the medieval archer bring extra arrows?",
-    "punchline": "He didn’t want to miss his point!",
-    "categories": ["history"],
-    "tags": ["archer", "medieval", "archery"]
-  },
-  {
-    "id": 764,
-    "setup": "Why did the historian bring snacks to the lecture?",
-    "punchline": "In case things got a little dry!",
-    "categories": ["history"],
-    "tags": ["historian", "lecture", "school"]
-  },
-  {
-    "id": 765,
-    "setup": "Why did the mummy refuse to play cards?",
-    "punchline": "He was afraid of getting dealt with!",
-    "categories": ["history"],
-    "tags": ["mummy", "egypt", "cards"]
-  },
-  {
-    "id": 766,
-    "setup": "Why did the Roman chariot break down?",
-    "punchline": "It ran out of horsepower!",
-    "categories": ["history"],
-    "tags": ["roman", "chariot", "transport"]
-  },
-  {
-    "id": 767,
-    "setup": "Why did the medieval knight bring soap to battle?",
-    "punchline": "He wanted to come out squeaky clean!",
-    "categories": ["history"],
-    "tags": ["knight", "medieval", "battle"]
-  },
-  {
-    "id": 768,
-    "setup": "Why did Archimedes bring a towel?",
-    "punchline": "He was expecting another Eureka moment!",
-    "categories": ["history"],
-    "tags": ["archimedes", "greek", "science"]
-  },
-  {
-    "id": 769,
-    "setup": "Why did King Henry VIII open a bakery?",
-    "punchline": "Because he kept getting rid of his ex-scones!",
-    "categories": ["history"],
-    "tags": ["henry viii", "tudor", "wordplay"]
-  },
-  {
-    "id": 770,
-    "setup": "Why did the Civil War soldier bring string?",
-    "punchline": "To keep his lines together!",
-    "categories": ["history"],
-    "tags": ["civil war", "soldier", "strategy"]
-  },
-
-  {
-    "id": 771,
-    "setup": "Why did the Egyptian builder love geometry?",
-    "punchline": "He was great at working the angles!",
-    "categories": ["history"],
-    "tags": ["egypt", "pyramids", "math"]
-  },
-  {
-    "id": 772,
-    "setup": "Why did the medieval peasant bring a resume?",
-    "punchline": "He wanted to serf up new opportunities!",
-    "categories": ["history"],
-    "tags": ["peasant", "serf", "work"]
-  },
-  {
-    "id": 773,
-    "setup": "Why did the philosopher bring a ladder?",
-    "punchline": "He wanted to take his thinking to the next level!",
-    "categories": ["history"],
-    "tags": ["philosophy", "thinking", "ancient"]
-  },
-  {
-    "id": 774,
-    "setup": "Why did the Viking bring a pencil on his voyage?",
-    "punchline": "In case he needed to draw land!",
-    "categories": ["history"],
-    "tags": ["viking", "exploration", "map"]
-  },
-  {
-    "id": 775,
-    "setup": "Why did the Greek potter get promoted?",
-    "punchline": "He really shaped up!",
-    "categories": ["history"],
-    "tags": ["greek", "pottery", "art"]
-  },
-  {
-    "id": 776,
-    "setup": "Why did the castle hire a comedian?",
-    "punchline": "To keep the moat light!",
-    "categories": ["history"],
-    "tags": ["castle", "medieval", "moat"]
-  },
-  {
-    "id": 777,
-    "setup": "Why did the caveman bring flowers home?",
-    "punchline": "He wanted to take his wife for granite!",
-    "categories": ["history"],
-    "tags": ["caveman", "prehistoric", "relationship"]
-  },
-  {
-    "id": 778,
-    "setup": "Why did Socrates love coffee?",
-    "punchline": "It really helped him think things through!",
-    "categories": ["history"],
-    "tags": ["socrates", "coffee", "philosophy"]
-  },
-  {
-    "id": 779,
-    "setup": "Why did the Roman soldier bring a notebook?",
-    "punchline": "To keep track of his legion-dary moments!",
-    "categories": ["history"],
-    "tags": ["roman", "soldier", "legion"]
-  },
-  {
-    "id": 780,
-    "setup": "Why did the pharaoh carry extra candles?",
-    "punchline": "In case things got a little dim in the afterlife!",
-    "categories": ["history"],
-    "tags": ["pharaoh", "egypt", "afterlife"]
-  },
-
-  {
-    "id": 781,
-    "setup": "Why did the ancient library install stairs?",
-    "punchline": "To help readers reach higher knowledge!",
-    "categories": ["history"],
-    "tags": ["library", "learning", "ancient"]
-  },
-  {
-    "id": 782,
-    "setup": "Why did the medieval cook bring a ruler?",
-    "punchline": "To measure up to royal standards!",
-    "categories": ["history"],
-    "tags": ["cook", "medieval", "royalty"]
-  },
-  {
-    "id": 783,
-    "setup": "Why did Roman roads never gossip?",
-    "punchline": "Because they were well paved!",
-    "categories": ["history"],
-    "tags": ["roman", "roads", "engineering"]
-  },
-  {
-    "id": 784,
-    "setup": "Why did the Trojan hide in the horse?",
-    "punchline": "He wanted to sneak past security!",
-    "categories": ["history"],
-    "tags": ["trojan horse", "war", "trick"]
-  },
-  {
-    "id": 785,
-    "setup": "Why did the knight bring a fork to dinner?",
-    "punchline": "Because he was armored for the occasion!",
-    "categories": ["history"],
-    "tags": ["knight", "armor", "food"]
-  },
-  {
-    "id": 786,
-    "setup": "Why did the ancient runner carry spare sandals?",
-    "punchline": "In case he lost his footing!",
-    "categories": ["history"],
-    "tags": ["marathon", "running", "ancient"]
-  },
-  {
-    "id": 787,
-    "setup": "Why did the Elizabethan actor carry a mirror?",
-    "punchline": "To practice his dramatic expressions!",
-    "categories": ["history"],
-    "tags": ["elizabethan", "theater", "actor"]
-  },
-  {
-    "id": 788,
-    "setup": "Why did Confucius bring a pencil?",
-    "punchline": "He believed wisdom should be written down!",
-    "categories": ["history"],
-    "tags": ["confucius", "wisdom", "philosophy"]
-  },
-  {
-    "id": 789,
-    "setup": "Why did the pyramid bring a GPS?",
-    "punchline": "It didn’t want to lose its point!",
-    "categories": ["history"],
-    "tags": ["pyramid", "egypt", "geometry"]
-  },
-  {
-    "id": 790,
-    "setup": "Why did the medieval lord love chess?",
-    "punchline": "Because he was always protecting his kingdom!",
-    "categories": ["history"],
-    "tags": ["lord", "medieval", "strategy"]
-  },
-
-  {
-    "id": 791,
-    "setup": "Why did the historian bring a camera?",
-    "punchline": "He wanted to capture the moment!",
-    "categories": ["history"],
-    "tags": ["historian", "past", "records"]
-  },
-  {
-    "id": 792,
-    "setup": "Why did the Roman emperor bring sunglasses?",
-    "punchline": "Because his future was looking bright!",
-    "categories": ["history"],
-    "tags": ["roman", "emperor", "future"]
-  },
-  {
-    "id": 793,
-    "setup": "Why did the knight bring an umbrella?",
-    "punchline": "In case it rained on his parade!",
-    "categories": ["history"],
-    "tags": ["knight", "medieval", "weather"]
-  },
-  {
-    "id": 794,
-    "setup": "Why did the Egyptian scribe love pictures?",
-    "punchline": "They really spoke a thousand words!",
-    "categories": ["history"],
-    "tags": ["hieroglyphics", "egypt", "writing"]
-  },
-  {
-    "id": 795,
-    "setup": "Why did the mammoth wear earmuffs?",
-    "punchline": "Because the Ice Age was chilling!",
-    "categories": ["history"],
-    "tags": ["mammoth", "ice age", "cold"]
-  },
-  {
-    "id": 796,
-    "setup": "Why did the Founding Fathers carry notebooks?",
-    "punchline": "They didn’t want to forget their notes!",
-    "categories": ["history"],
-    "tags": ["founding fathers", "documents", "government"]
-  },
-  {
-    "id": 797,
-    "setup": "Why did the ancient scroll get applause?",
-    "punchline": "It really rolled out the facts!",
-    "categories": ["history"],
-    "tags": ["scroll", "writing", "ancient"]
-  },
-  {
-    "id": 798,
-    "setup": "Why did the medieval musician tune his lute twice?",
-    "punchline": "He wanted it to sound lute-ly perfect!",
-    "categories": ["history"],
-    "tags": ["lute", "music", "medieval"]
-  },
-  {
-    "id": 799,
-    "setup": "Why did the sundial bring a watch?",
-    "punchline": "To keep up with the times!",
-    "categories": ["history"],
-    "tags": ["sundial", "time", "ancient"]
-  },
-  {
-    "id": 800,
-    "setup": "Why did the history teacher smile at the end of class?",
-    "punchline": "Because the lesson was officially history!",
-    "categories": ["history"],
-    "tags": ["teacher", "history", "school"]
-  },
+      "id": 702,
+      "setup": "What did the Medieval knight say when he saw a dragon?",
+      "punchline": "Well, that's a fire time to leave!",
+      "categories": [
+        "history",
+        "fantasy"
+      ],
+      "tags": [
+        "knight",
+        "dragon",
+        "medieval",
+        "fire",
+        "wordplay",
+        "fine time",
+        "escape"
+      ]
+    },
+    {
+      "id": 703,
+      "setup": "Why was the Egyptian pharaoh so confident?",
+      "punchline": "Because he was in de-Nile!",
+      "categories": [
+        "history",
+        "geography"
+      ],
+      "tags": [
+        "pharaoh",
+        "egypt",
+        "denial",
+        "nile",
+        "wordplay",
+        "confident",
+        "river"
+      ]
+    },
+    {
+      "id": 704,
+      "setup": "What do you call a Roman emperor with a cold?",
+      "punchline": "Julius Sneezer!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "roman",
+        "emperor",
+        "julius caesar",
+        "sneeze",
+        "wordplay",
+        "cold",
+        "sick"
+      ]
+    },
+    {
+      "id": 705,
+      "setup": "Why did the history teacher break up with the math teacher?",
+      "punchline": "Because they had too many problems in the past!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "teacher",
+        "breakup",
+        "problems",
+        "past",
+        "wordplay",
+        "math",
+        "relationship"
+      ]
+    },
+    {
+      "id": 706,
+      "setup": "What was the most popular dance in colonial America?",
+      "punchline": "The indepen-dance!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "colonial",
+        "america",
+        "dance",
+        "independence",
+        "wordplay",
+        "revolution",
+        "patriotic"
+      ]
+    },
+    {
+      "id": 707,
+      "setup": "Why did the Viking buy a boat?",
+      "punchline": "It was on sail!",
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "viking",
+        "boat",
+        "sale",
+        "sail",
+        "wordplay",
+        "norse",
+        "shopping"
+      ]
+    },
+    {
+      "id": 708,
+      "setup": "What did the ancient Greek say when his toga ripped?",
+      "punchline": "Seams like I need a new one!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "greek",
+        "toga",
+        "seams",
+        "seems",
+        "wordplay",
+        "ancient",
+        "clothing"
+      ]
+    },
+    {
+      "id": 709,
+      "setup": "Why couldn't the mummy answer the phone?",
+      "punchline": "Because he was all wrapped up!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "mummy",
+        "phone",
+        "wrapped up",
+        "busy",
+        "wordplay",
+        "egypt",
+        "bandages"
+      ]
+    },
+    {
+      "id": 710,
+      "setup": "What's a pirate's favorite letter?",
+      "punchline": "You'd think it's R, but it's really the C!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "pirate",
+        "letter",
+        "sea",
+        "r",
+        "wordplay",
+        "ocean",
+        "alphabet"
+      ]
+    },
+    {
+      "id": 711,
+      "setup": "Why did Napoleon keep his hand in his jacket?",
+      "punchline": "Because he couldn't find a pocket!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "napoleon",
+        "hand",
+        "jacket",
+        "pocket",
+        "france",
+        "emperor",
+        "famous"
+      ]
+    },
+    {
+      "id": 712,
+      "setup": "What did the caveman say after inventing fire?",
+      "punchline": "This idea is really catching on!",
+      "categories": [
+        "history",
+        "science"
+      ],
+      "tags": [
+        "caveman",
+        "fire",
+        "invention",
+        "catching",
+        "wordplay",
+        "prehistoric",
+        "discovery"
+      ]
+    },
+    {
+      "id": 713,
+      "setup": "Why was the medieval dungeon so popular?",
+      "punchline": "Because it was cell-ebrated!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "medieval",
+        "dungeon",
+        "cell",
+        "celebrated",
+        "wordplay",
+        "prison",
+        "castle"
+      ]
+    },
+    {
+      "id": 714,
+      "setup": "What do you call a sleeping prehistoric reptile?",
+      "punchline": "A dino-snore!",
+      "categories": [
+        "history",
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "sleeping",
+        "snore",
+        "prehistoric",
+        "wordplay",
+        "reptile",
+        "nap"
+      ]
+    },
+    {
+      "id": 715,
+      "setup": "Why did the Pilgrim's pants keep falling down?",
+      "punchline": "Because their belt buckles were on their hats!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "pilgrim",
+        "pants",
+        "belt",
+        "buckle",
+        "hat",
+        "thanksgiving",
+        "wordplay"
+      ]
+    },
+    {
+      "id": 716,
+      "setup": "What did the Stone Age man say when he stubbed his toe?",
+      "punchline": "That rocks!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "stone age",
+        "rocks",
+        "toe",
+        "pain",
+        "wordplay",
+        "prehistoric",
+        "caveman"
+      ]
+    },
+    {
+      "id": 717,
+      "setup": "Why did George Washington have trouble sleeping?",
+      "punchline": "Because he couldn't lie!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "washington",
+        "sleeping",
+        "lie",
+        "honest",
+        "wordplay",
+        "president",
+        "cherry tree"
+      ]
+    },
+    {
+      "id": 718,
+      "setup": "What do you call a knight who's afraid to fight?",
+      "punchline": "Sir Render!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "knight",
+        "afraid",
+        "surrender",
+        "sir",
+        "wordplay",
+        "medieval",
+        "coward"
+      ]
+    },
+    {
+      "id": 719,
+      "setup": "Why did the Roman gladiator go to school?",
+      "punchline": "To get his Latin degree!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "roman",
+        "gladiator",
+        "school",
+        "latin",
+        "degree",
+        "wordplay",
+        "education"
+      ]
+    },
+    {
+      "id": 720,
+      "setup": "What did the Egyptian pyramid say to the other pyramid?",
+      "punchline": "How's your mummy?",
+      "categories": [
+        "history",
+        "family"
+      ],
+      "tags": [
+        "pyramid",
+        "egypt",
+        "mummy",
+        "mom",
+        "wordplay",
+        "ancient",
+        "greeting"
+      ]
+    },
+    {
+      "id": 721,
+      "setup": "Why was the Renaissance so illuminating?",
+      "punchline": "Because of all the bright ideas!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "renaissance",
+        "illuminating",
+        "bright ideas",
+        "art",
+        "wordplay",
+        "enlightenment",
+        "era"
+      ]
+    },
+    {
+      "id": 722,
+      "setup": "What do you call a medieval ruler who's always online?",
+      "punchline": "The Serfing King!",
+      "categories": [
+        "history",
+        "technology"
+      ],
+      "tags": [
+        "medieval",
+        "king",
+        "surfing",
+        "serf",
+        "wordplay",
+        "internet",
+        "ruler"
+      ]
+    },
+    {
+      "id": 723,
+      "setup": "Why did the Aztec refuse to fight?",
+      "punchline": "He didn't have the heart for it!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "aztec",
+        "fight",
+        "heart",
+        "sacrifice",
+        "wordplay",
+        "mexico",
+        "ancient"
+      ]
+    },
+    {
+      "id": 724,
+      "setup": "What was Cleopatra's favorite day of the week?",
+      "punchline": "Pharaoh-day!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "cleopatra",
+        "egypt",
+        "pharaoh",
+        "friday",
+        "wordplay",
+        "ancient",
+        "queen"
+      ]
+    },
+    {
+      "id": 725,
+      "setup": "Why did the samurai go to therapy?",
+      "punchline": "He had too many inner demons to fight!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "samurai",
+        "therapy",
+        "demons",
+        "fighting",
+        "wordplay",
+        "japan",
+        "mental health"
+      ]
+    },
+    {
+      "id": 726,
+      "setup": "What did Benjamin Franklin say when he discovered electricity?",
+      "punchline": "I'm shocked!",
+      "categories": [
+        "history",
+        "science"
+      ],
+      "tags": [
+        "franklin",
+        "electricity",
+        "shocked",
+        "discovery",
+        "wordplay",
+        "kite",
+        "invention"
+      ]
+    },
+    {
+      "id": 727,
+      "setup": "Why were the Dark Ages so dark?",
+      "punchline": "Because there were so many knights!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "dark ages",
+        "dark",
+        "knights",
+        "nights",
+        "wordplay",
+        "medieval",
+        "era"
+      ]
+    },
+    {
+      "id": 728,
+      "setup": "What do you call a Roman barber?",
+      "punchline": "A little Caesar!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "roman",
+        "barber",
+        "caesar",
+        "little",
+        "wordplay",
+        "haircut",
+        "emperor"
+      ]
+    },
+    {
+      "id": 729,
+      "setup": "Why did the ancient historian break up with his girlfriend?",
+      "punchline": "Because she had too much baggage from the past!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "historian",
+        "breakup",
+        "baggage",
+        "past",
+        "wordplay",
+        "relationship",
+        "ancient"
+      ]
+    },
+    {
+      "id": 730,
+      "setup": "What did the pirate say on his 80th birthday?",
+      "punchline": "Aye matey!",
+      "categories": [
+        "history",
+        "birthday"
+      ],
+      "tags": [
+        "pirate",
+        "birthday",
+        "eighty",
+        "aye matey",
+        "wordplay",
+        "age",
+        "celebration"
+      ]
+    },
+    {
+      "id": 731,
+      "setup": "Why did the Civil War soldier carry a pencil?",
+      "punchline": "In case he needed to draw his weapon!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "civil war",
+        "soldier",
+        "pencil",
+        "draw",
+        "weapon",
+        "wordplay",
+        "american"
+      ]
+    },
+    {
+      "id": 732,
+      "setup": "What do you call an ancient Egyptian who was a stand-up comedian?",
+      "punchline": "A mummy who really killed it!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "egyptian",
+        "mummy",
+        "comedian",
+        "killed it",
+        "wordplay",
+        "ancient",
+        "funny"
+      ]
+    },
+    {
+      "id": 733,
+      "setup": "Why did the Medieval peasant do well in school?",
+      "punchline": "Because he was an A-serf student!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "medieval",
+        "peasant",
+        "serf",
+        "student",
+        "wordplay",
+        "grades",
+        "education"
+      ]
+    },
+    {
+      "id": 734,
+      "setup": "What did the Viking name his son?",
+      "punchline": "Leif... because he wanted him to branch out!",
+      "categories": [
+        "history",
+        "family"
+      ],
+      "tags": [
+        "viking",
+        "son",
+        "leif",
+        "leaf",
+        "branch",
+        "wordplay",
+        "norse"
+      ]
+    },
+    {
+      "id": 735,
+      "setup": "Why was the wheel the greatest invention in history?",
+      "punchline": "Because it got things rolling!",
+      "categories": [
+        "history",
+        "science"
+      ],
+      "tags": [
+        "wheel",
+        "invention",
+        "rolling",
+        "history",
+        "wordplay",
+        "ancient",
+        "transportation"
+      ]
+    },
+    {
+      "id": 736,
+      "setup": "What did the Greek philosopher say to his student?",
+      "punchline": "I'm Plato-nically proud of you!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "greek",
+        "philosopher",
+        "plato",
+        "platonic",
+        "wordplay",
+        "student",
+        "ancient"
+      ]
+    },
+    {
+      "id": 737,
+      "setup": "Why did the Medieval king go to the dentist?",
+      "punchline": "To get his crown checked!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "king",
+        "dentist",
+        "crown",
+        "teeth",
+        "wordplay",
+        "medieval",
+        "royalty"
+      ]
+    },
+    {
+      "id": 738,
+      "setup": "What do you call a Spartan who loves to garden?",
+      "punchline": "A warrior with a green thumb!",
+      "categories": [
+        "history",
+        "outdoors"
+      ],
+      "tags": [
+        "spartan",
+        "garden",
+        "warrior",
+        "green thumb",
+        "wordplay",
+        "greek",
+        "plants"
+      ]
+    },
+    {
+      "id": 739,
+      "setup": "Why did the history book go to the doctor?",
+      "punchline": "Because it had a broken spine!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "history book",
+        "doctor",
+        "spine",
+        "broken",
+        "wordplay",
+        "reading",
+        "injury"
+      ]
+    },
+    {
+      "id": 740,
+      "setup": "What did Abraham Lincoln say after a bad day?",
+      "punchline": "I need to log out for a while!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "lincoln",
+        "log cabin",
+        "log out",
+        "bad day",
+        "wordplay",
+        "president",
+        "american"
+      ]
+    },
+    {
+      "id": 741,
+      "setup": "Why did the conquistador bring a ladder to Mexico?",
+      "punchline": "Because he heard the stakes were high!",
+      "categories": [
+        "history",
+        "geography"
+      ],
+      "tags": [
+        "conquistador",
+        "ladder",
+        "mexico",
+        "stakes",
+        "wordplay",
+        "spanish",
+        "exploration"
+      ]
+    },
+    {
+      "id": 742,
+      "setup": "What did the ancient Roman say at the salad bar?",
+      "punchline": "Romaine calm, everyone!",
+      "categories": [
+        "history",
+        "food"
+      ],
+      "tags": [
+        "roman",
+        "salad",
+        "romaine",
+        "remain calm",
+        "wordplay",
+        "lettuce",
+        "ancient"
+      ]
+    },
+    {
+      "id": 743,
+      "setup": "Why was the Medieval castle always so cold?",
+      "punchline": "Because it was full of drafts!",
+      "categories": [
+        "history",
+        "home"
+      ],
+      "tags": [
+        "castle",
+        "cold",
+        "drafts",
+        "medieval",
+        "wordplay",
+        "architecture",
+        "wind"
+      ]
+    },
+    {
+      "id": 744,
+      "setup": "What did the Ottoman say when someone sat on his furniture?",
+      "punchline": "That's my empire you're sitting on!",
+      "categories": [
+        "history",
+        "home"
+      ],
+      "tags": [
+        "ottoman",
+        "furniture",
+        "empire",
+        "sitting",
+        "wordplay",
+        "turkish",
+        "couch"
+      ]
+    },
+    {
+      "id": 745,
+      "setup": "Why did the ancient Greek athlete win every race?",
+      "punchline": "Because he was always ahead of his time!",
+      "categories": [
+        "history",
+        "sports"
+      ],
+      "tags": [
+        "greek",
+        "athlete",
+        "race",
+        "ahead",
+        "time",
+        "wordplay",
+        "olympics"
+      ]
+    },
+    {
+      "id": 746,
+      "setup": "What do you call a Medieval messenger who's always late?",
+      "punchline": "A slow-courier!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "medieval",
+        "messenger",
+        "late",
+        "courier",
+        "wordplay",
+        "slow",
+        "delivery"
+      ]
+    },
+    {
+      "id": 747,
+      "setup": "Why did the Egyptian queen use so much makeup?",
+      "punchline": "Because she wanted to look Cleo-fabulous!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "egyptian",
+        "cleopatra",
+        "makeup",
+        "fabulous",
+        "wordplay",
+        "queen",
+        "beauty"
+      ]
+    },
+    {
+      "id": 748,
+      "setup": "What did the time traveler say after visiting Ancient Rome?",
+      "punchline": "That was a blast from the past!",
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "time traveler",
+        "rome",
+        "blast",
+        "past",
+        "wordplay",
+        "ancient",
+        "visiting"
+      ]
+    },
+    {
+      "id": 749,
+      "setup": "Why did the caveman's jokes always bomb?",
+      "punchline": "Because his delivery was too stone-faced!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "caveman",
+        "jokes",
+        "stone",
+        "faced",
+        "wordplay",
+        "prehistoric",
+        "comedy"
+      ]
+    },
+    {
+      "id": 750,
+      "setup": "What did the Founding Father say about the Constitution?",
+      "punchline": "It's right up my alley!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "founding father",
+        "constitution",
+        "rights",
+        "alley",
+        "wordplay",
+        "american",
+        "government"
+      ]
+    },
+    {
+      "id": 751,
+      "setup": "Why did the Medieval blacksmith do well in school?",
+      "punchline": "Because he always struck while the iron was hot!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "blacksmith",
+        "school",
+        "iron",
+        "hot",
+        "wordplay",
+        "medieval",
+        "forge"
+      ]
+    },
+    {
+      "id": 752,
+      "setup": "What did the ancient Greek say when he broke his chair?",
+      "punchline": "Looks like I need to take a Stoic approach!",
+      "categories": [
+        "history",
+        "home"
+      ],
+      "tags": [
+        "greek",
+        "chair",
+        "stoic",
+        "philosophy",
+        "wordplay",
+        "ancient",
+        "broken"
+      ]
+    },
+    {
+      "id": 753,
+      "setup": "Why did the pirate fail his exam?",
+      "punchline": "Because he got caught on the high C's!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "pirate",
+        "exam",
+        "seas",
+        "c grades",
+        "wordplay",
+        "high",
+        "failing"
+      ]
+    },
+    {
+      "id": 754,
+      "setup": "What did the pharaoh say when he saw the sphinx?",
+      "punchline": "That's sphinx-credible!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "pharaoh",
+        "sphinx",
+        "incredible",
+        "egypt",
+        "wordplay",
+        "ancient",
+        "monument"
+      ]
+    },
+    {
+      "id": 755,
+      "setup": "Why did the Revolutionary War soldier use a quill pen?",
+      "punchline": "Because he wanted to write his wrongs!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "revolutionary war",
+        "soldier",
+        "quill",
+        "write",
+        "rights",
+        "wordplay",
+        "american"
+      ]
+    },
+    {
+      "id": 756,
+      "setup": "What did the Mongol warrior say before battle?",
+      "punchline": "Let's get this show on the horde!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "mongol",
+        "warrior",
+        "horde",
+        "road",
+        "wordplay",
+        "battle",
+        "genghis khan"
+      ]
+    },
+    {
+      "id": 757,
+      "setup": "Why did the ancient library burn down?",
+      "punchline": "Because someone left their Alexandria candle burning!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "library",
+        "alexandria",
+        "fire",
+        "candle",
+        "wordplay",
+        "ancient",
+        "egypt"
+      ]
+    },
+    {
+      "id": 758,
+      "setup": "What did the Medieval jester say to the king?",
+      "punchline": "I'm just clowning around, your majesty!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "jester",
+        "king",
+        "clown",
+        "medieval",
+        "wordplay",
+        "comedy",
+        "royalty"
+      ]
+    },
+    {
+      "id": 759,
+      "setup": "Why was the Boston Tea Party so successful?",
+      "punchline": "Because they really knew how to steep things up!",
+      "categories": [
+        "history",
+        "food"
+      ],
+      "tags": [
+        "boston",
+        "tea party",
+        "steep",
+        "stir",
+        "wordplay",
+        "american",
+        "revolution"
+      ]
+    },
+    {
+      "id": 760,
+      "setup": "What did Caesar say to Brutus at the gym?",
+      "punchline": "Et tu, Brute? Even you work out?",
+      "categories": [
+        "history",
+        "sports"
+      ],
+      "tags": [
+        "caesar",
+        "brutus",
+        "gym",
+        "et tu",
+        "wordplay",
+        "roman",
+        "workout"
+      ]
+    },
+    {
+      "id": 761,
+      "setup": "Why did the dinosaur refuse to fight?",
+      "punchline": "Because he was a paci-saurus!",
+      "categories": [
+        "history",
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "fight",
+        "pacifist",
+        "saurus",
+        "wordplay",
+        "prehistoric",
+        "peaceful"
+      ]
+    },
+    {
+      "id": 762,
+      "setup": "What did the ancient Mayan say about their calendar?",
+      "punchline": "It's really ahead of its time!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "mayan",
+        "calendar",
+        "ahead",
+        "time",
+        "wordplay",
+        "ancient",
+        "mexico"
+      ]
+    },
+    {
+      "id": 763,
+      "setup": "Why did the Medieval archer win the talent show?",
+      "punchline": "Because he hit all the right notes... and targets!",
+      "categories": [
+        "history",
+        "music"
+      ],
+      "tags": [
+        "archer",
+        "talent show",
+        "notes",
+        "targets",
+        "wordplay",
+        "medieval",
+        "bow"
+      ]
+    },
+    {
+      "id": 764,
+      "setup": "What did the historian say at the party?",
+      "punchline": "Let me tell you, this is going down in history!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "historian",
+        "party",
+        "going down",
+        "history",
+        "wordplay",
+        "memorable",
+        "fun"
+      ]
+    },
+    {
+      "id": 765,
+      "setup": "Why did the mummy become a detective?",
+      "punchline": "Because he was great at wrapping up cases!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "mummy",
+        "detective",
+        "wrapping",
+        "cases",
+        "wordplay",
+        "egypt",
+        "mystery"
+      ]
+    },
+    {
+      "id": 766,
+      "setup": "What did the ancient Roman say about his chariot?",
+      "punchline": "It really gets me wheeling and dealing!",
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "roman",
+        "chariot",
+        "wheels",
+        "dealing",
+        "wordplay",
+        "ancient",
+        "transportation"
+      ]
+    },
+    {
+      "id": 767,
+      "setup": "Why did the Medieval knight always win at chess?",
+      "punchline": "Because he knew all the right moves!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "knight",
+        "chess",
+        "moves",
+        "winning",
+        "wordplay",
+        "medieval",
+        "strategy"
+      ]
+    },
+    {
+      "id": 768,
+      "setup": "What did the ancient Greek inventor say?",
+      "punchline": "Eureka! I've found it... my lost sock!",
+      "categories": [
+        "history",
+        "home"
+      ],
+      "tags": [
+        "greek",
+        "eureka",
+        "inventor",
+        "archimedes",
+        "wordplay",
+        "discovery",
+        "lost"
+      ]
+    },
+    {
+      "id": 769,
+      "setup": "Why did the Tudor king have so many wives?",
+      "punchline": "Because he kept losing his head over them!",
+      "categories": [
+        "history",
+        "family"
+      ],
+      "tags": [
+        "tudor",
+        "henry viii",
+        "wives",
+        "head",
+        "wordplay",
+        "england",
+        "king"
+      ]
+    },
+    {
+      "id": 770,
+      "setup": "What did the Civil War general say about his strategy?",
+      "punchline": "I'm divided on the issue!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "civil war",
+        "general",
+        "divided",
+        "strategy",
+        "wordplay",
+        "american",
+        "conflict"
+      ]
+    },
+    {
+      "id": 771,
+      "setup": "Why did the Egyptian architect do well in math?",
+      "punchline": "Because he knew all the angles on the pyramids!",
+      "categories": [
+        "history",
+        "math"
+      ],
+      "tags": [
+        "egyptian",
+        "architect",
+        "angles",
+        "pyramids",
+        "wordplay",
+        "math",
+        "building"
+      ]
+    },
+    {
+      "id": 772,
+      "setup": "What did the Medieval peasant say about his farm?",
+      "punchline": "It's not much, but it's honest serf-work!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "medieval",
+        "peasant",
+        "serf",
+        "farm",
+        "wordplay",
+        "honest",
+        "labor"
+      ]
+    },
+    {
+      "id": 773,
+      "setup": "Why did the ancient philosopher cross the road?",
+      "punchline": "To question why the chicken did it first!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "philosopher",
+        "crossing",
+        "chicken",
+        "question",
+        "wordplay",
+        "ancient",
+        "thinking"
+      ]
+    },
+    {
+      "id": 774,
+      "setup": "What did the Viking say when he discovered new land?",
+      "punchline": "This is Norse-thing compared to home!",
+      "categories": [
+        "history",
+        "geography"
+      ],
+      "tags": [
+        "viking",
+        "discovery",
+        "norse",
+        "nothing",
+        "wordplay",
+        "exploration",
+        "land"
+      ]
+    },
+    {
+      "id": 775,
+      "setup": "Why was the Ancient Greek pottery so popular?",
+      "punchline": "Because it was always in vase demand!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "greek",
+        "pottery",
+        "vase",
+        "vast",
+        "wordplay",
+        "ancient",
+        "art"
+      ]
+    },
+    {
+      "id": 776,
+      "setup": "What did the castle guard say to the visitor?",
+      "punchline": "Welcome to our humble moat-el!",
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "castle",
+        "guard",
+        "moat",
+        "motel",
+        "wordplay",
+        "medieval",
+        "welcome"
+      ]
+    },
+    {
+      "id": 777,
+      "setup": "Why did the caveman's wife leave him?",
+      "punchline": "Because he took her for granite!",
+      "categories": [
+        "history",
+        "family"
+      ],
+      "tags": [
+        "caveman",
+        "wife",
+        "granite",
+        "granted",
+        "wordplay",
+        "prehistoric",
+        "relationship"
+      ]
+    },
+    {
+      "id": 778,
+      "setup": "What did Socrates say at the coffee shop?",
+      "punchline": "I think, therefore I espresso!",
+      "categories": [
+        "history",
+        "food"
+      ],
+      "tags": [
+        "socrates",
+        "coffee",
+        "espresso",
+        "think",
+        "wordplay",
+        "philosophy",
+        "greek"
+      ]
+    },
+    {
+      "id": 779,
+      "setup": "Why did the Revolutionary soldiers march in a line?",
+      "punchline": "Because they were following orders!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "revolutionary",
+        "soldiers",
+        "marching",
+        "orders",
+        "wordplay",
+        "american",
+        "military"
+      ]
+    },
+    {
+      "id": 780,
+      "setup": "What did the pharaoh say when he was annoyed?",
+      "punchline": "Tut, tut, tut!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "pharaoh",
+        "annoyed",
+        "tut",
+        "tutankhamun",
+        "wordplay",
+        "egypt",
+        "frustration"
+      ]
+    },
+    {
+      "id": 781,
+      "setup": "Why did the ancient library close early?",
+      "punchline": "Because they wanted to book it out of there!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "library",
+        "book",
+        "close",
+        "ancient",
+        "wordplay",
+        "reading",
+        "leaving"
+      ]
+    },
+    {
+      "id": 782,
+      "setup": "What did the Medieval cook say about his soup?",
+      "punchline": "It's fit for a king... or at least a duke!",
+      "categories": [
+        "history",
+        "food"
+      ],
+      "tags": [
+        "medieval",
+        "cook",
+        "soup",
+        "king",
+        "duke",
+        "wordplay",
+        "royalty"
+      ]
+    },
+    {
+      "id": 783,
+      "setup": "Why did the ancient Roman road last so long?",
+      "punchline": "Because it was built with concrete evidence of good engineering!",
+      "categories": [
+        "history",
+        "science"
+      ],
+      "tags": [
+        "roman",
+        "road",
+        "concrete",
+        "evidence",
+        "wordplay",
+        "engineering",
+        "ancient"
+      ]
+    },
+    {
+      "id": 784,
+      "setup": "What did the Trojan say when he saw the wooden horse?",
+      "punchline": "That's a gift horse I shouldn't look in the mouth!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "trojan",
+        "horse",
+        "gift",
+        "mouth",
+        "wordplay",
+        "greek",
+        "war"
+      ]
+    },
+    {
+      "id": 785,
+      "setup": "Why did the Medieval knight refuse dessert?",
+      "punchline": "Because he was already stuffed into his armor!",
+      "categories": [
+        "history",
+        "food"
+      ],
+      "tags": [
+        "knight",
+        "dessert",
+        "stuffed",
+        "armor",
+        "wordplay",
+        "medieval",
+        "eating"
+      ]
+    },
+    {
+      "id": 786,
+      "setup": "What did the ancient Greek say after running a marathon?",
+      "punchline": "That was a long run-ion!",
+      "categories": [
+        "history",
+        "sports"
+      ],
+      "tags": [
+        "greek",
+        "marathon",
+        "running",
+        "reunion",
+        "wordplay",
+        "ancient",
+        "race"
+      ]
+    },
+    {
+      "id": 787,
+      "setup": "Why did the Elizabethan actor break character?",
+      "punchline": "Because the play was too dramatic!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "elizabethan",
+        "actor",
+        "shakespeare",
+        "dramatic",
+        "wordplay",
+        "theater",
+        "play"
+      ]
+    },
+    {
+      "id": 788,
+      "setup": "What did the ancient Chinese philosopher say about wisdom?",
+      "punchline": "Confucius say: man who learns from history doesn't repeat bad jokes!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "confucius",
+        "philosophy",
+        "wisdom",
+        "history",
+        "wordplay",
+        "chinese",
+        "ancient"
+      ]
+    },
+    {
+      "id": 789,
+      "setup": "Why did the pyramid fail its driving test?",
+      "punchline": "Because it couldn't make any turns!",
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "pyramid",
+        "driving",
+        "turns",
+        "egypt",
+        "wordplay",
+        "ancient",
+        "shape"
+      ]
+    },
+    {
+      "id": 790,
+      "setup": "What did the Medieval lord say about his land?",
+      "punchline": "It's all mine... and yours if you're a serf!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "medieval",
+        "lord",
+        "land",
+        "serf",
+        "wordplay",
+        "feudal",
+        "ownership"
+      ]
+    },
+    {
+      "id": 791,
+      "setup": "Why did the ancient historian get fired?",
+      "punchline": "Because he kept living in the past!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "historian",
+        "fired",
+        "past",
+        "living",
+        "wordplay",
+        "ancient",
+        "career"
+      ]
+    },
+    {
+      "id": 792,
+      "setup": "What did the Roman emperor say about his new robe?",
+      "punchline": "It's toga-tally awesome!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "roman",
+        "emperor",
+        "toga",
+        "totally",
+        "wordplay",
+        "clothing",
+        "ancient"
+      ]
+    },
+    {
+      "id": 793,
+      "setup": "Why did the Medieval knight always carry a spare horse?",
+      "punchline": "In case he needed to horse around!",
+      "categories": [
+        "history",
+        "animals"
+      ],
+      "tags": [
+        "knight",
+        "horse",
+        "spare",
+        "horse around",
+        "wordplay",
+        "medieval",
+        "riding"
+      ]
+    },
+    {
+      "id": 794,
+      "setup": "What did the ancient Egyptian say about hieroglyphics?",
+      "punchline": "It's not just writing, it's picture perfect!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "egyptian",
+        "hieroglyphics",
+        "writing",
+        "picture",
+        "wordplay",
+        "ancient",
+        "symbols"
+      ]
+    },
+    {
+      "id": 795,
+      "setup": "Why did the Ice Age mammoth feel cold?",
+      "punchline": "Because the climate was getting to him!",
+      "categories": [
+        "history",
+        "animals"
+      ],
+      "tags": [
+        "ice age",
+        "mammoth",
+        "cold",
+        "climate",
+        "wordplay",
+        "prehistoric",
+        "weather"
+      ]
+    },
+    {
+      "id": 796,
+      "setup": "What did the founding fathers say about democracy?",
+      "punchline": "It's a representatively great idea!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "founding fathers",
+        "democracy",
+        "representative",
+        "idea",
+        "wordplay",
+        "american",
+        "government"
+      ]
+    },
+    {
+      "id": 797,
+      "setup": "Why did the ancient scroll get a promotion?",
+      "punchline": "Because it was on a roll!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "scroll",
+        "promotion",
+        "roll",
+        "ancient",
+        "wordplay",
+        "writing",
+        "success"
+      ]
+    },
+    {
+      "id": 798,
+      "setup": "What did the Medieval musician say about his lute?",
+      "punchline": "It's absolutely lute-iful!",
+      "categories": [
+        "history",
+        "music"
+      ],
+      "tags": [
+        "medieval",
+        "musician",
+        "lute",
+        "beautiful",
+        "wordplay",
+        "instrument",
+        "music"
+      ]
+    },
+    {
+      "id": 799,
+      "setup": "Why did the ancient sundial go to school?",
+      "punchline": "To get a better understanding of the times!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "sundial",
+        "school",
+        "times",
+        "ancient",
+        "wordplay",
+        "clock",
+        "education"
+      ]
+    },
+    {
+      "id": 800,
+      "setup": "What did the history teacher say on the last day of class?",
+      "punchline": "Well, that's history!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "teacher",
+        "class",
+        "history",
+        "ending",
+        "wordplay",
+        "school",
+        "final"
+      ]
+    },
     {
     "id": 801,
     "setup": "Why did Santa go to music school?",
