@@ -4,1401 +4,3510 @@
       "id": 1,
       "setup": "Why don't cats play poker in the jungle?",
       "punchline": "Too many cheetahs!",
-      "categories": ["animals"],
-      "tags": ["cats", "jungle", "games", "cheating", "wordplay", "cards", "wildlife"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "cats",
+        "jungle",
+        "games",
+        "cheating",
+        "wordplay",
+        "cards",
+        "wildlife"
+      ]
     },
     {
       "id": 2,
       "setup": "What do you call a fish without eyes?",
       "punchline": "A fsh!",
-      "categories": ["animals"],
-      "tags": ["fish", "ocean", "spelling", "wordplay", "classic", "sea", "marine"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "ocean",
+        "spelling",
+        "wordplay",
+        "classic",
+        "sea",
+        "marine"
+      ]
     },
     {
       "id": 3,
       "setup": "What do you call a sleeping dinosaur?",
       "punchline": "A dino-snore!",
-      "categories": ["animals"],
-      "tags": ["dinosaurs", "sleeping", "snoring", "wordplay", "kids", "prehistoric", "bedtime"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dinosaurs",
+        "sleeping",
+        "snoring",
+        "wordplay",
+        "kids",
+        "prehistoric",
+        "bedtime"
+      ]
     },
     {
       "id": 4,
       "setup": "What do you call an obnoxious reindeer?",
       "punchline": "Rude-olph!",
-      "categories": ["animals", "holidays"],
-      "tags": ["christmas", "reindeer", "rudolph", "rude", "winter", "santa", "wordplay"]
+      "categories": [
+        "animals",
+        "holidays"
+      ],
+      "tags": [
+        "christmas",
+        "reindeer",
+        "rudolph",
+        "rude",
+        "winter",
+        "santa",
+        "wordplay"
+      ]
     },
     {
       "id": 5,
       "setup": "What do you call two spiders who just got married?",
       "punchline": "Newlywebs!",
-      "categories": ["animals", "wedding"],
-      "tags": ["spiders", "newlyweds", "webs", "marriage", "wordplay", "insects", "love"]
+      "categories": [
+        "animals",
+        "wedding"
+      ],
+      "tags": [
+        "spiders",
+        "newlyweds",
+        "webs",
+        "marriage",
+        "wordplay",
+        "insects",
+        "love"
+      ]
     },
     {
       "id": 6,
       "setup": "What do you call a bear with no teeth?",
       "punchline": "A gummy bear!",
-      "categories": ["animals"],
-      "tags": ["bears", "teeth", "candy", "wordplay", "classic", "wildlife", "dentist"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "bears",
+        "teeth",
+        "candy",
+        "wordplay",
+        "classic",
+        "wildlife",
+        "dentist"
+      ]
     },
     {
       "id": 7,
       "setup": "Why do cows wear bells?",
       "punchline": "Because their horns don't work!",
-      "categories": ["animals"],
-      "tags": ["cows", "farm", "bells", "horns", "wordplay", "classic", "livestock"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "cows",
+        "farm",
+        "bells",
+        "horns",
+        "wordplay",
+        "classic",
+        "livestock"
+      ]
     },
     {
       "id": 8,
       "setup": "What do you call a dinosaur that crashes their car?",
       "punchline": "Tyrannosaurus Wrecks!",
-      "categories": ["animals"],
-      "tags": ["dinosaurs", "cars", "accidents", "t-rex", "wordplay", "prehistoric", "driving"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dinosaurs",
+        "cars",
+        "accidents",
+        "t-rex",
+        "wordplay",
+        "prehistoric",
+        "driving"
+      ]
     },
     {
       "id": 9,
       "setup": "Why don't elephants use computers?",
       "punchline": "Because they're afraid of the mouse!",
-      "categories": ["animals", "technology"],
-      "tags": ["elephants", "computers", "mouse", "scared", "wordplay", "wildlife", "tech"]
+      "categories": [
+        "animals",
+        "technology"
+      ],
+      "tags": [
+        "elephants",
+        "computers",
+        "mouse",
+        "scared",
+        "wordplay",
+        "wildlife",
+        "tech"
+      ]
     },
     {
       "id": 10,
       "setup": "What do you call a lazy kangaroo?",
       "punchline": "A pouch potato!",
-      "categories": ["animals"],
-      "tags": ["kangaroo", "lazy", "couch potato", "australia", "wordplay", "marsupial", "tv"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "kangaroo",
+        "lazy",
+        "couch potato",
+        "australia",
+        "wordplay",
+        "marsupial",
+        "tv"
+      ]
     },
     {
       "id": 11,
-      "setup": "Why did the chicken go to the s\u00e9ance?",
+      "setup": "Why did the chicken go to the séance?",
       "punchline": "To get to the other side!",
-      "categories": ["animals"],
-      "tags": ["chicken", "crossing road", "classic", "wordplay", "twist", "supernatural", "ghosts"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "chicken",
+        "crossing road",
+        "classic",
+        "wordplay",
+        "twist",
+        "supernatural",
+        "ghosts"
+      ]
     },
     {
       "id": 12,
       "setup": "What do you call a pig that does karate?",
       "punchline": "A pork chop!",
-      "categories": ["animals", "sports"],
-      "tags": ["pig", "karate", "martial arts", "food", "wordplay", "farm", "fighting"]
+      "categories": [
+        "animals",
+        "sports"
+      ],
+      "tags": [
+        "pig",
+        "karate",
+        "martial arts",
+        "food",
+        "wordplay",
+        "farm",
+        "fighting"
+      ]
     },
     {
       "id": 13,
       "setup": "Why are frogs so happy?",
       "punchline": "They eat whatever bugs them!",
-      "categories": ["animals"],
-      "tags": ["frogs", "bugs", "happy", "eating", "wordplay", "amphibians", "insects"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "frogs",
+        "bugs",
+        "happy",
+        "eating",
+        "wordplay",
+        "amphibians",
+        "insects"
+      ]
     },
     {
       "id": 14,
       "setup": "What do you call a cow with no legs?",
       "punchline": "Ground beef!",
-      "categories": ["animals", "food"],
-      "tags": ["cow", "beef", "legs", "wordplay", "classic", "farm", "meat"]
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "cow",
+        "beef",
+        "legs",
+        "wordplay",
+        "classic",
+        "farm",
+        "meat"
+      ]
     },
     {
       "id": 15,
       "setup": "Why did the duck go to rehab?",
       "punchline": "Because he was a quack addict!",
-      "categories": ["animals"],
-      "tags": ["duck", "quack", "rehab", "wordplay", "birds", "addiction", "water"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "duck",
+        "quack",
+        "rehab",
+        "wordplay",
+        "birds",
+        "addiction",
+        "water"
+      ]
     },
     {
       "id": 16,
       "setup": "What do you call a fish that wears a bowtie?",
       "punchline": "So-fish-ticated!",
-      "categories": ["animals"],
-      "tags": ["fish", "fancy", "fashion", "bowtie", "wordplay", "ocean", "sophisticated"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "fancy",
+        "fashion",
+        "bowtie",
+        "wordplay",
+        "ocean",
+        "sophisticated"
+      ]
     },
     {
       "id": 17,
       "setup": "Why don't oysters share?",
       "punchline": "Because they're shellfish!",
-      "categories": ["animals"],
-      "tags": ["oysters", "selfish", "sharing", "shellfish", "wordplay", "ocean", "seafood"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "oysters",
+        "selfish",
+        "sharing",
+        "shellfish",
+        "wordplay",
+        "ocean",
+        "seafood"
+      ]
     },
     {
       "id": 18,
       "setup": "What do you call a dog magician?",
       "punchline": "A Labracadabrador!",
-      "categories": ["animals"],
-      "tags": ["dog", "magic", "labrador", "abracadabra", "wordplay", "pets", "tricks"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dog",
+        "magic",
+        "labrador",
+        "abracadabra",
+        "wordplay",
+        "pets",
+        "tricks"
+      ]
     },
     {
       "id": 19,
       "setup": "Why do bees have sticky hair?",
       "punchline": "Because they use honeycombs!",
-      "categories": ["animals"],
-      "tags": ["bees", "honey", "hair", "combs", "wordplay", "insects", "grooming"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "bees",
+        "honey",
+        "hair",
+        "combs",
+        "wordplay",
+        "insects",
+        "grooming"
+      ]
     },
     {
       "id": 20,
       "setup": "What do you call a deer with no eyes?",
       "punchline": "No eye-deer!",
-      "categories": ["animals"],
-      "tags": ["deer", "eyes", "no idea", "wordplay", "classic", "wildlife", "hunting"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "deer",
+        "eyes",
+        "no idea",
+        "wordplay",
+        "classic",
+        "wildlife",
+        "hunting"
+      ]
     },
     {
       "id": 21,
       "setup": "Why did the spider go to the computer?",
       "punchline": "To check his website!",
-      "categories": ["animals", "technology"],
-      "tags": ["spider", "computer", "website", "web", "wordplay", "internet", "insects"]
+      "categories": [
+        "animals",
+        "technology"
+      ],
+      "tags": [
+        "spider",
+        "computer",
+        "website",
+        "web",
+        "wordplay",
+        "internet",
+        "insects"
+      ]
     },
     {
       "id": 22,
       "setup": "What do you call a dinosaur that knows a lot of words?",
       "punchline": "A thesaurus!",
-      "categories": ["animals", "school"],
-      "tags": ["dinosaur", "thesaurus", "words", "vocabulary", "wordplay", "prehistoric", "books"]
+      "categories": [
+        "animals",
+        "school"
+      ],
+      "tags": [
+        "dinosaur",
+        "thesaurus",
+        "words",
+        "vocabulary",
+        "wordplay",
+        "prehistoric",
+        "books"
+      ]
     },
     {
       "id": 23,
       "setup": "Why did the cow cross the road?",
       "punchline": "To get to the udder side!",
-      "categories": ["animals"],
-      "tags": ["cow", "crossing road", "udder", "other", "wordplay", "classic", "farm"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "cow",
+        "crossing road",
+        "udder",
+        "other",
+        "wordplay",
+        "classic",
+        "farm"
+      ]
     },
     {
       "id": 24,
       "setup": "What do you call a cat that gets anything it wants?",
       "punchline": "Purrr-suasive!",
-      "categories": ["animals"],
-      "tags": ["cat", "purr", "persuasive", "wordplay", "pets", "spoiled", "convincing"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "cat",
+        "purr",
+        "persuasive",
+        "wordplay",
+        "pets",
+        "spoiled",
+        "convincing"
+      ]
     },
     {
       "id": 25,
       "setup": "Why don't seagulls fly over the bay?",
       "punchline": "Because then they'd be bagels!",
-      "categories": ["animals", "food"],
-      "tags": ["seagulls", "bay", "bagels", "birds", "wordplay", "ocean", "beach"]
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "seagulls",
+        "bay",
+        "bagels",
+        "birds",
+        "wordplay",
+        "ocean",
+        "beach"
+      ]
     },
     {
       "id": 26,
       "setup": "What do you call a snake that's exactly 3.14 meters long?",
       "punchline": "A pi-thon!",
-      "categories": ["animals", "math"],
-      "tags": ["snake", "python", "pi", "math", "wordplay", "reptiles", "numbers"]
+      "categories": [
+        "animals",
+        "math"
+      ],
+      "tags": [
+        "snake",
+        "python",
+        "pi",
+        "math",
+        "wordplay",
+        "reptiles",
+        "numbers"
+      ]
     },
     {
       "id": 27,
       "setup": "Why do gorillas have big nostrils?",
       "punchline": "Because they have big fingers!",
-      "categories": ["animals"],
-      "tags": ["gorillas", "nose", "fingers", "picking", "wordplay", "apes", "gross"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "gorillas",
+        "nose",
+        "fingers",
+        "picking",
+        "wordplay",
+        "apes",
+        "gross"
+      ]
     },
     {
       "id": 28,
       "setup": "What do you call a sleeping bull?",
       "punchline": "A bulldozer!",
-      "categories": ["animals"],
-      "tags": ["bull", "sleeping", "bulldozer", "construction", "wordplay", "farm", "napping"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "bull",
+        "sleeping",
+        "bulldozer",
+        "construction",
+        "wordplay",
+        "farm",
+        "napping"
+      ]
     },
     {
       "id": 29,
       "setup": "Why did the turtle cross the road?",
       "punchline": "To get to the Shell station!",
-      "categories": ["animals"],
-      "tags": ["turtle", "shell", "gas station", "crossing road", "wordplay", "reptiles", "driving"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "turtle",
+        "shell",
+        "gas station",
+        "crossing road",
+        "wordplay",
+        "reptiles",
+        "driving"
+      ]
     },
     {
       "id": 30,
       "setup": "What do you call an alligator in a vest?",
       "punchline": "An investigator!",
-      "categories": ["animals"],
-      "tags": ["alligator", "vest", "investigator", "detective", "wordplay", "reptiles", "fashion"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "alligator",
+        "vest",
+        "investigator",
+        "detective",
+        "wordplay",
+        "reptiles",
+        "fashion"
+      ]
     },
     {
       "id": 31,
       "setup": "Why do hummingbirds hum?",
       "punchline": "Because they don't know the words!",
-      "categories": ["animals", "music"],
-      "tags": ["hummingbirds", "humming", "singing", "words", "birds", "music", "wordplay"]
+      "categories": [
+        "animals",
+        "music"
+      ],
+      "tags": [
+        "hummingbirds",
+        "humming",
+        "singing",
+        "words",
+        "birds",
+        "music",
+        "wordplay"
+      ]
     },
     {
       "id": 32,
       "setup": "What do you call a fish that practices medicine?",
       "punchline": "A sturgeon!",
-      "categories": ["animals"],
-      "tags": ["fish", "surgeon", "doctor", "medicine", "wordplay", "ocean", "hospital"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "surgeon",
+        "doctor",
+        "medicine",
+        "wordplay",
+        "ocean",
+        "hospital"
+      ]
     },
     {
       "id": 33,
       "setup": "Why did the horse go behind the tree?",
       "punchline": "To change his jockeys!",
-      "categories": ["animals", "sports"],
-      "tags": ["horse", "jockeys", "underwear", "changing", "wordplay", "racing", "privacy"]
+      "categories": [
+        "animals",
+        "sports"
+      ],
+      "tags": [
+        "horse",
+        "jockeys",
+        "underwear",
+        "changing",
+        "wordplay",
+        "racing",
+        "privacy"
+      ]
     },
     {
       "id": 34,
       "setup": "What do you call a monkey that loves Doritos?",
       "punchline": "A chip-monk!",
-      "categories": ["animals", "food"],
-      "tags": ["monkey", "chips", "chipmunk", "snacks", "wordplay", "doritos", "eating"]
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "monkey",
+        "chips",
+        "chipmunk",
+        "snacks",
+        "wordplay",
+        "doritos",
+        "eating"
+      ]
     },
     {
       "id": 35,
       "setup": "Why did the octopus beat the shark in a fight?",
       "punchline": "Because it was well-armed!",
-      "categories": ["animals"],
-      "tags": ["octopus", "shark", "arms", "fighting", "wordplay", "ocean", "tentacles"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "octopus",
+        "shark",
+        "arms",
+        "fighting",
+        "wordplay",
+        "ocean",
+        "tentacles"
+      ]
     },
     {
       "id": 36,
       "setup": "What do you call a bird that's afraid to fly?",
       "punchline": "Chicken!",
-      "categories": ["animals"],
-      "tags": ["bird", "chicken", "scared", "flying", "coward", "wordplay", "poultry"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "bird",
+        "chicken",
+        "scared",
+        "flying",
+        "coward",
+        "wordplay",
+        "poultry"
+      ]
     },
     {
       "id": 37,
       "setup": "Why do pandas like old movies?",
       "punchline": "Because they're in black and white!",
-      "categories": ["animals"],
-      "tags": ["pandas", "movies", "black and white", "classic films", "wordplay", "bears", "china"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "pandas",
+        "movies",
+        "black and white",
+        "classic films",
+        "wordplay",
+        "bears",
+        "china"
+      ]
     },
     {
       "id": 38,
       "setup": "What do you call a cow that plays an instrument?",
       "punchline": "A moo-sician!",
-      "categories": ["animals", "music"],
-      "tags": ["cow", "music", "musician", "moo", "wordplay", "farm", "instruments"]
+      "categories": [
+        "animals",
+        "music"
+      ],
+      "tags": [
+        "cow",
+        "music",
+        "musician",
+        "moo",
+        "wordplay",
+        "farm",
+        "instruments"
+      ]
     },
     {
       "id": 39,
       "setup": "Why did the lion eat the tightrope walker?",
       "punchline": "He wanted a well-balanced meal!",
-      "categories": ["animals"],
-      "tags": ["lion", "circus", "balance", "eating", "wordplay", "tightrope", "meal"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "lion",
+        "circus",
+        "balance",
+        "eating",
+        "wordplay",
+        "tightrope",
+        "meal"
+      ]
     },
     {
       "id": 40,
       "setup": "What do you call a freezing penguin?",
       "punchline": "A brrr-d!",
-      "categories": ["animals"],
-      "tags": ["penguin", "freezing", "cold", "bird", "wordplay", "ice", "arctic"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "penguin",
+        "freezing",
+        "cold",
+        "bird",
+        "wordplay",
+        "ice",
+        "arctic"
+      ]
     },
     {
       "id": 41,
       "setup": "Why don't dogs make good dancers?",
       "punchline": "Because they have two left feet!",
-      "categories": ["animals"],
-      "tags": ["dogs", "dancing", "feet", "clumsy", "wordplay", "pets", "paws"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dogs",
+        "dancing",
+        "feet",
+        "clumsy",
+        "wordplay",
+        "pets",
+        "paws"
+      ]
     },
     {
       "id": 42,
       "setup": "What do you call a group of disorganized cats?",
       "punchline": "A cat-astrophe!",
-      "categories": ["animals"],
-      "tags": ["cats", "catastrophe", "disorganized", "group", "wordplay", "pets", "disaster"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "cats",
+        "catastrophe",
+        "disorganized",
+        "group",
+        "wordplay",
+        "pets",
+        "disaster"
+      ]
     },
     {
       "id": 43,
-      "setup": "Why did the dinosaur refuse to wear deodorant?",
-      "punchline": "Because he didn't want to be ex-stinct!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "extinct", "stink", "deodorant", "wordplay", "prehistoric", "smelly"]
+      "setup": "Why did the dinosaur take a bath?",
+      "punchline": "To become ex-stinked!",
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "extinct",
+        "stink",
+        "bath",
+        "wordplay",
+        "prehistoric",
+        "smelly"
+      ]
     },
     {
       "id": 44,
       "setup": "What do you call a sheep with no legs?",
       "punchline": "A cloud!",
-      "categories": ["animals"],
-      "tags": ["sheep", "cloud", "legs", "fluffy", "wool", "farm", "sky"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "sheep",
+        "cloud",
+        "legs",
+        "fluffy",
+        "wool",
+        "farm",
+        "sky"
+      ]
     },
     {
       "id": 45,
       "setup": "Why do birds fly south for the winter?",
       "punchline": "Because it's too far to walk!",
-      "categories": ["animals", "travel"],
-      "tags": ["birds", "flying", "winter", "south", "walking", "migration", "seasons"]
+      "categories": [
+        "animals",
+        "travel"
+      ],
+      "tags": [
+        "birds",
+        "flying",
+        "winter",
+        "south",
+        "walking",
+        "migration",
+        "seasons"
+      ]
     },
     {
       "id": 46,
       "setup": "What do you call a rabbit with fleas?",
       "punchline": "Bugs Bunny!",
-      "categories": ["animals"],
-      "tags": ["rabbit", "fleas", "bugs bunny", "cartoon", "wordplay", "pets", "insects"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "rabbit",
+        "fleas",
+        "bugs bunny",
+        "cartoon",
+        "wordplay",
+        "pets",
+        "insects"
+      ]
     },
     {
       "id": 47,
       "setup": "Why did the cat sit on the computer?",
       "punchline": "To keep an eye on the mouse!",
-      "categories": ["animals", "technology"],
-      "tags": ["cat", "computer", "mouse", "watching", "wordplay", "pets", "tech"]
+      "categories": [
+        "animals",
+        "technology"
+      ],
+      "tags": [
+        "cat",
+        "computer",
+        "mouse",
+        "watching",
+        "wordplay",
+        "pets",
+        "tech"
+      ]
     },
     {
       "id": 48,
       "setup": "What do you call a dinosaur with an extensive vocabulary?",
       "punchline": "A Thesaurus Rex!",
-      "categories": ["animals", "school"],
-      "tags": ["dinosaur", "t-rex", "thesaurus", "vocabulary", "wordplay", "prehistoric", "words"]
+      "categories": [
+        "animals",
+        "school"
+      ],
+      "tags": [
+        "dinosaur",
+        "t-rex",
+        "thesaurus",
+        "vocabulary",
+        "wordplay",
+        "prehistoric",
+        "words"
+      ]
     },
     {
       "id": 49,
       "setup": "Why do elephants never forget?",
       "punchline": "Because nobody ever tells them anything!",
-      "categories": ["animals"],
-      "tags": ["elephants", "memory", "forget", "telling", "wordplay", "wildlife", "smart"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "elephants",
+        "memory",
+        "forget",
+        "telling",
+        "wordplay",
+        "wildlife",
+        "smart"
+      ]
     },
     {
       "id": 50,
       "setup": "What do you call a camel with no humps?",
       "punchline": "Humphrey!",
-      "categories": ["animals"],
-      "tags": ["camel", "humps", "humphrey", "name", "wordplay", "desert", "middle east"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "camel",
+        "humps",
+        "humphrey",
+        "name",
+        "wordplay",
+        "desert",
+        "middle east"
+      ]
     },
     {
       "id": 51,
       "setup": "Why did the pony get sent to his room?",
       "punchline": "He wouldn't stop horsing around!",
-      "categories": ["animals", "family"],
-      "tags": ["pony", "horse", "horsing around", "trouble", "wordplay", "kids", "punishment"]
+      "categories": [
+        "animals",
+        "family"
+      ],
+      "tags": [
+        "pony",
+        "horse",
+        "horsing around",
+        "trouble",
+        "wordplay",
+        "kids",
+        "punishment"
+      ]
     },
     {
       "id": 52,
       "setup": "What do you call a parrot that flew away?",
       "punchline": "A polygon!",
-      "categories": ["animals", "math"],
-      "tags": ["parrot", "polygon", "polly gone", "flying", "wordplay", "birds", "shapes"]
+      "categories": [
+        "animals",
+        "math"
+      ],
+      "tags": [
+        "parrot",
+        "polygon",
+        "polly gone",
+        "flying",
+        "wordplay",
+        "birds",
+        "shapes"
+      ]
     },
     {
       "id": 53,
       "setup": "Why are fish so smart?",
       "punchline": "Because they live in schools!",
-      "categories": ["animals", "school"],
-      "tags": ["fish", "smart", "schools", "ocean", "wordplay", "education", "marine"]
+      "categories": [
+        "animals",
+        "school"
+      ],
+      "tags": [
+        "fish",
+        "smart",
+        "schools",
+        "ocean",
+        "wordplay",
+        "education",
+        "marine"
+      ]
     },
     {
       "id": 54,
       "setup": "What do you call a cow on a trampoline?",
       "punchline": "A milkshake!",
-      "categories": ["animals", "food"],
-      "tags": ["cow", "trampoline", "milkshake", "bouncing", "wordplay", "dairy", "drinks"]
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "cow",
+        "trampoline",
+        "milkshake",
+        "bouncing",
+        "wordplay",
+        "dairy",
+        "drinks"
+      ]
     },
     {
       "id": 55,
       "setup": "Why did the snake lose his court case?",
       "punchline": "He didn't have a leg to stand on!",
-      "categories": ["animals"],
-      "tags": ["snake", "court", "legs", "lawyer", "wordplay", "reptiles", "legal"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "snake",
+        "court",
+        "legs",
+        "lawyer",
+        "wordplay",
+        "reptiles",
+        "legal"
+      ]
     },
     {
       "id": 56,
       "setup": "What do you call a pig with laryngitis?",
       "punchline": "Disgruntled!",
-      "categories": ["animals"],
-      "tags": ["pig", "laryngitis", "grunt", "disgruntled", "wordplay", "farm", "sick"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "pig",
+        "laryngitis",
+        "grunt",
+        "disgruntled",
+        "wordplay",
+        "farm",
+        "sick"
+      ]
     },
     {
       "id": 57,
       "setup": "Why did the chicken join a band?",
       "punchline": "Because he had the drumsticks!",
-      "categories": ["animals", "music"],
-      "tags": ["chicken", "band", "drumsticks", "drums", "wordplay", "poultry", "music"]
+      "categories": [
+        "animals",
+        "music"
+      ],
+      "tags": [
+        "chicken",
+        "band",
+        "drumsticks",
+        "drums",
+        "wordplay",
+        "poultry",
+        "music"
+      ]
     },
     {
       "id": 58,
       "setup": "What do you call a crocodile that likes to bowl?",
       "punchline": "An alley-gator!",
-      "categories": ["animals", "sports"],
-      "tags": ["crocodile", "alligator", "bowling", "alley", "wordplay", "reptiles", "games"]
+      "categories": [
+        "animals",
+        "sports"
+      ],
+      "tags": [
+        "crocodile",
+        "alligator",
+        "bowling",
+        "alley",
+        "wordplay",
+        "reptiles",
+        "games"
+      ]
     },
     {
       "id": 59,
       "setup": "Why do cows have hooves instead of feet?",
       "punchline": "Because they lactose!",
-      "categories": ["animals"],
-      "tags": ["cows", "hooves", "feet", "lactose", "lack toes", "wordplay", "dairy"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "cows",
+        "hooves",
+        "feet",
+        "lactose",
+        "lack toes",
+        "wordplay",
+        "dairy"
+      ]
     },
     {
       "id": 60,
       "setup": "What do you call a dog that meditates?",
       "punchline": "Aware wolf!",
-      "categories": ["animals"],
-      "tags": ["dog", "wolf", "meditation", "aware", "werewolf", "wordplay", "zen"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dog",
+        "wolf",
+        "meditation",
+        "aware",
+        "werewolf",
+        "wordplay",
+        "zen"
+      ]
     },
     {
       "id": 61,
       "setup": "Why did the pelican get kicked out of the restaurant?",
       "punchline": "Because he had a very big bill!",
-      "categories": ["animals", "food"],
-      "tags": ["pelican", "restaurant", "bill", "money", "wordplay", "birds", "beak"]
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "pelican",
+        "restaurant",
+        "bill",
+        "money",
+        "wordplay",
+        "birds",
+        "beak"
+      ]
     },
     {
       "id": 62,
-      "setup": "What do you call a snake that's exactly one meter long?",
-      "punchline": "A meter snake!",
-      "categories": ["animals", "science"],
-      "tags": ["snake", "meter", "measuring", "reptiles", "wordplay", "metric", "length"]
+      "setup": "Why is a swordfish's nose 11 inches long?",
+      "punchline": "Because if it were 12 inches, it would be a foot!",
+      "categories": [
+        "animals",
+        "science"
+      ],
+      "tags": [
+        "swordfish",
+        "nose",
+        "measuring",
+        "fish",
+        "wordplay",
+        "ocean",
+        "length"
+      ]
     },
     {
       "id": 63,
       "setup": "Why did the butterfly refuse to go to the dance?",
       "punchline": "Because it was a moth ball!",
-      "categories": ["animals"],
-      "tags": ["butterfly", "moth", "dance", "mothball", "wordplay", "insects", "party"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "butterfly",
+        "moth",
+        "dance",
+        "mothball",
+        "wordplay",
+        "insects",
+        "party"
+      ]
     },
     {
       "id": 64,
       "setup": "What do you call a baby monkey?",
       "punchline": "A chimp off the old block!",
-      "categories": ["animals", "family"],
-      "tags": ["monkey", "baby", "chimp", "chip", "wordplay", "apes", "family"]
+      "categories": [
+        "animals",
+        "family"
+      ],
+      "tags": [
+        "monkey",
+        "baby",
+        "chimp",
+        "chip",
+        "wordplay",
+        "apes",
+        "family"
+      ]
     },
     {
       "id": 65,
       "setup": "Why don't crabs give to charity?",
       "punchline": "Because they're shellfish!",
-      "categories": ["animals"],
-      "tags": ["crabs", "charity", "shellfish", "selfish", "wordplay", "ocean", "seafood"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "crabs",
+        "charity",
+        "shellfish",
+        "selfish",
+        "wordplay",
+        "ocean",
+        "seafood"
+      ]
     },
     {
       "id": 66,
       "setup": "What do you call a dinosaur who's a noisy sleeper?",
       "punchline": "A Brontosnorus!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "brontosaurus", "sleeping", "snoring", "wordplay", "prehistoric", "bedtime"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "brontosaurus",
+        "sleeping",
+        "snoring",
+        "wordplay",
+        "prehistoric",
+        "bedtime"
+      ]
     },
     {
       "id": 67,
-      "setup": "Why did the rooster go to KFC?",
-      "punchline": "He wanted to see a chicken strip!",
-      "categories": ["animals", "food"],
-      "tags": ["rooster", "chicken", "KFC", "strip", "wordplay", "fast food", "poultry"]
+      "setup": "What day do chickens fear the most?",
+      "punchline": "Fry-day!",
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "chicken",
+        "friday",
+        "frying",
+        "scared",
+        "wordplay",
+        "poultry",
+        "cooking"
+      ]
     },
     {
       "id": 68,
       "setup": "What do you call a bee that lives in America?",
       "punchline": "A USB!",
-      "categories": ["animals", "technology"],
-      "tags": ["bee", "USB", "america", "US", "wordplay", "insects", "tech"]
+      "categories": [
+        "animals",
+        "technology"
+      ],
+      "tags": [
+        "bee",
+        "USB",
+        "america",
+        "US",
+        "wordplay",
+        "insects",
+        "tech"
+      ]
     },
     {
       "id": 69,
-      "setup": "Why did the ant fall off the sugar bowl?",
-      "punchline": "Because he was a little too sweet on himself!",
-      "categories": ["animals", "food"],
-      "tags": ["ant", "sugar", "sweet", "falling", "wordplay", "insects", "kitchen"]
+      "setup": "What do you give a dog with a fever?",
+      "punchline": "Mustard, it's the best thing for a hot dog!",
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "dog",
+        "fever",
+        "hot dog",
+        "mustard",
+        "wordplay",
+        "pets",
+        "condiments"
+      ]
     },
     {
       "id": 70,
       "setup": "What do you call a squirrel in a church?",
       "punchline": "A pray-rie dog!",
-      "categories": ["animals"],
-      "tags": ["squirrel", "prairie dog", "church", "praying", "wordplay", "religion", "rodents"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "squirrel",
+        "prairie dog",
+        "church",
+        "praying",
+        "wordplay",
+        "religion",
+        "rodents"
+      ]
     },
     {
       "id": 71,
-      "setup": "Why do dolphins live in salt water?",
+      "setup": "Why do fish live in salt water?",
       "punchline": "Because pepper makes them sneeze!",
-      "categories": ["animals", "food"],
-      "tags": ["dolphins", "salt", "pepper", "sneezing", "ocean", "marine", "wordplay"]
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "fish",
+        "salt",
+        "pepper",
+        "sneezing",
+        "ocean",
+        "marine",
+        "wordplay"
+      ]
     },
     {
       "id": 72,
       "setup": "What do you call a chicken looking at a salad?",
       "punchline": "Chicken sees a salad!",
-      "categories": ["animals", "food"],
-      "tags": ["chicken", "salad", "caesar", "looking", "wordplay", "poultry", "restaurant"]
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "chicken",
+        "salad",
+        "caesar",
+        "looking",
+        "wordplay",
+        "poultry",
+        "restaurant"
+      ]
     },
     {
       "id": 73,
-      "setup": "Why did the sheep say 'moo'?",
-      "punchline": "It was learning a foreign language!",
-      "categories": ["animals", "school"],
-      "tags": ["sheep", "cow", "moo", "language", "learning", "farm", "wordplay"]
+      "setup": "Where did the sheep go on vacation?",
+      "punchline": "The Baaaahamas!",
+      "categories": [
+        "animals",
+        "travel"
+      ],
+      "tags": [
+        "sheep",
+        "vacation",
+        "bahamas",
+        "baa",
+        "wordplay",
+        "farm",
+        "travel"
+      ]
     },
     {
       "id": 74,
       "setup": "What do you call an exploding monkey?",
       "punchline": "A baboom!",
-      "categories": ["animals"],
-      "tags": ["monkey", "baboon", "explosion", "boom", "wordplay", "apes", "loud"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "monkey",
+        "baboon",
+        "explosion",
+        "boom",
+        "wordplay",
+        "apes",
+        "loud"
+      ]
     },
     {
       "id": 75,
       "setup": "Why did the shark spit out the clown?",
       "punchline": "Because he tasted funny!",
-      "categories": ["animals"],
-      "tags": ["shark", "clown", "funny", "taste", "wordplay", "ocean", "circus"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "shark",
+        "clown",
+        "funny",
+        "taste",
+        "wordplay",
+        "ocean",
+        "circus"
+      ]
     },
     {
       "id": 76,
       "setup": "What do you call a dinosaur that never gives up?",
-      "punchline": "A Try-Try-Triceratops!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "triceratops", "trying", "determination", "wordplay", "prehistoric", "motivation"]
+      "punchline": "Try-try-try-ceratops!",
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "triceratops",
+        "trying",
+        "determination",
+        "wordplay",
+        "prehistoric",
+        "motivation"
+      ]
     },
     {
       "id": 77,
       "setup": "Why don't bears wear shoes?",
       "punchline": "What's the point? They'd still have bear feet!",
-      "categories": ["animals"],
-      "tags": ["bears", "shoes", "bare feet", "wordplay", "wildlife", "fashion", "puns"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "bears",
+        "shoes",
+        "bare feet",
+        "wordplay",
+        "wildlife",
+        "fashion",
+        "puns"
+      ]
     },
     {
       "id": 78,
       "setup": "What do you call a cat that eats lemons?",
       "punchline": "A sourpuss!",
-      "categories": ["animals", "food"],
-      "tags": ["cat", "lemons", "sourpuss", "sour", "wordplay", "pets", "fruit"]
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "cat",
+        "lemons",
+        "sourpuss",
+        "sour",
+        "wordplay",
+        "pets",
+        "fruit"
+      ]
     },
     {
       "id": 79,
       "setup": "Why did the owl invite his friends over?",
       "punchline": "He didn't want to be owl by himself!",
-      "categories": ["animals"],
-      "tags": ["owl", "alone", "all", "friends", "wordplay", "birds", "lonely"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "owl",
+        "alone",
+        "all",
+        "friends",
+        "wordplay",
+        "birds",
+        "lonely"
+      ]
     },
     {
       "id": 80,
       "setup": "What do you call a fish that needs help with singing?",
       "punchline": "Autotuna!",
-      "categories": ["animals", "music"],
-      "tags": ["fish", "tuna", "autotune", "singing", "wordplay", "music", "ocean"]
+      "categories": [
+        "animals",
+        "music"
+      ],
+      "tags": [
+        "fish",
+        "tuna",
+        "autotune",
+        "singing",
+        "wordplay",
+        "music",
+        "ocean"
+      ]
     },
     {
       "id": 81,
       "setup": "Why did the giraffe get bad grades?",
       "punchline": "He had his head in the clouds!",
-      "categories": ["animals", "school"],
-      "tags": ["giraffe", "grades", "clouds", "tall", "school", "distracted", "wildlife"]
+      "categories": [
+        "animals",
+        "school"
+      ],
+      "tags": [
+        "giraffe",
+        "grades",
+        "clouds",
+        "tall",
+        "school",
+        "distracted",
+        "wildlife"
+      ]
     },
     {
       "id": 82,
       "setup": "What do you call a dinosaur ghost?",
       "punchline": "A scaredactyl!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "pterodactyl", "ghost", "scared", "wordplay", "prehistoric", "halloween"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "pterodactyl",
+        "ghost",
+        "scared",
+        "wordplay",
+        "prehistoric",
+        "halloween"
+      ]
     },
     {
       "id": 83,
       "setup": "Why did the flamingo lift up one leg?",
       "punchline": "Because if it lifted both, it would fall over!",
-      "categories": ["animals"],
-      "tags": ["flamingo", "legs", "balance", "standing", "birds", "pink", "logic"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "flamingo",
+        "legs",
+        "balance",
+        "standing",
+        "birds",
+        "pink",
+        "logic"
+      ]
     },
     {
       "id": 84,
-      "setup": "What do you call a dog that practices martial arts?",
-      "punchline": "Kung Fur!",
-      "categories": ["animals", "sports"],
-      "tags": ["dog", "martial arts", "kung fu", "fur", "wordplay", "pets", "fighting"]
+      "setup": "What do you call a dog's favorite superhero?",
+      "punchline": "Labra-Thor!",
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "tags": [
+        "dog",
+        "labrador",
+        "thor",
+        "superhero",
+        "wordplay",
+        "pets",
+        "marvel"
+      ]
     },
     {
       "id": 85,
-      "setup": "What do you call a dolphin that plays piano?",
-      "punchline": "A piano tuna!",
-      "categories": ["animals", "music"],
-      "tags": ["dolphin", "piano", "tuna", "tuner", "wordplay", "marine", "music"]
+      "setup": "How do you tune a fish?",
+      "punchline": "You can't tuna fish!",
+      "categories": [
+        "animals",
+        "music"
+      ],
+      "tags": [
+        "fish",
+        "tuna",
+        "tuning",
+        "music",
+        "wordplay",
+        "ocean",
+        "classic"
+      ]
     },
     {
       "id": 86,
       "setup": "What do you call a grizzly bear caught in the rain?",
       "punchline": "A drizzly bear!",
-      "categories": ["animals"],
-      "tags": ["bear", "grizzly", "rain", "drizzle", "wordplay", "weather", "wildlife"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "bear",
+        "grizzly",
+        "rain",
+        "drizzle",
+        "wordplay",
+        "weather",
+        "wildlife"
+      ]
     },
     {
       "id": 87,
       "setup": "Why did the horse chew with his mouth open?",
       "punchline": "Because he had bad stable manners!",
-      "categories": ["animals", "family"],
-      "tags": ["horse", "stable", "table manners", "eating", "wordplay", "rude", "farm"]
+      "categories": [
+        "animals",
+        "family"
+      ],
+      "tags": [
+        "horse",
+        "stable",
+        "table manners",
+        "eating",
+        "wordplay",
+        "rude",
+        "farm"
+      ]
     },
     {
       "id": 88,
       "setup": "What do you call a cold dog?",
       "punchline": "A chili dog!",
-      "categories": ["animals", "food"],
-      "tags": ["dog", "cold", "chili dog", "hot dog", "wordplay", "pets", "food"]
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "dog",
+        "cold",
+        "chili dog",
+        "hot dog",
+        "wordplay",
+        "pets",
+        "food"
+      ]
     },
     {
       "id": 89,
-      "setup": "Why did the pigeon go to the doctor?",
-      "punchline": "Because it was feeling coo-coo!",
-      "categories": ["animals"],
-      "tags": ["pigeon", "doctor", "coo", "cuckoo", "wordplay", "birds", "sick"]
+      "setup": "Why do cows go to New York?",
+      "punchline": "To see the moosicals!",
+      "categories": [
+        "animals",
+        "travel"
+      ],
+      "tags": [
+        "cow",
+        "new york",
+        "musicals",
+        "moo",
+        "wordplay",
+        "broadway",
+        "theater"
+      ]
     },
     {
       "id": 90,
       "setup": "What do you call a dinosaur that never stops talking?",
       "punchline": "A dinobore!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "talking", "boring", "dino-bore", "wordplay", "prehistoric", "annoying"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "talking",
+        "boring",
+        "dino-bore",
+        "wordplay",
+        "prehistoric",
+        "annoying"
+      ]
     },
     {
       "id": 91,
       "setup": "Why did the bee get married?",
       "punchline": "Because he found his honey!",
-      "categories": ["animals", "wedding"],
-      "tags": ["bee", "honey", "marriage", "wedding", "wordplay", "insects", "love"]
+      "categories": [
+        "animals",
+        "wedding"
+      ],
+      "tags": [
+        "bee",
+        "honey",
+        "marriage",
+        "wedding",
+        "wordplay",
+        "insects",
+        "love"
+      ]
     },
     {
       "id": 92,
       "setup": "What do you call a snake wearing a hard hat?",
       "punchline": "A boa constructor!",
-      "categories": ["animals", "work"],
-      "tags": ["snake", "boa", "constructor", "construction", "wordplay", "reptiles", "building"]
+      "categories": [
+        "animals",
+        "work"
+      ],
+      "tags": [
+        "snake",
+        "boa",
+        "constructor",
+        "construction",
+        "wordplay",
+        "reptiles",
+        "building"
+      ]
     },
     {
       "id": 93,
       "setup": "Why did the zebra cross the road?",
       "punchline": "Because it was at a zebra crossing!",
-      "categories": ["animals"],
-      "tags": ["zebra", "crossing", "road", "stripes", "wordplay", "wildlife", "traffic"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "zebra",
+        "crossing",
+        "road",
+        "stripes",
+        "wordplay",
+        "wildlife",
+        "traffic"
+      ]
     },
     {
       "id": 94,
-      "setup": "What do you call a llama with a map?",
-      "punchline": "A navigator!",
-      "categories": ["animals", "geography"],
-      "tags": ["llama", "drama", "map", "navigation", "wordplay", "travel", "directions"]
+      "setup": "What did the buffalo say when his son left for college?",
+      "punchline": "Bison!",
+      "categories": [
+        "animals",
+        "family"
+      ],
+      "tags": [
+        "buffalo",
+        "bison",
+        "bye son",
+        "college",
+        "wordplay",
+        "farewell",
+        "wildlife"
+      ]
     },
     {
       "id": 95,
       "setup": "Why did the bird go to the hospital?",
       "punchline": "To get a tweetment!",
-      "categories": ["animals"],
-      "tags": ["bird", "hospital", "tweet", "treatment", "wordplay", "sick", "doctor"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "bird",
+        "hospital",
+        "tweet",
+        "treatment",
+        "wordplay",
+        "sick",
+        "doctor"
+      ]
     },
     {
       "id": 96,
-      "setup": "What do you call a rabbit that's been working out?",
-      "punchline": "A hot cross bunny!",
-      "categories": ["animals", "sports"],
-      "tags": ["rabbit", "bunny", "working out", "hot cross buns", "wordplay", "exercise", "gym"]
+      "setup": "What do you get when you cross a rabbit with shellfish?",
+      "punchline": "An oyster bunny!",
+      "categories": [
+        "animals",
+        "holidays"
+      ],
+      "tags": [
+        "rabbit",
+        "bunny",
+        "oyster",
+        "easter",
+        "wordplay",
+        "ocean",
+        "holiday"
+      ]
     },
     {
       "id": 97,
       "setup": "Why don't leopards play hide and seek?",
       "punchline": "Because they're always spotted!",
-      "categories": ["animals"],
-      "tags": ["leopard", "spots", "hide and seek", "spotted", "wordplay", "games", "wildlife"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "leopard",
+        "spots",
+        "hide and seek",
+        "spotted",
+        "wordplay",
+        "games",
+        "wildlife"
+      ]
     },
     {
       "id": 98,
-      "setup": "What do you call a hen looking at a salad?",
-      "punchline": "Chicken Caesar!",
-      "categories": ["animals", "food"],
-      "tags": ["chicken", "hen", "salad", "caesar", "wordplay", "poultry", "restaurant"]
+      "setup": "What do you get from a pampered cow?",
+      "punchline": "Spoiled milk!",
+      "categories": [
+        "animals",
+        "food"
+      ],
+      "tags": [
+        "cow",
+        "spoiled",
+        "milk",
+        "pampered",
+        "wordplay",
+        "dairy",
+        "farm"
+      ]
     },
     {
       "id": 99,
-      "setup": "Why did the dinosaur break up with the other dinosaur?",
-      "punchline": "Because their relationship was getting prehistoric!",
-      "categories": ["animals"],
-      "tags": ["dinosaur", "relationship", "breakup", "prehistoric", "wordplay", "dating", "old"]
+      "setup": "How do you tell the difference between an alligator and a crocodile?",
+      "punchline": "One you'll see later, the other you'll see in a while!",
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "alligator",
+        "crocodile",
+        "later",
+        "while",
+        "wordplay",
+        "reptiles",
+        "clever"
+      ]
     },
     {
       "id": 100,
       "setup": "What do you call a crab who throws things?",
       "punchline": "A lobster!",
-      "categories": ["animals"],
-      "tags": ["crab", "lobster", "throwing", "lob", "wordplay", "ocean", "seafood"]
+      "categories": [
+        "animals"
+      ],
+      "tags": [
+        "crab",
+        "lobster",
+        "throwing",
+        "lob",
+        "wordplay",
+        "ocean",
+        "seafood"
+      ]
     },
     {
       "id": 101,
       "setup": "Why do candles always go on top of birthday cakes?",
       "punchline": "Because it's hard to light them from the bottom!",
-      "categories": ["birthday"],
-      "tags": ["cake", "candles", "party", "celebration", "fire", "baking", "logic"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "cake",
+        "candles",
+        "party",
+        "celebration",
+        "fire",
+        "baking",
+        "logic"
+      ]
     },
     {
       "id": 102,
       "setup": "What goes up but never comes down?",
       "punchline": "Your age!",
-      "categories": ["birthday"],
-      "tags": ["aging", "getting older", "time", "riddle", "classic", "years", "growing up"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "aging",
+        "getting older",
+        "time",
+        "riddle",
+        "classic",
+        "years",
+        "growing up"
+      ]
     },
     {
       "id": 103,
       "setup": "Why did the birthday cake go to the doctor?",
       "punchline": "Because it was feeling crumby!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "doctor", "sick", "crumbs", "wordplay", "health", "party"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "doctor",
+        "sick",
+        "crumbs",
+        "wordplay",
+        "health",
+        "party"
+      ]
     },
     {
       "id": 104,
       "setup": "What do you say to a kangaroo on its birthday?",
       "punchline": "Hoppy Birthday!",
-      "categories": ["birthday", "animals"],
-      "tags": ["kangaroo", "happy", "hoppy", "wordplay", "wishes", "australia", "jumping"]
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "kangaroo",
+        "happy",
+        "hoppy",
+        "wordplay",
+        "wishes",
+        "australia",
+        "jumping"
+      ]
     },
     {
       "id": 105,
       "setup": "Why did the boy feel warm on his birthday?",
       "punchline": "Because people kept toasting him!",
-      "categories": ["birthday"],
-      "tags": ["warm", "toasting", "celebration", "drinks", "wordplay", "party", "cheers"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "warm",
+        "toasting",
+        "celebration",
+        "drinks",
+        "wordplay",
+        "party",
+        "cheers"
+      ]
     },
     {
       "id": 106,
       "setup": "What kind of birthday cake do elves like?",
       "punchline": "Shortcake!",
-      "categories": ["birthday", "fantasy"],
-      "tags": ["elves", "shortcake", "short", "cake", "wordplay", "magical", "baking"]
+      "categories": [
+        "birthday",
+        "fantasy"
+      ],
+      "tags": [
+        "elves",
+        "shortcake",
+        "short",
+        "cake",
+        "wordplay",
+        "magical",
+        "baking"
+      ]
     },
     {
       "id": 107,
-      "setup": "Why are birthday candles so bad at sports?",
-      "punchline": "Because they always get blown out!",
-      "categories": ["birthday", "sports"],
-      "tags": ["candles", "blown out", "losing", "sports", "wordplay", "fire", "competition"]
+      "setup": "What did the birthday candles say when they got lit?",
+      "punchline": "We're totally fired up for this party!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "candles",
+        "lit",
+        "fire",
+        "excited",
+        "wordplay",
+        "party",
+        "flames"
+      ]
     },
     {
       "id": 108,
       "setup": "What did the birthday balloon say to the pin?",
       "punchline": "Hi, Buster!",
-      "categories": ["birthday"],
-      "tags": ["balloon", "pin", "pop", "buster", "wordplay", "party", "decorations"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "balloon",
+        "pin",
+        "pop",
+        "buster",
+        "wordplay",
+        "party",
+        "decorations"
+      ]
     },
     {
       "id": 109,
       "setup": "Why did the birthday cake visit the psychiatrist?",
       "punchline": "Because it had too many layers!",
-      "categories": ["birthday"],
-      "tags": ["cake", "psychiatrist", "layers", "therapy", "wordplay", "mental health", "baking"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "cake",
+        "psychiatrist",
+        "layers",
+        "therapy",
+        "wordplay",
+        "mental health",
+        "baking"
+      ]
     },
     {
       "id": 110,
       "setup": "What do you give a 900-pound gorilla for his birthday?",
       "punchline": "I don't know, but you better hope he likes it!",
-      "categories": ["birthday", "animals"],
-      "tags": ["gorilla", "gift", "scary", "big", "presents", "zoo", "dangerous"]
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "gorilla",
+        "gift",
+        "scary",
+        "big",
+        "presents",
+        "zoo",
+        "dangerous"
+      ]
     },
     {
       "id": 111,
-      "setup": "Why did the cupcake go to the birthday party?",
-      "punchline": "It wanted to be the center of a-frosting!",
-      "categories": ["birthday", "food"],
-      "tags": ["cupcake", "frosting", "attention", "party", "wordplay", "baking", "sweet"]
+      "setup": "What happens when no one comes to your birthday party?",
+      "punchline": "You can have your cake and eat it too!",
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "alone",
+        "eating",
+        "party",
+        "wordplay",
+        "classic",
+        "saying"
+      ]
     },
     {
       "id": 112,
       "setup": "What does every birthday end with?",
       "punchline": "The letter Y!",
-      "categories": ["birthday"],
-      "tags": ["spelling", "letters", "riddle", "wordplay", "trick question", "alphabet", "clever"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "spelling",
+        "letters",
+        "riddle",
+        "wordplay",
+        "trick question",
+        "alphabet",
+        "clever"
+      ]
     },
     {
       "id": 113,
       "setup": "Why do we put candles on top of birthday cakes?",
       "punchline": "Because it doesn't work when you put them on the bottom!",
-      "categories": ["birthday"],
-      "tags": ["candles", "cake", "logic", "fire", "tradition", "silly", "obvious"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "candles",
+        "cake",
+        "logic",
+        "fire",
+        "tradition",
+        "silly",
+        "obvious"
+      ]
     },
     {
       "id": 114,
-      "setup": "What do you call a birthday party for a train conductor?",
-      "punchline": "A birthday bash on track!",
-      "categories": ["birthday", "travel"],
-      "tags": ["train", "conductor", "tracks", "party", "wordplay", "transportation", "celebration"]
+      "setup": "How did the birthday mom celebrate her 32nd birthday?",
+      "punchline": "She only had time to celebrate for 30 seconds!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "mom",
+        "seconds",
+        "32",
+        "time",
+        "wordplay",
+        "celebration",
+        "quick"
+      ]
     },
     {
       "id": 115,
-      "setup": "Why did the teddy bear say no to birthday cake?",
+      "setup": "Why didn't the teddy bear have any birthday cake?",
       "punchline": "Because it was already stuffed!",
-      "categories": ["birthday", "food"],
-      "tags": ["teddy bear", "stuffed", "full", "cake", "wordplay", "toys", "eating"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "teddy bear",
+        "stuffed",
+        "full",
+        "cake",
+        "wordplay",
+        "toys",
+        "eating"
+      ]
     },
     {
       "id": 116,
       "setup": "What kind of music is scary for birthday balloons?",
       "punchline": "Pop music!",
-      "categories": ["birthday", "music"],
-      "tags": ["balloons", "pop", "music", "scary", "wordplay", "party", "decorations"]
+      "categories": [
+        "birthday",
+        "music"
+      ],
+      "tags": [
+        "balloons",
+        "pop",
+        "music",
+        "scary",
+        "wordplay",
+        "party",
+        "decorations"
+      ]
     },
     {
       "id": 117,
       "setup": "Why was the birthday cake as hard as a rock?",
       "punchline": "Because it was a marble cake!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "marble", "hard", "rock", "wordplay", "baking", "dessert"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "marble",
+        "hard",
+        "rock",
+        "wordplay",
+        "baking",
+        "dessert"
+      ]
     },
     {
       "id": 118,
       "setup": "What do you sing to a snowman on his birthday?",
       "punchline": "Freeze a jolly good fellow!",
-      "categories": ["birthday", "holidays"],
-      "tags": ["snowman", "freeze", "song", "winter", "wordplay", "cold", "singing"]
+      "categories": [
+        "birthday",
+        "holidays"
+      ],
+      "tags": [
+        "snowman",
+        "freeze",
+        "song",
+        "winter",
+        "wordplay",
+        "cold",
+        "singing"
+      ]
     },
     {
       "id": 119,
       "setup": "Why did the birthday boy hit his cake with a hammer?",
       "punchline": "It was a pound cake!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "pound cake", "hammer", "hitting", "wordplay", "baking", "silly"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "pound cake",
+        "hammer",
+        "hitting",
+        "wordplay",
+        "baking",
+        "silly"
+      ]
     },
     {
       "id": 120,
-      "setup": "What do you call a birthday celebration in a library?",
-      "punchline": "A quiet riot!",
-      "categories": ["birthday", "school"],
-      "tags": ["library", "quiet", "party", "books", "wordplay", "celebration", "shushing"]
+      "setup": "Why does age always seem like a relative thing?",
+      "punchline": "Because relatives keep reminding you how old you are on your birthday!",
+      "categories": [
+        "birthday",
+        "family"
+      ],
+      "tags": [
+        "age",
+        "relatives",
+        "family",
+        "reminding",
+        "wordplay",
+        "celebration",
+        "older"
+      ]
     },
     {
       "id": 121,
       "setup": "Why did the boy put his birthday cake in the freezer?",
       "punchline": "Because he wanted to ice it!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "freezer", "icing", "cold", "wordplay", "baking", "frosting"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "freezer",
+        "icing",
+        "cold",
+        "wordplay",
+        "baking",
+        "frosting"
+      ]
     },
     {
       "id": 122,
       "setup": "What's the best thing to put into a birthday cake?",
       "punchline": "Your teeth!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "teeth", "eating", "biting", "riddle", "clever", "dessert"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "teeth",
+        "eating",
+        "biting",
+        "riddle",
+        "clever",
+        "dessert"
+      ]
     },
     {
       "id": 123,
-      "setup": "Why did the birthday candle feel special?",
-      "punchline": "Because everyone gathered around to see it shine!",
-      "categories": ["birthday"],
-      "tags": ["candle", "special", "shine", "attention", "light", "celebration", "fire"]
+      "setup": "What do candles love about birthday parties?",
+      "punchline": "They get to be totally lit!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "candle",
+        "lit",
+        "fire",
+        "party",
+        "light",
+        "celebration",
+        "wordplay"
+      ]
     },
     {
       "id": 124,
-      "setup": "What do you call a grumpy birthday cake?",
-      "punchline": "A crab cake!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "grumpy", "crab", "mood", "wordplay", "seafood", "attitude"]
+      "setup": "What do you call a sad birthday cake?",
+      "punchline": "A tiers of sadness!",
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "tiers",
+        "tears",
+        "sad",
+        "wordplay",
+        "baking",
+        "layers"
+      ]
     },
     {
       "id": 125,
-      "setup": "Why do birthday cakes never win races?",
-      "punchline": "Because they always get eaten at the finish line!",
-      "categories": ["birthday", "sports"],
-      "tags": ["cake", "racing", "eating", "finish line", "competition", "losing", "dessert"]
+      "setup": "What do you always get on your birthday?",
+      "punchline": "A year older!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "age",
+        "older",
+        "gift",
+        "year",
+        "classic",
+        "obvious",
+        "birthday"
+      ]
     },
     {
       "id": 126,
       "setup": "What did one birthday candle say to the other?",
       "punchline": "Don't birthdays just burn you up?",
-      "categories": ["birthday"],
-      "tags": ["candles", "burning", "fire", "conversation", "wordplay", "heat", "flames"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "candles",
+        "burning",
+        "fire",
+        "conversation",
+        "wordplay",
+        "heat",
+        "flames"
+      ]
     },
     {
       "id": 127,
-      "setup": "Why did the birthday invitation blush?",
-      "punchline": "Because it saw the party dress!",
-      "categories": ["birthday"],
-      "tags": ["invitation", "blushing", "dress", "party", "embarrassed", "clothes", "wordplay"]
+      "setup": "Why do candles love birthday parties?",
+      "punchline": "They really light up the room!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "candles",
+        "light",
+        "room",
+        "party",
+        "bright",
+        "fire",
+        "wordplay"
+      ]
     },
     {
       "id": 128,
       "setup": "What do birthday candles and the school year have in common?",
       "punchline": "There are too many of them!",
-      "categories": ["birthday", "school"],
-      "tags": ["candles", "school", "too many", "years", "aging", "complaining", "counting"]
+      "categories": [
+        "birthday",
+        "school"
+      ],
+      "tags": [
+        "candles",
+        "school",
+        "too many",
+        "years",
+        "aging",
+        "complaining",
+        "counting"
+      ]
     },
     {
       "id": 129,
-      "setup": "Why was the birthday gift feeling cold?",
-      "punchline": "Because it was a present from the North Pole!",
-      "categories": ["birthday", "holidays"],
-      "tags": ["gift", "cold", "north pole", "present", "wordplay", "santa", "winter"]
+      "setup": "What do hunters get for their birthday?",
+      "punchline": "Pheasants!",
+      "categories": [
+        "birthday",
+        "outdoors"
+      ],
+      "tags": [
+        "hunters",
+        "pheasants",
+        "presents",
+        "gifts",
+        "wordplay",
+        "hunting",
+        "birds"
+      ]
     },
     {
       "id": 130,
       "setup": "What kind of birthday cake does a ghost like?",
       "punchline": "I-scream cake!",
-      "categories": ["birthday", "fantasy"],
-      "tags": ["ghost", "ice cream", "scream", "scary", "wordplay", "halloween", "dessert"]
+      "categories": [
+        "birthday",
+        "fantasy"
+      ],
+      "tags": [
+        "ghost",
+        "ice cream",
+        "scream",
+        "scary",
+        "wordplay",
+        "halloween",
+        "dessert"
+      ]
     },
     {
       "id": 131,
-      "setup": "Why did the man get a comb for his birthday?",
-      "punchline": "Because he was always parting with his hair!",
-      "categories": ["birthday"],
-      "tags": ["comb", "hair", "parting", "gift", "wordplay", "grooming", "bald"]
+      "setup": "What did the bald man say when he got a comb for his birthday?",
+      "punchline": "Thanks, I'll never part with it!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "comb",
+        "hair",
+        "parting",
+        "gift",
+        "wordplay",
+        "grooming",
+        "bald"
+      ]
     },
     {
       "id": 132,
       "setup": "What do you say to a cat on its birthday?",
       "punchline": "Happy Purr-thday!",
-      "categories": ["birthday", "animals"],
-      "tags": ["cat", "purr", "wishes", "pets", "wordplay", "meow", "celebration"]
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "cat",
+        "purr",
+        "wishes",
+        "pets",
+        "wordplay",
+        "meow",
+        "celebration"
+      ]
     },
     {
       "id": 133,
-      "setup": "Why did the girl feel cold at her birthday party?",
-      "punchline": "Because she was surrounded by ice cream cake!",
-      "categories": ["birthday", "food"],
-      "tags": ["cold", "ice cream", "cake", "party", "dessert", "frozen", "celebration"]
+      "setup": "Why did the student eat his homework on his birthday?",
+      "punchline": "Because the teacher said it was a piece of cake!",
+      "categories": [
+        "birthday",
+        "school"
+      ],
+      "tags": [
+        "student",
+        "homework",
+        "cake",
+        "teacher",
+        "wordplay",
+        "eating",
+        "school"
+      ]
     },
     {
       "id": 134,
       "setup": "What does a clam do on its birthday?",
       "punchline": "Shellabrate!",
-      "categories": ["birthday", "animals"],
-      "tags": ["clam", "shell", "celebrate", "ocean", "wordplay", "seafood", "party"]
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "clam",
+        "shell",
+        "celebrate",
+        "ocean",
+        "wordplay",
+        "seafood",
+        "party"
+      ]
     },
     {
       "id": 135,
       "setup": "Why did the birthday party for the calendar get cancelled?",
       "punchline": "Because its days were numbered!",
-      "categories": ["birthday"],
-      "tags": ["calendar", "days", "numbered", "cancelled", "wordplay", "dates", "time"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "calendar",
+        "days",
+        "numbered",
+        "cancelled",
+        "wordplay",
+        "dates",
+        "time"
+      ]
     },
     {
       "id": 136,
-      "setup": "What do you get when you cross a birthday cake with a banana?",
-      "punchline": "A birthday cake that can peel itself!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "banana", "peel", "fruit", "wordplay", "silly", "dessert"]
+      "setup": "What do you call it when you're born on a farm?",
+      "punchline": "A birthday barn!",
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "farm",
+        "born",
+        "barn",
+        "animals",
+        "wordplay",
+        "country",
+        "party"
+      ]
     },
     {
       "id": 137,
-      "setup": "Why did the girl smear birthday cake all over her face?",
-      "punchline": "Because it was her cake and she wanted it everywhere!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "messy", "face", "silly", "eating", "celebration", "kids"]
+      "setup": "How do pickles celebrate their birthdays?",
+      "punchline": "They relish them!",
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "pickles",
+        "relish",
+        "celebrate",
+        "food",
+        "wordplay",
+        "condiments",
+        "party"
+      ]
     },
     {
       "id": 138,
-      "setup": "What kind of birthday parties do trees have?",
-      "punchline": "Surprise parties, because their bark is worse than their bite!",
-      "categories": ["birthday", "outdoors"],
-      "tags": ["trees", "bark", "surprise", "nature", "wordplay", "plants", "party"]
+      "setup": "What did the big flower say to the little flower on its birthday?",
+      "punchline": "Hey there, bud!",
+      "categories": [
+        "birthday",
+        "outdoors"
+      ],
+      "tags": [
+        "flower",
+        "bud",
+        "plant",
+        "birthday",
+        "wordplay",
+        "garden",
+        "nature"
+      ]
     },
     {
       "id": 139,
-      "setup": "Why did the birthday boy bring a ladder to his party?",
-      "punchline": "Because he wanted to have a high time!",
-      "categories": ["birthday"],
-      "tags": ["ladder", "high", "party", "fun", "wordplay", "climbing", "celebration"]
+      "setup": "Why did the golfer refuse to eat any birthday cake?",
+      "punchline": "He didn't want a slice!",
+      "categories": [
+        "birthday",
+        "sports"
+      ],
+      "tags": [
+        "golf",
+        "slice",
+        "cake",
+        "sports",
+        "wordplay",
+        "golfer",
+        "dessert"
+      ]
     },
     {
       "id": 140,
-      "setup": "What's the cleanest kind of birthday party?",
-      "punchline": "A soap opera party!",
-      "categories": ["birthday", "home"],
-      "tags": ["clean", "soap", "party", "washing", "wordplay", "tv shows", "hygiene"]
+      "setup": "What do you call a birthday candle sale?",
+      "punchline": "A blowout!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "candles",
+        "sale",
+        "blowout",
+        "shopping",
+        "wordplay",
+        "party",
+        "deals"
+      ]
     },
     {
       "id": 141,
       "setup": "Why do soccer players love birthdays?",
       "punchline": "Because they get to have their cake and kick it too!",
-      "categories": ["birthday", "sports"],
-      "tags": ["soccer", "cake", "kicking", "ball", "wordplay", "sports", "celebration"]
+      "categories": [
+        "birthday",
+        "sports"
+      ],
+      "tags": [
+        "soccer",
+        "cake",
+        "kicking",
+        "ball",
+        "wordplay",
+        "sports",
+        "celebration"
+      ]
     },
     {
       "id": 142,
       "setup": "What did the pirate say at his 80th birthday?",
       "punchline": "Aye matey! (I'm eighty!)",
-      "categories": ["birthday"],
-      "tags": ["pirate", "eighty", "aye matey", "old", "wordplay", "sailing", "age"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "pirate",
+        "eighty",
+        "aye matey",
+        "old",
+        "wordplay",
+        "sailing",
+        "age"
+      ]
     },
     {
       "id": 143,
-      "setup": "Why did the birthday boy stand on his head?",
-      "punchline": "To flip out over his presents!",
-      "categories": ["birthday"],
-      "tags": ["headstand", "flip out", "presents", "excited", "wordplay", "gymnastics", "gifts"]
+      "setup": "Why can't you give Elsa a birthday balloon?",
+      "punchline": "She'd let it go!",
+      "categories": [
+        "birthday",
+        "fantasy"
+      ],
+      "tags": [
+        "elsa",
+        "frozen",
+        "balloon",
+        "disney",
+        "wordplay",
+        "movie",
+        "party"
+      ]
     },
     {
       "id": 144,
-      "setup": "What kind of birthday cake do you get for a coffee lover?",
-      "punchline": "A coffee cake with extra perk-ings!",
-      "categories": ["birthday", "food"],
-      "tags": ["coffee", "cake", "perks", "caffeine", "wordplay", "drinks", "dessert"]
+      "setup": "What do you get every birthday but never keep?",
+      "punchline": "A year older!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "age",
+        "older",
+        "year",
+        "birthday",
+        "riddle",
+        "classic",
+        "aging"
+      ]
     },
     {
       "id": 145,
       "setup": "Why did the man cry at his birthday party?",
       "punchline": "Because someone brought him an onion cake!",
-      "categories": ["birthday", "food"],
-      "tags": ["crying", "onion", "cake", "tears", "vegetables", "silly", "party"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "crying",
+        "onion",
+        "cake",
+        "tears",
+        "vegetables",
+        "silly",
+        "party"
+      ]
     },
     {
       "id": 146,
-      "setup": "What did the bald man say when he got a comb for his birthday?",
-      "punchline": "I'll never part with it!",
-      "categories": ["birthday"],
-      "tags": ["bald", "comb", "parting", "hair", "wordplay", "gift", "irony"]
+      "setup": "What's worse than finding a bug in your birthday cake?",
+      "punchline": "Finding half a bug in your birthday cake!",
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "bug",
+        "cake",
+        "gross",
+        "eating",
+        "finding",
+        "dessert",
+        "classic"
+      ]
     },
     {
       "id": 147,
       "setup": "Why do basketball players love birthday parties?",
       "punchline": "Because they can really slam dunk the punch!",
-      "categories": ["birthday", "sports"],
-      "tags": ["basketball", "slam dunk", "punch", "drinks", "wordplay", "party", "athletes"]
+      "categories": [
+        "birthday",
+        "sports"
+      ],
+      "tags": [
+        "basketball",
+        "slam dunk",
+        "punch",
+        "drinks",
+        "wordplay",
+        "party",
+        "athletes"
+      ]
     },
     {
       "id": 148,
-      "setup": "What do you call a boring birthday party?",
-      "punchline": "A par-tea!",
-      "categories": ["birthday", "food"],
-      "tags": ["boring", "party", "tea", "par", "wordplay", "golf", "drinks"]
+      "setup": "What did the golfer get on his birthday?",
+      "punchline": "He wanted to join the par-tee!",
+      "categories": [
+        "birthday",
+        "sports"
+      ],
+      "tags": [
+        "golf",
+        "party",
+        "par",
+        "sports",
+        "wordplay",
+        "golfer",
+        "celebration"
+      ]
     },
     {
       "id": 149,
       "setup": "Why did the birthday candles feel lonely?",
       "punchline": "Because they were only lit once a year!",
-      "categories": ["birthday"],
-      "tags": ["candles", "lonely", "lit", "once a year", "sad", "fire", "annual"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "candles",
+        "lonely",
+        "lit",
+        "once a year",
+        "sad",
+        "fire",
+        "annual"
+      ]
     },
     {
       "id": 150,
-      "setup": "What kind of birthday party does a smartphone have?",
-      "punchline": "A screen party with lots of notifications!",
-      "categories": ["birthday", "technology"],
-      "tags": ["smartphone", "screen", "notifications", "tech", "party", "apps", "modern"]
+      "setup": "What do computers eat at birthday parties?",
+      "punchline": "Microchips!",
+      "categories": [
+        "birthday",
+        "technology"
+      ],
+      "tags": [
+        "computers",
+        "chips",
+        "microchips",
+        "tech",
+        "wordplay",
+        "snacks",
+        "party"
+      ]
     },
     {
       "id": 151,
       "setup": "Why did the birthday balloon go near the cactus?",
       "punchline": "It wanted to have a blast!",
-      "categories": ["birthday", "outdoors"],
-      "tags": ["balloon", "cactus", "pop", "blast", "wordplay", "desert", "dangerous"]
+      "categories": [
+        "birthday",
+        "outdoors"
+      ],
+      "tags": [
+        "balloon",
+        "cactus",
+        "pop",
+        "blast",
+        "wordplay",
+        "desert",
+        "dangerous"
+      ]
     },
     {
       "id": 152,
       "setup": "What did the ice cream say to the birthday cake?",
       "punchline": "You take the cake!",
-      "categories": ["birthday", "food"],
-      "tags": ["ice cream", "cake", "compliment", "dessert", "wordplay", "sweet", "party"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "ice cream",
+        "cake",
+        "compliment",
+        "dessert",
+        "wordplay",
+        "sweet",
+        "party"
+      ]
     },
     {
       "id": 153,
-      "setup": "Why did the girl put her birthday cake in the sun?",
-      "punchline": "She wanted a light snack!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "sun", "light", "snack", "wordplay", "eating", "sunshine"]
+      "setup": "What do you get when you eat an entire birthday cake?",
+      "punchline": "A stomach ache!",
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "eating",
+        "stomach ache",
+        "full",
+        "sick",
+        "dessert",
+        "overeating"
+      ]
     },
     {
       "id": 154,
-      "setup": "What kind of birthday party does a dentist have?",
-      "punchline": "A plaque party!",
-      "categories": ["birthday", "work"],
-      "tags": ["dentist", "plaque", "teeth", "work", "wordplay", "awards", "dental"]
+      "setup": "What kind of birthday cake do mechanics get?",
+      "punchline": "Torque cake! They really gear up for it!",
+      "categories": [
+        "birthday",
+        "work"
+      ],
+      "tags": [
+        "mechanic",
+        "torque",
+        "cake",
+        "work",
+        "wordplay",
+        "cars",
+        "dessert"
+      ]
     },
     {
       "id": 155,
-      "setup": "Why did the birthday confetti feel sad?",
-      "punchline": "Because it was always getting thrown around!",
-      "categories": ["birthday"],
-      "tags": ["confetti", "sad", "thrown", "party", "decorations", "feelings", "celebration"]
+      "setup": "Why are birthday balloons always so calm?",
+      "punchline": "They know how to rise above it all!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "balloons",
+        "calm",
+        "rise",
+        "floating",
+        "wordplay",
+        "party",
+        "positive"
+      ]
     },
     {
       "id": 156,
       "setup": "What do math teachers serve at birthday parties?",
       "punchline": "Pi!",
-      "categories": ["birthday", "math"],
-      "tags": ["math", "pi", "pie", "teachers", "wordplay", "numbers", "dessert"]
+      "categories": [
+        "birthday",
+        "math"
+      ],
+      "tags": [
+        "math",
+        "pi",
+        "pie",
+        "teachers",
+        "wordplay",
+        "numbers",
+        "dessert"
+      ]
     },
     {
       "id": 157,
       "setup": "Why did the birthday present feel nervous?",
       "punchline": "Because it was about to be ripped open!",
-      "categories": ["birthday"],
-      "tags": ["present", "nervous", "unwrapping", "gift", "paper", "excitement", "anxiety"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "present",
+        "nervous",
+        "unwrapping",
+        "gift",
+        "paper",
+        "excitement",
+        "anxiety"
+      ]
     },
     {
       "id": 158,
       "setup": "What did the grape say when it got stepped on at the birthday party?",
       "punchline": "Nothing, it just let out a little wine!",
-      "categories": ["birthday", "food"],
-      "tags": ["grape", "wine", "whine", "stepped on", "wordplay", "fruit", "drinks"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "grape",
+        "wine",
+        "whine",
+        "stepped on",
+        "wordplay",
+        "fruit",
+        "drinks"
+      ]
     },
     {
       "id": 159,
       "setup": "Why did the clock get invited to every birthday party?",
       "punchline": "Because it always had a good time!",
-      "categories": ["birthday", "home"],
-      "tags": ["clock", "time", "invited", "party", "wordplay", "popular", "ticking"]
+      "categories": [
+        "birthday",
+        "home"
+      ],
+      "tags": [
+        "clock",
+        "time",
+        "invited",
+        "party",
+        "wordplay",
+        "popular",
+        "ticking"
+      ]
     },
     {
       "id": 160,
       "setup": "What do you call a birthday party for a chicken?",
       "punchline": "An eggs-travaganza!",
-      "categories": ["birthday", "animals"],
-      "tags": ["chicken", "eggs", "extravaganza", "poultry", "wordplay", "farm", "party"]
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "chicken",
+        "eggs",
+        "extravaganza",
+        "poultry",
+        "wordplay",
+        "farm",
+        "party"
+      ]
     },
     {
       "id": 161,
-      "setup": "Why did the boy bring string to his birthday party?",
-      "punchline": "So he could tie one on!",
-      "categories": ["birthday"],
-      "tags": ["string", "tie", "party", "wordplay", "celebration", "crafts", "fun"]
+      "setup": "Why did the birthday girl bring string to her party?",
+      "punchline": "She wanted to tie one on!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "string",
+        "tie",
+        "party",
+        "wordplay",
+        "celebration",
+        "crafts",
+        "fun"
+      ]
     },
     {
       "id": 162,
-      "setup": "What kind of birthday cake do lazy people like?",
-      "punchline": "Anything, as long as someone else makes it!",
-      "categories": ["birthday", "food"],
-      "tags": ["lazy", "cake", "making", "baking", "effort", "humor", "dessert"]
+      "setup": "Statistics show that people who have the most birthdays do what?",
+      "punchline": "They live the longest!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "statistics",
+        "birthdays",
+        "living",
+        "age",
+        "clever",
+        "logic",
+        "funny"
+      ]
     },
     {
       "id": 163,
-      "setup": "Why did the birthday streamer get promoted?",
-      "punchline": "Because it was on a roll!",
-      "categories": ["birthday", "work"],
-      "tags": ["streamer", "roll", "promoted", "decorations", "wordplay", "success", "party"]
+      "setup": "How does a witch celebrate her birthday?",
+      "punchline": "She doesn't celebrate, she spell-ebrates!",
+      "categories": [
+        "birthday",
+        "fantasy"
+      ],
+      "tags": [
+        "witch",
+        "spells",
+        "celebrate",
+        "magic",
+        "wordplay",
+        "halloween",
+        "party"
+      ]
     },
     {
       "id": 164,
       "setup": "What do computers eat at birthday parties?",
       "punchline": "Microchips!",
-      "categories": ["birthday", "technology"],
-      "tags": ["computers", "chips", "microchips", "tech", "wordplay", "snacks", "party"]
+      "categories": [
+        "birthday",
+        "technology"
+      ],
+      "tags": [
+        "computers",
+        "chips",
+        "microchips",
+        "tech",
+        "wordplay",
+        "snacks",
+        "party"
+      ]
     },
     {
       "id": 165,
       "setup": "Why did the birthday boy wear sunglasses to his party?",
       "punchline": "Because his future was so bright!",
-      "categories": ["birthday"],
-      "tags": ["sunglasses", "bright", "future", "cool", "wordplay", "optimism", "celebration"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "sunglasses",
+        "bright",
+        "future",
+        "cool",
+        "wordplay",
+        "optimism",
+        "celebration"
+      ]
     },
     {
       "id": 166,
       "setup": "What do you call a birthday party on a boat?",
       "punchline": "A birth-deck party!",
-      "categories": ["birthday", "travel"],
-      "tags": ["boat", "deck", "water", "sailing", "wordplay", "party", "ocean"]
+      "categories": [
+        "birthday",
+        "travel"
+      ],
+      "tags": [
+        "boat",
+        "deck",
+        "water",
+        "sailing",
+        "wordplay",
+        "party",
+        "ocean"
+      ]
     },
     {
       "id": 167,
       "setup": "Why did the elf's birthday cake taste funny?",
       "punchline": "It was made with shortening!",
-      "categories": ["birthday", "fantasy"],
-      "tags": ["elf", "short", "shortening", "cake", "wordplay", "baking", "magical"]
+      "categories": [
+        "birthday",
+        "fantasy"
+      ],
+      "tags": [
+        "elf",
+        "short",
+        "shortening",
+        "cake",
+        "wordplay",
+        "baking",
+        "magical"
+      ]
     },
     {
       "id": 168,
-      "setup": "What kind of birthday cake weighs the least?",
-      "punchline": "A light cake!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "light", "weight", "fluffy", "wordplay", "baking", "dessert"]
+      "setup": "Which candle burns longer, pink or blue?",
+      "punchline": "Neither, they both burn shorter!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "candles",
+        "burning",
+        "colors",
+        "riddle",
+        "trick question",
+        "logic",
+        "clever"
+      ]
     },
     {
       "id": 169,
       "setup": "Why did the magician's birthday party go so well?",
       "punchline": "Because he had a few tricks up his sleeve!",
-      "categories": ["birthday"],
-      "tags": ["magician", "tricks", "sleeve", "magic", "wordplay", "entertainment", "party"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "magician",
+        "tricks",
+        "sleeve",
+        "magic",
+        "wordplay",
+        "entertainment",
+        "party"
+      ]
     },
     {
       "id": 170,
       "setup": "What did the birthday cake say to the fork?",
       "punchline": "You want a piece of me?",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "fork", "piece", "fighting", "wordplay", "utensils", "eating"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "fork",
+        "piece",
+        "fighting",
+        "wordplay",
+        "utensils",
+        "eating"
+      ]
     },
     {
       "id": 171,
       "setup": "Why do birds fly south on their birthdays?",
       "punchline": "Because it's too far to walk to the party!",
-      "categories": ["birthday", "animals"],
-      "tags": ["birds", "flying", "south", "walking", "party", "migration", "travel"]
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "birds",
+        "flying",
+        "south",
+        "walking",
+        "party",
+        "migration",
+        "travel"
+      ]
     },
     {
       "id": 172,
       "setup": "What kind of birthday cake do you get at the hair salon?",
       "punchline": "A layer cake!",
-      "categories": ["birthday", "work"],
-      "tags": ["hair salon", "layers", "cake", "haircut", "wordplay", "baking", "beauty"]
+      "categories": [
+        "birthday",
+        "work"
+      ],
+      "tags": [
+        "hair salon",
+        "layers",
+        "cake",
+        "haircut",
+        "wordplay",
+        "baking",
+        "beauty"
+      ]
     },
     {
       "id": 173,
       "setup": "Why was the birthday cake in bad shape?",
       "punchline": "Because too many people wanted a piece of it!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "pieces", "slices", "popular", "sharing", "dessert", "party"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "pieces",
+        "slices",
+        "popular",
+        "sharing",
+        "dessert",
+        "party"
+      ]
     },
     {
       "id": 174,
-      "setup": "What do you call a late birthday gift?",
-      "punchline": "Better late than never!",
-      "categories": ["birthday"],
-      "tags": ["late", "gift", "present", "timing", "saying", "excuse", "delay"]
+      "setup": "Forget about the past, you can't change it. Forget about the future, you can't predict it. Forget about the present...",
+      "punchline": "I didn't get you one!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "present",
+        "gift",
+        "forget",
+        "joke",
+        "classic",
+        "wordplay",
+        "birthday"
+      ]
     },
     {
       "id": 175,
       "setup": "Why did the candle go to school on its birthday?",
       "punchline": "To get a little brighter!",
-      "categories": ["birthday", "school"],
-      "tags": ["candle", "school", "bright", "learning", "wordplay", "education", "smart"]
+      "categories": [
+        "birthday",
+        "school"
+      ],
+      "tags": [
+        "candle",
+        "school",
+        "bright",
+        "learning",
+        "wordplay",
+        "education",
+        "smart"
+      ]
     },
     {
       "id": 176,
-      "setup": "What kind of birthday candles burn longer, pink or blue?",
-      "punchline": "Neither, they both burn shorter!",
-      "categories": ["birthday"],
-      "tags": ["candles", "burning", "colors", "riddle", "trick question", "logic", "clever"]
+      "setup": "Which kind of birthday cake is always fresh?",
+      "punchline": "An angel food cake - it's heavenly!",
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "angel food",
+        "fresh",
+        "heaven",
+        "wordplay",
+        "baking",
+        "dessert"
+      ]
     },
     {
       "id": 177,
       "setup": "Why did the birthday girl bring a baseball bat to her party?",
       "punchline": "She heard there was going to be a pinata and she wanted to hit it off!",
-      "categories": ["birthday", "sports"],
-      "tags": ["baseball bat", "pinata", "hitting", "party", "candy", "sports", "games"]
+      "categories": [
+        "birthday",
+        "sports"
+      ],
+      "tags": [
+        "baseball bat",
+        "pinata",
+        "hitting",
+        "party",
+        "candy",
+        "sports",
+        "games"
+      ]
     },
     {
       "id": 178,
       "setup": "What do astronauts put on their birthday cakes?",
       "punchline": "Space-kles!",
-      "categories": ["birthday", "science"],
-      "tags": ["astronauts", "space", "sprinkles", "cake", "wordplay", "nasa", "decorating"]
+      "categories": [
+        "birthday",
+        "science"
+      ],
+      "tags": [
+        "astronauts",
+        "space",
+        "sprinkles",
+        "cake",
+        "wordplay",
+        "nasa",
+        "decorating"
+      ]
     },
     {
       "id": 179,
       "setup": "Why did the slice of birthday cake go to the dentist?",
       "punchline": "It needed a filling!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "dentist", "filling", "teeth", "wordplay", "baking", "layers"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "dentist",
+        "filling",
+        "teeth",
+        "wordplay",
+        "baking",
+        "layers"
+      ]
     },
     {
       "id": 180,
       "setup": "What kind of birthday party do stamps have?",
       "punchline": "A first-class celebration!",
-      "categories": ["birthday"],
-      "tags": ["stamps", "first class", "mail", "celebration", "wordplay", "post office", "party"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "stamps",
+        "first class",
+        "mail",
+        "celebration",
+        "wordplay",
+        "post office",
+        "party"
+      ]
     },
     {
       "id": 181,
       "setup": "Why did the elephant forget his own birthday?",
       "punchline": "That's impossible, elephants never forget!",
-      "categories": ["birthday", "animals"],
-      "tags": ["elephant", "memory", "forget", "never forget", "animals", "irony", "classic"]
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "elephant",
+        "memory",
+        "forget",
+        "never forget",
+        "animals",
+        "irony",
+        "classic"
+      ]
     },
     {
       "id": 182,
       "setup": "What do you call a birthday celebration for twins?",
       "punchline": "A double feature!",
-      "categories": ["birthday", "family"],
-      "tags": ["twins", "double", "two", "siblings", "wordplay", "movies", "party"]
+      "categories": [
+        "birthday",
+        "family"
+      ],
+      "tags": [
+        "twins",
+        "double",
+        "two",
+        "siblings",
+        "wordplay",
+        "movies",
+        "party"
+      ]
     },
     {
       "id": 183,
-      "setup": "Why did the candles feel hot and bothered?",
-      "punchline": "Because they were all fired up for the party!",
-      "categories": ["birthday"],
-      "tags": ["candles", "fire", "hot", "excited", "wordplay", "flames", "party"]
+      "setup": "How do you know when you're too old?",
+      "punchline": "When the candles cost more than the cake!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "candles",
+        "old",
+        "expensive",
+        "cake",
+        "aging",
+        "cost",
+        "party"
+      ]
     },
     {
       "id": 184,
       "setup": "What kind of birthday cake did the electrician get?",
       "punchline": "A shock-olate cake!",
-      "categories": ["birthday", "work"],
-      "tags": ["electrician", "shock", "chocolate", "work", "wordplay", "electricity", "dessert"]
+      "categories": [
+        "birthday",
+        "work"
+      ],
+      "tags": [
+        "electrician",
+        "shock",
+        "chocolate",
+        "work",
+        "wordplay",
+        "electricity",
+        "dessert"
+      ]
     },
     {
       "id": 185,
-      "setup": "Why did the birthday boy take a nap at his party?",
-      "punchline": "Because his friends told him to rest up for the big day!",
-      "categories": ["birthday"],
-      "tags": ["nap", "sleeping", "rest", "tired", "party", "big day", "celebration"]
+      "setup": "What's the best way to remember your wife's birthday?",
+      "punchline": "Forget it once!",
+      "categories": [
+        "birthday",
+        "family"
+      ],
+      "tags": [
+        "wife",
+        "remember",
+        "forget",
+        "marriage",
+        "advice",
+        "humor",
+        "classic"
+      ]
     },
     {
       "id": 186,
       "setup": "What did the birthday card say to the stamp?",
       "punchline": "Stick with me and we'll go places!",
-      "categories": ["birthday"],
-      "tags": ["card", "stamp", "stick", "mail", "wordplay", "traveling", "friendship"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "card",
+        "stamp",
+        "stick",
+        "mail",
+        "wordplay",
+        "traveling",
+        "friendship"
+      ]
     },
     {
       "id": 187,
-      "setup": "Why did the vegetarian's birthday cake taste so good?",
-      "punchline": "Because it was made from scratch, using all plants!",
-      "categories": ["birthday", "food"],
-      "tags": ["vegetarian", "plants", "scratch", "baking", "healthy", "cake", "dessert"]
+      "setup": "Why do some people get heartburn from eating birthday cake?",
+      "punchline": "They forget to take off the candles!",
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "heartburn",
+        "candles",
+        "cake",
+        "eating",
+        "silly",
+        "dessert",
+        "fire"
+      ]
     },
     {
       "id": 188,
       "setup": "What kind of birthday cake can fly?",
       "punchline": "A plain cake!",
-      "categories": ["birthday", "travel"],
-      "tags": ["cake", "plane", "plain", "flying", "wordplay", "travel", "dessert"]
+      "categories": [
+        "birthday",
+        "travel"
+      ],
+      "tags": [
+        "cake",
+        "plane",
+        "plain",
+        "flying",
+        "wordplay",
+        "travel",
+        "dessert"
+      ]
     },
     {
       "id": 189,
       "setup": "Why did the birthday cake go to therapy?",
       "punchline": "Because it had too much on its plate!",
-      "categories": ["birthday"],
-      "tags": ["cake", "therapy", "plate", "stress", "wordplay", "mental health", "busy"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "cake",
+        "therapy",
+        "plate",
+        "stress",
+        "wordplay",
+        "mental health",
+        "busy"
+      ]
     },
     {
       "id": 190,
       "setup": "What do you call a really loud birthday party?",
       "punchline": "A birthday bash!",
-      "categories": ["birthday"],
-      "tags": ["loud", "bash", "party", "noise", "wordplay", "celebration", "fun"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "loud",
+        "bash",
+        "party",
+        "noise",
+        "wordplay",
+        "celebration",
+        "fun"
+      ]
     },
     {
       "id": 191,
       "setup": "Why did the birthday cake sit in the corner?",
       "punchline": "Because someone told it to layer low!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "corner", "layers", "hiding", "wordplay", "lay low", "baking"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "corner",
+        "layers",
+        "hiding",
+        "wordplay",
+        "lay low",
+        "baking"
+      ]
     },
     {
       "id": 192,
       "setup": "What did the ocean say on its birthday?",
       "punchline": "Nothing, it just waved!",
-      "categories": ["birthday", "geography"],
-      "tags": ["ocean", "wave", "waving", "water", "wordplay", "beach", "sea"]
+      "categories": [
+        "birthday",
+        "geography"
+      ],
+      "tags": [
+        "ocean",
+        "wave",
+        "waving",
+        "water",
+        "wordplay",
+        "beach",
+        "sea"
+      ]
     },
     {
       "id": 193,
-      "setup": "Why did the candle get embarrassed?",
-      "punchline": "Because its wick was showing!",
-      "categories": ["birthday"],
-      "tags": ["candle", "wick", "embarrassed", "showing", "wordplay", "fire", "blushing"]
+      "setup": "What's on the left side of a birthday cake?",
+      "punchline": "The side that hasn't been eaten yet!",
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "cake",
+        "left",
+        "eaten",
+        "riddle",
+        "wordplay",
+        "clever",
+        "dessert"
+      ]
     },
     {
       "id": 194,
       "setup": "What do you call a birthday party for a cow?",
       "punchline": "A moo-velous celebration!",
-      "categories": ["birthday", "animals"],
-      "tags": ["cow", "moo", "marvelous", "farm", "wordplay", "party", "celebration"]
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "cow",
+        "moo",
+        "marvelous",
+        "farm",
+        "wordplay",
+        "party",
+        "celebration"
+      ]
     },
     {
       "id": 195,
       "setup": "Why did the birthday present hide?",
       "punchline": "Because it didn't want to be taken for granted!",
-      "categories": ["birthday"],
-      "tags": ["present", "hiding", "granted", "gift", "wordplay", "appreciation", "surprise"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "present",
+        "hiding",
+        "granted",
+        "gift",
+        "wordplay",
+        "appreciation",
+        "surprise"
+      ]
     },
     {
       "id": 196,
       "setup": "What kind of birthday cake is always cold?",
       "punchline": "A brrr-thday cake!",
-      "categories": ["birthday", "food"],
-      "tags": ["cake", "cold", "brrr", "freezing", "wordplay", "winter", "dessert"]
+      "categories": [
+        "birthday",
+        "food"
+      ],
+      "tags": [
+        "cake",
+        "cold",
+        "brrr",
+        "freezing",
+        "wordplay",
+        "winter",
+        "dessert"
+      ]
     },
     {
       "id": 197,
-      "setup": "Why did the baker's birthday cakes always rise to the top?",
-      "punchline": "Because they had a lot of potential and good yeast!",
-      "categories": ["birthday", "work"],
-      "tags": ["baker", "rising", "yeast", "success", "wordplay", "baking", "potential"]
+      "setup": "Do you know how long dinosaurs lived?",
+      "punchline": "The same as short ones!",
+      "categories": [
+        "birthday",
+        "animals"
+      ],
+      "tags": [
+        "dinosaurs",
+        "long",
+        "short",
+        "living",
+        "wordplay",
+        "clever",
+        "age"
+      ]
     },
     {
       "id": 198,
       "setup": "What kind of birthday cake do teachers prefer?",
       "punchline": "One that makes the grade!",
-      "categories": ["birthday", "school"],
-      "tags": ["teachers", "grades", "cake", "school", "wordplay", "education", "success"]
+      "categories": [
+        "birthday",
+        "school"
+      ],
+      "tags": [
+        "teachers",
+        "grades",
+        "cake",
+        "school",
+        "wordplay",
+        "education",
+        "success"
+      ]
     },
     {
       "id": 199,
       "setup": "Why did everyone enjoy the lamp's birthday party?",
       "punchline": "Because it really lit up the room!",
-      "categories": ["birthday", "home"],
-      "tags": ["lamp", "light", "lit up", "room", "wordplay", "bright", "party"]
+      "categories": [
+        "birthday",
+        "home"
+      ],
+      "tags": [
+        "lamp",
+        "light",
+        "lit up",
+        "room",
+        "wordplay",
+        "bright",
+        "party"
+      ]
     },
     {
       "id": 200,
       "setup": "What did the birthday balloon say after the party?",
       "punchline": "I had a blast, even though I'm totally deflated now!",
-      "categories": ["birthday"],
-      "tags": ["balloon", "blast", "deflated", "tired", "wordplay", "party", "ending"]
+      "categories": [
+        "birthday"
+      ],
+      "tags": [
+        "balloon",
+        "blast",
+        "deflated",
+        "tired",
+        "wordplay",
+        "party",
+        "ending"
+      ]
     },
     {
       "id": 201,
