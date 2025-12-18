@@ -2,704 +2,704 @@
   "jokes": [
     {
       "id": 1,
-    "setup": "Why don't cats play poker in the jungle?",
-    "punchline": "Too many cheetahs!",
-    "categories": ["animals"],
-    "tags": ["cats", "jungle", "poker", "cheating", "cheetah", "card-games", "wordplay"]
-  },
-  {
-    "id": 2,
-    "setup": "What do you call a fish without eyes?",
-    "punchline": "A fsh!",
-    "categories": ["animals"],
-    "tags": ["fish", "pun", "spelling", "sea", "ocean", "classic", "wordplay"]
-  },
-  {
-    "id": 3,
-    "setup": "What do you call a sleeping dinosaur?",
-    "punchline": "A dino-snore!",
-    "categories": ["animals"],
-    "tags": ["dinosaurs", "sleep", "snoring", "bedtime", "pun", "prehistoric", "kids"]
-  },
-  {
-    "id": 4,
-    "setup": "What do you call a bear with no teeth?",
-    "punchline": "A gummy bear!",
-    "categories": ["animals"],
-    "tags": ["bear", "teeth", "candy", "gummy", "pun", "wildlife", "classic"]
-  },
-  {
-    "id": 5,
-    "setup": "Why do cows wear bells?",
-    "punchline": "Because their horns don't work!",
-    "categories": ["animals"],
-    "tags": ["cow", "farm", "bells", "horns", "pun", "livestock", "classic"]
-  },
-  {
-    "id": 6,
-    "setup": "Why don't elephants use computers?",
-    "punchline": "Because they're afraid of the mouse!",
-    "categories": ["animals"],
-    "tags": ["elephant", "computer", "mouse", "technology", "fear", "pun", "classic"]
-  },
-  {
-    "id": 7,
-    "setup": "What do you call a lazy kangaroo?",
-    "punchline": "A pouch potato!",
-    "categories": ["animals"],
-    "tags": ["kangaroo", "lazy", "pouch", "couch-potato", "australia", "pun", "marsupial"]
-  },
-  {
-    "id": 8,
-    "setup": "Why did the chicken go to the séance?",
-    "punchline": "To get to the other side!",
-    "categories": ["animals"],
-    "tags": ["chicken", "seance", "other-side", "classic", "twist", "pun", "birds"]
-  },
-  {
-    "id": 9,
-    "setup": "What do you call a pig that does karate?",
-    "punchline": "A pork chop!",
-    "categories": ["animals"],
-    "tags": ["pig", "karate", "martial-arts", "pun", "farm", "food", "classic"]
-  },
-  {
-    "id": 10,
-    "setup": "Why are frogs so happy?",
-    "punchline": "They eat whatever bugs them!",
-    "categories": ["animals"],
-    "tags": ["frog", "bugs", "happy", "pun", "insects", "amphibian", "wordplay"]
-  },
-  {
-    "id": 11,
-    "setup": "What do you call a cow with no legs?",
-    "punchline": "Ground beef!",
-    "categories": ["animals"],
-    "tags": ["cow", "no-legs", "ground-beef", "pun", "farm", "food", "classic"]
-  },
-  {
-    "id": 12,
-    "setup": "What do you call a fish that wears a bowtie?",
-    "punchline": "So-fish-ticated!",
-    "categories": ["animals"],
-    "tags": ["fish", "bowtie", "fancy", "fashion", "pun", "ocean", "wordplay"]
-  },
-  {
-    "id": 13,
-    "setup": "Why don't oysters share?",
-    "punchline": "Because they're shellfish!",
-    "categories": ["animals"],
-    "tags": ["oyster", "sharing", "selfish", "shellfish", "pun", "seafood", "classic"]
-  },
-  {
-    "id": 14,
-    "setup": "Why do bees have sticky hair?",
-    "punchline": "Because they use honeycombs!",
-    "categories": ["animals"],
-    "tags": ["bee", "honey", "comb", "hair", "pun", "insect", "wordplay"]
-  },
-  {
-    "id": 15,
-    "setup": "What do you call a deer with no eyes?",
-    "punchline": "No eye-deer!",
-    "categories": ["animals"],
-    "tags": ["deer", "no-idea", "eyes", "pun", "wildlife", "classic", "wordplay"]
-  },
-  {
-    "id": 16,
-    "setup": "Why did the spider buy a computer?",
-    "punchline": "To check his website!",
-    "categories": ["animals"],
-    "tags": ["spider", "web", "website", "computer", "pun", "insect", "internet"]
-  },
-  {
-    "id": 17,
-    "setup": "Why did the cow cross the road?",
-    "punchline": "To get to the udder side!",
-    "categories": ["animals"],
-    "tags": ["cow", "crossing-road", "udder", "pun", "farm", "classic", "wordplay"]
-  },
-  {
-    "id": 18,
-    "setup": "Why don't seagulls fly over the bay?",
-    "punchline": "Because then they'd be bagels!",
-    "categories": ["animals"],
-    "tags": ["seagull", "bay", "bagel", "pun", "birds", "beach", "wordplay"]
-  },
-  {
-    "id": 19,
-    "setup": "What do you call a snake that's exactly 3.14 meters long?",
-    "punchline": "A pi-thon!",
-    "categories": ["animals"],
-    "tags": ["snake", "python", "pi", "math", "pun", "reptile", "wordplay"]
-  },
-  {
-    "id": 20,
-    "setup": "What do you call a sleeping bull?",
-    "punchline": "A bulldozer!",
-    "categories": ["animals"],
-    "tags": ["bull", "sleep", "bulldozer", "pun", "farm", "construction", "wordplay"]
-  },
-  {
-    "id": 21,
-    "setup": "What do you call an alligator in a vest?",
-    "punchline": "An investigator!",
-    "categories": ["animals"],
-    "tags": ["alligator", "vest", "investigator", "pun", "reptile", "detective", "wordplay"]
-  },
-  {
-    "id": 22,
-    "setup": "Why do hummingbirds hum?",
-    "punchline": "Because they don't know the words!",
-    "categories": ["animals"],
-    "tags": ["hummingbird", "music", "hum", "lyrics", "pun", "birds", "wordplay"]
-  },
-  {
-    "id": 23,
-    "setup": "What do you call a fish that practices medicine?",
-    "punchline": "A sturgeon!",
-    "categories": ["animals"],
-    "tags": ["fish", "surgeon", "doctor", "pun", "ocean", "hospital", "wordplay"]
-  },
-  {
-    "id": 24,
-    "setup": "Why did the horse sit behind the tree?",
-    "punchline": "He wanted some shade for his neigh-borhood!",
-    "categories": ["animals"],
-    "tags": ["horse", "tree", "shade", "neigh", "pun", "farm", "wordplay"]
-  },
-  {
-    "id": 25,
-    "setup": "Why did the octopus win the debate?",
-    "punchline": "Because it had a lot of points!",
-    "categories": ["animals"],
-    "tags": ["octopus", "points", "tentacles", "pun", "ocean", "clever", "wordplay"]
-  },
-  {
-    "id": 26,
-    "setup": "Why do pandas like old movies?",
-    "punchline": "Because they're in black and white!",
-    "categories": ["animals"],
-    "tags": ["panda", "movies", "black-and-white", "pun", "bears", "classic", "wordplay"]
-  },
-  {
-    "id": 27,
-    "setup": "What do you call a cow that plays an instrument?",
-    "punchline": "A moo-sician!",
-    "categories": ["animals"],
-    "tags": ["cow", "music", "musician", "moo", "pun", "farm", "wordplay"]
-  },
-  {
-    "id": 28,
-    "setup": "Why don't dogs make good dancers?",
-    "punchline": "Because they have two left feet!",
-    "categories": ["animals"],
-    "tags": ["dog", "dancing", "clumsy", "feet", "pun", "pets", "classic"]
-  },
-  {
-    "id": 29,
-    "setup": "What do you call a group of disorganized cats?",
-    "punchline": "A cat-astrophe!",
-    "categories": ["animals"],
-    "tags": ["cat", "catastrophe", "messy", "pun", "pets", "group", "wordplay"]
-  },
-  {
-    "id": 30,
-    "setup": "What do you call a sheep with no legs?",
-    "punchline": "A cloud!",
-    "categories": ["animals"],
-    "tags": ["sheep", "cloud", "wool", "fluffy", "pun", "farm", "wordplay"]
-  },
-  {
-    "id": 31,
-    "setup": "Why do birds fly south for the winter?",
-    "punchline": "Because it's too far to walk!",
-    "categories": ["animals"],
-    "tags": ["birds", "migration", "winter", "south", "pun", "travel", "classic"]
-  },
-  {
-    "id": 32,
-    "setup": "Why did the cat sit on the computer?",
-    "punchline": "To keep an eye on the mouse!",
-    "categories": ["animals"],
-    "tags": ["cat", "computer", "mouse", "pets", "pun", "technology", "classic"]
-  },
-  {
-    "id": 33,
-    "setup": "What do you call a camel with no humps?",
-    "punchline": "Humphrey!",
-    "categories": ["animals"],
-    "tags": ["camel", "humps", "name", "desert", "pun", "wordplay", "classic"]
-  },
-  {
-    "id": 34,
-    "setup": "Why did the pony get sent to his room?",
-    "punchline": "He wouldn't stop horsing around!",
-    "categories": ["animals"],
-    "tags": ["pony", "horse", "horsing-around", "kids", "pun", "family", "classic"]
-  },
-  {
-    "id": 35,
-    "setup": "Why are fish so smart?",
-    "punchline": "Because they live in schools!",
-    "categories": ["animals"],
-    "tags": ["fish", "school", "smart", "pun", "ocean", "education", "classic"]
-  },
-  {
-    "id": 36,
-    "setup": "What do you call a cow on a trampoline?",
-    "punchline": "A milkshake!",
-    "categories": ["animals"],
-    "tags": ["cow", "trampoline", "milkshake", "bouncing", "pun", "dairy", "wordplay"]
-  },
-  {
-    "id": 37,
-    "setup": "Why did the snake do so well in court?",
-    "punchline": "Because he had a hiss-terical defense!",
-    "categories": ["animals"],
-    "tags": ["snake", "court", "hiss", "law", "pun", "reptile", "wordplay"]
-  },
-  {
-    "id": 38,
-    "setup": "Why did the chicken join a band?",
-    "punchline": "Because it already had the drumsticks!",
-    "categories": ["animals"],
-    "tags": ["chicken", "band", "drums", "drumsticks", "pun", "music", "wordplay"]
-  },
-  {
-    "id": 39,
-    "setup": "What do you call a crocodile that likes to bowl?",
-    "punchline": "An alley-gator!",
-    "categories": ["animals"],
-    "tags": ["crocodile", "alligator", "bowling", "alley", "pun", "reptile", "wordplay"]
-  },
-  {
-    "id": 40,
-    "setup": "Why do cows have hooves instead of feet?",
-    "punchline": "Because they lactose!",
-    "categories": ["animals"],
-    "tags": ["cow", "hooves", "lactose", "lack-toes", "pun", "dairy", "wordplay"]
-  },
-  {
-    "id": 41,
-    "setup": "Why did the pelican get kicked out of the restaurant?",
-    "punchline": "Because it had a very big bill!",
-    "categories": ["animals"],
-    "tags": ["pelican", "restaurant", "bill", "beak", "pun", "birds", "wordplay"]
-  },
-  {
-    "id": 42,
-    "setup": "Why did the butterfly bring deodorant?",
-    "punchline": "In case it started to flutter-stink!",
-    "categories": ["animals"],
-    "tags": ["butterfly", "flutter", "smell", "pun", "insect", "silly", "wordplay"]
-  },
-  {
-    "id": 43,
-    "setup": "Why don't crabs donate to charity?",
-    "punchline": "Because they're shellfish!",
-    "categories": ["animals"],
-    "tags": ["crab", "charity", "shellfish", "selfish", "pun", "ocean", "classic"]
-  },
-  {
-    "id": 44,
-    "setup": "Why did the owl start a band?",
-    "punchline": "Because it had all the right hoot-keys!",
-    "categories": ["animals"],
-    "tags": ["owl", "hoot", "music", "band", "pun", "birds", "wordplay"]
-  },
-  {
-    "id": 45,
-    "setup": "Why do dolphins live in salt water?",
-    "punchline": "Because pepper makes them sneeze!",
-    "categories": ["animals"],
-    "tags": ["dolphin", "salt-water", "pepper", "sneeze", "pun", "ocean", "classic"]
-  },
-  {
-    "id": 46,
-    "setup": "Why did the sheep say \"moo\"?",
-    "punchline": "It was trying to learn a new language!",
-    "categories": ["animals"],
-    "tags": ["sheep", "moo", "language", "learning", "pun", "farm", "wordplay"]
-  },
-  {
-    "id": 47,
-    "setup": "Why did the shark spit out the clownfish?",
-    "punchline": "Because it tasted funny!",
-    "categories": ["animals"],
-    "tags": ["shark", "clownfish", "funny", "taste", "pun", "ocean", "wordplay"]
-  },
-  {
-    "id": 48,
-    "setup": "Why don't leopards play hide and seek?",
-    "punchline": "Because they're always spotted!",
-    "categories": ["animals"],
-    "tags": ["leopard", "spots", "hide-and-seek", "spotted", "pun", "wildlife", "classic"]
-  },
-  {
-    "id": 49,
-    "setup": "Why did the pigeon go to the doctor?",
-    "punchline": "Because it was feeling a little coo-coo!",
-    "categories": ["animals"],
-    "tags": ["pigeon", "doctor", "coo", "sick", "pun", "birds", "wordplay"]
-  },
-  {
-    "id": 50,
-    "setup": "Why did the zebra cross the road?",
-    "punchline": "Because it was at a zebra crossing!",
-    "categories": ["animals"],
-    "tags": ["zebra", "crossing", "road", "stripes", "pun", "traffic", "wordplay"]
-  },
-  {
-    "id": 51,
-    "setup": "What do you call a llama that tells jokes?",
-    "punchline": "A lamao!",
-    "categories": ["animals"],
-    "tags": ["llama", "jokes", "laugh", "pun", "wordplay", "silly", "animals"]
-  },
-  {
-    "id": 52,
-    "setup": "What do you call a rabbit that tells one-liners?",
-    "punchline": "A funny bunny!",
-    "categories": ["animals"],
-    "tags": ["rabbit", "bunny", "one-liners", "pun", "cute", "classic", "wordplay"]
-  },
-  {
-    "id": 53,
-    "setup": "Why did the duck bring a towel?",
-    "punchline": "Because it was going to make a splash!",
-    "categories": ["animals"],
-    "tags": ["duck", "towel", "splash", "water", "pun", "birds", "silly"]
-  },
-  {
-    "id": 54,
-    "setup": "What do you call a dog that can do magic?",
-    "punchline": "A Labracadabrador!",
-    "categories": ["animals"],
-    "tags": ["dog", "labrador", "magic", "abracadabra", "pun", "pets", "classic"]
-  },
-  {
-    "id": 55,
-    "setup": "Why did the giraffe get invited to every party?",
-    "punchline": "Because it was a real neck-strovert!",
-    "categories": ["animals"],
-    "tags": ["giraffe", "neck", "party", "extrovert", "pun", "wildlife", "wordplay"]
-  },
-  {
-    "id": 56,
-    "setup": "Why did the turtle cross the road?",
-    "punchline": "To get to the Shell station!",
-    "categories": ["animals"],
-    "tags": ["turtle", "shell", "gas-station", "road", "pun", "reptile", "wordplay"]
-  },
-  {
-    "id": 57,
-    "setup": "What do you call a bird that's afraid to fly?",
-    "punchline": "A chicken!",
-    "categories": ["animals"],
-    "tags": ["bird", "chicken", "afraid", "flying", "pun", "classic", "wordplay"]
-  },
-  {
-    "id": 58,
-    "setup": "Why did the lion eat the tightrope walker?",
-    "punchline": "Because it wanted a well-balanced meal!",
-    "categories": ["animals"],
-    "tags": ["lion", "circus", "tightrope", "balanced", "pun", "wildlife", "wordplay"]
-  },
-  {
-    "id": 59,
-    "setup": "Why don't bears wear shoes?",
-    "punchline": "Because they prefer bear feet!",
-    "categories": ["animals"],
-    "tags": ["bear", "shoes", "bare-feet", "pun", "wildlife", "classic", "wordplay"]
-  },
-  {
-    "id": 60,
-    "setup": "What do you call a cat that eats lemons?",
-    "punchline": "A sourpuss!",
-    "categories": ["animals"],
-    "tags": ["cat", "lemons", "sour", "sourpuss", "pun", "pets", "wordplay"]
-  },
-  {
-    "id": 61,
-    "setup": "Why did the owl invite friends over?",
-    "punchline": "Because it didn't want to be owl by itself!",
-    "categories": ["animals"],
-    "tags": ["owl", "alone", "friends", "pun", "birds", "lonely", "wordplay"]
-  },
-  {
-    "id": 62,
-    "setup": "What do you call a fish that loves karaoke?",
-    "punchline": "A tune-a!",
-    "categories": ["animals"],
-    "tags": ["fish", "tuna", "karaoke", "singing", "pun", "music", "wordplay"]
-  },
-  {
-    "id": 63,
-    "setup": "Why did the flamingo stand on one leg?",
-    "punchline": "Because if it lifted both, it would fall over!",
-    "categories": ["animals"],
-    "tags": ["flamingo", "one-leg", "balance", "birds", "pun", "classic", "silly"]
-  },
-  {
-    "id": 64,
-    "setup": "What do you call a grizzly bear caught in the rain?",
-    "punchline": "A drizzly bear!",
-    "categories": ["animals"],
-    "tags": ["bear", "grizzly", "rain", "drizzle", "pun", "weather", "wordplay"]
-  },
-  {
-    "id": 65,
-    "setup": "What do you call a cold dog?",
-    "punchline": "A chili dog!",
-    "categories": ["animals"],
-    "tags": ["dog", "cold", "chili-dog", "hot-dog", "pun", "pets", "food"]
-  },
-  {
-    "id": 66,
-    "setup": "Why did the ant bring a suitcase?",
-    "punchline": "It was going on a small trip!",
-    "categories": ["animals"],
-    "tags": ["ant", "suitcase", "travel", "small", "pun", "insect", "wordplay"]
-  },
-  {
-    "id": 67,
-    "setup": "What do you call a rabbit that's been working out?",
-    "punchline": "A hare-culean athlete!",
-    "categories": ["animals"],
-    "tags": ["rabbit", "hare", "workout", "gym", "pun", "fitness", "wordplay"]
-  },
-  {
-    "id": 68,
-    "setup": "Why did the snail buy a fast car?",
-    "punchline": "So it could say, \"Look at that S-car-go!\"",
-    "categories": ["animals"],
-    "tags": ["snail", "car", "escargot", "fast", "pun", "wordplay", "silly"]
-  },
-  {
-    "id": 69,
-    "setup": "What do you call a nervous chameleon?",
-    "punchline": "A reptile dysfunction!",
-    "categories": ["animals"],
-    "tags": ["chameleon", "nervous", "reptile", "pun", "wordplay", "lizard", "silly"]
-  },
-  {
-    "id": 70,
-    "setup": "Why did the dog sit in the shade?",
-    "punchline": "Because it didn't want to be a hot dog!",
-    "categories": ["animals"],
-    "tags": ["dog", "shade", "hot-dog", "summer", "pun", "pets", "wordplay"]
-  },
-  {
-    "id": 71,
-    "setup": "What do you call a cat who works for the Red Cross?",
-    "punchline": "A first-aid kit!",
-    "categories": ["animals"],
-    "tags": ["cat", "first-aid", "red-cross", "kit", "pun", "pets", "wordplay"]
-  },
-  {
-    "id": 72,
-    "setup": "Why did the koala get a new job?",
-    "punchline": "It wanted to branch out!",
-    "categories": ["animals"],
-    "tags": ["koala", "job", "branch", "trees", "pun", "australia", "wordplay"]
-  },
-  {
-    "id": 73,
-    "setup": "What do you call an elephant that doesn't matter?",
-    "punchline": "An irrelephant!",
-    "categories": ["animals"],
-    "tags": ["elephant", "irrelevant", "pun", "wordplay", "wildlife", "silly", "classic"]
-  },
-  {
-    "id": 74,
-    "setup": "Why did the dog cross the road?",
-    "punchline": "To get to the barking lot!",
-    "categories": ["animals"],
-    "tags": ["dog", "crossing-road", "parking-lot", "barking", "pun", "pets", "wordplay"]
-  },
-  {
-    "id": 75,
-    "setup": "What do you call a cow that can't stop talking?",
-    "punchline": "A moo-thpiece!",
-    "categories": ["animals"],
-    "tags": ["cow", "talking", "mouthpiece", "moo", "pun", "farm", "wordplay"]
-  },
-  {
-    "id": 76,
-    "setup": "Why did the cat get a job at the bakery?",
-    "punchline": "Because it kneaded the dough!",
-    "categories": ["animals"],
-    "tags": ["cat", "bakery", "knead", "dough", "pun", "pets", "wordplay"]
-  },
-  {
-    "id": 77,
-    "setup": "What do you call a penguin wearing a bowtie?",
-    "punchline": "Well-dressed and ice-olated!",
-    "categories": ["animals"],
-    "tags": ["penguin", "bowtie", "fancy", "ice", "pun", "birds", "wordplay"]
-  },
-  {
-    "id": 78,
-    "setup": "Why did the bee sit on the clock?",
-    "punchline": "Because it wanted to be on time!",
-    "categories": ["animals"],
-    "tags": ["bee", "clock", "on-time", "pun", "insect", "wordplay", "silly"]
-  },
-  {
-    "id": 79,
-    "setup": "What do you call a dog that loves math?",
-    "punchline": "A multi-pup-plier!",
-    "categories": ["animals"],
-    "tags": ["dog", "math", "multiply", "pun", "pets", "numbers", "wordplay"]
-  },
-  {
-    "id": 80,
-    "setup": "Why did the squirrel bring a ladder to the tree?",
-    "punchline": "Because it wanted to raise the roof-nuts!",
-    "categories": ["animals"],
-    "tags": ["squirrel", "tree", "ladder", "nuts", "pun", "rodent", "wordplay"]
-  },
-  {
-    "id": 81,
-    "setup": "What do you call a bee that can't make up its mind?",
-    "punchline": "A maybee!",
-    "categories": ["animals"],
-    "tags": ["bee", "maybe", "indecisive", "pun", "insect", "classic", "wordplay"]
-  },
-  {
-    "id": 82,
-    "setup": "Why did the whale blush...",
-    "punchline": "Because it saw the ocean's bottom!",
-    "categories": ["animals"],
-    "tags": ["whale", "blush", "ocean", "bottom", "pun", "sea", "wordplay"]
-  },
-  {
-    "id": 83,
-    "setup": "What do you call a dinosaur that crashes its car?",
-    "punchline": "Tyrannosaurus Wrecks!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "t-rex", "car", "accident", "pun", "prehistoric", "wordplay"]
-  },
-  {
-    "id": 84,
-    "setup": "What do you call a dinosaur that knows a lot of words?",
-    "punchline": "A thesaurus!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "thesaurus", "words", "vocabulary", "pun", "books", "wordplay"]
-  },
-  {
-    "id": 85,
-    "setup": "What do you call a dinosaur who uses good vocabulary?",
-    "punchline": "A Thesaurus Rex!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "t-rex", "thesaurus", "vocabulary", "pun", "school", "wordplay"]
-  },
-  {
-    "id": 86,
-    "setup": "Why did the dinosaur refuse to wear deodorant?",
-    "punchline": "Because it didn't want to be ex-stinct!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "extinct", "stink", "deodorant", "pun", "prehistoric", "wordplay"]
-  },
-  {
-    "id": 87,
-    "setup": "What do you call a dinosaur ghost?",
-    "punchline": "A scaredactyl!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "pterodactyl", "ghost", "scared", "pun", "halloween", "wordplay"]
-  },
-  {
-    "id": 88,
-    "setup": "What do you call a dinosaur that never gives up?",
-    "punchline": "A try-try-triceratops!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "triceratops", "never-give-up", "trying", "pun", "motivation", "wordplay"]
-  },
-  {
-    "id": 89,
-    "setup": "What do you call a dinosaur who loves to nap?",
-    "punchline": "A dino-snooze!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "nap", "sleep", "snooze", "pun", "prehistoric", "wordplay"]
-  },
-  {
-    "id": 90,
-    "setup": "Why can't you hear a pterodactyl use the bathroom?",
-    "punchline": "Because the \"P\" is silent!",
-    "categories": ["animals"],
-    "tags": ["pterodactyl", "silent-p", "bathroom", "pun", "dinosaur", "classic", "wordplay"]
-  },
-  {
-    "id": 91,
-    "setup": "Why did the dinosaur bring a pencil to dinner?",
-    "punchline": "Because it wanted to draw its conclusion!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "pencil", "draw", "conclusion", "pun", "silly", "wordplay"]
-  },
-  {
-    "id": 92,
-    "setup": "What do you call a dinosaur that tells bad jokes?",
-    "punchline": "A dino-bore!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "bad-jokes", "boring", "pun", "prehistoric", "wordplay", "classic"]
-  },
-  {
-    "id": 93,
-    "setup": "Why did the T-Rex cross the road?",
-    "punchline": "To get to the dino-store!",
-    "categories": ["animals"],
-    "tags": ["t-rex", "crossing-road", "dino-store", "pun", "dinosaur", "wordplay", "silly"]
-  },
-  {
-    "id": 94,
-    "setup": "What do you call a dinosaur with great manners?",
-    "punchline": "A please-iosaur!",
-    "categories": ["animals"],
-    "tags": ["dinosaur", "plesiosaur", "manners", "please", "pun", "wordplay", "kids"]
-  },
-  {
-    "id": 95,
-    "setup": "Why did the stegosaurus sit on a cactus?",
-    "punchline": "It wanted a spine-tingling experience!",
-    "categories": ["animals"],
-    "tags": ["stegosaurus", "cactus", "spines", "pun", "dinosaur", "silly", "wordplay"]
-  },
-  {
-    "id": 96,
-    "setup": "Why did the cat bring a ladder to the bar?",
-    "punchline": "Because it heard the drinks were on the house!",
-    "categories": ["animals"],
-    "tags": ["cat", "ladder", "house", "pun", "pets", "wordplay", "classic"]
-  },
-  {
-    "id": 97,
-    "setup": "What do you call a dog that loves the beach?",
-    "punchline": "A sand-wich!",
-    "categories": ["animals"],
-    "tags": ["dog", "beach", "sandwich", "pun", "pets", "summer", "wordplay"]
-  },
-  {
-    "id": 98,
-    "setup": "Why did the hamster stop running...",
-    "punchline": "Because it was wheel-y tired!",
-    "categories": ["animals"],
-    "tags": ["hamster", "wheel", "tired", "pun", "pet", "rodent", "wordplay"]
-  },
-  {
-    "id": 99,
-    "setup": "What do you call a lazy bird?",
-    "punchline": "A perch potato!",
-    "categories": ["animals"],
-    "tags": ["bird", "lazy", "perch", "pun", "sleepy", "wordplay", "silly"]
-  },
-  {
-    "id": 100,
-    "setup": "What do you call a crab that throws things?",
-    "punchline": "A lobster!",
-    "categories": ["animals"],
-    "tags": ["crab", "lobster", "throwing", "lob", "pun", "ocean", "wordplay"]
-  },
+      "setup": "Why don't cats play poker in the jungle?",
+      "punchline": "Too many cheetahs!",
+      "categories": ["animals"],
+      "tags": ["cats", "jungle", "games", "cheating", "wordplay", "cards", "wildlife"]
+    },
+    {
+      "id": 2,
+      "setup": "What do you call a fish without eyes?",
+      "punchline": "A fsh!",
+      "categories": ["animals"],
+      "tags": ["fish", "ocean", "spelling", "wordplay", "classic", "sea", "marine"]
+    },
+    {
+      "id": 3,
+      "setup": "What do you call a sleeping dinosaur?",
+      "punchline": "A dino-snore!",
+      "categories": ["animals"],
+      "tags": ["dinosaurs", "sleeping", "snoring", "wordplay", "kids", "prehistoric", "bedtime"]
+    },
+    {
+      "id": 4,
+      "setup": "What do you call an obnoxious reindeer?",
+      "punchline": "Rude-olph!",
+      "categories": ["animals", "holidays"],
+      "tags": ["christmas", "reindeer", "rudolph", "rude", "winter", "santa", "wordplay"]
+    },
+    {
+      "id": 5,
+      "setup": "What do you call two spiders who just got married?",
+      "punchline": "Newlywebs!",
+      "categories": ["animals", "wedding"],
+      "tags": ["spiders", "newlyweds", "webs", "marriage", "wordplay", "insects", "love"]
+    },
+    {
+      "id": 6,
+      "setup": "What do you call a bear with no teeth?",
+      "punchline": "A gummy bear!",
+      "categories": ["animals"],
+      "tags": ["bears", "teeth", "candy", "wordplay", "classic", "wildlife", "dentist"]
+    },
+    {
+      "id": 7,
+      "setup": "Why do cows wear bells?",
+      "punchline": "Because their horns don't work!",
+      "categories": ["animals"],
+      "tags": ["cows", "farm", "bells", "horns", "wordplay", "classic", "livestock"]
+    },
+    {
+      "id": 8,
+      "setup": "What do you call a dinosaur that crashes their car?",
+      "punchline": "Tyrannosaurus Wrecks!",
+      "categories": ["animals"],
+      "tags": ["dinosaurs", "cars", "accidents", "t-rex", "wordplay", "prehistoric", "driving"]
+    },
+    {
+      "id": 9,
+      "setup": "Why don't elephants use computers?",
+      "punchline": "Because they're afraid of the mouse!",
+      "categories": ["animals", "technology"],
+      "tags": ["elephants", "computers", "mouse", "scared", "wordplay", "wildlife", "tech"]
+    },
+    {
+      "id": 10,
+      "setup": "What do you call a lazy kangaroo?",
+      "punchline": "A pouch potato!",
+      "categories": ["animals"],
+      "tags": ["kangaroo", "lazy", "couch potato", "australia", "wordplay", "marsupial", "tv"]
+    },
+    {
+      "id": 11,
+      "setup": "Why did the chicken go to the s\u00e9ance?",
+      "punchline": "To get to the other side!",
+      "categories": ["animals"],
+      "tags": ["chicken", "crossing road", "classic", "wordplay", "twist", "supernatural", "ghosts"]
+    },
+    {
+      "id": 12,
+      "setup": "What do you call a pig that does karate?",
+      "punchline": "A pork chop!",
+      "categories": ["animals", "sports"],
+      "tags": ["pig", "karate", "martial arts", "food", "wordplay", "farm", "fighting"]
+    },
+    {
+      "id": 13,
+      "setup": "Why are frogs so happy?",
+      "punchline": "They eat whatever bugs them!",
+      "categories": ["animals"],
+      "tags": ["frogs", "bugs", "happy", "eating", "wordplay", "amphibians", "insects"]
+    },
+    {
+      "id": 14,
+      "setup": "What do you call a cow with no legs?",
+      "punchline": "Ground beef!",
+      "categories": ["animals", "food"],
+      "tags": ["cow", "beef", "legs", "wordplay", "classic", "farm", "meat"]
+    },
+    {
+      "id": 15,
+      "setup": "Why did the duck go to rehab?",
+      "punchline": "Because he was a quack addict!",
+      "categories": ["animals"],
+      "tags": ["duck", "quack", "rehab", "wordplay", "birds", "addiction", "water"]
+    },
+    {
+      "id": 16,
+      "setup": "What do you call a fish that wears a bowtie?",
+      "punchline": "So-fish-ticated!",
+      "categories": ["animals"],
+      "tags": ["fish", "fancy", "fashion", "bowtie", "wordplay", "ocean", "sophisticated"]
+    },
+    {
+      "id": 17,
+      "setup": "Why don't oysters share?",
+      "punchline": "Because they're shellfish!",
+      "categories": ["animals"],
+      "tags": ["oysters", "selfish", "sharing", "shellfish", "wordplay", "ocean", "seafood"]
+    },
+    {
+      "id": 18,
+      "setup": "What do you call a dog magician?",
+      "punchline": "A Labracadabrador!",
+      "categories": ["animals"],
+      "tags": ["dog", "magic", "labrador", "abracadabra", "wordplay", "pets", "tricks"]
+    },
+    {
+      "id": 19,
+      "setup": "Why do bees have sticky hair?",
+      "punchline": "Because they use honeycombs!",
+      "categories": ["animals"],
+      "tags": ["bees", "honey", "hair", "combs", "wordplay", "insects", "grooming"]
+    },
+    {
+      "id": 20,
+      "setup": "What do you call a deer with no eyes?",
+      "punchline": "No eye-deer!",
+      "categories": ["animals"],
+      "tags": ["deer", "eyes", "no idea", "wordplay", "classic", "wildlife", "hunting"]
+    },
+    {
+      "id": 21,
+      "setup": "Why did the spider go to the computer?",
+      "punchline": "To check his website!",
+      "categories": ["animals", "technology"],
+      "tags": ["spider", "computer", "website", "web", "wordplay", "internet", "insects"]
+    },
+    {
+      "id": 22,
+      "setup": "What do you call a dinosaur that knows a lot of words?",
+      "punchline": "A thesaurus!",
+      "categories": ["animals", "school"],
+      "tags": ["dinosaur", "thesaurus", "words", "vocabulary", "wordplay", "prehistoric", "books"]
+    },
+    {
+      "id": 23,
+      "setup": "Why did the cow cross the road?",
+      "punchline": "To get to the udder side!",
+      "categories": ["animals"],
+      "tags": ["cow", "crossing road", "udder", "other", "wordplay", "classic", "farm"]
+    },
+    {
+      "id": 24,
+      "setup": "What do you call a cat that gets anything it wants?",
+      "punchline": "Purrr-suasive!",
+      "categories": ["animals"],
+      "tags": ["cat", "purr", "persuasive", "wordplay", "pets", "spoiled", "convincing"]
+    },
+    {
+      "id": 25,
+      "setup": "Why don't seagulls fly over the bay?",
+      "punchline": "Because then they'd be bagels!",
+      "categories": ["animals", "food"],
+      "tags": ["seagulls", "bay", "bagels", "birds", "wordplay", "ocean", "beach"]
+    },
+    {
+      "id": 26,
+      "setup": "What do you call a snake that's exactly 3.14 meters long?",
+      "punchline": "A pi-thon!",
+      "categories": ["animals", "math"],
+      "tags": ["snake", "python", "pi", "math", "wordplay", "reptiles", "numbers"]
+    },
+    {
+      "id": 27,
+      "setup": "Why do gorillas have big nostrils?",
+      "punchline": "Because they have big fingers!",
+      "categories": ["animals"],
+      "tags": ["gorillas", "nose", "fingers", "picking", "wordplay", "apes", "gross"]
+    },
+    {
+      "id": 28,
+      "setup": "What do you call a sleeping bull?",
+      "punchline": "A bulldozer!",
+      "categories": ["animals"],
+      "tags": ["bull", "sleeping", "bulldozer", "construction", "wordplay", "farm", "napping"]
+    },
+    {
+      "id": 29,
+      "setup": "Why did the turtle cross the road?",
+      "punchline": "To get to the Shell station!",
+      "categories": ["animals"],
+      "tags": ["turtle", "shell", "gas station", "crossing road", "wordplay", "reptiles", "driving"]
+    },
+    {
+      "id": 30,
+      "setup": "What do you call an alligator in a vest?",
+      "punchline": "An investigator!",
+      "categories": ["animals"],
+      "tags": ["alligator", "vest", "investigator", "detective", "wordplay", "reptiles", "fashion"]
+    },
+    {
+      "id": 31,
+      "setup": "Why do hummingbirds hum?",
+      "punchline": "Because they don't know the words!",
+      "categories": ["animals", "music"],
+      "tags": ["hummingbirds", "humming", "singing", "words", "birds", "music", "wordplay"]
+    },
+    {
+      "id": 32,
+      "setup": "What do you call a fish that practices medicine?",
+      "punchline": "A sturgeon!",
+      "categories": ["animals"],
+      "tags": ["fish", "surgeon", "doctor", "medicine", "wordplay", "ocean", "hospital"]
+    },
+    {
+      "id": 33,
+      "setup": "Why did the horse go behind the tree?",
+      "punchline": "To change his jockeys!",
+      "categories": ["animals", "sports"],
+      "tags": ["horse", "jockeys", "underwear", "changing", "wordplay", "racing", "privacy"]
+    },
+    {
+      "id": 34,
+      "setup": "What do you call a monkey that loves Doritos?",
+      "punchline": "A chip-monk!",
+      "categories": ["animals", "food"],
+      "tags": ["monkey", "chips", "chipmunk", "snacks", "wordplay", "doritos", "eating"]
+    },
+    {
+      "id": 35,
+      "setup": "Why did the octopus beat the shark in a fight?",
+      "punchline": "Because it was well-armed!",
+      "categories": ["animals"],
+      "tags": ["octopus", "shark", "arms", "fighting", "wordplay", "ocean", "tentacles"]
+    },
+    {
+      "id": 36,
+      "setup": "What do you call a bird that's afraid to fly?",
+      "punchline": "Chicken!",
+      "categories": ["animals"],
+      "tags": ["bird", "chicken", "scared", "flying", "coward", "wordplay", "poultry"]
+    },
+    {
+      "id": 37,
+      "setup": "Why do pandas like old movies?",
+      "punchline": "Because they're in black and white!",
+      "categories": ["animals"],
+      "tags": ["pandas", "movies", "black and white", "classic films", "wordplay", "bears", "china"]
+    },
+    {
+      "id": 38,
+      "setup": "What do you call a cow that plays an instrument?",
+      "punchline": "A moo-sician!",
+      "categories": ["animals", "music"],
+      "tags": ["cow", "music", "musician", "moo", "wordplay", "farm", "instruments"]
+    },
+    {
+      "id": 39,
+      "setup": "Why did the lion eat the tightrope walker?",
+      "punchline": "He wanted a well-balanced meal!",
+      "categories": ["animals"],
+      "tags": ["lion", "circus", "balance", "eating", "wordplay", "tightrope", "meal"]
+    },
+    {
+      "id": 40,
+      "setup": "What do you call a freezing penguin?",
+      "punchline": "A brrr-d!",
+      "categories": ["animals"],
+      "tags": ["penguin", "freezing", "cold", "bird", "wordplay", "ice", "arctic"]
+    },
+    {
+      "id": 41,
+      "setup": "Why don't dogs make good dancers?",
+      "punchline": "Because they have two left feet!",
+      "categories": ["animals"],
+      "tags": ["dogs", "dancing", "feet", "clumsy", "wordplay", "pets", "paws"]
+    },
+    {
+      "id": 42,
+      "setup": "What do you call a group of disorganized cats?",
+      "punchline": "A cat-astrophe!",
+      "categories": ["animals"],
+      "tags": ["cats", "catastrophe", "disorganized", "group", "wordplay", "pets", "disaster"]
+    },
+    {
+      "id": 43,
+      "setup": "Why did the dinosaur refuse to wear deodorant?",
+      "punchline": "Because he didn't want to be ex-stinct!",
+      "categories": ["animals"],
+      "tags": ["dinosaur", "extinct", "stink", "deodorant", "wordplay", "prehistoric", "smelly"]
+    },
+    {
+      "id": 44,
+      "setup": "What do you call a sheep with no legs?",
+      "punchline": "A cloud!",
+      "categories": ["animals"],
+      "tags": ["sheep", "cloud", "legs", "fluffy", "wool", "farm", "sky"]
+    },
+    {
+      "id": 45,
+      "setup": "Why do birds fly south for the winter?",
+      "punchline": "Because it's too far to walk!",
+      "categories": ["animals", "travel"],
+      "tags": ["birds", "flying", "winter", "south", "walking", "migration", "seasons"]
+    },
+    {
+      "id": 46,
+      "setup": "What do you call a rabbit with fleas?",
+      "punchline": "Bugs Bunny!",
+      "categories": ["animals"],
+      "tags": ["rabbit", "fleas", "bugs bunny", "cartoon", "wordplay", "pets", "insects"]
+    },
+    {
+      "id": 47,
+      "setup": "Why did the cat sit on the computer?",
+      "punchline": "To keep an eye on the mouse!",
+      "categories": ["animals", "technology"],
+      "tags": ["cat", "computer", "mouse", "watching", "wordplay", "pets", "tech"]
+    },
+    {
+      "id": 48,
+      "setup": "What do you call a dinosaur with an extensive vocabulary?",
+      "punchline": "A Thesaurus Rex!",
+      "categories": ["animals", "school"],
+      "tags": ["dinosaur", "t-rex", "thesaurus", "vocabulary", "wordplay", "prehistoric", "words"]
+    },
+    {
+      "id": 49,
+      "setup": "Why do elephants never forget?",
+      "punchline": "Because nobody ever tells them anything!",
+      "categories": ["animals"],
+      "tags": ["elephants", "memory", "forget", "telling", "wordplay", "wildlife", "smart"]
+    },
+    {
+      "id": 50,
+      "setup": "What do you call a camel with no humps?",
+      "punchline": "Humphrey!",
+      "categories": ["animals"],
+      "tags": ["camel", "humps", "humphrey", "name", "wordplay", "desert", "middle east"]
+    },
+    {
+      "id": 51,
+      "setup": "Why did the pony get sent to his room?",
+      "punchline": "He wouldn't stop horsing around!",
+      "categories": ["animals", "family"],
+      "tags": ["pony", "horse", "horsing around", "trouble", "wordplay", "kids", "punishment"]
+    },
+    {
+      "id": 52,
+      "setup": "What do you call a parrot that flew away?",
+      "punchline": "A polygon!",
+      "categories": ["animals", "math"],
+      "tags": ["parrot", "polygon", "polly gone", "flying", "wordplay", "birds", "shapes"]
+    },
+    {
+      "id": 53,
+      "setup": "Why are fish so smart?",
+      "punchline": "Because they live in schools!",
+      "categories": ["animals", "school"],
+      "tags": ["fish", "smart", "schools", "ocean", "wordplay", "education", "marine"]
+    },
+    {
+      "id": 54,
+      "setup": "What do you call a cow on a trampoline?",
+      "punchline": "A milkshake!",
+      "categories": ["animals", "food"],
+      "tags": ["cow", "trampoline", "milkshake", "bouncing", "wordplay", "dairy", "drinks"]
+    },
+    {
+      "id": 55,
+      "setup": "Why did the snake lose his court case?",
+      "punchline": "He didn't have a leg to stand on!",
+      "categories": ["animals"],
+      "tags": ["snake", "court", "legs", "lawyer", "wordplay", "reptiles", "legal"]
+    },
+    {
+      "id": 56,
+      "setup": "What do you call a pig with laryngitis?",
+      "punchline": "Disgruntled!",
+      "categories": ["animals"],
+      "tags": ["pig", "laryngitis", "grunt", "disgruntled", "wordplay", "farm", "sick"]
+    },
+    {
+      "id": 57,
+      "setup": "Why did the chicken join a band?",
+      "punchline": "Because he had the drumsticks!",
+      "categories": ["animals", "music"],
+      "tags": ["chicken", "band", "drumsticks", "drums", "wordplay", "poultry", "music"]
+    },
+    {
+      "id": 58,
+      "setup": "What do you call a crocodile that likes to bowl?",
+      "punchline": "An alley-gator!",
+      "categories": ["animals", "sports"],
+      "tags": ["crocodile", "alligator", "bowling", "alley", "wordplay", "reptiles", "games"]
+    },
+    {
+      "id": 59,
+      "setup": "Why do cows have hooves instead of feet?",
+      "punchline": "Because they lactose!",
+      "categories": ["animals"],
+      "tags": ["cows", "hooves", "feet", "lactose", "lack toes", "wordplay", "dairy"]
+    },
+    {
+      "id": 60,
+      "setup": "What do you call a dog that meditates?",
+      "punchline": "Aware wolf!",
+      "categories": ["animals"],
+      "tags": ["dog", "wolf", "meditation", "aware", "werewolf", "wordplay", "zen"]
+    },
+    {
+      "id": 61,
+      "setup": "Why did the pelican get kicked out of the restaurant?",
+      "punchline": "Because he had a very big bill!",
+      "categories": ["animals", "food"],
+      "tags": ["pelican", "restaurant", "bill", "money", "wordplay", "birds", "beak"]
+    },
+    {
+      "id": 62,
+      "setup": "What do you call a snake that's exactly one meter long?",
+      "punchline": "A meter snake!",
+      "categories": ["animals", "science"],
+      "tags": ["snake", "meter", "measuring", "reptiles", "wordplay", "metric", "length"]
+    },
+    {
+      "id": 63,
+      "setup": "Why did the butterfly refuse to go to the dance?",
+      "punchline": "Because it was a moth ball!",
+      "categories": ["animals"],
+      "tags": ["butterfly", "moth", "dance", "mothball", "wordplay", "insects", "party"]
+    },
+    {
+      "id": 64,
+      "setup": "What do you call a baby monkey?",
+      "punchline": "A chimp off the old block!",
+      "categories": ["animals", "family"],
+      "tags": ["monkey", "baby", "chimp", "chip", "wordplay", "apes", "family"]
+    },
+    {
+      "id": 65,
+      "setup": "Why don't crabs give to charity?",
+      "punchline": "Because they're shellfish!",
+      "categories": ["animals"],
+      "tags": ["crabs", "charity", "shellfish", "selfish", "wordplay", "ocean", "seafood"]
+    },
+    {
+      "id": 66,
+      "setup": "What do you call a dinosaur who's a noisy sleeper?",
+      "punchline": "A Brontosnorus!",
+      "categories": ["animals"],
+      "tags": ["dinosaur", "brontosaurus", "sleeping", "snoring", "wordplay", "prehistoric", "bedtime"]
+    },
+    {
+      "id": 67,
+      "setup": "Why did the rooster go to KFC?",
+      "punchline": "He wanted to see a chicken strip!",
+      "categories": ["animals", "food"],
+      "tags": ["rooster", "chicken", "KFC", "strip", "wordplay", "fast food", "poultry"]
+    },
+    {
+      "id": 68,
+      "setup": "What do you call a bee that lives in America?",
+      "punchline": "A USB!",
+      "categories": ["animals", "technology"],
+      "tags": ["bee", "USB", "america", "US", "wordplay", "insects", "tech"]
+    },
+    {
+      "id": 69,
+      "setup": "Why did the ant fall off the sugar bowl?",
+      "punchline": "Because he was a little too sweet on himself!",
+      "categories": ["animals", "food"],
+      "tags": ["ant", "sugar", "sweet", "falling", "wordplay", "insects", "kitchen"]
+    },
+    {
+      "id": 70,
+      "setup": "What do you call a squirrel in a church?",
+      "punchline": "A pray-rie dog!",
+      "categories": ["animals"],
+      "tags": ["squirrel", "prairie dog", "church", "praying", "wordplay", "religion", "rodents"]
+    },
+    {
+      "id": 71,
+      "setup": "Why do dolphins live in salt water?",
+      "punchline": "Because pepper makes them sneeze!",
+      "categories": ["animals", "food"],
+      "tags": ["dolphins", "salt", "pepper", "sneezing", "ocean", "marine", "wordplay"]
+    },
+    {
+      "id": 72,
+      "setup": "What do you call a chicken looking at a salad?",
+      "punchline": "Chicken sees a salad!",
+      "categories": ["animals", "food"],
+      "tags": ["chicken", "salad", "caesar", "looking", "wordplay", "poultry", "restaurant"]
+    },
+    {
+      "id": 73,
+      "setup": "Why did the sheep say 'moo'?",
+      "punchline": "It was learning a foreign language!",
+      "categories": ["animals", "school"],
+      "tags": ["sheep", "cow", "moo", "language", "learning", "farm", "wordplay"]
+    },
+    {
+      "id": 74,
+      "setup": "What do you call an exploding monkey?",
+      "punchline": "A baboom!",
+      "categories": ["animals"],
+      "tags": ["monkey", "baboon", "explosion", "boom", "wordplay", "apes", "loud"]
+    },
+    {
+      "id": 75,
+      "setup": "Why did the shark spit out the clown?",
+      "punchline": "Because he tasted funny!",
+      "categories": ["animals"],
+      "tags": ["shark", "clown", "funny", "taste", "wordplay", "ocean", "circus"]
+    },
+    {
+      "id": 76,
+      "setup": "What do you call a dinosaur that never gives up?",
+      "punchline": "A Try-Try-Triceratops!",
+      "categories": ["animals"],
+      "tags": ["dinosaur", "triceratops", "trying", "determination", "wordplay", "prehistoric", "motivation"]
+    },
+    {
+      "id": 77,
+      "setup": "Why don't bears wear shoes?",
+      "punchline": "What's the point? They'd still have bear feet!",
+      "categories": ["animals"],
+      "tags": ["bears", "shoes", "bare feet", "wordplay", "wildlife", "fashion", "puns"]
+    },
+    {
+      "id": 78,
+      "setup": "What do you call a cat that eats lemons?",
+      "punchline": "A sourpuss!",
+      "categories": ["animals", "food"],
+      "tags": ["cat", "lemons", "sourpuss", "sour", "wordplay", "pets", "fruit"]
+    },
+    {
+      "id": 79,
+      "setup": "Why did the owl invite his friends over?",
+      "punchline": "He didn't want to be owl by himself!",
+      "categories": ["animals"],
+      "tags": ["owl", "alone", "all", "friends", "wordplay", "birds", "lonely"]
+    },
+    {
+      "id": 80,
+      "setup": "What do you call a fish that needs help with singing?",
+      "punchline": "Autotuna!",
+      "categories": ["animals", "music"],
+      "tags": ["fish", "tuna", "autotune", "singing", "wordplay", "music", "ocean"]
+    },
+    {
+      "id": 81,
+      "setup": "Why did the giraffe get bad grades?",
+      "punchline": "He had his head in the clouds!",
+      "categories": ["animals", "school"],
+      "tags": ["giraffe", "grades", "clouds", "tall", "school", "distracted", "wildlife"]
+    },
+    {
+      "id": 82,
+      "setup": "What do you call a dinosaur ghost?",
+      "punchline": "A scaredactyl!",
+      "categories": ["animals"],
+      "tags": ["dinosaur", "pterodactyl", "ghost", "scared", "wordplay", "prehistoric", "halloween"]
+    },
+    {
+      "id": 83,
+      "setup": "Why did the flamingo lift up one leg?",
+      "punchline": "Because if it lifted both, it would fall over!",
+      "categories": ["animals"],
+      "tags": ["flamingo", "legs", "balance", "standing", "birds", "pink", "logic"]
+    },
+    {
+      "id": 84,
+      "setup": "What do you call a dog that practices martial arts?",
+      "punchline": "Kung Fur!",
+      "categories": ["animals", "sports"],
+      "tags": ["dog", "martial arts", "kung fu", "fur", "wordplay", "pets", "fighting"]
+    },
+    {
+      "id": 85,
+      "setup": "What do you call a dolphin that plays piano?",
+      "punchline": "A piano tuna!",
+      "categories": ["animals", "music"],
+      "tags": ["dolphin", "piano", "tuna", "tuner", "wordplay", "marine", "music"]
+    },
+    {
+      "id": 86,
+      "setup": "What do you call a grizzly bear caught in the rain?",
+      "punchline": "A drizzly bear!",
+      "categories": ["animals"],
+      "tags": ["bear", "grizzly", "rain", "drizzle", "wordplay", "weather", "wildlife"]
+    },
+    {
+      "id": 87,
+      "setup": "Why did the horse chew with his mouth open?",
+      "punchline": "Because he had bad stable manners!",
+      "categories": ["animals", "family"],
+      "tags": ["horse", "stable", "table manners", "eating", "wordplay", "rude", "farm"]
+    },
+    {
+      "id": 88,
+      "setup": "What do you call a cold dog?",
+      "punchline": "A chili dog!",
+      "categories": ["animals", "food"],
+      "tags": ["dog", "cold", "chili dog", "hot dog", "wordplay", "pets", "food"]
+    },
+    {
+      "id": 89,
+      "setup": "Why did the pigeon go to the doctor?",
+      "punchline": "Because it was feeling coo-coo!",
+      "categories": ["animals"],
+      "tags": ["pigeon", "doctor", "coo", "cuckoo", "wordplay", "birds", "sick"]
+    },
+    {
+      "id": 90,
+      "setup": "What do you call a dinosaur that never stops talking?",
+      "punchline": "A dinobore!",
+      "categories": ["animals"],
+      "tags": ["dinosaur", "talking", "boring", "dino-bore", "wordplay", "prehistoric", "annoying"]
+    },
+    {
+      "id": 91,
+      "setup": "Why did the bee get married?",
+      "punchline": "Because he found his honey!",
+      "categories": ["animals", "wedding"],
+      "tags": ["bee", "honey", "marriage", "wedding", "wordplay", "insects", "love"]
+    },
+    {
+      "id": 92,
+      "setup": "What do you call a snake wearing a hard hat?",
+      "punchline": "A boa constructor!",
+      "categories": ["animals", "work"],
+      "tags": ["snake", "boa", "constructor", "construction", "wordplay", "reptiles", "building"]
+    },
+    {
+      "id": 93,
+      "setup": "Why did the zebra cross the road?",
+      "punchline": "Because it was at a zebra crossing!",
+      "categories": ["animals"],
+      "tags": ["zebra", "crossing", "road", "stripes", "wordplay", "wildlife", "traffic"]
+    },
+    {
+      "id": 94,
+      "setup": "What do you call a llama with a map?",
+      "punchline": "A navigator!",
+      "categories": ["animals", "geography"],
+      "tags": ["llama", "drama", "map", "navigation", "wordplay", "travel", "directions"]
+    },
+    {
+      "id": 95,
+      "setup": "Why did the bird go to the hospital?",
+      "punchline": "To get a tweetment!",
+      "categories": ["animals"],
+      "tags": ["bird", "hospital", "tweet", "treatment", "wordplay", "sick", "doctor"]
+    },
+    {
+      "id": 96,
+      "setup": "What do you call a rabbit that's been working out?",
+      "punchline": "A hot cross bunny!",
+      "categories": ["animals", "sports"],
+      "tags": ["rabbit", "bunny", "working out", "hot cross buns", "wordplay", "exercise", "gym"]
+    },
+    {
+      "id": 97,
+      "setup": "Why don't leopards play hide and seek?",
+      "punchline": "Because they're always spotted!",
+      "categories": ["animals"],
+      "tags": ["leopard", "spots", "hide and seek", "spotted", "wordplay", "games", "wildlife"]
+    },
+    {
+      "id": 98,
+      "setup": "What do you call a hen looking at a salad?",
+      "punchline": "Chicken Caesar!",
+      "categories": ["animals", "food"],
+      "tags": ["chicken", "hen", "salad", "caesar", "wordplay", "poultry", "restaurant"]
+    },
+    {
+      "id": 99,
+      "setup": "Why did the dinosaur break up with the other dinosaur?",
+      "punchline": "Because their relationship was getting prehistoric!",
+      "categories": ["animals"],
+      "tags": ["dinosaur", "relationship", "breakup", "prehistoric", "wordplay", "dating", "old"]
+    },
+    {
+      "id": 100,
+      "setup": "What do you call a crab who throws things?",
+      "punchline": "A lobster!",
+      "categories": ["animals"],
+      "tags": ["crab", "lobster", "throwing", "lob", "wordplay", "ocean", "seafood"]
+    },
     {
       "id": 101,
       "setup": "Why do candles always go on top of birthday cakes?",
@@ -3636,7 +3636,7 @@
     {
       "id": 520,
       "setup": "What do you call a nosy pepper?",
-      "punchline": "Jalapeño business!",
+      "punchline": "Jalape\u00f1o business!",
       "categories": ["food"],
       "tags": ["pepper", "jalapeno", "nosy", "business", "wordplay", "spicy", "mexican"]
     },
@@ -4335,7 +4335,7 @@
     },
     {
       "id": 620,
-      "setup": "What did Idaho say to Missouri?",
+      "setup": "What did Idaho to Missouri?",
       "punchline": "I don't know, Alaska!",
       "categories": ["geography"],
       "tags": ["idaho", "missouri", "alaska", "states", "wordplay", "usa", "asking"]
@@ -4363,10 +4363,10 @@
     },
     {
       "id": 624,
-      "setup": "What do you call a well-dressed continent?",
-      "punchline": "Snazzy-a... I mean, Asia!",
+      "setup": "What do you call a continent that's always sneezing?",
+      "punchline": "Achoo-rope!",
       "categories": ["geography"],
-      "tags": ["asia", "well-dressed", "snazzy", "continent", "wordplay", "fashion", "fancy"]
+      "tags": ["continent", "sneezing", "europe", "achoo", "wordplay", "sick", "cold"]
     },
     {
       "id": 625,
@@ -4573,10 +4573,10 @@
     },
     {
       "id": 654,
-      "setup": "What do you call a country that loves to exercise?",
-      "punchline": "Gym-bodia... I mean, Cambodia!",
+      "setup": "Why did Cambodia go to the gym?",
+      "punchline": "To work on its Phnom Penh-cils!",
       "categories": ["geography", "sports"],
-      "tags": ["cambodia", "gym", "exercise", "countries", "wordplay", "asia", "fitness"]
+      "tags": ["cambodia", "gym", "phnom penh", "pencils", "wordplay", "exercise", "capital"]
     },
     {
       "id": 655,
@@ -4615,10 +4615,10 @@
     },
     {
       "id": 660,
-      "setup": "What country is always tired?",
-      "punchline": "Nap-al... I mean, Nepal!",
+      "setup": "Why is Nepal such a spiritual country?",
+      "punchline": "Because it's always on a higher plane!",
       "categories": ["geography"],
-      "tags": ["nepal", "tired", "nap", "countries", "wordplay", "asia", "sleeping"]
+      "tags": ["nepal", "spiritual", "mountains", "higher", "wordplay", "elevation", "himalayas"]
     },
     {
       "id": 661,
@@ -4629,10 +4629,10 @@
     },
     {
       "id": 662,
-      "setup": "What's the most greedy country?",
-      "punchline": "Gimme-a... I mean, Guinea!",
+      "setup": "What country tells the best jokes?",
+      "punchline": "Pun-ama!",
       "categories": ["geography"],
-      "tags": ["guinea", "greedy", "gimme", "countries", "wordplay", "africa", "wanting"]
+      "tags": ["country", "jokes", "panama", "puns", "wordplay", "comedy", "central america"]
     },
     {
       "id": 663,
@@ -4671,10 +4671,10 @@
     },
     {
       "id": 668,
-      "setup": "What do you call an honest city?",
-      "punchline": "True-ronto... I mean, Toronto!",
-      "categories": ["geography"],
-      "tags": ["toronto", "honest", "true", "canada", "wordplay", "city", "truthful"]
+      "setup": "What Canadian city loves arithmetic?",
+      "punchline": "Count-couver!",
+      "categories": ["geography", "math"],
+      "tags": ["canada", "city", "vancouver", "counting", "wordplay", "math", "british columbia"]
     },
     {
       "id": 669,
@@ -4685,10 +4685,10 @@
     },
     {
       "id": 670,
-      "setup": "What country has the best comedians?",
-      "punchline": "Laugh-ghanistan... I mean, Afghanistan!",
+      "setup": "What country is the coldest?",
+      "punchline": "Chile!",
       "categories": ["geography"],
-      "tags": ["afghanistan", "comedians", "laugh", "countries", "wordplay", "asia", "funny"]
+      "tags": ["country", "cold", "chile", "chilly", "wordplay", "temperature", "south america"]
     },
     {
       "id": 671,
@@ -4699,10 +4699,10 @@
     },
     {
       "id": 672,
-      "setup": "What's the most magical state?",
-      "punchline": "Arry Potter... I mean, Arizona!",
+      "setup": "What state makes the best pencils?",
+      "punchline": "Pennsylvania!",
       "categories": ["geography"],
-      "tags": ["arizona", "magical", "harry potter", "states", "wordplay", "usa", "fantasy"]
+      "tags": ["state", "pencils", "pennsylvania", "pen", "wordplay", "writing", "usa"]
     },
     {
       "id": 673,
@@ -4783,10 +4783,10 @@
     },
     {
       "id": 684,
-      "setup": "What's the most negative state?",
-      "punchline": "Nope-raska... I mean, Nebraska!",
+      "setup": "What state is the roundest?",
+      "punchline": "O-hio!",
       "categories": ["geography"],
-      "tags": ["nebraska", "negative", "nope", "states", "wordplay", "usa", "denial"]
+      "tags": ["state", "round", "ohio", "letter o", "wordplay", "shape", "midwest"]
     },
     {
       "id": 685,
@@ -4811,10 +4811,10 @@
     },
     {
       "id": 688,
-      "setup": "What country is the most helpful?",
-      "punchline": "Assist-ria... I mean, Austria!",
-      "categories": ["geography"],
-      "tags": ["austria", "helpful", "assist", "countries", "wordplay", "europe", "kind"]
+      "setup": "What country is always hungry?",
+      "punchline": "Hungary!",
+      "categories": ["geography", "food"],
+      "tags": ["country", "hungry", "hungary", "eating", "wordplay", "europe", "appetite"]
     },
     {
       "id": 689,
@@ -4867,10 +4867,10 @@
     },
     {
       "id": 696,
-      "setup": "What's the most argumentative ocean?",
-      "punchline": "The Conflic-tic Ocean... I mean, Atlantic!",
+      "setup": "What ocean is the saltiest?",
+      "punchline": "The Pacific... it has so many sea-sonal mood swings!",
       "categories": ["geography"],
-      "tags": ["atlantic", "argumentative", "conflict", "ocean", "wordplay", "water", "fighting"]
+      "tags": ["ocean", "salty", "pacific", "seasonal", "wordplay", "moody", "sea"]
     },
     {
       "id": 697,
@@ -5064,9 +5064,9 @@
     {
       "id": 724,
       "setup": "What was Cleopatra's favorite day of the week?",
-      "punchline": "Pharaoh-day... I mean, Friday!",
+      "punchline": "Pharaoh-day!",
       "categories": ["history"],
-      "tags": ["cleopatra", "pharaoh", "friday", "egypt", "wordplay", "queen", "week"]
+      "tags": ["cleopatra", "egypt", "pharaoh", "friday", "wordplay", "ancient", "queen"]
     },
     {
       "id": 725,
@@ -5497,10 +5497,10 @@
     },
     {
       "id": 786,
-      "setup": "What did the ancient Greek runner say after the marathon?",
-      "punchline": "That was quite the feet... I mean, feat!",
+      "setup": "What did the ancient Greek say after running a marathon?",
+      "punchline": "That was a long run-ion!",
       "categories": ["history", "sports"],
-      "tags": ["greek", "marathon", "feet", "feat", "wordplay", "running", "ancient"]
+      "tags": ["greek", "marathon", "running", "reunion", "wordplay", "ancient", "race"]
     },
     {
       "id": 787,
@@ -5945,10 +5945,10 @@
     },
     {
       "id": 850,
-      "setup": "What do you call a penguin in the desert on Christmas?",
-      "punchline": "Lost!",
-      "categories": ["holidays", "animals"],
-      "tags": ["penguin", "desert", "christmas", "lost", "wordplay", "cold", "hot"]
+      "setup": "What do you call a snowman in July?",
+      "punchline": "A puddle!",
+      "categories": ["holidays"],
+      "tags": ["snowman", "july", "melting", "summer", "wordplay", "water", "hot"]
     },
     {
       "id": 851,
@@ -6225,10 +6225,10 @@
     },
     {
       "id": 890,
-      "setup": "What do you call a snowman in July?",
-      "punchline": "A puddle with ambition!",
-      "categories": ["holidays"],
-      "tags": ["snowman", "july", "puddle", "melted", "wordplay", "summer", "ambition"]
+      "setup": "What do you call a leprechaun's vacation home?",
+      "punchline": "A lepre-condo!",
+      "categories": ["holidays", "home"],
+      "tags": ["leprechaun", "vacation", "condo", "home", "wordplay", "st patricks", "irish"]
     },
     {
       "id": 891,
@@ -7058,10 +7058,10 @@
     },
     {
       "id": 1009,
-      "setup": "What did the mathematician say when he finished his Christmas shopping?",
-      "punchline": "That's a wrap... I mean, that's a graph!",
-      "categories": ["math", "holidays"],
-      "tags": ["mathematician", "christmas", "wrap", "graph", "wordplay", "shopping", "presents"]
+      "setup": "Why was the math teacher happy at the end of the meal?",
+      "punchline": "Because he finally got the check!",
+      "categories": ["math", "food"],
+      "tags": ["math teacher", "meal", "check", "restaurant", "wordplay", "bill", "happy"]
     },
     {
       "id": 1010,
@@ -8073,10 +8073,10 @@
     },
     {
       "id": 1154,
-      "setup": "What's a door's favorite kind of music?",
-      "punchline": "Hinges... I mean, Hip-hop!",
+      "setup": "What's a door's favorite type of music?",
+      "punchline": "Hinges and beats!",
       "categories": ["music", "home"],
-      "tags": ["door", "music", "hinges", "hip-hop", "wordplay", "genre", "house"]
+      "tags": ["door", "music", "hinges", "beats", "wordplay", "swinging", "rhythm"]
     },
     {
       "id": 1155,
@@ -8577,10 +8577,10 @@
     },
     {
       "id": 1226,
-      "setup": "What do you call a fake stone?",
-      "punchline": "A shamite... I mean, a sham rock!",
+      "setup": "What do you call a fake rock?",
+      "punchline": "A shamite!",
       "categories": ["outdoors"],
-      "tags": ["stone", "fake", "shamrock", "rock", "wordplay", "geology", "irish"]
+      "tags": ["rock", "fake", "sham", "granite", "wordplay", "stone", "geology"]
     },
     {
       "id": 1227,
@@ -8990,10 +8990,10 @@
     },
     {
       "id": 1285,
-      "setup": "Why did the owl become a detective?",
-      "punchline": "Because it was good at stakeowlts... I mean, stakeouts!",
-      "categories": ["outdoors", "animals"],
-      "tags": ["owl", "detective", "stakeout", "watching", "wordplay", "bird", "mystery"]
+      "setup": "Why did the owl get a job as a judge?",
+      "punchline": "Because he was a wise old bird!",
+      "categories": ["outdoors", "work"],
+      "tags": ["owl", "judge", "wise", "bird", "wordplay", "smart", "court"]
     },
     {
       "id": 1286,
@@ -9088,10 +9088,10 @@
     },
     {
       "id": 1299,
-      "setup": "Why did the park ranger feel watched?",
-      "punchline": "Because the forest had so many trees with eyes... I mean, knots!",
-      "categories": ["outdoors", "work"],
-      "tags": ["park ranger", "watched", "forest", "knots", "wordplay", "trees", "nature"]
+      "setup": "Why did the tree go to the barber?",
+      "punchline": "To trim its branches!",
+      "categories": ["outdoors"],
+      "tags": ["tree", "barber", "trim", "branches", "wordplay", "haircut", "nature"]
     },
     {
       "id": 1300,
@@ -9112,21 +9112,21 @@
       "setup": "What's a teacher's favorite nation?",
       "punchline": "Expla-nation!",
       "categories": ["school", "geography"],
-      "tags": ["teacher", "nation", "explanation", "favorite", "wordplay", "teaching", "country"]
+      "tags": ["teacher", "nation", "explanation", "wordplay", "teaching", "country", "favorite"]
     },
     {
       "id": 1303,
-      "setup": "Why did the pencil feel confident?",
-      "punchline": "Because it had a good point!",
+      "setup": "Why did the pencil go to the doctor?",
+      "punchline": "Because it had a broken point!",
       "categories": ["school"],
-      "tags": ["pencil", "confident", "point", "sharp", "wordplay", "writing", "supplies"]
+      "tags": ["pencil", "doctor", "point", "broken", "wordplay", "writing", "supplies"]
     },
     {
       "id": 1304,
-      "setup": "Why did the paper feel flat?",
-      "punchline": "Because it was always getting pressed for answers!",
+      "setup": "Why did the notebook break up with the textbook?",
+      "punchline": "Because it was tired of being taken for granted!",
       "categories": ["school"],
-      "tags": ["paper", "flat", "pressed", "answers", "wordplay", "supplies", "homework"]
+      "tags": ["notebook", "textbook", "breakup", "granted", "wordplay", "supplies", "relationship"]
     },
     {
       "id": 1305,
@@ -9137,17 +9137,17 @@
     },
     {
       "id": 1306,
-      "setup": "What do you call a teacher who never frowns?",
-      "punchline": "A pro-fess-or of happiness!",
+      "setup": "Why did the clock get sent to the principal's office?",
+      "punchline": "Because it was tocking too much in class!",
       "categories": ["school"],
-      "tags": ["teacher", "frowns", "professor", "happiness", "wordplay", "smiling", "positive"]
+      "tags": ["clock", "principal", "tocking", "talking", "wordplay", "trouble", "classroom"]
     },
     {
       "id": 1307,
-      "setup": "Why did the eraser feel tired?",
-      "punchline": "Because it was always correcting everyone's mistakes!",
+      "setup": "Why did the eraser go to therapy?",
+      "punchline": "It had too many rub-lems!",
       "categories": ["school"],
-      "tags": ["eraser", "tired", "correcting", "mistakes", "wordplay", "supplies", "exhausted"]
+      "tags": ["eraser", "therapy", "rub", "problems", "wordplay", "supplies", "mental health"]
     },
     {
       "id": 1308,
@@ -9158,24 +9158,24 @@
     },
     {
       "id": 1309,
-      "setup": "Why did the notebook feel special?",
-      "punchline": "Because everyone kept opening up to it!",
+      "setup": "Why did the notebook go to the hospital?",
+      "punchline": "Because it had too many lines and felt ruled!",
       "categories": ["school"],
-      "tags": ["notebook", "special", "opening up", "sharing", "wordplay", "writing", "feelings"]
+      "tags": ["notebook", "hospital", "lines", "ruled", "wordplay", "writing", "paper"]
     },
     {
       "id": 1310,
-      "setup": "What did the calculator say to the student?",
-      "punchline": "You can count on me!",
+      "setup": "Why did the geometry student stay home?",
+      "punchline": "Because she sprained her angle!",
       "categories": ["school", "math"],
-      "tags": ["calculator", "student", "count", "rely", "wordplay", "math", "trust"]
+      "tags": ["geometry", "student", "sprained", "angle", "ankle", "wordplay", "math"]
     },
     {
       "id": 1311,
-      "setup": "Why did the report card go to the doctor?",
-      "punchline": "Because it had too many bad marks!",
-      "categories": ["school"],
-      "tags": ["report card", "doctor", "marks", "grades", "wordplay", "health", "bad"]
+      "setup": "Why did the student wear glasses during math class?",
+      "punchline": "To improve his di-vision!",
+      "categories": ["school", "math"],
+      "tags": ["student", "glasses", "division", "vision", "wordplay", "math", "seeing"]
     },
     {
       "id": 1312,
@@ -9186,10 +9186,10 @@
     },
     {
       "id": 1313,
-      "setup": "Why did the student bring scissors to class?",
-      "punchline": "Because she wanted to cut class... I mean, cut paper!",
-      "categories": ["school"],
-      "tags": ["student", "scissors", "cut class", "paper", "wordplay", "supplies", "skipping"]
+      "setup": "Why did the music student get in trouble?",
+      "punchline": "Because she kept passing notes!",
+      "categories": ["school", "music"],
+      "tags": ["music", "student", "notes", "trouble", "wordplay", "passing", "class"]
     },
     {
       "id": 1314,
@@ -9200,10 +9200,10 @@
     },
     {
       "id": 1315,
-      "setup": "Why was the school clock always hungry?",
-      "punchline": "Because it always went back for seconds!",
+      "setup": "Why did the student eat his watch during the test?",
+      "punchline": "Because the teacher said it was crunch time!",
       "categories": ["school", "food"],
-      "tags": ["clock", "hungry", "seconds", "time", "wordplay", "classroom", "eating"]
+      "tags": ["student", "watch", "test", "crunch time", "wordplay", "eating", "exam"]
     },
     {
       "id": 1316,
@@ -9214,10 +9214,10 @@
     },
     {
       "id": 1317,
-      "setup": "Why did the backpack feel stressed?",
-      "punchline": "Because it was always carrying everyone's burdens!",
+      "setup": "Why did the backpack go to school early?",
+      "punchline": "It wanted to get a-head of the class!",
       "categories": ["school"],
-      "tags": ["backpack", "stressed", "carrying", "burdens", "wordplay", "heavy", "supplies"]
+      "tags": ["backpack", "early", "ahead", "class", "wordplay", "supplies", "success"]
     },
     {
       "id": 1318,
@@ -9228,52 +9228,52 @@
     },
     {
       "id": 1319,
-      "setup": "Why did the textbook look so sad?",
-      "punchline": "Because it had too many problems inside!",
-      "categories": ["school"],
-      "tags": ["textbook", "sad", "problems", "math", "wordplay", "studying", "issues"]
+      "setup": "Why did the algebra book go to the counselor?",
+      "punchline": "Because it had too many Xs and didn't know Y!",
+      "categories": ["school", "math"],
+      "tags": ["algebra", "book", "counselor", "x", "y", "wordplay", "variables"]
     },
     {
       "id": 1320,
-      "setup": "Why did the alphabet break up with the vowels?",
-      "punchline": "Because they were always causing drama... A, E, I, O, U know why!",
-      "categories": ["school"],
-      "tags": ["alphabet", "vowels", "breakup", "drama", "wordplay", "letters", "english"]
+      "setup": "Why did the student bring a duck to English class?",
+      "punchline": "Because the teacher said to bring a quill!",
+      "categories": ["school", "animals"],
+      "tags": ["student", "duck", "quill", "english", "wordplay", "writing", "bird"]
     },
     {
       "id": 1321,
-      "setup": "Why did the student do well in music class?",
-      "punchline": "Because she was very noteworthy!",
-      "categories": ["school", "music"],
-      "tags": ["student", "music class", "noteworthy", "notes", "wordplay", "talented", "success"]
+      "setup": "Why did the student bring a fishing rod to class?",
+      "punchline": "Because she wanted to catch up on her studies!",
+      "categories": ["school", "outdoors"],
+      "tags": ["student", "fishing rod", "catch up", "studies", "wordplay", "learning", "behind"]
     },
     {
       "id": 1322,
       "setup": "What did the glue stick say to the paper?",
-      "punchline": "Let's stick together!",
+      "punchline": "I'm stuck on you!",
       "categories": ["school"],
-      "tags": ["glue stick", "paper", "stick together", "bonding", "wordplay", "supplies", "friendship"]
+      "tags": ["glue stick", "paper", "stuck", "love", "wordplay", "supplies", "bonding"]
     },
     {
       "id": 1323,
-      "setup": "Why did the ruler feel important?",
-      "punchline": "Because it was always measuring up!",
+      "setup": "Why did the ruler feel like a king?",
+      "punchline": "Because it was twelve inches of royalty!",
       "categories": ["school", "math"],
-      "tags": ["ruler", "important", "measuring", "up", "wordplay", "supplies", "success"]
+      "tags": ["ruler", "king", "inches", "royalty", "wordplay", "measuring", "supplies"]
     },
     {
       "id": 1324,
-      "setup": "What's a geography teacher's favorite type of music?",
-      "punchline": "Rock and roll... because of the continental drift!",
-      "categories": ["school", "music"],
-      "tags": ["geography", "teacher", "rock", "continental drift", "wordplay", "music", "geology"]
+      "setup": "What did the ocean say to the geography teacher?",
+      "punchline": "Nothing, it just waved!",
+      "categories": ["school", "geography"],
+      "tags": ["ocean", "geography", "wave", "waved", "wordplay", "teacher", "water"]
     },
     {
       "id": 1325,
-      "setup": "Why did the student bring a ladder to the library?",
-      "punchline": "Because she wanted to read at a higher level!",
+      "setup": "Why did the student bring a ladder to school?",
+      "punchline": "Because she wanted to go to high school!",
       "categories": ["school"],
-      "tags": ["student", "ladder", "library", "higher level", "wordplay", "reading", "advanced"]
+      "tags": ["student", "ladder", "high school", "climbing", "wordplay", "education", "tall"]
     },
     {
       "id": 1326,
@@ -9284,10 +9284,10 @@
     },
     {
       "id": 1327,
-      "setup": "Why did the pencil sharpener win the race?",
-      "punchline": "Because it was always on point!",
-      "categories": ["school", "sports"],
-      "tags": ["pencil sharpener", "race", "point", "winning", "wordplay", "supplies", "sharp"]
+      "setup": "Why was the geometry class always tired?",
+      "punchline": "Because they were always going around in circles!",
+      "categories": ["school", "math"],
+      "tags": ["geometry", "class", "tired", "circles", "wordplay", "shapes", "exhausted"]
     },
     {
       "id": 1328,
@@ -9298,31 +9298,31 @@
     },
     {
       "id": 1329,
-      "setup": "Why was the school gym so cool?",
-      "punchline": "Because it was full of fans!",
+      "setup": "Why was the school gym so loud?",
+      "punchline": "Because the students kept raising the roof!",
       "categories": ["school", "sports"],
-      "tags": ["gym", "cool", "fans", "sports", "wordplay", "air", "supporters"]
+      "tags": ["gym", "loud", "raising the roof", "sports", "wordplay", "exercise", "noise"]
     },
     {
       "id": 1330,
-      "setup": "What's a computer's least favorite food in the cafeteria?",
-      "punchline": "Spam!",
+      "setup": "What's a computer's favorite snack at school?",
+      "punchline": "Microchips!",
       "categories": ["school", "technology"],
-      "tags": ["computer", "food", "spam", "cafeteria", "wordplay", "email", "meat"]
+      "tags": ["computer", "snack", "microchips", "chips", "wordplay", "tech", "eating"]
     },
     {
       "id": 1331,
-      "setup": "Why did the janitor get a promotion?",
-      "punchline": "Because he cleaned up in every department!",
+      "setup": "Why did the janitor ace the test?",
+      "punchline": "Because he really cleaned up!",
       "categories": ["school", "work"],
-      "tags": ["janitor", "promotion", "cleaned up", "success", "wordplay", "job", "departments"]
+      "tags": ["janitor", "test", "cleaned up", "success", "wordplay", "job", "grades"]
     },
     {
       "id": 1332,
-      "setup": "What did the English teacher say about the novel?",
-      "punchline": "It was a page-turner!",
+      "setup": "What do you call a book that's all about cliffs?",
+      "punchline": "A real page-turner!",
       "categories": ["school"],
-      "tags": ["english teacher", "novel", "page-turner", "exciting", "wordplay", "reading", "books"]
+      "tags": ["book", "cliffs", "page-turner", "cliffhanger", "wordplay", "reading", "suspense"]
     },
     {
       "id": 1333,
@@ -9340,108 +9340,108 @@
     },
     {
       "id": 1335,
-      "setup": "Why did the stapler feel depressed?",
-      "punchline": "Because it was always getting pushed around!",
-      "categories": ["school", "work"],
-      "tags": ["stapler", "depressed", "pushed", "bullied", "wordplay", "supplies", "office"]
+      "setup": "Why did the stapler win the talent show?",
+      "punchline": "Because it was great at bringing things together!",
+      "categories": ["school"],
+      "tags": ["stapler", "talent show", "together", "papers", "wordplay", "supplies", "winner"]
     },
     {
       "id": 1336,
-      "setup": "What did the lunch lady say to the student?",
-      "punchline": "You're one in a melon!",
+      "setup": "What did the lunch lady say to the anxious student?",
+      "punchline": "Don't worry, everything will pan out!",
       "categories": ["school", "food"],
-      "tags": ["lunch lady", "student", "melon", "million", "wordplay", "cafeteria", "compliment"]
+      "tags": ["lunch lady", "student", "pan", "cafeteria", "wordplay", "cooking", "reassurance"]
     },
     {
       "id": 1337,
-      "setup": "Why did the science book look so confused?",
-      "punchline": "Because it had too many elements to process!",
+      "setup": "Why did the atom fail its exam?",
+      "punchline": "Because it lost an electron and was positive it got nothing right!",
       "categories": ["school", "science"],
-      "tags": ["science book", "confused", "elements", "process", "wordplay", "chemistry", "periodic table"]
+      "tags": ["atom", "exam", "electron", "positive", "wordplay", "chemistry", "physics"]
     },
     {
       "id": 1338,
-      "setup": "What's a basketball player's favorite subject?",
-      "punchline": "Hoops-tory!",
-      "categories": ["school", "sports"],
-      "tags": ["basketball", "player", "history", "hoops", "wordplay", "subject", "sports"]
+      "setup": "What do you get when you cross a teacher with a vampire?",
+      "punchline": "Lots of blood tests!",
+      "categories": ["school", "fantasy"],
+      "tags": ["teacher", "vampire", "blood tests", "exams", "wordplay", "scary", "grading"]
     },
     {
       "id": 1339,
-      "setup": "Why did the desk feel tired?",
-      "punchline": "Because students were always sitting on it!",
-      "categories": ["school"],
-      "tags": ["desk", "tired", "sitting", "students", "wordplay", "furniture", "classroom"]
+      "setup": "Why did the desk lamp do well in school?",
+      "punchline": "Because it was so bright!",
+      "categories": ["school", "home"],
+      "tags": ["desk lamp", "school", "bright", "smart", "wordplay", "light", "intelligent"]
     },
     {
       "id": 1340,
-      "setup": "What did the whiteboard marker say to the whiteboard?",
-      "punchline": "You're looking a little board today!",
+      "setup": "What did the whiteboard say to the marker?",
+      "punchline": "You leave quite an impression!",
       "categories": ["school"],
-      "tags": ["marker", "whiteboard", "bored", "board", "wordplay", "classroom", "writing"]
+      "tags": ["whiteboard", "marker", "impression", "writing", "wordplay", "classroom", "compliment"]
     },
     {
       "id": 1341,
-      "setup": "Why did the art student break up with the canvas?",
-      "punchline": "Because she felt like he was too stretched out!",
-      "categories": ["school"],
-      "tags": ["art student", "canvas", "breakup", "stretched", "wordplay", "painting", "relationship"]
+      "setup": "Why did the art class go outside?",
+      "punchline": "To draw some fresh air!",
+      "categories": ["school", "outdoors"],
+      "tags": ["art class", "outside", "draw", "fresh air", "wordplay", "painting", "nature"]
     },
     {
       "id": 1342,
       "setup": "What do you call a fish that teaches school?",
-      "punchline": "The school principal!",
+      "punchline": "The head of the school!",
       "categories": ["school", "animals"],
-      "tags": ["fish", "teaches", "principal", "school of fish", "wordplay", "leader", "ocean"]
+      "tags": ["fish", "teaches", "head", "school of fish", "wordplay", "leader", "ocean"]
     },
     {
       "id": 1343,
-      "setup": "Why was the calendar always stressed in school?",
-      "punchline": "Because its days were numbered!",
+      "setup": "Why was the calendar so popular at school?",
+      "punchline": "Because it had a lot of dates!",
       "categories": ["school"],
-      "tags": ["calendar", "stressed", "days numbered", "time", "wordplay", "schedule", "anxiety"]
+      "tags": ["calendar", "popular", "dates", "romance", "wordplay", "schedule", "social"]
     },
     {
       "id": 1344,
-      "setup": "What did the Spanish teacher say to the student?",
-      "punchline": "You're doing muy bien!",
-      "categories": ["school"],
-      "tags": ["spanish teacher", "student", "muy bien", "very good", "wordplay", "language", "praise"]
+      "setup": "What did the French teacher say to the cheese?",
+      "punchline": "Brie yourself for a lesson!",
+      "categories": ["school", "food"],
+      "tags": ["french teacher", "cheese", "brie", "lesson", "wordplay", "language", "prepare"]
     },
     {
       "id": 1345,
-      "setup": "Why did the gym teacher bring a whistle to the meeting?",
-      "punchline": "Because he wanted to blow everyone away!",
+      "setup": "Why did the PE teacher go to the bank?",
+      "punchline": "To check his balance!",
       "categories": ["school", "sports"],
-      "tags": ["gym teacher", "whistle", "meeting", "blow away", "wordplay", "impressive", "pe"]
+      "tags": ["pe teacher", "bank", "balance", "gymnastics", "wordplay", "money", "exercise"]
     },
     {
       "id": 1346,
-      "setup": "What's a vampire's favorite subject?",
-      "punchline": "Blood typing... I mean, typing class!",
+      "setup": "What's a vampire's favorite class?",
+      "punchline": "Bite-ology!",
       "categories": ["school", "fantasy"],
-      "tags": ["vampire", "subject", "blood type", "typing", "wordplay", "spooky", "computer"]
+      "tags": ["vampire", "class", "biology", "bite", "wordplay", "scary", "science"]
     },
     {
       "id": 1347,
-      "setup": "Why did the homework feel undervalued?",
-      "punchline": "Because the dog kept getting credit for eating it!",
+      "setup": "Why did the dog do so well in school?",
+      "punchline": "Because he was the teacher's pet!",
       "categories": ["school", "animals"],
-      "tags": ["homework", "undervalued", "dog", "eating", "wordplay", "excuse", "credit"]
+      "tags": ["dog", "school", "teacher's pet", "favorite", "wordplay", "student", "success"]
     },
     {
       "id": 1348,
-      "setup": "What did the school bus say to the students?",
-      "punchline": "I wheely like picking you up!",
+      "setup": "What did the school bus say after a long day?",
+      "punchline": "I'm totally exhausted!",
       "categories": ["school", "travel"],
-      "tags": ["school bus", "students", "wheely", "really", "wordplay", "transportation", "morning"]
+      "tags": ["school bus", "exhausted", "exhaust", "tired", "wordplay", "transportation", "fumes"]
     },
     {
       "id": 1349,
-      "setup": "Why did the comma feel important?",
-      "punchline": "Because it knew when to pause for effect!",
+      "setup": "Why did the comma break up with the apostrophe?",
+      "punchline": "Because it was too possessive!",
       "categories": ["school"],
-      "tags": ["comma", "important", "pause", "effect", "wordplay", "grammar", "punctuation"]
+      "tags": ["comma", "apostrophe", "possessive", "grammar", "wordplay", "punctuation", "relationship"]
     },
     {
       "id": 1350,
@@ -9452,52 +9452,52 @@
     },
     {
       "id": 1351,
-      "setup": "Why did the student take his bike to school?",
-      "punchline": "Because he wanted to cycle through his classes!",
+      "setup": "Why did the bicycle fall asleep in class?",
+      "punchline": "Because it was two-tired!",
       "categories": ["school", "travel"],
-      "tags": ["student", "bike", "cycle", "classes", "wordplay", "transportation", "schedule"]
+      "tags": ["bicycle", "asleep", "tired", "two", "wordplay", "wheels", "exhausted"]
     },
     {
       "id": 1352,
-      "setup": "What did the drama teacher say to the curtain?",
-      "punchline": "It's time to draw to a close!",
+      "setup": "What did the drama teacher say when the play was perfect?",
+      "punchline": "That was a stage above the rest!",
       "categories": ["school"],
-      "tags": ["drama teacher", "curtain", "draw", "close", "wordplay", "theater", "ending"]
+      "tags": ["drama teacher", "play", "stage", "above", "wordplay", "theater", "excellent"]
     },
     {
       "id": 1353,
-      "setup": "Why was the binder so organized?",
-      "punchline": "Because it really knew how to hold things together!",
+      "setup": "Why did the book join the police force?",
+      "punchline": "Because it wanted to go undercover!",
       "categories": ["school"],
-      "tags": ["binder", "organized", "hold together", "papers", "wordplay", "supplies", "neat"]
+      "tags": ["book", "police", "undercover", "cover", "wordplay", "reading", "detective"]
     },
     {
       "id": 1354,
-      "setup": "What's a submarine's favorite class?",
-      "punchline": "Depth perception!",
-      "categories": ["school", "science"],
-      "tags": ["submarine", "class", "depth", "perception", "wordplay", "ocean", "psychology"]
+      "setup": "What's a penguin's favorite class?",
+      "punchline": "Ice-onomics!",
+      "categories": ["school", "animals"],
+      "tags": ["penguin", "class", "economics", "ice", "wordplay", "cold", "subject"]
     },
     {
       "id": 1355,
       "setup": "Why did the student bring a mirror to the exam?",
-      "punchline": "For self-reflection!",
+      "punchline": "For some self-reflection!",
       "categories": ["school"],
       "tags": ["student", "mirror", "exam", "reflection", "wordplay", "test", "thinking"]
     },
     {
       "id": 1356,
-      "setup": "What did the math teacher say to the gum under the desk?",
-      "punchline": "I've got a problem with you sticking around!",
+      "setup": "What did the math teacher say to the student who was chewing gum?",
+      "punchline": "This isn't the sum of my concerns, but please spit it out!",
       "categories": ["school", "math"],
-      "tags": ["math teacher", "gum", "desk", "sticking", "wordplay", "problem", "classroom"]
+      "tags": ["math teacher", "gum", "sum", "concerns", "wordplay", "chewing", "rules"]
     },
     {
       "id": 1357,
-      "setup": "Why did the highlighter feel bright?",
-      "punchline": "Because it was always making points stand out!",
+      "setup": "Why did the highlighter get good grades?",
+      "punchline": "Because it always made brilliant points!",
       "categories": ["school"],
-      "tags": ["highlighter", "bright", "points", "stand out", "wordplay", "supplies", "studying"]
+      "tags": ["highlighter", "grades", "brilliant", "points", "wordplay", "supplies", "bright"]
     },
     {
       "id": 1358,
@@ -9522,49 +9522,49 @@
     },
     {
       "id": 1361,
-      "setup": "Why was the school cafeteria so musical?",
-      "punchline": "Because of all the jam sessions at breakfast!",
+      "setup": "Why was the music room so sweet?",
+      "punchline": "Because of all the jam sessions!",
       "categories": ["school", "music"],
-      "tags": ["cafeteria", "musical", "jam", "sessions", "wordplay", "breakfast", "food"]
+      "tags": ["music room", "sweet", "jam", "sessions", "wordplay", "playing", "food"]
     },
     {
       "id": 1362,
-      "setup": "What do you call a teacher who never stops talking?",
-      "punchline": "A lecturer!",
-      "categories": ["school"],
-      "tags": ["teacher", "talking", "lecturer", "speaking", "wordplay", "class", "boring"]
+      "setup": "What do you call a dinosaur with straight A's?",
+      "punchline": "A dino-mite student!",
+      "categories": ["school", "animals"],
+      "tags": ["dinosaur", "straight-a", "dynamite", "smart", "wordplay", "student", "grades"]
     },
     {
       "id": 1363,
-      "setup": "Why did the student bring string to class?",
-      "punchline": "So he could tie up some loose ends on his project!",
+      "setup": "Why did the rope do badly on the test?",
+      "punchline": "Because it was all tied up!",
       "categories": ["school"],
-      "tags": ["student", "string", "class", "loose ends", "wordplay", "project", "finishing"]
+      "tags": ["rope", "test", "tied up", "knots", "wordplay", "busy", "failed"]
     },
     {
       "id": 1364,
-      "setup": "What's a dentist's favorite subject in school?",
-      "punchline": "Fill-osophy!",
+      "setup": "What's a dentist's favorite time at school?",
+      "punchline": "Tooth-hurty!",
       "categories": ["school"],
-      "tags": ["dentist", "subject", "philosophy", "filling", "wordplay", "teeth", "thinking"]
+      "tags": ["dentist", "time", "tooth", "2:30", "wordplay", "teeth", "schedule"]
     },
     {
       "id": 1365,
-      "setup": "Why did the projector feel important?",
-      "punchline": "Because it was always presenting something!",
+      "setup": "Why did the PowerPoint go to school?",
+      "punchline": "To make a better presentation of itself!",
       "categories": ["school", "technology"],
-      "tags": ["projector", "important", "presenting", "slides", "wordplay", "classroom", "technology"]
+      "tags": ["powerpoint", "school", "presentation", "slides", "wordplay", "improvement", "tech"]
     },
     {
       "id": 1366,
-      "setup": "What did the locker say to the student?",
-      "punchline": "I've got your combination for success!",
+      "setup": "What did the locker say to the combination?",
+      "punchline": "You really know how to open me up!",
       "categories": ["school"],
-      "tags": ["locker", "student", "combination", "success", "wordplay", "storage", "lock"]
+      "tags": ["locker", "combination", "open up", "feelings", "wordplay", "storage", "lock"]
     },
     {
       "id": 1367,
-      "setup": "Why did the student study in the airplane?",
+      "setup": "Why did the student study on an airplane?",
       "punchline": "Because he wanted a higher education!",
       "categories": ["school", "travel"],
       "tags": ["student", "airplane", "higher education", "flying", "wordplay", "studying", "altitude"]
@@ -9578,59 +9578,59 @@
     },
     {
       "id": 1369,
-      "setup": "Why did the teacher go to the beach?",
-      "punchline": "To test the water!",
+      "setup": "Why did the teacher go to the beach during class?",
+      "punchline": "She wanted to test the waters!",
       "categories": ["school", "outdoors"],
       "tags": ["teacher", "beach", "test", "water", "wordplay", "ocean", "trying"]
     },
     {
       "id": 1370,
-      "setup": "What did the zero say to the number eight in math class?",
-      "punchline": "Nice belt!",
+      "setup": "Why did the fraction worry about marrying the decimal?",
+      "punchline": "Because she'd have to convert!",
       "categories": ["school", "math"],
-      "tags": ["zero", "eight", "belt", "shape", "wordplay", "numbers", "fashion"]
+      "tags": ["fraction", "decimal", "marrying", "convert", "wordplay", "math", "relationship"]
     },
     {
       "id": 1371,
-      "setup": "Why was the globe so worldly?",
-      "punchline": "Because it was well-rounded!",
+      "setup": "Why was the globe so good at school?",
+      "punchline": "Because it was very well-rounded!",
       "categories": ["school", "geography"],
-      "tags": ["globe", "worldly", "well-rounded", "sphere", "wordplay", "geography", "educated"]
+      "tags": ["globe", "school", "well-rounded", "sphere", "wordplay", "geography", "educated"]
     },
     {
       "id": 1372,
-      "setup": "What did the French teacher say to the bread?",
-      "punchline": "Bonjour, pain!",
+      "setup": "What do you call bread that's good at English?",
+      "punchline": "A pun-pernickel!",
       "categories": ["school", "food"],
-      "tags": ["french teacher", "bread", "bonjour", "pain", "wordplay", "language", "baguette"]
+      "tags": ["bread", "english", "pun", "pumpernickel", "wordplay", "language", "baking"]
     },
     {
       "id": 1373,
-      "setup": "Why did the protractor feel complete?",
-      "punchline": "Because it had all the right angles!",
+      "setup": "Why did the protractor break up with the ruler?",
+      "punchline": "Because it found someone with more degrees!",
       "categories": ["school", "math"],
-      "tags": ["protractor", "complete", "angles", "geometry", "wordplay", "measuring", "degrees"]
+      "tags": ["protractor", "ruler", "degrees", "angles", "wordplay", "measuring", "relationship"]
     },
     {
       "id": 1374,
-      "setup": "What's a skeleton's favorite instrument in band class?",
+      "setup": "What's a skeleton's favorite instrument in band?",
       "punchline": "The trom-bone!",
       "categories": ["school", "music"],
       "tags": ["skeleton", "instrument", "trombone", "bone", "wordplay", "band", "music"]
     },
     {
       "id": 1375,
-      "setup": "Why did the test paper feel nervous?",
-      "punchline": "Because it knew it was going to be graded!",
+      "setup": "Why did the student bring a bar of soap to school?",
+      "punchline": "For a clean sweep on the test!",
       "categories": ["school"],
-      "tags": ["test paper", "nervous", "graded", "exam", "wordplay", "anxiety", "evaluation"]
+      "tags": ["student", "soap", "clean sweep", "test", "wordplay", "washing", "success"]
     },
     {
       "id": 1376,
-      "setup": "What do you call a chicken in the school library?",
-      "punchline": "A book-book-book-booker!",
-      "categories": ["school", "animals"],
-      "tags": ["chicken", "library", "book", "clucking", "wordplay", "reading", "bird"]
+      "setup": "What do you call a teacher with no arms, no legs, and no body?",
+      "punchline": "The head of the department!",
+      "categories": ["school"],
+      "tags": ["teacher", "head", "department", "body", "wordplay", "leader", "riddle"]
     },
     {
       "id": 1377,
@@ -9641,17 +9641,17 @@
     },
     {
       "id": 1378,
-      "setup": "What did the pencil case say to the pencil?",
-      "punchline": "You can always count on me for support!",
-      "categories": ["school"],
-      "tags": ["pencil case", "pencil", "support", "holding", "wordplay", "supplies", "friendship"]
+      "setup": "Why did the textbook go on a diet?",
+      "punchline": "Because it had too many extra chapters!",
+      "categories": ["school", "food"],
+      "tags": ["textbook", "diet", "chapters", "extra", "wordplay", "studying", "weight"]
     },
     {
       "id": 1379,
-      "setup": "Why did the school band get lost?",
-      "punchline": "Because they forgot the key!",
+      "setup": "Why did the school band break up?",
+      "punchline": "Because they couldn't find the right key!",
       "categories": ["school", "music"],
-      "tags": ["school band", "lost", "key", "music", "wordplay", "direction", "playing"]
+      "tags": ["school band", "break up", "key", "music", "wordplay", "playing", "notes"]
     },
     {
       "id": 1380,
@@ -9663,8 +9663,8 @@
     {
       "id": 1381,
       "setup": "Why did the teacher write on the window?",
-      "punchline": "Because she wanted the lesson to be clear!",
-      "categories": ["school", "home"],
+      "punchline": "She wanted the lesson to be very clear!",
+      "categories": ["school"],
       "tags": ["teacher", "window", "clear", "lesson", "wordplay", "transparent", "teaching"]
     },
     {
@@ -9676,24 +9676,24 @@
     },
     {
       "id": 1383,
-      "setup": "Why did the school newspaper shut down?",
-      "punchline": "Because it had too many issues!",
+      "setup": "Why did the school newspaper get an award?",
+      "punchline": "Because it had great circulation!",
       "categories": ["school"],
-      "tags": ["newspaper", "shut down", "issues", "problems", "wordplay", "journalism", "publications"]
+      "tags": ["newspaper", "award", "circulation", "distribution", "wordplay", "journalism", "success"]
     },
     {
       "id": 1384,
-      "setup": "What's a plumber's favorite class?",
-      "punchline": "Shop class... for pipe dreams!",
+      "setup": "What's a carpenter's favorite subject?",
+      "punchline": "Woodshop... they really nailed it!",
       "categories": ["school", "work"],
-      "tags": ["plumber", "class", "shop", "pipe dreams", "wordplay", "vocational", "building"]
+      "tags": ["carpenter", "subject", "woodshop", "nailed", "wordplay", "building", "success"]
     },
     {
       "id": 1385,
-      "setup": "Why did the dictionary feel proud?",
-      "punchline": "Because it had all the words to describe itself!",
+      "setup": "Why did the dictionary get detention?",
+      "punchline": "Because it had too many bad words!",
       "categories": ["school"],
-      "tags": ["dictionary", "proud", "words", "describe", "wordplay", "reference", "vocabulary"]
+      "tags": ["dictionary", "detention", "bad words", "trouble", "wordplay", "reference", "vocabulary"]
     },
     {
       "id": 1386,
@@ -9704,10 +9704,10 @@
     },
     {
       "id": 1387,
-      "setup": "Why did the student bring a sponge to history class?",
-      "punchline": "To absorb all the information!",
-      "categories": ["school", "history"],
-      "tags": ["student", "sponge", "history", "absorb", "wordplay", "learning", "information"]
+      "setup": "Why did the student bring a sponge to class?",
+      "punchline": "To soak up all the knowledge!",
+      "categories": ["school"],
+      "tags": ["student", "sponge", "soak up", "knowledge", "wordplay", "learning", "absorbing"]
     },
     {
       "id": 1388,
@@ -9718,38 +9718,38 @@
     },
     {
       "id": 1389,
-      "setup": "Why did the student bring a trampoline to the exam?",
-      "punchline": "To bounce back from tough questions!",
+      "setup": "Why did the student bring a trampoline to class?",
+      "punchline": "To help her grades bounce back!",
       "categories": ["school", "sports"],
-      "tags": ["student", "trampoline", "exam", "bounce back", "wordplay", "resilience", "test"]
+      "tags": ["student", "trampoline", "grades", "bounce back", "wordplay", "recovery", "improvement"]
     },
     {
       "id": 1390,
       "setup": "What did the period say to the sentence?",
-      "punchline": "We need to stop meeting like this!",
+      "punchline": "We have to stop meeting like this!",
       "categories": ["school"],
       "tags": ["period", "sentence", "stop", "meeting", "wordplay", "grammar", "punctuation"]
     },
     {
       "id": 1391,
-      "setup": "Why was the spelling bee so competitive?",
-      "punchline": "Because everyone wanted to bee the best!",
+      "setup": "Why was the spelling bee so nervous?",
+      "punchline": "It was really buzzing with anxiety!",
       "categories": ["school", "animals"],
-      "tags": ["spelling bee", "competitive", "bee", "best", "wordplay", "competition", "english"]
+      "tags": ["spelling bee", "nervous", "buzzing", "anxiety", "wordplay", "competition", "insects"]
     },
     {
       "id": 1392,
-      "setup": "What's a light bulb's favorite class?",
-      "punchline": "Bright ideas 101!",
-      "categories": ["school", "science"],
-      "tags": ["light bulb", "class", "bright ideas", "electricity", "wordplay", "creative", "thinking"]
+      "setup": "Why did the flashlight do well on the test?",
+      "punchline": "Because it was pretty bright!",
+      "categories": ["school", "home"],
+      "tags": ["flashlight", "test", "bright", "smart", "wordplay", "light", "success"]
     },
     {
       "id": 1393,
-      "setup": "Why did the geography student get wet?",
-      "punchline": "Because she was studying current events!",
+      "setup": "Why did the geography student bring a boat to class?",
+      "punchline": "Because they were studying current events!",
       "categories": ["school", "geography"],
-      "tags": ["geography", "student", "wet", "current", "wordplay", "water", "events"]
+      "tags": ["geography", "student", "boat", "current", "wordplay", "water", "news"]
     },
     {
       "id": 1394,
@@ -9760,31 +9760,31 @@
     },
     {
       "id": 1395,
-      "setup": "Why did the substitute teacher bring a map?",
-      "punchline": "Because she didn't want to lose the class!",
-      "categories": ["school", "geography"],
-      "tags": ["substitute teacher", "map", "lose", "class", "wordplay", "navigation", "students"]
+      "setup": "Why did the substitute teacher bring string?",
+      "punchline": "In case she had to tie up loose ends!",
+      "categories": ["school"],
+      "tags": ["substitute teacher", "string", "loose ends", "finishing", "wordplay", "temporary", "completing"]
     },
     {
       "id": 1396,
-      "setup": "What's a clock's favorite subject?",
-      "punchline": "History... because it's all about time!",
-      "categories": ["school", "history"],
-      "tags": ["clock", "subject", "history", "time", "wordplay", "past", "learning"]
+      "setup": "Why did the student take a clock to lunch?",
+      "punchline": "Because it was time to eat!",
+      "categories": ["school", "food"],
+      "tags": ["student", "clock", "lunch", "time", "wordplay", "eating", "schedule"]
     },
     {
       "id": 1397,
       "setup": "Why did the student put candy on his homework?",
-      "punchline": "Because his teacher wanted a sweet essay!",
+      "punchline": "Because the teacher wanted a sweet essay!",
       "categories": ["school", "food"],
       "tags": ["student", "candy", "homework", "sweet essay", "wordplay", "writing", "dessert"]
     },
     {
       "id": 1398,
-      "setup": "What did the librarian say to the books?",
-      "punchline": "I'm checking you all out!",
+      "setup": "What did the librarian say when the books were in a mess?",
+      "punchline": "This is a shelf-ish disaster!",
       "categories": ["school"],
-      "tags": ["librarian", "books", "checking out", "library", "wordplay", "borrowing", "attractive"]
+      "tags": ["librarian", "books", "shelf", "selfish", "wordplay", "library", "mess"]
     },
     {
       "id": 1399,
@@ -11426,10 +11426,10 @@
     },
     {
       "id": 1633,
-      "setup": "Why did the CPU feel unappreciated?",
-      "punchline": "Because everyone took it for granite... I mean, granted!",
-      "categories": ["technology"],
-      "tags": ["cpu", "unappreciated", "granted", "processor", "wordplay", "hardware", "computing"]
+      "setup": "Why did the CPU go to the beach?",
+      "punchline": "To cool off from all that processing!",
+      "categories": ["technology", "outdoors"],
+      "tags": ["cpu", "beach", "cool", "processing", "wordplay", "computer", "heat"]
     },
     {
       "id": 1634,
@@ -11531,10 +11531,10 @@
     },
     {
       "id": 1648,
-      "setup": "What do you call a computer that loves nature?",
-      "punchline": "A tree-coder... wait, I mean, a root user!",
+      "setup": "What do you call a computer in the woods?",
+      "punchline": "A Dell in a dell!",
       "categories": ["technology", "outdoors"],
-      "tags": ["computer", "nature", "root user", "tree", "wordplay", "linux", "admin"]
+      "tags": ["computer", "woods", "dell", "valley", "wordplay", "nature", "brand"]
     },
     {
       "id": 1649,
@@ -11629,10 +11629,10 @@
     },
     {
       "id": 1662,
-      "setup": "What's a computer's favorite candy?",
-      "punchline": "Memory chips... wait, I mean chocolate chips!",
-      "categories": ["technology", "food"],
-      "tags": ["computer", "candy", "chips", "chocolate", "wordplay", "hardware", "sweets"]
+      "setup": "Why did the router go to therapy?",
+      "punchline": "It had too many connection issues!",
+      "categories": [["technology"]],
+      "tags": ["router", "therapy", "connection", "issues", "wordplay", "internet", "wifi"]
     },
     {
       "id": 1663,
@@ -11784,9 +11784,9 @@
     {
       "id": 1684,
       "setup": "What's a chicken's favorite programming language?",
-      "punchline": "Cluck++ ... I mean, C++!",
+      "punchline": "Coop-ol!",
       "categories": ["technology", "animals"],
-      "tags": ["chicken", "programming", "c++", "cluck", "wordplay", "coding", "language"]
+      "tags": ["chicken", "programming", "cobol", "coop", "wordplay", "coding", "poultry"]
     },
     {
       "id": 1685,
@@ -11818,10 +11818,10 @@
     },
     {
       "id": 1689,
-      "setup": "Why did the smartwatch feel watched?",
-      "punchline": "Because it was always on someone's case... I mean, wrist!",
+      "setup": "Why did the smartwatch break up with the fitness tracker?",
+      "punchline": "They just couldn't sync anymore!",
       "categories": ["technology"],
-      "tags": ["smartwatch", "watched", "wrist", "case", "wordplay", "wearable", "paranoid"]
+      "tags": ["smartwatch", "fitness tracker", "sync", "relationship", "wordplay", "breakup", "wearables"]
     },
     {
       "id": 1690,
@@ -11868,9 +11868,9 @@
     {
       "id": 1696,
       "setup": "What's a cat's favorite button on the keyboard?",
-      "punchline": "The paws button... I mean, pause!",
+      "punchline": "The paws button!",
       "categories": ["technology", "animals"],
-      "tags": ["cat", "keyboard", "pause", "paws", "wordplay", "button", "pet"]
+      "tags": ["cat", "keyboard", "paws", "pause", "wordplay", "pets", "typing"]
     },
     {
       "id": 1697,
@@ -12301,10 +12301,10 @@
     },
     {
       "id": 1758,
-      "setup": "What do you call a nervous helicopter?",
-      "punchline": "A chopper that's losing its blades... I mean, cool!",
+      "setup": "Why did the helicopter break up with the airplane?",
+      "punchline": "The relationship wasn't taking off!",
       "categories": ["travel"],
-      "tags": ["helicopter", "nervous", "chopper", "blades", "wordplay", "flying", "anxiety"]
+      "tags": ["helicopter", "airplane", "breakup", "taking off", "wordplay", "flying", "relationship"]
     },
     {
       "id": 1759,
@@ -12483,10 +12483,10 @@
     },
     {
       "id": 1784,
-      "setup": "What did the departure gate say to the passengers?",
-      "punchline": "It's time to get this show on the road... I mean, runway!",
+      "setup": "What did the passport say to the customs officer?",
+      "punchline": "I'm just here for a stamp of approval!",
       "categories": ["travel"],
-      "tags": ["departure gate", "passengers", "runway", "airport", "wordplay", "flying", "leaving"]
+      "tags": ["passport", "customs", "stamp", "approval", "wordplay", "airport", "travel"]
     },
     {
       "id": 1785,
