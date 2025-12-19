@@ -24597,1401 +24597,3488 @@
       "id": 1401,
       "setup": "Why can't you trust atoms?",
       "punchline": "Because they make up everything!",
-      "categories": ["science"],
-      "tags": ["atoms", "trust", "make up", "lying", "wordplay", "chemistry", "physics"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "atoms",
+        "trust",
+        "make up",
+        "lying",
+        "wordplay",
+        "chemistry",
+        "physics"
+      ]
     },
     {
       "id": 1402,
       "setup": "What did the biologist wear to impress their date?",
       "punchline": "Designer genes!",
-      "categories": ["science"],
-      "tags": ["biologist", "date", "genes", "jeans", "wordplay", "biology", "fashion"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "biologist",
+        "date",
+        "genes",
+        "jeans",
+        "wordplay",
+        "biology",
+        "fashion"
+      ]
     },
     {
       "id": 1403,
-      "setup": "Why did the physicist break up with the biologist?",
-      "punchline": "Because there was no chemistry!",
-      "categories": ["science"],
-      "tags": ["physicist", "biologist", "chemistry", "breakup", "wordplay", "relationship", "subjects"]
+      "setup": "Why did the biologist break up with the physicist?",
+      "punchline": "There was no chemistry!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "biologist",
+        "physicist",
+        "chemistry",
+        "breakup",
+        "wordplay",
+        "relationship",
+        "subjects"
+      ]
     },
     {
       "id": 1404,
       "setup": "What do you call a fish made of two sodium atoms?",
       "punchline": "2 Na!",
-      "categories": ["science", "animals"],
-      "tags": ["fish", "sodium", "tuna", "chemistry", "wordplay", "periodic table", "elements"]
+      "categories": [
+        "science",
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "sodium",
+        "tuna",
+        "chemistry",
+        "wordplay",
+        "periodic table",
+        "elements"
+      ]
     },
     {
       "id": 1405,
       "setup": "Why did the germ cross the microscope?",
       "punchline": "To get to the other slide!",
-      "categories": ["science"],
-      "tags": ["germ", "microscope", "slide", "side", "wordplay", "biology", "lab"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "germ",
+        "microscope",
+        "slide",
+        "side",
+        "wordplay",
+        "biology",
+        "lab"
+      ]
     },
     {
       "id": 1406,
       "setup": "What did the volcano say to its crush?",
       "punchline": "I lava you!",
-      "categories": ["science", "geography"],
-      "tags": ["volcano", "crush", "lava", "love", "wordplay", "geology", "romance"]
+      "categories": [
+        "science",
+        "geography"
+      ],
+      "tags": [
+        "volcano",
+        "crush",
+        "lava",
+        "love",
+        "wordplay",
+        "geology",
+        "romance"
+      ]
     },
     {
       "id": 1407,
       "setup": "Why are chemists great at solving problems?",
       "punchline": "Because they have all the solutions!",
-      "categories": ["science"],
-      "tags": ["chemists", "problems", "solutions", "chemistry", "wordplay", "lab", "liquids"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "chemists",
+        "problems",
+        "solutions",
+        "chemistry",
+        "wordplay",
+        "lab",
+        "liquids"
+      ]
     },
     {
       "id": 1408,
       "setup": "What did one ion say to the other?",
       "punchline": "I've got my ion you!",
-      "categories": ["science"],
-      "tags": ["ion", "eye on", "chemistry", "watching", "wordplay", "physics", "charged"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "ion",
+        "eye on",
+        "chemistry",
+        "watching",
+        "wordplay",
+        "physics",
+        "charged"
+      ]
     },
     {
       "id": 1409,
       "setup": "Why did the neutron get into the club for free?",
       "punchline": "Because there was no charge!",
-      "categories": ["science"],
-      "tags": ["neutron", "club", "charge", "free", "wordplay", "physics", "particles"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "neutron",
+        "club",
+        "charge",
+        "free",
+        "wordplay",
+        "physics",
+        "particles"
+      ]
     },
     {
       "id": 1410,
-      "setup": "What do you call a clown who works in a lab?",
-      "punchline": "A-joke-lyte!",
-      "categories": ["science"],
-      "tags": ["clown", "lab", "acolyte", "joke", "wordplay", "chemistry", "funny"]
+      "setup": "What do you call a group of iron atoms at a carnival?",
+      "punchline": "A ferrous wheel!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "iron",
+        "carnival",
+        "ferrous",
+        "ferris wheel",
+        "wordplay",
+        "chemistry",
+        "elements"
+      ]
     },
     {
       "id": 1411,
-      "setup": "Why did the electron leave the atom?",
-      "punchline": "Because it had too much negative energy!",
-      "categories": ["science"],
-      "tags": ["electron", "atom", "negative", "energy", "wordplay", "physics", "leaving"]
+      "setup": "Why did the electron apply for unemployment?",
+      "punchline": "Because it got fired for being too negative!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "electron",
+        "unemployment",
+        "negative",
+        "fired",
+        "wordplay",
+        "physics",
+        "charge"
+      ]
     },
     {
       "id": 1412,
       "setup": "What's a scientist's favorite type of dog?",
       "punchline": "A Lab-rador!",
-      "categories": ["science", "animals"],
-      "tags": ["scientist", "dog", "lab", "labrador", "wordplay", "pets", "research"]
+      "categories": [
+        "science",
+        "animals"
+      ],
+      "tags": [
+        "scientist",
+        "dog",
+        "lab",
+        "labrador",
+        "wordplay",
+        "pets",
+        "research"
+      ]
     },
     {
       "id": 1413,
-      "setup": "Why did the cell phone go to therapy?",
-      "punchline": "Because it lost all its contacts... and its nucleus!",
-      "categories": ["science", "technology"],
-      "tags": ["cell", "phone", "therapy", "nucleus", "wordplay", "biology", "contacts"]
+      "setup": "What do biologists post on Instagram?",
+      "punchline": "Cell-fies!",
+      "categories": [
+        "science",
+        "technology"
+      ],
+      "tags": [
+        "biologists",
+        "instagram",
+        "cell",
+        "selfie",
+        "wordplay",
+        "biology",
+        "social media"
+      ]
     },
     {
       "id": 1414,
       "setup": "What did the thermometer say to the graduated cylinder?",
       "punchline": "You may have graduated, but I've got more degrees!",
-      "categories": ["science", "school"],
-      "tags": ["thermometer", "cylinder", "degrees", "graduated", "wordplay", "lab", "measuring"]
+      "categories": [
+        "science",
+        "school"
+      ],
+      "tags": [
+        "thermometer",
+        "cylinder",
+        "degrees",
+        "graduated",
+        "wordplay",
+        "lab",
+        "measuring"
+      ]
     },
     {
       "id": 1415,
-      "setup": "Why did the amoeba break up with the paramecium?",
-      "punchline": "Because their relationship was too one-celled!",
-      "categories": ["science"],
-      "tags": ["amoeba", "paramecium", "one-celled", "breakup", "wordplay", "biology", "microorganisms"]
+      "setup": "How do you stop an astronaut's baby from crying?",
+      "punchline": "You rocket!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "astronaut",
+        "baby",
+        "rocket",
+        "rock it",
+        "wordplay",
+        "space",
+        "parenting"
+      ]
     },
     {
       "id": 1416,
       "setup": "What did the scientist say when he found two helium atoms?",
       "punchline": "HeHe!",
-      "categories": ["science"],
-      "tags": ["scientist", "helium", "laughing", "elements", "wordplay", "chemistry", "periodic table"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "scientist",
+        "helium",
+        "laughing",
+        "elements",
+        "wordplay",
+        "chemistry",
+        "periodic table"
+      ]
     },
     {
       "id": 1417,
       "setup": "Why did the photon check a bag at the airport?",
       "punchline": "Because it was traveling light!",
-      "categories": ["science", "travel"],
-      "tags": ["photon", "airport", "traveling", "light", "wordplay", "physics", "luggage"]
+      "categories": [
+        "science",
+        "travel"
+      ],
+      "tags": [
+        "photon",
+        "airport",
+        "traveling",
+        "light",
+        "wordplay",
+        "physics",
+        "luggage"
+      ]
     },
     {
       "id": 1418,
-      "setup": "What do you call a microbiologist who visits 30 countries?",
-      "punchline": "A world-wide-web of bacteria knowledge!",
-      "categories": ["science", "travel"],
-      "tags": ["microbiologist", "countries", "bacteria", "travel", "wordplay", "biology", "worldwide"]
+      "setup": "Did you hear about the famous microbiologist who visited 30 countries?",
+      "punchline": "He was a man of many cultures!",
+      "categories": [
+        "science",
+        "travel"
+      ],
+      "tags": [
+        "microbiologist",
+        "countries",
+        "cultures",
+        "bacteria",
+        "wordplay",
+        "biology",
+        "travel"
+      ]
     },
     {
       "id": 1419,
       "setup": "Why did the noble gas cry?",
       "punchline": "Because all its friends argon!",
-      "categories": ["science"],
-      "tags": ["noble gas", "cry", "argon", "are gone", "wordplay", "chemistry", "elements"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "noble gas",
+        "cry",
+        "argon",
+        "are gone",
+        "wordplay",
+        "chemistry",
+        "elements"
+      ]
     },
     {
       "id": 1420,
       "setup": "What did the DNA say to the other DNA?",
       "punchline": "Do these genes make me look fat?",
-      "categories": ["science"],
-      "tags": ["dna", "genes", "jeans", "fat", "wordplay", "biology", "genetics"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "dna",
+        "genes",
+        "jeans",
+        "fat",
+        "wordplay",
+        "biology",
+        "genetics"
+      ]
     },
     {
       "id": 1421,
       "setup": "Why do biologists look forward to casual Fridays?",
       "punchline": "Because they can wear genes to work!",
-      "categories": ["science", "work"],
-      "tags": ["biologists", "casual friday", "genes", "jeans", "wordplay", "biology", "clothing"]
+      "categories": [
+        "science",
+        "work"
+      ],
+      "tags": [
+        "biologists",
+        "casual friday",
+        "genes",
+        "jeans",
+        "wordplay",
+        "biology",
+        "clothing"
+      ]
     },
     {
       "id": 1422,
       "setup": "What did the proton say to the electron?",
       "punchline": "Stop being so negative!",
-      "categories": ["science"],
-      "tags": ["proton", "electron", "negative", "positive", "wordplay", "physics", "attitude"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "proton",
+        "electron",
+        "negative",
+        "positive",
+        "wordplay",
+        "physics",
+        "attitude"
+      ]
     },
     {
       "id": 1423,
       "setup": "Why did the scientist install a knocker on his door?",
       "punchline": "To win the No-bell prize!",
-      "categories": ["science", "home"],
-      "tags": ["scientist", "knocker", "door", "nobel prize", "wordplay", "awards", "bell"]
+      "categories": [
+        "science",
+        "home"
+      ],
+      "tags": [
+        "scientist",
+        "knocker",
+        "door",
+        "nobel prize",
+        "wordplay",
+        "awards",
+        "bell"
+      ]
     },
     {
       "id": 1424,
-      "setup": "Why did the snake study biology?",
-      "punchline": "Because it wanted to learn about its reptile dysfunction!",
-      "categories": ["science", "animals"],
-      "tags": ["snake", "biology", "reptile", "studying", "wordplay", "animals", "science"]
+      "setup": "What's a pirate's favorite element?",
+      "punchline": "Aaaaargon!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "pirate",
+        "element",
+        "argon",
+        "arrr",
+        "wordplay",
+        "chemistry",
+        "periodic table"
+      ]
     },
     {
       "id": 1425,
-      "setup": "Why did the scientist go to the tanning salon?",
-      "punchline": "Because she was studying light absorption!",
-      "categories": ["science"],
-      "tags": ["scientist", "tanning", "light", "absorption", "wordplay", "physics", "research"]
+      "setup": "What did the positive charge say to the negative charge after their date?",
+      "punchline": "We have potential!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "positive",
+        "negative",
+        "charge",
+        "potential",
+        "wordplay",
+        "physics",
+        "electricity"
+      ]
     },
     {
       "id": 1426,
       "setup": "What did the mitochondria say at the party?",
       "punchline": "I'm the powerhouse of the party!",
-      "categories": ["science"],
-      "tags": ["mitochondria", "party", "powerhouse", "cell", "wordplay", "biology", "energy"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "mitochondria",
+        "party",
+        "powerhouse",
+        "cell",
+        "wordplay",
+        "biology",
+        "energy"
+      ]
     },
     {
       "id": 1427,
       "setup": "Why did the physicist break up with gravity?",
       "punchline": "Because he needed space!",
-      "categories": ["science"],
-      "tags": ["physicist", "gravity", "space", "breakup", "wordplay", "physics", "astronomy"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "physicist",
+        "gravity",
+        "space",
+        "breakup",
+        "wordplay",
+        "physics",
+        "astronomy"
+      ]
     },
     {
       "id": 1428,
       "setup": "What do you do with a sick chemist?",
       "punchline": "If you can't helium and you can't curium, you might as well barium!",
-      "categories": ["science"],
-      "tags": ["chemist", "sick", "helium", "curium", "barium", "wordplay", "elements"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "chemist",
+        "sick",
+        "helium",
+        "curium",
+        "barium",
+        "wordplay",
+        "elements"
+      ]
     },
     {
       "id": 1429,
-      "setup": "Why did the planet break up with the sun?",
-      "punchline": "Because it needed more space in the relationship!",
-      "categories": ["science"],
-      "tags": ["planet", "sun", "space", "breakup", "wordplay", "astronomy", "solar system"]
+      "setup": "How do you organize a space party?",
+      "punchline": "You planet!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "space",
+        "party",
+        "planet",
+        "plan it",
+        "wordplay",
+        "astronomy",
+        "organizing"
+      ]
     },
     {
       "id": 1430,
-      "setup": "What did the science book say to the math book?",
-      "punchline": "You've got problems, but I've got solutions!",
-      "categories": ["science", "math"],
-      "tags": ["science book", "math book", "problems", "solutions", "wordplay", "chemistry", "subjects"]
+      "setup": "What did the Earth say to the other planets?",
+      "punchline": "You guys have no life!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "earth",
+        "planets",
+        "life",
+        "aliens",
+        "wordplay",
+        "astronomy",
+        "solar system"
+      ]
     },
     {
       "id": 1431,
-      "setup": "Why did the cell membrane break up with the nucleus?",
-      "punchline": "Because it was too controlling!",
-      "categories": ["science"],
-      "tags": ["cell membrane", "nucleus", "controlling", "breakup", "wordplay", "biology", "cell"]
+      "setup": "Why do plants hate algebra?",
+      "punchline": "Because it gives them square roots!",
+      "categories": [
+        "science",
+        "math"
+      ],
+      "tags": [
+        "plants",
+        "algebra",
+        "square roots",
+        "math",
+        "wordplay",
+        "biology",
+        "botany"
+      ]
     },
     {
       "id": 1432,
       "setup": "What do you call a periodic table with gold missing?",
       "punchline": "Au revoir!",
-      "categories": ["science"],
-      "tags": ["periodic table", "gold", "au", "goodbye", "wordplay", "chemistry", "french"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "periodic table",
+        "gold",
+        "au",
+        "goodbye",
+        "wordplay",
+        "chemistry",
+        "french"
+      ]
     },
     {
       "id": 1433,
       "setup": "Why did the bacteria fail the math test?",
       "punchline": "Because it could only multiply!",
-      "categories": ["science", "math"],
-      "tags": ["bacteria", "math test", "multiply", "division", "wordplay", "biology", "reproduction"]
+      "categories": [
+        "science",
+        "math"
+      ],
+      "tags": [
+        "bacteria",
+        "math test",
+        "multiply",
+        "division",
+        "wordplay",
+        "biology",
+        "reproduction"
+      ]
     },
     {
       "id": 1434,
-      "setup": "What did the ocean say to the scientist?",
-      "punchline": "Nothing, it just waved at the data!",
-      "categories": ["science", "geography"],
-      "tags": ["ocean", "scientist", "wave", "data", "wordplay", "physics", "research"]
+      "setup": "What did the ocean say to the beach?",
+      "punchline": "Nothing, it just waved!",
+      "categories": [
+        "science",
+        "geography"
+      ],
+      "tags": [
+        "ocean",
+        "beach",
+        "wave",
+        "waved",
+        "wordplay",
+        "water",
+        "greeting"
+      ]
     },
     {
       "id": 1435,
-      "setup": "Why did the astronomy student stay up all night?",
-      "punchline": "Because she wanted to study for her stars!",
-      "categories": ["science", "school"],
-      "tags": ["astronomy", "student", "night", "stars", "wordplay", "studying", "grades"]
+      "setup": "What did Julius Caesar receive as he looked through a microscope?",
+      "punchline": "Beware the Slides of March!",
+      "categories": [
+        "science",
+        "history"
+      ],
+      "tags": [
+        "caesar",
+        "microscope",
+        "slides",
+        "ides of march",
+        "wordplay",
+        "biology",
+        "history"
+      ]
     },
     {
       "id": 1436,
       "setup": "What do planets like to read?",
       "punchline": "Comet books!",
-      "categories": ["science"],
-      "tags": ["planets", "read", "comet", "comic", "wordplay", "astronomy", "space"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "planets",
+        "read",
+        "comet",
+        "comic",
+        "wordplay",
+        "astronomy",
+        "space"
+      ]
     },
     {
       "id": 1437,
       "setup": "Why did the acid go to the gym?",
       "punchline": "To become a buffer solution!",
-      "categories": ["science", "sports"],
-      "tags": ["acid", "gym", "buffer", "solution", "wordplay", "chemistry", "exercise"]
+      "categories": [
+        "science",
+        "sports"
+      ],
+      "tags": [
+        "acid",
+        "gym",
+        "buffer",
+        "solution",
+        "wordplay",
+        "chemistry",
+        "exercise"
+      ]
     },
     {
       "id": 1438,
       "setup": "What did the stamen say to the pistil?",
       "punchline": "I like your style!",
-      "categories": ["science", "outdoors"],
-      "tags": ["stamen", "pistil", "style", "flower", "wordplay", "biology", "plants"]
+      "categories": [
+        "science",
+        "outdoors"
+      ],
+      "tags": [
+        "stamen",
+        "pistil",
+        "style",
+        "flower",
+        "wordplay",
+        "biology",
+        "plants"
+      ]
     },
     {
       "id": 1439,
       "setup": "Why did the geologist break up with his girlfriend?",
       "punchline": "Because she took him for granite!",
-      "categories": ["science"],
-      "tags": ["geologist", "girlfriend", "granite", "granted", "wordplay", "geology", "rocks"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "geologist",
+        "girlfriend",
+        "granite",
+        "granted",
+        "wordplay",
+        "geology",
+        "rocks"
+      ]
     },
     {
       "id": 1440,
       "setup": "What do you call an educated tube?",
       "punchline": "A graduated cylinder!",
-      "categories": ["science", "school"],
-      "tags": ["tube", "educated", "graduated cylinder", "lab", "wordplay", "chemistry", "measuring"]
+      "categories": [
+        "science",
+        "school"
+      ],
+      "tags": [
+        "tube",
+        "educated",
+        "graduated cylinder",
+        "lab",
+        "wordplay",
+        "chemistry",
+        "measuring"
+      ]
     },
     {
       "id": 1441,
-      "setup": "Why did the comet break up with the asteroid?",
-      "punchline": "Because it needed more space!",
-      "categories": ["science"],
-      "tags": ["comet", "asteroid", "space", "breakup", "wordplay", "astronomy", "relationship"]
+      "setup": "What did uranium-238 say to his friend?",
+      "punchline": "Gotta split!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "uranium",
+        "split",
+        "nuclear fission",
+        "leaving",
+        "wordplay",
+        "physics",
+        "radioactive"
+      ]
     },
     {
       "id": 1442,
       "setup": "What did the scientist say when he discovered oxygen and potassium?",
       "punchline": "OK!",
-      "categories": ["science"],
-      "tags": ["scientist", "oxygen", "potassium", "ok", "wordplay", "chemistry", "elements"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "scientist",
+        "oxygen",
+        "potassium",
+        "ok",
+        "wordplay",
+        "chemistry",
+        "elements"
+      ]
     },
     {
       "id": 1443,
-      "setup": "Why did the white blood cell break up with the red blood cell?",
-      "punchline": "Because it needed to fight for itself!",
-      "categories": ["science"],
-      "tags": ["white blood cell", "red blood cell", "fight", "breakup", "wordplay", "biology", "immune"]
+      "setup": "How come anteaters never get sick?",
+      "punchline": "Because they're full of antibodies!",
+      "categories": [
+        "science",
+        "animals"
+      ],
+      "tags": [
+        "anteaters",
+        "sick",
+        "antibodies",
+        "ants",
+        "wordplay",
+        "biology",
+        "immune"
+      ]
     },
     {
       "id": 1444,
       "setup": "What do you call a tooth in a glass of water?",
       "punchline": "A one molar solution!",
-      "categories": ["science"],
-      "tags": ["tooth", "water", "molar", "solution", "wordplay", "chemistry", "dentist"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "tooth",
+        "water",
+        "molar",
+        "solution",
+        "wordplay",
+        "chemistry",
+        "dentist"
+      ]
     },
     {
       "id": 1445,
       "setup": "Why was the mole of oxygen molecules excited?",
       "punchline": "Because it was going to a mole-cular party!",
-      "categories": ["science"],
-      "tags": ["mole", "oxygen", "molecular", "party", "wordplay", "chemistry", "avogadro"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "mole",
+        "oxygen",
+        "molecular",
+        "party",
+        "wordplay",
+        "chemistry",
+        "avogadro"
+      ]
     },
     {
       "id": 1446,
       "setup": "What did the black hole say to the star?",
       "punchline": "You're so attractive, I just can't escape you!",
-      "categories": ["science"],
-      "tags": ["black hole", "star", "attractive", "escape", "wordplay", "astronomy", "gravity"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "black hole",
+        "star",
+        "attractive",
+        "escape",
+        "wordplay",
+        "astronomy",
+        "gravity"
+      ]
     },
     {
       "id": 1447,
-      "setup": "Why did the enzyme break up with the substrate?",
-      "punchline": "Because it was time to move on to a new reaction!",
-      "categories": ["science"],
-      "tags": ["enzyme", "substrate", "reaction", "breakup", "wordplay", "biology", "chemistry"]
+      "setup": "What's a nuclear physicist's favorite meal?",
+      "punchline": "Fission chips!",
+      "categories": [
+        "science",
+        "food"
+      ],
+      "tags": [
+        "nuclear",
+        "physicist",
+        "fission",
+        "fish and chips",
+        "wordplay",
+        "physics",
+        "food"
+      ]
     },
     {
       "id": 1448,
       "setup": "What did the uranium-238 say to the lead-206?",
       "punchline": "I decay for you!",
-      "categories": ["science"],
-      "tags": ["uranium", "lead", "decay", "die for", "wordplay", "physics", "radioactive"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "uranium",
+        "lead",
+        "decay",
+        "die for",
+        "wordplay",
+        "physics",
+        "radioactive"
+      ]
     },
     {
       "id": 1449,
-      "setup": "Why did the physics teacher break up with the biology teacher?",
-      "punchline": "There was no chemistry!",
-      "categories": ["science", "school"],
-      "tags": ["physics teacher", "biology teacher", "chemistry", "breakup", "wordplay", "subjects", "relationship"]
+      "setup": "If H2O is water, what is H2O4?",
+      "punchline": "Drinking, bathing, swimming, and washing!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "h2o",
+        "water",
+        "h2o4",
+        "what for",
+        "wordplay",
+        "chemistry",
+        "formula"
+      ]
     },
     {
       "id": 1450,
       "setup": "What do you call iron blowing in the wind?",
       "punchline": "Fe-breeze!",
-      "categories": ["science", "home"],
-      "tags": ["iron", "wind", "febreze", "fe", "wordplay", "chemistry", "elements"]
+      "categories": [
+        "science",
+        "home"
+      ],
+      "tags": [
+        "iron",
+        "wind",
+        "febreze",
+        "fe",
+        "wordplay",
+        "chemistry",
+        "elements"
+      ]
     },
     {
       "id": 1451,
       "setup": "Why did the capacitor kiss the inductor?",
       "punchline": "Because it couldn't resist the current attraction!",
-      "categories": ["science"],
-      "tags": ["capacitor", "inductor", "resist", "current", "wordplay", "physics", "electronics"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "capacitor",
+        "inductor",
+        "resist",
+        "current",
+        "wordplay",
+        "physics",
+        "electronics"
+      ]
     },
     {
       "id": 1452,
-      "setup": "What did the scientist name his new dog?",
-      "punchline": "Atom... because he was so small!",
-      "categories": ["science", "animals"],
-      "tags": ["scientist", "dog", "atom", "small", "wordplay", "physics", "pets"]
+      "setup": "Want to hear a potassium joke?",
+      "punchline": "K!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "potassium",
+        "k",
+        "okay",
+        "element",
+        "wordplay",
+        "chemistry",
+        "periodic table"
+      ]
     },
     {
       "id": 1453,
       "setup": "Why did the tectonic plate apologize?",
       "punchline": "Because it was at fault!",
-      "categories": ["science", "geography"],
-      "tags": ["tectonic plate", "apologize", "fault", "earthquake", "wordplay", "geology", "earth"]
+      "categories": [
+        "science",
+        "geography"
+      ],
+      "tags": [
+        "tectonic plate",
+        "apologize",
+        "fault",
+        "earthquake",
+        "wordplay",
+        "geology",
+        "earth"
+      ]
     },
     {
       "id": 1454,
       "setup": "What do you call a bunch of iron atoms at a comedy club?",
       "punchline": "Fe-larious!",
-      "categories": ["science"],
-      "tags": ["iron", "atoms", "comedy", "hilarious", "wordplay", "chemistry", "funny"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "iron",
+        "atoms",
+        "comedy",
+        "hilarious",
+        "wordplay",
+        "chemistry",
+        "funny"
+      ]
     },
     {
       "id": 1455,
       "setup": "Why did the red litmus paper turn blue?",
       "punchline": "Because it was feeling basic!",
-      "categories": ["science"],
-      "tags": ["litmus paper", "blue", "basic", "pH", "wordplay", "chemistry", "acid"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "litmus paper",
+        "blue",
+        "basic",
+        "pH",
+        "wordplay",
+        "chemistry",
+        "acid"
+      ]
     },
     {
       "id": 1456,
-      "setup": "What did the stem cell say about its future?",
-      "punchline": "The possibilities are endless... I could be anything!",
-      "categories": ["science"],
-      "tags": ["stem cell", "future", "possibilities", "biology", "wordplay", "potential", "differentiation"]
+      "setup": "What does blood say when it's trying to be optimistic?",
+      "punchline": "B positive!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "blood",
+        "optimistic",
+        "b positive",
+        "blood type",
+        "wordplay",
+        "biology",
+        "attitude"
+      ]
     },
     {
       "id": 1457,
       "setup": "Why did the beaker feel empty?",
       "punchline": "Because it lost its solution to life's problems!",
-      "categories": ["science"],
-      "tags": ["beaker", "empty", "solution", "problems", "wordplay", "chemistry", "lab"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "beaker",
+        "empty",
+        "solution",
+        "problems",
+        "wordplay",
+        "chemistry",
+        "lab"
+      ]
     },
     {
       "id": 1458,
       "setup": "What do you call a lazy kangaroo in a physics experiment?",
       "punchline": "A pouch potato at rest!",
-      "categories": ["science", "animals"],
-      "tags": ["kangaroo", "physics", "rest", "newton", "wordplay", "inertia", "lazy"]
+      "categories": [
+        "science",
+        "animals"
+      ],
+      "tags": [
+        "kangaroo",
+        "physics",
+        "rest",
+        "newton",
+        "wordplay",
+        "inertia",
+        "lazy"
+      ]
     },
     {
       "id": 1459,
       "setup": "Why did the catalyst get invited to every party?",
       "punchline": "Because it always got the reaction started!",
-      "categories": ["science"],
-      "tags": ["catalyst", "party", "reaction", "chemistry", "wordplay", "speeding up", "social"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "catalyst",
+        "party",
+        "reaction",
+        "chemistry",
+        "wordplay",
+        "speeding up",
+        "social"
+      ]
     },
     {
       "id": 1460,
       "setup": "What did the supernova say before exploding?",
       "punchline": "I'm having a blast!",
-      "categories": ["science"],
-      "tags": ["supernova", "exploding", "blast", "star", "wordplay", "astronomy", "fun"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "supernova",
+        "exploding",
+        "blast",
+        "star",
+        "wordplay",
+        "astronomy",
+        "fun"
+      ]
     },
     {
       "id": 1461,
       "setup": "Why did the fossil feel old?",
       "punchline": "Because it was dating itself for millions of years!",
-      "categories": ["science", "history"],
-      "tags": ["fossil", "old", "dating", "millions", "wordplay", "paleontology", "carbon"]
+      "categories": [
+        "science",
+        "history"
+      ],
+      "tags": [
+        "fossil",
+        "old",
+        "dating",
+        "millions",
+        "wordplay",
+        "paleontology",
+        "carbon"
+      ]
     },
     {
       "id": 1462,
       "setup": "What do you call a wheel that runs chemistry experiments?",
       "punchline": "A centri-fuge!",
-      "categories": ["science"],
-      "tags": ["wheel", "chemistry", "centrifuge", "spinning", "wordplay", "lab", "equipment"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "wheel",
+        "chemistry",
+        "centrifuge",
+        "spinning",
+        "wordplay",
+        "lab",
+        "equipment"
+      ]
     },
     {
       "id": 1463,
-      "setup": "Why did the hypothesis get promoted?",
-      "punchline": "Because it was well-supported and became a theory!",
-      "categories": ["science", "work"],
-      "tags": ["hypothesis", "promoted", "theory", "supported", "wordplay", "scientific method", "research"]
+      "setup": "Why is the moon so broke?",
+      "punchline": "It's down to its last quarter!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "moon",
+        "broke",
+        "quarter",
+        "phases",
+        "wordplay",
+        "astronomy",
+        "money"
+      ]
     },
     {
       "id": 1464,
       "setup": "What did the magnet say to the iron filing?",
       "punchline": "I find you very attractive!",
-      "categories": ["science"],
-      "tags": ["magnet", "iron filing", "attractive", "magnetism", "wordplay", "physics", "force"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "magnet",
+        "iron filing",
+        "attractive",
+        "magnetism",
+        "wordplay",
+        "physics",
+        "force"
+      ]
     },
     {
       "id": 1465,
       "setup": "Why did the light wave break up with the sound wave?",
       "punchline": "Because they were on different frequencies!",
-      "categories": ["science"],
-      "tags": ["light wave", "sound wave", "frequencies", "breakup", "wordplay", "physics", "waves"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "light wave",
+        "sound wave",
+        "frequencies",
+        "breakup",
+        "wordplay",
+        "physics",
+        "waves"
+      ]
     },
     {
       "id": 1466,
-      "setup": "What do you call a test tube's autobiography?",
-      "punchline": "A chemical reaction to life!",
-      "categories": ["science"],
-      "tags": ["test tube", "autobiography", "chemical reaction", "life", "wordplay", "chemistry", "lab"]
+      "setup": "What's the first electricity detective called?",
+      "punchline": "Sherlock Ohms!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "electricity",
+        "detective",
+        "ohms",
+        "sherlock holmes",
+        "wordplay",
+        "physics",
+        "resistance"
+      ]
     },
     {
       "id": 1467,
-      "setup": "Why did the skeleton know it was going to rain?",
-      "punchline": "Because it could feel it in its bones... and read the barometer!",
-      "categories": ["science"],
-      "tags": ["skeleton", "rain", "bones", "barometer", "wordplay", "weather", "pressure"]
+      "setup": "Why can you never trust stairs?",
+      "punchline": "Because they're always up to something!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "stairs",
+        "trust",
+        "up to something",
+        "physics",
+        "wordplay",
+        "elevation",
+        "pun"
+      ]
     },
     {
       "id": 1468,
       "setup": "What did the oxidizer say to the fuel?",
       "punchline": "You really light up my life!",
-      "categories": ["science"],
-      "tags": ["oxidizer", "fuel", "light up", "combustion", "wordplay", "chemistry", "fire"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "oxidizer",
+        "fuel",
+        "light up",
+        "combustion",
+        "wordplay",
+        "chemistry",
+        "fire"
+      ]
     },
     {
       "id": 1469,
       "setup": "Why did the astronaut bring a broom to space?",
       "punchline": "To sweep through the Milky Way!",
-      "categories": ["science", "home"],
-      "tags": ["astronaut", "broom", "space", "milky way", "wordplay", "astronomy", "cleaning"]
+      "categories": [
+        "science",
+        "home"
+      ],
+      "tags": [
+        "astronaut",
+        "broom",
+        "space",
+        "milky way",
+        "wordplay",
+        "astronomy",
+        "cleaning"
+      ]
     },
     {
       "id": 1470,
       "setup": "What do you call a snake that builds molecules?",
       "punchline": "A boa-nd builder!",
-      "categories": ["science", "animals"],
-      "tags": ["snake", "molecules", "bond", "boa", "wordplay", "chemistry", "construction"]
+      "categories": [
+        "science",
+        "animals"
+      ],
+      "tags": [
+        "snake",
+        "molecules",
+        "bond",
+        "boa",
+        "wordplay",
+        "chemistry",
+        "construction"
+      ]
     },
     {
       "id": 1471,
-      "setup": "Why did the lab coat feel important?",
-      "punchline": "Because it was always covering important work!",
-      "categories": ["science", "work"],
-      "tags": ["lab coat", "important", "covering", "work", "wordplay", "research", "clothing"]
+      "setup": "Why did the hipster chemist burn his tongue?",
+      "punchline": "He picked up his beaker before it was cool!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "hipster",
+        "chemist",
+        "beaker",
+        "cool",
+        "wordplay",
+        "chemistry",
+        "temperature"
+      ]
     },
     {
       "id": 1472,
       "setup": "What did the petri dish say to the bacteria?",
       "punchline": "You're really growing on me!",
-      "categories": ["science"],
-      "tags": ["petri dish", "bacteria", "growing", "culture", "wordplay", "biology", "lab"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "petri dish",
+        "bacteria",
+        "growing",
+        "culture",
+        "wordplay",
+        "biology",
+        "lab"
+      ]
     },
     {
       "id": 1473,
-      "setup": "Why did the meteor feel like a failure?",
-      "punchline": "Because it always burned out before reaching its goals!",
-      "categories": ["science"],
-      "tags": ["meteor", "failure", "burned out", "goals", "wordplay", "astronomy", "atmosphere"]
+      "setup": "What's a chemist's favorite holiday song?",
+      "punchline": "Oh Chemis-tree, Oh Chemis-tree!",
+      "categories": [
+        "science",
+        "holidays"
+      ],
+      "tags": [
+        "chemist",
+        "holiday",
+        "christmas tree",
+        "chemistry",
+        "wordplay",
+        "song",
+        "seasonal"
+      ]
     },
     {
       "id": 1474,
       "setup": "What do you call a radioactive cat?",
       "punchline": "An atomic kitty!",
-      "categories": ["science", "animals"],
-      "tags": ["radioactive", "cat", "atomic", "kitty", "wordplay", "physics", "nuclear"]
+      "categories": [
+        "science",
+        "animals"
+      ],
+      "tags": [
+        "radioactive",
+        "cat",
+        "atomic",
+        "kitty",
+        "wordplay",
+        "physics",
+        "nuclear"
+      ]
     },
     {
       "id": 1475,
       "setup": "Why did the bunsen burner feel burned out?",
       "punchline": "Because it was always under pressure to perform!",
-      "categories": ["science"],
-      "tags": ["bunsen burner", "burned out", "pressure", "perform", "wordplay", "chemistry", "lab"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "bunsen burner",
+        "burned out",
+        "pressure",
+        "perform",
+        "wordplay",
+        "chemistry",
+        "lab"
+      ]
     },
     {
       "id": 1476,
       "setup": "What did the geology professor say about the mountain's age?",
       "punchline": "Its age really peaked my interest!",
-      "categories": ["science", "school"],
-      "tags": ["geology", "professor", "mountain", "peaked", "wordplay", "age", "interest"]
+      "categories": [
+        "science",
+        "school"
+      ],
+      "tags": [
+        "geology",
+        "professor",
+        "mountain",
+        "peaked",
+        "wordplay",
+        "age",
+        "interest"
+      ]
     },
     {
       "id": 1477,
-      "setup": "Why did the solar panel feel energized?",
-      "punchline": "Because it was having a bright day!",
-      "categories": ["science", "technology"],
-      "tags": ["solar panel", "energized", "bright", "sun", "wordplay", "renewable", "electricity"]
+      "setup": "What do you get when you cross a set of grammar rules with electromagnetic radiation?",
+      "punchline": "Grammar rays!",
+      "categories": [
+        "science",
+        "school"
+      ],
+      "tags": [
+        "grammar",
+        "electromagnetic",
+        "gamma rays",
+        "radiation",
+        "wordplay",
+        "physics",
+        "english"
+      ]
     },
     {
       "id": 1478,
-      "setup": "What do you call a group of scientists who love music?",
-      "punchline": "A band of researchers!",
-      "categories": ["science", "music"],
-      "tags": ["scientists", "music", "band", "researchers", "wordplay", "group", "lab"]
+      "setup": "If the Silver Surfer and Iron Man teamed up, what would they be?",
+      "punchline": "Alloys!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "silver surfer",
+        "iron man",
+        "alloys",
+        "allies",
+        "wordplay",
+        "chemistry",
+        "superheroes"
+      ]
     },
     {
       "id": 1479,
       "setup": "Why did the blood cell feel lost?",
       "punchline": "Because it took the wrong vein!",
-      "categories": ["science"],
-      "tags": ["blood cell", "lost", "vein", "lane", "wordplay", "biology", "circulation"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "blood cell",
+        "lost",
+        "vein",
+        "lane",
+        "wordplay",
+        "biology",
+        "circulation"
+      ]
     },
     {
       "id": 1480,
       "setup": "What did the scientist say when he mixed sodium and chlorine?",
       "punchline": "That's NaCl of the problem solved!",
-      "categories": ["science", "food"],
-      "tags": ["scientist", "sodium", "chlorine", "nacl", "salt", "wordplay", "chemistry"]
+      "categories": [
+        "science",
+        "food"
+      ],
+      "tags": [
+        "scientist",
+        "sodium",
+        "chlorine",
+        "nacl",
+        "salt",
+        "wordplay",
+        "chemistry"
+      ]
     },
     {
       "id": 1481,
-      "setup": "Why did the pendulum stop swinging?",
-      "punchline": "Because it lost its momentum in life!",
-      "categories": ["science"],
-      "tags": ["pendulum", "swinging", "momentum", "physics", "wordplay", "energy", "stopping"]
+      "setup": "What's the difference between a dog and a marine biologist?",
+      "punchline": "One wags a tail and the other tags a whale!",
+      "categories": [
+        "science",
+        "animals"
+      ],
+      "tags": [
+        "dog",
+        "marine biologist",
+        "tail",
+        "whale",
+        "wordplay",
+        "biology",
+        "ocean"
+      ]
     },
     {
       "id": 1482,
       "setup": "What do you call a funny element on the periodic table?",
       "punchline": "Helium... because it's always making you light-headed!",
-      "categories": ["science"],
-      "tags": ["element", "periodic table", "helium", "light-headed", "wordplay", "chemistry", "gas"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "element",
+        "periodic table",
+        "helium",
+        "light-headed",
+        "wordplay",
+        "chemistry",
+        "gas"
+      ]
     },
     {
       "id": 1483,
-      "setup": "Why did the asteroid feel overlooked?",
-      "punchline": "Because everyone was too focused on the stars!",
-      "categories": ["science"],
-      "tags": ["asteroid", "overlooked", "stars", "space", "wordplay", "astronomy", "attention"]
+      "setup": "What do you call a joke based on cobalt, radon, and yttrium?",
+      "punchline": "CoRnY!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "cobalt",
+        "radon",
+        "yttrium",
+        "corny",
+        "wordplay",
+        "chemistry",
+        "elements"
+      ]
     },
     {
       "id": 1484,
       "setup": "What did the botanist say to the wilting plant?",
       "punchline": "You need to photosynthe-size up your act!",
-      "categories": ["science", "outdoors"],
-      "tags": ["botanist", "plant", "photosynthesis", "wilting", "wordplay", "biology", "sunlight"]
+      "categories": [
+        "science",
+        "outdoors"
+      ],
+      "tags": [
+        "botanist",
+        "plant",
+        "photosynthesis",
+        "wilting",
+        "wordplay",
+        "biology",
+        "sunlight"
+      ]
     },
     {
       "id": 1485,
-      "setup": "Why did the quark feel small?",
-      "punchline": "Because it was always part of something bigger!",
-      "categories": ["science"],
-      "tags": ["quark", "small", "bigger", "particle", "wordplay", "physics", "subatomic"]
+      "setup": "What do you call it when chemists have a temper tantrum?",
+      "punchline": "They've reached their boiling point!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "chemists",
+        "temper",
+        "boiling point",
+        "angry",
+        "wordplay",
+        "chemistry",
+        "temperature"
+      ]
     },
     {
       "id": 1486,
       "setup": "What do you call a molecule that won't stop talking?",
       "punchline": "A mono-logue!",
-      "categories": ["science"],
-      "tags": ["molecule", "talking", "monologue", "mono", "wordplay", "chemistry", "chatty"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "molecule",
+        "talking",
+        "monologue",
+        "mono",
+        "wordplay",
+        "chemistry",
+        "chatty"
+      ]
     },
     {
       "id": 1487,
-      "setup": "Why did the lab equipment start a band?",
-      "punchline": "Because the beakers wanted to make some noise!",
-      "categories": ["science", "music"],
-      "tags": ["lab equipment", "band", "beakers", "noise", "wordplay", "chemistry", "music"]
+      "setup": "Why did the physics teacher break up with the biology teacher?",
+      "punchline": "There was no chemistry!",
+      "categories": [
+        "science",
+        "school"
+      ],
+      "tags": [
+        "physics",
+        "biology",
+        "chemistry",
+        "breakup",
+        "wordplay",
+        "teachers",
+        "relationship"
+      ]
     },
     {
       "id": 1488,
       "setup": "What did the nebula say to the galaxy?",
       "punchline": "I'm just trying to find my space in this universe!",
-      "categories": ["science"],
-      "tags": ["nebula", "galaxy", "space", "universe", "wordplay", "astronomy", "belonging"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "nebula",
+        "galaxy",
+        "space",
+        "universe",
+        "wordplay",
+        "astronomy",
+        "belonging"
+      ]
     },
     {
       "id": 1489,
       "setup": "Why did the carbon atom go on a date with the oxygen atom?",
       "punchline": "Because they had great chemistry... CO2-gether!",
-      "categories": ["science"],
-      "tags": ["carbon", "oxygen", "date", "chemistry", "co2", "wordplay", "bonding"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "carbon",
+        "oxygen",
+        "date",
+        "chemistry",
+        "co2",
+        "wordplay",
+        "bonding"
+      ]
     },
     {
       "id": 1490,
-      "setup": "What do you call a physicist in a hot tub?",
-      "punchline": "A scientist studying fluid dynamics!",
-      "categories": ["science"],
-      "tags": ["physicist", "hot tub", "fluid dynamics", "water", "wordplay", "physics", "relaxing"]
+      "setup": "How do trees access the internet?",
+      "punchline": "They log in!",
+      "categories": [
+        "science",
+        "technology"
+      ],
+      "tags": [
+        "trees",
+        "internet",
+        "log in",
+        "wood",
+        "wordplay",
+        "nature",
+        "computers"
+      ]
     },
     {
       "id": 1491,
       "setup": "Why did the telescope feel far-sighted?",
       "punchline": "Because it could only focus on distant objects!",
-      "categories": ["science", "technology"],
-      "tags": ["telescope", "far-sighted", "focus", "distant", "wordplay", "astronomy", "vision"]
+      "categories": [
+        "science",
+        "technology"
+      ],
+      "tags": [
+        "telescope",
+        "far-sighted",
+        "focus",
+        "distant",
+        "wordplay",
+        "astronomy",
+        "vision"
+      ]
     },
     {
       "id": 1492,
       "setup": "What did the hydrogen say when it bonded with oxygen?",
       "punchline": "Water we doing tonight?",
-      "categories": ["science"],
-      "tags": ["hydrogen", "oxygen", "water", "bonding", "wordplay", "chemistry", "h2o"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "hydrogen",
+        "oxygen",
+        "water",
+        "bonding",
+        "wordplay",
+        "chemistry",
+        "h2o"
+      ]
     },
     {
       "id": 1493,
-      "setup": "Why did the gene feel guilty?",
-      "punchline": "Because it was responsible for all the traits!",
-      "categories": ["science"],
-      "tags": ["gene", "guilty", "traits", "responsible", "wordplay", "genetics", "biology"]
+      "setup": "Why did the scuba diver fail biology?",
+      "punchline": "Because he was below C level!",
+      "categories": [
+        "science",
+        "school"
+      ],
+      "tags": [
+        "scuba diver",
+        "biology",
+        "sea level",
+        "grades",
+        "wordplay",
+        "ocean",
+        "failing"
+      ]
     },
     {
       "id": 1494,
       "setup": "What do you call a dinosaur that studies rocks?",
       "punchline": "A paleonto-geologist!",
-      "categories": ["science", "animals"],
-      "tags": ["dinosaur", "rocks", "paleontology", "geology", "wordplay", "fossils", "studying"]
+      "categories": [
+        "science",
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "rocks",
+        "paleontology",
+        "geology",
+        "wordplay",
+        "fossils",
+        "studying"
+      ]
     },
     {
       "id": 1495,
-      "setup": "Why did the battery feel drained?",
-      "punchline": "Because everyone was always using its energy!",
-      "categories": ["science", "technology"],
-      "tags": ["battery", "drained", "energy", "using", "wordplay", "electricity", "tired"]
+      "setup": "Why is electricity an ideal citizen?",
+      "punchline": "Because it conducts itself so well!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "electricity",
+        "citizen",
+        "conducts",
+        "behavior",
+        "wordplay",
+        "physics",
+        "current"
+      ]
     },
     {
       "id": 1496,
       "setup": "What did the electron microscope say to the specimen?",
       "punchline": "I see right through you... at a molecular level!",
-      "categories": ["science"],
-      "tags": ["electron microscope", "specimen", "see through", "molecular", "wordplay", "biology", "magnification"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "electron microscope",
+        "specimen",
+        "see through",
+        "molecular",
+        "wordplay",
+        "biology",
+        "magnification"
+      ]
     },
     {
       "id": 1497,
-      "setup": "Why did the ozone layer feel protective?",
-      "punchline": "Because it was always shielding Earth from harm!",
-      "categories": ["science", "geography"],
-      "tags": ["ozone layer", "protective", "shielding", "earth", "wordplay", "atmosphere", "uv"]
+      "setup": "What happened to the man who was cooled to absolute zero?",
+      "punchline": "He was 0K!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "man",
+        "absolute zero",
+        "ok",
+        "kelvin",
+        "wordplay",
+        "physics",
+        "temperature"
+      ]
     },
     {
       "id": 1498,
       "setup": "What do you call an exciting lecture about electricity?",
       "punchline": "A current event!",
-      "categories": ["science", "school"],
-      "tags": ["lecture", "electricity", "current event", "exciting", "wordplay", "physics", "news"]
+      "categories": [
+        "science",
+        "school"
+      ],
+      "tags": [
+        "lecture",
+        "electricity",
+        "current event",
+        "exciting",
+        "wordplay",
+        "physics",
+        "news"
+      ]
     },
     {
       "id": 1499,
-      "setup": "Why did the amino acid feel essential?",
-      "punchline": "Because the body couldn't make it without help!",
-      "categories": ["science"],
-      "tags": ["amino acid", "essential", "body", "protein", "wordplay", "biology", "nutrition"]
+      "setup": "Why did the biologist find the gene for shyness so late?",
+      "punchline": "It was hiding behind two other genes!",
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "biologist",
+        "gene",
+        "shyness",
+        "hiding",
+        "wordplay",
+        "biology",
+        "genetics"
+      ]
     },
     {
       "id": 1500,
       "setup": "What did the scientist say after a successful experiment?",
       "punchline": "Eureka! This calls for a reaction!",
-      "categories": ["science"],
-      "tags": ["scientist", "experiment", "eureka", "reaction", "wordplay", "discovery", "celebration"]
+      "categories": [
+        "science"
+      ],
+      "tags": [
+        "scientist",
+        "experiment",
+        "eureka",
+        "reaction",
+        "wordplay",
+        "discovery",
+        "celebration"
+      ]
     },
     {
       "id": 1501,
-      "setup": "Why did the golfer always carry a towel?",
-      "punchline": "In case he got into a sand trap and needed to dry his tears!",
-      "categories": ["sports"],
-      "tags": ["golfer", "towel", "sand trap", "golf", "wordplay", "crying", "bunker"]
+      "setup": "Why was the stadium so cool?",
+      "punchline": "It was full of fans!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "stadium",
+        "cool",
+        "fans",
+        "crowd",
+        "wordplay",
+        "sports",
+        "air"
+      ]
     },
     {
       "id": 1502,
-      "setup": "Why did the basketball player bring a ladder to the game?",
-      "punchline": "Because the coach told him to shoot for the stars!",
-      "categories": ["sports"],
-      "tags": ["basketball", "ladder", "shoot", "stars", "wordplay", "coach", "goals"]
+      "setup": "Why don't basketball players ever go on vacation?",
+      "punchline": "Because they're afraid of traveling!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "basketball",
+        "vacation",
+        "traveling",
+        "violation",
+        "wordplay",
+        "players",
+        "rules"
+      ]
     },
     {
       "id": 1503,
       "setup": "What do you call a pig that plays basketball?",
       "punchline": "A ball hog!",
-      "categories": ["sports", "animals"],
-      "tags": ["pig", "basketball", "ball hog", "selfish", "wordplay", "team", "playing"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "pig",
+        "basketball",
+        "ball hog",
+        "selfish",
+        "wordplay",
+        "team",
+        "playing"
+      ]
     },
     {
       "id": 1504,
-      "setup": "Why did the tennis player get frustrated?",
-      "punchline": "Because love meant nothing to him!",
-      "categories": ["sports"],
-      "tags": ["tennis", "frustrated", "love", "zero", "wordplay", "score", "relationship"]
+      "setup": "Why do tennis players never get married?",
+      "punchline": "Because love means nothing to them!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "tennis",
+        "married",
+        "love",
+        "zero",
+        "wordplay",
+        "score",
+        "single"
+      ]
     },
     {
       "id": 1505,
       "setup": "What's a boxer's favorite part of a joke?",
       "punchline": "The punchline!",
-      "categories": ["sports"],
-      "tags": ["boxer", "joke", "punchline", "punch", "wordplay", "fighting", "comedy"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "boxer",
+        "joke",
+        "punchline",
+        "punch",
+        "wordplay",
+        "fighting",
+        "comedy"
+      ]
     },
     {
       "id": 1506,
-      "setup": "Why did the soccer ball go to the bank?",
-      "punchline": "To get its quarterback!",
-      "categories": ["sports"],
-      "tags": ["soccer ball", "bank", "quarterback", "football", "wordplay", "money", "sports"]
+      "setup": "Why did the football coach go to the bank?",
+      "punchline": "To get his quarterback!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "football",
+        "coach",
+        "bank",
+        "quarterback",
+        "wordplay",
+        "money",
+        "change"
+      ]
     },
     {
       "id": 1507,
       "setup": "What did the baseball glove say to the ball?",
       "punchline": "Catch you later!",
-      "categories": ["sports"],
-      "tags": ["baseball glove", "ball", "catch", "later", "wordplay", "goodbye", "playing"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "baseball glove",
+        "ball",
+        "catch",
+        "later",
+        "wordplay",
+        "goodbye",
+        "playing"
+      ]
     },
     {
       "id": 1508,
-      "setup": "Why did the football coach bring string to practice?",
-      "punchline": "To help the team tie the game!",
-      "categories": ["sports", "work"],
-      "tags": ["football", "coach", "string", "tie", "wordplay", "game", "practice"]
+      "setup": "Why did the soccer player bring string to the game?",
+      "punchline": "So he could tie the score!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "soccer",
+        "string",
+        "tie",
+        "score",
+        "wordplay",
+        "football",
+        "game"
+      ]
     },
     {
       "id": 1509,
       "setup": "What do you call a boomerang that doesn't work?",
       "punchline": "A stick!",
-      "categories": ["sports"],
-      "tags": ["boomerang", "stick", "broken", "throwing", "wordplay", "return", "toy"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "boomerang",
+        "stick",
+        "broken",
+        "throwing",
+        "wordplay",
+        "return",
+        "toy"
+      ]
     },
     {
       "id": 1510,
       "setup": "Why did the bowling pins get scared?",
       "punchline": "Because they saw the ball coming to strike!",
-      "categories": ["sports"],
-      "tags": ["bowling pins", "scared", "ball", "strike", "wordplay", "bowling", "fear"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "bowling pins",
+        "scared",
+        "ball",
+        "strike",
+        "wordplay",
+        "bowling",
+        "fear"
+      ]
     },
     {
       "id": 1511,
       "setup": "What's a sprinter's favorite food?",
       "punchline": "Fast food!",
-      "categories": ["sports", "food"],
-      "tags": ["sprinter", "food", "fast food", "running", "wordplay", "track", "speed"]
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "sprinter",
+        "food",
+        "fast food",
+        "running",
+        "wordplay",
+        "track",
+        "speed"
+      ]
     },
     {
       "id": 1512,
       "setup": "Why did the hockey player go to jail?",
       "punchline": "Because he was caught boarding!",
-      "categories": ["sports"],
-      "tags": ["hockey", "jail", "boarding", "penalty", "wordplay", "ice", "crime"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "hockey",
+        "jail",
+        "boarding",
+        "penalty",
+        "wordplay",
+        "ice",
+        "crime"
+      ]
     },
     {
       "id": 1513,
       "setup": "What do you call a soccer player who can't stop scoring?",
       "punchline": "A goal digger!",
-      "categories": ["sports"],
-      "tags": ["soccer", "scoring", "goal digger", "gold digger", "wordplay", "football", "success"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "soccer",
+        "scoring",
+        "goal digger",
+        "gold digger",
+        "wordplay",
+        "football",
+        "success"
+      ]
     },
     {
       "id": 1514,
-      "setup": "Why did the weightlifter break up with their gym?",
-      "punchline": "Because the relationship was too heavy!",
-      "categories": ["sports"],
-      "tags": ["weightlifter", "gym", "breakup", "heavy", "wordplay", "lifting", "relationship"]
+      "setup": "Why do basketball players love donuts?",
+      "punchline": "Because they can dunk them!",
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "basketball",
+        "donuts",
+        "dunk",
+        "eating",
+        "wordplay",
+        "playing",
+        "breakfast"
+      ]
     },
     {
       "id": 1515,
       "setup": "What did the football say to the punter?",
       "punchline": "I get a kick out of you!",
-      "categories": ["sports"],
-      "tags": ["football", "punter", "kick", "enjoyment", "wordplay", "kicking", "compliment"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "football",
+        "punter",
+        "kick",
+        "enjoyment",
+        "wordplay",
+        "kicking",
+        "compliment"
+      ]
     },
     {
       "id": 1516,
-      "setup": "Why did the golfer wear two pairs of socks?",
+      "setup": "Why did the golfer wear two pairs of pants?",
       "punchline": "In case he got a hole in one!",
-      "categories": ["sports"],
-      "tags": ["golfer", "socks", "hole in one", "golf", "wordplay", "clothing", "prepared"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "golfer",
+        "pants",
+        "hole in one",
+        "golf",
+        "wordplay",
+        "clothing",
+        "prepared"
+      ]
     },
     {
       "id": 1517,
       "setup": "What's a cheerleader's favorite drink?",
       "punchline": "Root beer!",
-      "categories": ["sports", "food"],
-      "tags": ["cheerleader", "drink", "root beer", "rooting", "wordplay", "cheering", "soda"]
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "cheerleader",
+        "drink",
+        "root beer",
+        "rooting",
+        "wordplay",
+        "cheering",
+        "soda"
+      ]
     },
     {
       "id": 1518,
-      "setup": "Why did the runner feel so refreshed?",
-      "punchline": "Because she just finished a running stream of thoughts!",
-      "categories": ["sports"],
-      "tags": ["runner", "refreshed", "running", "stream", "wordplay", "thoughts", "jogging"]
+      "setup": "How do baseball players stay cool?",
+      "punchline": "They sit next to the fans!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "baseball",
+        "cool",
+        "fans",
+        "crowd",
+        "wordplay",
+        "players",
+        "air"
+      ]
     },
     {
       "id": 1519,
       "setup": "What do you call a fish that does weightlifting?",
       "punchline": "Mussel-bound!",
-      "categories": ["sports", "animals"],
-      "tags": ["fish", "weightlifting", "mussel", "muscle", "wordplay", "strong", "gym"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "weightlifting",
+        "mussel",
+        "muscle",
+        "wordplay",
+        "strong",
+        "gym"
+      ]
     },
     {
       "id": 1520,
       "setup": "Why did the volleyball player join the navy?",
       "punchline": "Because she wanted to serve!",
-      "categories": ["sports", "work"],
-      "tags": ["volleyball", "navy", "serve", "military", "wordplay", "playing", "service"]
+      "categories": [
+        "sports",
+        "work"
+      ],
+      "tags": [
+        "volleyball",
+        "navy",
+        "serve",
+        "military",
+        "wordplay",
+        "playing",
+        "service"
+      ]
     },
     {
       "id": 1521,
       "setup": "What did the yoga instructor say when asked to leave?",
       "punchline": "Nama-stay right here!",
-      "categories": ["sports"],
-      "tags": ["yoga", "instructor", "namaste", "stay", "wordplay", "meditation", "leaving"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "yoga",
+        "instructor",
+        "namaste",
+        "stay",
+        "wordplay",
+        "meditation",
+        "leaving"
+      ]
     },
     {
       "id": 1522,
       "setup": "Why did the baseball team hire a cook?",
       "punchline": "Because they needed a better batter!",
-      "categories": ["sports", "food"],
-      "tags": ["baseball", "cook", "batter", "hitting", "wordplay", "team", "cooking"]
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "baseball",
+        "cook",
+        "batter",
+        "hitting",
+        "wordplay",
+        "team",
+        "cooking"
+      ]
     },
     {
       "id": 1523,
-      "setup": "What's a surfer's favorite type of music?",
-      "punchline": "Heavy metal... just kidding, it's wave!",
-      "categories": ["sports", "music"],
-      "tags": ["surfer", "music", "wave", "surfing", "wordplay", "ocean", "genre"]
+      "setup": "What kind of tea do soccer players drink?",
+      "punchline": "Penal-tea!",
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "soccer",
+        "tea",
+        "penalty",
+        "drink",
+        "wordplay",
+        "football",
+        "fouls"
+      ]
     },
     {
       "id": 1524,
       "setup": "Why did the archer break up with the target?",
       "punchline": "Because their relationship was hit or miss!",
-      "categories": ["sports"],
-      "tags": ["archer", "target", "breakup", "hit or miss", "wordplay", "archery", "relationship"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "archer",
+        "target",
+        "breakup",
+        "hit or miss",
+        "wordplay",
+        "archery",
+        "relationship"
+      ]
     },
     {
       "id": 1525,
-      "setup": "What do you call a lazy sports fan?",
-      "punchline": "A spectator who's outstanding at sitting!",
-      "categories": ["sports"],
-      "tags": ["lazy", "sports fan", "spectator", "sitting", "wordplay", "watching", "couch"]
+      "setup": "Why is tennis such a loud sport?",
+      "punchline": "Because the players raise a racket!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "tennis",
+        "loud",
+        "racket",
+        "noise",
+        "wordplay",
+        "playing",
+        "equipment"
+      ]
     },
     {
       "id": 1526,
       "setup": "Why did the diver always tell jokes?",
       "punchline": "Because she liked making a splash!",
-      "categories": ["sports"],
-      "tags": ["diver", "jokes", "splash", "diving", "wordplay", "pool", "impact"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "diver",
+        "jokes",
+        "splash",
+        "diving",
+        "wordplay",
+        "pool",
+        "impact"
+      ]
     },
     {
       "id": 1527,
       "setup": "What's a basketball player's favorite type of cheese?",
       "punchline": "Swish cheese!",
-      "categories": ["sports", "food"],
-      "tags": ["basketball", "cheese", "swish", "swiss", "wordplay", "shooting", "food"]
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "basketball",
+        "cheese",
+        "swish",
+        "swiss",
+        "wordplay",
+        "shooting",
+        "food"
+      ]
     },
     {
       "id": 1528,
       "setup": "Why did the marathon runner go to the doctor?",
       "punchline": "Because he had a running nose!",
-      "categories": ["sports"],
-      "tags": ["marathon", "runner", "doctor", "running nose", "wordplay", "sick", "jogging"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "marathon",
+        "runner",
+        "doctor",
+        "running nose",
+        "wordplay",
+        "sick",
+        "jogging"
+      ]
     },
     {
       "id": 1529,
-      "setup": "What did the badminton player say to the birdie?",
-      "punchline": "You really shuttle my heart!",
-      "categories": ["sports"],
-      "tags": ["badminton", "birdie", "shuttle", "heart", "wordplay", "shuttlecock", "love"]
+      "setup": "What animal is best at hitting a baseball?",
+      "punchline": "A bat!",
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "animal",
+        "baseball",
+        "bat",
+        "hitting",
+        "wordplay",
+        "playing",
+        "mammal"
+      ]
     },
     {
       "id": 1530,
-      "setup": "Why did the gymnast always carry a notebook?",
-      "punchline": "To keep track of her flip-ping thoughts!",
-      "categories": ["sports", "school"],
-      "tags": ["gymnast", "notebook", "flipping", "thoughts", "wordplay", "gymnastics", "writing"]
+      "setup": "At what sport do waiters do really well?",
+      "punchline": "Tennis, because they're great at serving!",
+      "categories": [
+        "sports",
+        "work"
+      ],
+      "tags": [
+        "waiters",
+        "tennis",
+        "serving",
+        "restaurant",
+        "wordplay",
+        "sports",
+        "work"
+      ]
     },
     {
       "id": 1531,
       "setup": "What's a referee's favorite dessert?",
-      "punchline": "Whistle-berry pie!",
-      "categories": ["sports", "food"],
-      "tags": ["referee", "dessert", "whistle", "blueberry", "wordplay", "officiating", "pie"]
+      "punchline": "Yellow cake with red velvet frosting!",
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "referee",
+        "dessert",
+        "yellow card",
+        "red card",
+        "wordplay",
+        "officiating",
+        "cake"
+      ]
     },
     {
       "id": 1532,
       "setup": "Why did the pole vaulter go to the party?",
       "punchline": "To raise the bar!",
-      "categories": ["sports"],
-      "tags": ["pole vaulter", "party", "raise the bar", "jumping", "wordplay", "track field", "standards"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "pole vaulter",
+        "party",
+        "raise the bar",
+        "jumping",
+        "wordplay",
+        "track field",
+        "standards"
+      ]
     },
     {
       "id": 1533,
-      "setup": "What do you call a snowboarder who just broke up?",
-      "punchline": "Single and ready to shred!",
-      "categories": ["sports"],
-      "tags": ["snowboarder", "breakup", "single", "shred", "wordplay", "snow", "slopes"]
+      "setup": "Why did the golfer change his clothes?",
+      "punchline": "Because he got a hole in one!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "golfer",
+        "clothes",
+        "hole in one",
+        "golf",
+        "wordplay",
+        "changing",
+        "score"
+      ]
     },
     {
       "id": 1534,
       "setup": "Why did the catcher sit in the corner?",
       "punchline": "Because he was behind the plate!",
-      "categories": ["sports", "food"],
-      "tags": ["catcher", "corner", "plate", "baseball", "wordplay", "position", "home"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "catcher",
+        "corner",
+        "plate",
+        "baseball",
+        "wordplay",
+        "position",
+        "home"
+      ]
     },
     {
       "id": 1535,
-      "setup": "What's a sprinter's least favorite day?",
-      "punchline": "Rest day... they can't stand still!",
-      "categories": ["sports"],
-      "tags": ["sprinter", "rest day", "standing still", "running", "wordplay", "track", "recovery"]
+      "setup": "What insect is bad at football?",
+      "punchline": "A fumble-bee!",
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "insect",
+        "football",
+        "fumble",
+        "bee",
+        "wordplay",
+        "mistakes",
+        "playing"
+      ]
     },
     {
       "id": 1536,
-      "setup": "Why did the golfer bring a flashlight?",
-      "punchline": "In case he hit the lights out!",
-      "categories": ["sports"],
-      "tags": ["golfer", "flashlight", "lights out", "golf", "wordplay", "amazing", "playing"]
+      "setup": "What do you call a girl standing in the middle of a tennis court?",
+      "punchline": "Annette!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "girl",
+        "tennis court",
+        "net",
+        "name",
+        "wordplay",
+        "standing",
+        "center"
+      ]
     },
     {
       "id": 1537,
       "setup": "What do you call a rabbit that runs track?",
-      "punchline": "A fast bunny... or a track hare!",
-      "categories": ["sports", "animals"],
-      "tags": ["rabbit", "track", "fast", "hare", "wordplay", "running", "bunny"]
+      "punchline": "A track hare!",
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "rabbit",
+        "track",
+        "hare",
+        "running",
+        "wordplay",
+        "bunny",
+        "athlete"
+      ]
     },
     {
       "id": 1538,
       "setup": "Why did the soccer goalie go to school?",
       "punchline": "To learn how to save!",
-      "categories": ["sports", "school"],
-      "tags": ["soccer", "goalie", "school", "save", "wordplay", "learning", "goalkeeper"]
+      "categories": [
+        "sports",
+        "school"
+      ],
+      "tags": [
+        "soccer",
+        "goalie",
+        "school",
+        "save",
+        "wordplay",
+        "learning",
+        "goalkeeper"
+      ]
     },
     {
       "id": 1539,
       "setup": "What's a swimmer's favorite game?",
       "punchline": "Pool!",
-      "categories": ["sports"],
-      "tags": ["swimmer", "game", "pool", "swimming", "wordplay", "billiards", "water"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "swimmer",
+        "game",
+        "pool",
+        "swimming",
+        "wordplay",
+        "billiards",
+        "water"
+      ]
     },
     {
       "id": 1540,
       "setup": "Why did the baseball player get arrested?",
       "punchline": "Because he stole second base!",
-      "categories": ["sports"],
-      "tags": ["baseball", "arrested", "stole", "second base", "wordplay", "crime", "running"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "baseball",
+        "arrested",
+        "stole",
+        "second base",
+        "wordplay",
+        "crime",
+        "running"
+      ]
     },
     {
       "id": 1541,
       "setup": "What did the skier say when she fell down?",
       "punchline": "This is going downhill fast!",
-      "categories": ["sports"],
-      "tags": ["skier", "fell", "downhill", "skiing", "wordplay", "snow", "failing"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "skier",
+        "fell",
+        "downhill",
+        "skiing",
+        "wordplay",
+        "snow",
+        "failing"
+      ]
     },
     {
       "id": 1542,
-      "setup": "Why did the ping pong player bring a ruler?",
-      "punchline": "To measure up to the competition!",
-      "categories": ["sports"],
-      "tags": ["ping pong", "ruler", "measure", "competition", "wordplay", "table tennis", "opponent"]
+      "setup": "Why couldn't Cinderella play soccer?",
+      "punchline": "Because she kept running away from the ball!",
+      "categories": [
+        "sports",
+        "fantasy"
+      ],
+      "tags": [
+        "cinderella",
+        "soccer",
+        "ball",
+        "running",
+        "wordplay",
+        "fairy tale",
+        "dance"
+      ]
     },
     {
       "id": 1543,
       "setup": "What's a wrestler's favorite breakfast?",
       "punchline": "Headlocks and bagels!",
-      "categories": ["sports", "food"],
-      "tags": ["wrestler", "breakfast", "headlock", "lox", "wordplay", "wrestling", "bagels"]
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "wrestler",
+        "breakfast",
+        "headlock",
+        "lox",
+        "wordplay",
+        "wrestling",
+        "bagels"
+      ]
     },
     {
       "id": 1544,
       "setup": "Why did the soccer ball get promoted?",
       "punchline": "Because it was always on the ball!",
-      "categories": ["sports", "work"],
-      "tags": ["soccer ball", "promoted", "on the ball", "success", "wordplay", "football", "career"]
+      "categories": [
+        "sports",
+        "work"
+      ],
+      "tags": [
+        "soccer ball",
+        "promoted",
+        "on the ball",
+        "success",
+        "wordplay",
+        "football",
+        "career"
+      ]
     },
     {
       "id": 1545,
-      "setup": "What do you call a lazy surfer?",
-      "punchline": "A beach bum on permanent wave leave!",
-      "categories": ["sports", "outdoors"],
-      "tags": ["surfer", "lazy", "beach bum", "wave", "wordplay", "surfing", "vacation"]
+      "setup": "Where do hockey players get all their money?",
+      "punchline": "From the tooth fairy!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "hockey",
+        "money",
+        "tooth fairy",
+        "teeth",
+        "wordplay",
+        "ice",
+        "injuries"
+      ]
     },
     {
       "id": 1546,
-      "setup": "Why did the quarterback always carry money?",
-      "punchline": "For the pass!",
-      "categories": ["sports"],
-      "tags": ["quarterback", "money", "pass", "football", "wordplay", "throwing", "fare"]
+      "setup": "What runs around a baseball field but never moves?",
+      "punchline": "A fence!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "baseball field",
+        "runs",
+        "fence",
+        "riddle",
+        "wordplay",
+        "stadium",
+        "boundary"
+      ]
     },
     {
       "id": 1547,
-      "setup": "What's a hockey goalie's favorite music?",
-      "punchline": "Save-d by the Bell!",
-      "categories": ["sports", "music"],
-      "tags": ["hockey", "goalie", "save", "bell", "wordplay", "ice", "tv show"]
+      "setup": "Why was the basketball court always wet?",
+      "punchline": "Because the players were dribbling!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "basketball court",
+        "wet",
+        "dribbling",
+        "players",
+        "wordplay",
+        "ball",
+        "water"
+      ]
     },
     {
       "id": 1548,
-      "setup": "Why did the race car driver get a ticket?",
-      "punchline": "Because he was driving everyone crazy!",
-      "categories": ["sports", "travel"],
-      "tags": ["race car", "driver", "ticket", "crazy", "wordplay", "racing", "speed"]
+      "setup": "What did the coach say to the broken vending machine?",
+      "punchline": "Give me my quarterback!",
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "coach",
+        "vending machine",
+        "quarterback",
+        "change",
+        "wordplay",
+        "football",
+        "money"
+      ]
     },
     {
       "id": 1549,
       "setup": "What do you call a cat that plays baseball?",
       "punchline": "A cat-cher!",
-      "categories": ["sports", "animals"],
-      "tags": ["cat", "baseball", "catcher", "playing", "wordplay", "pets", "position"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "cat",
+        "baseball",
+        "catcher",
+        "playing",
+        "wordplay",
+        "pets",
+        "position"
+      ]
     },
     {
       "id": 1550,
-      "setup": "Why did the football team go to the bakery?",
-      "punchline": "To get a new game roll going!",
-      "categories": ["sports", "food"],
-      "tags": ["football", "team", "bakery", "roll", "wordplay", "bread", "momentum"]
+      "setup": "How is a baseball team similar to a pancake?",
+      "punchline": "They both need a good batter!",
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "baseball",
+        "pancake",
+        "batter",
+        "hitting",
+        "wordplay",
+        "cooking",
+        "team"
+      ]
     },
     {
       "id": 1551,
       "setup": "What's a golfer's favorite dance?",
       "punchline": "The swing!",
-      "categories": ["sports", "music"],
-      "tags": ["golfer", "dance", "swing", "golf", "wordplay", "music", "movement"]
+      "categories": [
+        "sports",
+        "music"
+      ],
+      "tags": [
+        "golfer",
+        "dance",
+        "swing",
+        "golf",
+        "wordplay",
+        "music",
+        "movement"
+      ]
     },
     {
       "id": 1552,
-      "setup": "Why did the basketball court get wet?",
-      "punchline": "Because the players were dribbling!",
-      "categories": ["sports"],
-      "tags": ["basketball court", "wet", "dribbling", "players", "wordplay", "ball", "water"]
+      "setup": "Why did the basketball player bring a suitcase to the game?",
+      "punchline": "Because he traveled a lot!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "basketball",
+        "suitcase",
+        "traveling",
+        "violation",
+        "wordplay",
+        "rules",
+        "luggage"
+      ]
     },
     {
       "id": 1553,
       "setup": "What did the tennis racket say to the tennis ball?",
       "punchline": "You're a hit with me!",
-      "categories": ["sports"],
-      "tags": ["tennis racket", "tennis ball", "hit", "compliment", "wordplay", "playing", "love"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "tennis racket",
+        "tennis ball",
+        "hit",
+        "compliment",
+        "wordplay",
+        "playing",
+        "love"
+      ]
     },
     {
       "id": 1554,
-      "setup": "Why did the boxer bring string to the fight?",
-      "punchline": "So he could tie up his opponent!",
-      "categories": ["sports"],
-      "tags": ["boxer", "string", "fight", "tie up", "wordplay", "boxing", "clinch"]
+      "setup": "How do football players deal with their problems?",
+      "punchline": "They tackle them head on!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "football",
+        "problems",
+        "tackle",
+        "head on",
+        "wordplay",
+        "solving",
+        "playing"
+      ]
     },
     {
       "id": 1555,
-      "setup": "What's a baseball player's favorite Star Wars character?",
-      "punchline": "Babe Ruth Vader!",
-      "categories": ["sports"],
-      "tags": ["baseball", "star wars", "babe ruth", "vader", "wordplay", "movies", "legend"]
+      "setup": "When should baseball players wear armor?",
+      "punchline": "When they're playing knight games!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "baseball",
+        "armor",
+        "knight games",
+        "night games",
+        "wordplay",
+        "medieval",
+        "playing"
+      ]
     },
     {
       "id": 1556,
-      "setup": "Why did the bicycle win the race?",
-      "punchline": "Because it was two-tired of losing!",
-      "categories": ["sports", "travel"],
-      "tags": ["bicycle", "race", "two tired", "winning", "wordplay", "cycling", "wheels"]
+      "setup": "Why did the bicycle stand on its own?",
+      "punchline": "Because it was two-tired!",
+      "categories": [
+        "sports",
+        "travel"
+      ],
+      "tags": [
+        "bicycle",
+        "stand",
+        "two tired",
+        "wheels",
+        "wordplay",
+        "cycling",
+        "exhausted"
+      ]
     },
     {
       "id": 1557,
       "setup": "What do you call a dinosaur that plays soccer?",
       "punchline": "A score-a-saurus rex!",
-      "categories": ["sports", "animals"],
-      "tags": ["dinosaur", "soccer", "score", "rex", "wordplay", "prehistoric", "goals"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "soccer",
+        "score",
+        "rex",
+        "wordplay",
+        "prehistoric",
+        "goals"
+      ]
     },
     {
       "id": 1558,
-      "setup": "Why did the bowling ball feel lonely?",
-      "punchline": "Because all its friends were getting pinned down!",
-      "categories": ["sports"],
-      "tags": ["bowling ball", "lonely", "pinned", "friends", "wordplay", "bowling", "strike"]
+      "setup": "Why are bowling alleys so quiet?",
+      "punchline": "Because you can hear a pin drop!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "bowling alleys",
+        "quiet",
+        "pin drop",
+        "silence",
+        "wordplay",
+        "bowling",
+        "expression"
+      ]
     },
     {
       "id": 1559,
       "setup": "What's a frog's favorite sport?",
       "punchline": "Croak-et!",
-      "categories": ["sports", "animals"],
-      "tags": ["frog", "sport", "cricket", "croak", "wordplay", "amphibian", "playing"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "frog",
+        "sport",
+        "cricket",
+        "croak",
+        "wordplay",
+        "amphibian",
+        "playing"
+      ]
     },
     {
       "id": 1560,
-      "setup": "Why did the tennis player never get married?",
-      "punchline": "Because love means nothing to her!",
-      "categories": ["sports"],
-      "tags": ["tennis", "married", "love", "nothing", "wordplay", "score", "single"]
+      "setup": "Why did the tennis player never get frustrated?",
+      "punchline": "Because love means nothing to them!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "tennis",
+        "frustrated",
+        "love",
+        "nothing",
+        "wordplay",
+        "score",
+        "calm"
+      ]
     },
     {
       "id": 1561,
-      "setup": "What do you call a sleeping football player?",
-      "punchline": "A tackle box!",
-      "categories": ["sports"],
-      "tags": ["sleeping", "football", "tackle", "box", "wordplay", "napping", "fishing"]
+      "setup": "Why didn't the dog want to play football?",
+      "punchline": "Because it was a boxer!",
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "dog",
+        "football",
+        "boxer",
+        "breed",
+        "wordplay",
+        "pets",
+        "fighting"
+      ]
     },
     {
       "id": 1562,
-      "setup": "Why did the coach yell at the vending machine?",
-      "punchline": "Because he wanted his quarterback!",
-      "categories": ["sports", "food"],
-      "tags": ["coach", "vending machine", "quarterback", "change", "wordplay", "football", "money"]
+      "setup": "What football player wears the biggest helmet?",
+      "punchline": "The one with the biggest head!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "football",
+        "helmet",
+        "biggest",
+        "head",
+        "wordplay",
+        "equipment",
+        "riddle"
+      ]
     },
     {
       "id": 1563,
-      "setup": "What's a shark's favorite game?",
-      "punchline": "Swallow the leader!",
-      "categories": ["sports", "animals"],
-      "tags": ["shark", "game", "swallow", "leader", "wordplay", "ocean", "follow"]
+      "setup": "What's an insect's favorite sport?",
+      "punchline": "Cricket!",
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "insect",
+        "sport",
+        "cricket",
+        "bug",
+        "wordplay",
+        "playing",
+        "game"
+      ]
     },
     {
       "id": 1564,
       "setup": "Why did the long jumper get stuck?",
       "punchline": "Because he couldn't get over himself!",
-      "categories": ["sports"],
-      "tags": ["long jumper", "stuck", "get over", "jumping", "wordplay", "track field", "ego"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "long jumper",
+        "stuck",
+        "get over",
+        "jumping",
+        "wordplay",
+        "track field",
+        "ego"
+      ]
     },
     {
       "id": 1565,
-      "setup": "What do you call a bear playing hockey?",
-      "punchline": "A bruin who's good with the puck!",
-      "categories": ["sports", "animals"],
-      "tags": ["bear", "hockey", "bruin", "puck", "wordplay", "ice", "team"]
+      "setup": "Why are hockey players so good at making friends?",
+      "punchline": "They're quick at breaking the ice!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "hockey",
+        "friends",
+        "breaking ice",
+        "social",
+        "wordplay",
+        "ice",
+        "conversation"
+      ]
     },
     {
       "id": 1566,
-      "setup": "Why did the golfer bring an extra shirt?",
-      "punchline": "In case he got a hole in one!",
-      "categories": ["sports"],
-      "tags": ["golfer", "shirt", "hole in one", "golf", "wordplay", "clothing", "score"]
+      "setup": "Why do golfers bring extra tees?",
+      "punchline": "In case they get a hole in one!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "golfers",
+        "tees",
+        "hole in one",
+        "golf",
+        "wordplay",
+        "equipment",
+        "prepared"
+      ]
     },
     {
       "id": 1567,
       "setup": "What's a ghost's favorite position in soccer?",
       "punchline": "Ghoul-keeper!",
-      "categories": ["sports", "fantasy"],
-      "tags": ["ghost", "soccer", "goalkeeper", "ghoul", "wordplay", "spooky", "position"]
+      "categories": [
+        "sports",
+        "fantasy"
+      ],
+      "tags": [
+        "ghost",
+        "soccer",
+        "goalkeeper",
+        "ghoul",
+        "wordplay",
+        "spooky",
+        "position"
+      ]
     },
     {
       "id": 1568,
       "setup": "Why did the baseball player make a good musician?",
       "punchline": "Because he had perfect pitch!",
-      "categories": ["sports", "music"],
-      "tags": ["baseball", "musician", "pitch", "throwing", "wordplay", "singing", "talent"]
+      "categories": [
+        "sports",
+        "music"
+      ],
+      "tags": [
+        "baseball",
+        "musician",
+        "pitch",
+        "throwing",
+        "wordplay",
+        "singing",
+        "talent"
+      ]
     },
     {
       "id": 1569,
       "setup": "What do you call a monkey that wins the Super Bowl?",
       "punchline": "A chimp-ion!",
-      "categories": ["sports", "animals"],
-      "tags": ["monkey", "super bowl", "champion", "chimp", "wordplay", "football", "winner"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "monkey",
+        "super bowl",
+        "champion",
+        "chimp",
+        "wordplay",
+        "football",
+        "winner"
+      ]
     },
     {
       "id": 1570,
       "setup": "Why did the track star bring a key?",
       "punchline": "To unlock her potential!",
-      "categories": ["sports"],
-      "tags": ["track star", "key", "unlock", "potential", "wordplay", "running", "success"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "track star",
+        "key",
+        "unlock",
+        "potential",
+        "wordplay",
+        "running",
+        "success"
+      ]
     },
     {
       "id": 1571,
       "setup": "What's a lightning bolt's favorite sport?",
       "punchline": "Track... because it's always striking!",
-      "categories": ["sports", "science"],
-      "tags": ["lightning", "sport", "track", "striking", "wordplay", "weather", "fast"]
+      "categories": [
+        "sports",
+        "science"
+      ],
+      "tags": [
+        "lightning",
+        "sport",
+        "track",
+        "striking",
+        "wordplay",
+        "weather",
+        "fast"
+      ]
     },
     {
       "id": 1572,
-      "setup": "Why did the hockey puck feel flat?",
-      "punchline": "Because it was always getting pushed around!",
-      "categories": ["sports"],
-      "tags": ["hockey puck", "flat", "pushed", "ice", "wordplay", "shape", "playing"]
+      "setup": "Why do basketball players get messy when they eat?",
+      "punchline": "Because they're always dribbling!",
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "basketball",
+        "messy",
+        "eating",
+        "dribbling",
+        "wordplay",
+        "players",
+        "food"
+      ]
     },
     {
       "id": 1573,
-      "setup": "What do you call a dog that does gymnastics?",
-      "punchline": "A hot dog... doing splits!",
-      "categories": ["sports", "animals"],
-      "tags": ["dog", "gymnastics", "hot dog", "splits", "wordplay", "pets", "flexible"]
+      "setup": "What did the receiver say to the football?",
+      "punchline": "Catch you later!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "receiver",
+        "football",
+        "catch",
+        "later",
+        "wordplay",
+        "goodbye",
+        "playing"
+      ]
     },
     {
       "id": 1574,
       "setup": "Why did the soccer player bring yarn to the game?",
       "punchline": "To tie the score!",
-      "categories": ["sports"],
-      "tags": ["soccer", "yarn", "tie", "score", "wordplay", "football", "knitting"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "soccer",
+        "yarn",
+        "tie",
+        "score",
+        "wordplay",
+        "football",
+        "knitting"
+      ]
     },
     {
       "id": 1575,
       "setup": "What's a tree's favorite sport?",
       "punchline": "Root-ball!",
-      "categories": ["sports", "outdoors"],
-      "tags": ["tree", "sport", "football", "root", "wordplay", "nature", "playing"]
+      "categories": [
+        "sports",
+        "outdoors"
+      ],
+      "tags": [
+        "tree",
+        "sport",
+        "football",
+        "root",
+        "wordplay",
+        "nature",
+        "playing"
+      ]
     },
     {
       "id": 1576,
       "setup": "Why did the rowing team always succeed?",
       "punchline": "Because they were all in the same boat!",
-      "categories": ["sports"],
-      "tags": ["rowing", "team", "succeed", "boat", "wordplay", "together", "water"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "rowing",
+        "team",
+        "succeed",
+        "boat",
+        "wordplay",
+        "together",
+        "water"
+      ]
     },
     {
       "id": 1577,
-      "setup": "What do you call a penguin playing volleyball?",
-      "punchline": "A serving sensation on ice!",
-      "categories": ["sports", "animals"],
-      "tags": ["penguin", "volleyball", "serving", "ice", "wordplay", "bird", "cold"]
+      "setup": "Why did the chicken get ejected from the basketball game?",
+      "punchline": "Because there was too much fowl play!",
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "chicken",
+        "basketball",
+        "ejected",
+        "foul play",
+        "wordplay",
+        "bird",
+        "violation"
+      ]
     },
     {
       "id": 1578,
       "setup": "Why did the dart player go to therapy?",
       "punchline": "Because he had too many point-less arguments!",
-      "categories": ["sports"],
-      "tags": ["dart player", "therapy", "pointless", "arguments", "wordplay", "darts", "mental health"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "dart player",
+        "therapy",
+        "pointless",
+        "arguments",
+        "wordplay",
+        "darts",
+        "mental health"
+      ]
     },
     {
       "id": 1579,
       "setup": "What's a cheerleader's favorite cereal?",
       "punchline": "Cheerios!",
-      "categories": ["sports", "food"],
-      "tags": ["cheerleader", "cereal", "cheerios", "breakfast", "wordplay", "cheering", "food"]
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "cheerleader",
+        "cereal",
+        "cheerios",
+        "breakfast",
+        "wordplay",
+        "cheering",
+        "food"
+      ]
     },
     {
       "id": 1580,
-      "setup": "Why did the figure skater bring a blanket?",
-      "punchline": "In case she needed to cover her triple axel!",
-      "categories": ["sports"],
-      "tags": ["figure skater", "blanket", "cover", "triple axel", "wordplay", "ice", "jump"]
+      "setup": "What do you call a ballerina who quits?",
+      "punchline": "Someone who found it tu-tu hard!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "ballerina",
+        "quits",
+        "tutu",
+        "too hard",
+        "wordplay",
+        "ballet",
+        "difficult"
+      ]
     },
     {
       "id": 1581,
       "setup": "What do you call a chicken at a baseball game?",
       "punchline": "A fowl ball!",
-      "categories": ["sports", "animals"],
-      "tags": ["chicken", "baseball", "foul ball", "fowl", "wordplay", "bird", "game"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "chicken",
+        "baseball",
+        "foul ball",
+        "fowl",
+        "wordplay",
+        "bird",
+        "game"
+      ]
     },
     {
       "id": 1582,
       "setup": "Why did the swimmer stay so calm?",
       "punchline": "Because she just went with the flow!",
-      "categories": ["sports"],
-      "tags": ["swimmer", "calm", "flow", "water", "wordplay", "swimming", "relaxed"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "swimmer",
+        "calm",
+        "flow",
+        "water",
+        "wordplay",
+        "swimming",
+        "relaxed"
+      ]
     },
     {
       "id": 1583,
       "setup": "What's a drummer's favorite sport?",
       "punchline": "Beat-boxing!",
-      "categories": ["sports", "music"],
-      "tags": ["drummer", "sport", "beatboxing", "boxing", "wordplay", "music", "rhythm"]
+      "categories": [
+        "sports",
+        "music"
+      ],
+      "tags": [
+        "drummer",
+        "sport",
+        "beatboxing",
+        "boxing",
+        "wordplay",
+        "music",
+        "rhythm"
+      ]
     },
     {
       "id": 1584,
       "setup": "Why did the high jumper fail the test?",
       "punchline": "Because he couldn't get over the bar!",
-      "categories": ["sports", "school"],
-      "tags": ["high jumper", "test", "bar", "failing", "wordplay", "track field", "standards"]
+      "categories": [
+        "sports",
+        "school"
+      ],
+      "tags": [
+        "high jumper",
+        "test",
+        "bar",
+        "failing",
+        "wordplay",
+        "track field",
+        "standards"
+      ]
     },
     {
       "id": 1585,
       "setup": "What do you call a snake that bowls?",
       "punchline": "A boa-ler!",
-      "categories": ["sports", "animals"],
-      "tags": ["snake", "bowling", "bowler", "boa", "wordplay", "reptile", "game"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "snake",
+        "bowling",
+        "bowler",
+        "boa",
+        "wordplay",
+        "reptile",
+        "game"
+      ]
     },
     {
       "id": 1586,
       "setup": "Why did the lacrosse player carry a wallet?",
       "punchline": "To catch some loose change!",
-      "categories": ["sports"],
-      "tags": ["lacrosse", "wallet", "catch", "change", "wordplay", "money", "net"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "lacrosse",
+        "wallet",
+        "catch",
+        "change",
+        "wordplay",
+        "money",
+        "net"
+      ]
     },
     {
       "id": 1587,
-      "setup": "What's a skeleton's favorite sport?",
-      "punchline": "Rib-cage fighting!",
-      "categories": ["sports"],
-      "tags": ["skeleton", "sport", "rib cage", "fighting", "wordplay", "bones", "mma"]
+      "setup": "What's a boxer's favorite drink?",
+      "punchline": "Punch!",
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "boxer",
+        "drink",
+        "punch",
+        "beverage",
+        "wordplay",
+        "fighting",
+        "hitting"
+      ]
     },
     {
       "id": 1588,
-      "setup": "Why did the tennis ball feel fuzzy?",
-      "punchline": "Because it couldn't remember the last serve!",
-      "categories": ["sports"],
-      "tags": ["tennis ball", "fuzzy", "remember", "serve", "wordplay", "memory", "texture"]
+      "setup": "What do you call the lettuce that won the race?",
+      "punchline": "A head of the pack!",
+      "categories": [
+        "sports",
+        "food"
+      ],
+      "tags": [
+        "lettuce",
+        "race",
+        "head",
+        "winning",
+        "wordplay",
+        "vegetable",
+        "running"
+      ]
     },
     {
       "id": 1589,
       "setup": "What do you call a bird that plays soccer?",
       "punchline": "A goal-finch!",
-      "categories": ["sports", "animals"],
-      "tags": ["bird", "soccer", "goldfinch", "goal", "wordplay", "football", "scoring"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "bird",
+        "soccer",
+        "goldfinch",
+        "goal",
+        "wordplay",
+        "football",
+        "scoring"
+      ]
     },
     {
       "id": 1590,
       "setup": "Why did the ice skater bring a calculator?",
       "punchline": "To figure out her figures!",
-      "categories": ["sports", "math"],
-      "tags": ["ice skater", "calculator", "figures", "skating", "wordplay", "math", "routine"]
+      "categories": [
+        "sports",
+        "math"
+      ],
+      "tags": [
+        "ice skater",
+        "calculator",
+        "figures",
+        "skating",
+        "wordplay",
+        "math",
+        "routine"
+      ]
     },
     {
       "id": 1591,
-      "setup": "What's a baseball umpire's favorite food?",
-      "punchline": "Home plate specials!",
-      "categories": ["sports", "food"],
-      "tags": ["umpire", "food", "home plate", "baseball", "wordplay", "specials", "eating"]
+      "setup": "Where do they keep the largest diamond in New York?",
+      "punchline": "Yankee Stadium!",
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "diamond",
+        "new york",
+        "yankee stadium",
+        "baseball",
+        "wordplay",
+        "field",
+        "gem"
+      ]
     },
     {
       "id": 1592,
       "setup": "Why did the rock climber never give up?",
       "punchline": "Because she always had a grip on things!",
-      "categories": ["sports"],
-      "tags": ["rock climber", "give up", "grip", "climbing", "wordplay", "determination", "hands"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "rock climber",
+        "give up",
+        "grip",
+        "climbing",
+        "wordplay",
+        "determination",
+        "hands"
+      ]
     },
     {
       "id": 1593,
       "setup": "What do you call a fish that does karate?",
       "punchline": "A kara-tuna!",
-      "categories": ["sports", "animals"],
-      "tags": ["fish", "karate", "tuna", "martial arts", "wordplay", "ocean", "fighting"]
+      "categories": [
+        "sports",
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "karate",
+        "tuna",
+        "martial arts",
+        "wordplay",
+        "ocean",
+        "fighting"
+      ]
     },
     {
       "id": 1594,
       "setup": "Why did the treadmill file for bankruptcy?",
       "punchline": "Because it was running out of money!",
-      "categories": ["sports", "work"],
-      "tags": ["treadmill", "bankruptcy", "running", "money", "wordplay", "gym", "exercise"]
+      "categories": [
+        "sports",
+        "work"
+      ],
+      "tags": [
+        "treadmill",
+        "bankruptcy",
+        "running",
+        "money",
+        "wordplay",
+        "gym",
+        "exercise"
+      ]
     },
     {
       "id": 1595,
       "setup": "What's a plumber's favorite sport?",
       "punchline": "Water polo!",
-      "categories": ["sports", "work"],
-      "tags": ["plumber", "sport", "water polo", "pipes", "wordplay", "swimming", "job"]
+      "categories": [
+        "sports",
+        "work"
+      ],
+      "tags": [
+        "plumber",
+        "sport",
+        "water polo",
+        "pipes",
+        "wordplay",
+        "swimming",
+        "job"
+      ]
     },
     {
       "id": 1596,
-      "setup": "Why did the football jersey feel washed up?",
-      "punchline": "Because it kept getting thrown in the laundry!",
-      "categories": ["sports", "home"],
-      "tags": ["football jersey", "washed up", "laundry", "clothing", "wordplay", "cleaning", "thrown"]
+      "setup": "What do football players wear on Halloween?",
+      "punchline": "Face masks!",
+      "categories": [
+        "sports",
+        "holidays"
+      ],
+      "tags": [
+        "football",
+        "halloween",
+        "face masks",
+        "costume",
+        "wordplay",
+        "equipment",
+        "holiday"
+      ]
     },
     {
       "id": 1597,
-      "setup": "What do you call a cow that plays basketball?",
-      "punchline": "A slam-dunking dairy!",
-      "categories": ["sports", "animals"],
-      "tags": ["cow", "basketball", "slam dunk", "dairy", "wordplay", "farm", "playing"]
+      "setup": "When is a baby good at basketball?",
+      "punchline": "When it's dribbling!",
+      "categories": [
+        "sports",
+        "family"
+      ],
+      "tags": [
+        "baby",
+        "basketball",
+        "dribbling",
+        "drool",
+        "wordplay",
+        "infant",
+        "playing"
+      ]
     },
     {
       "id": 1598,
       "setup": "Why did the baseball cap feel proud?",
       "punchline": "Because it was always on top of things!",
-      "categories": ["sports"],
-      "tags": ["baseball cap", "proud", "on top", "hat", "wordplay", "clothing", "head"]
+      "categories": [
+        "sports"
+      ],
+      "tags": [
+        "baseball cap",
+        "proud",
+        "on top",
+        "hat",
+        "wordplay",
+        "clothing",
+        "head"
+      ]
     },
     {
       "id": 1599,
-      "setup": "What's a electrician's favorite sport?",
-      "punchline": "Current-ly... it's circuit training!",
-      "categories": ["sports", "work"],
-      "tags": ["electrician", "sport", "circuit training", "current", "wordplay", "exercise", "electricity"]
+      "setup": "What's an electrician's favorite sport?",
+      "punchline": "Circuit training!",
+      "categories": [
+        "sports",
+        "work"
+      ],
+      "tags": [
+        "electrician",
+        "sport",
+        "circuit training",
+        "current",
+        "wordplay",
+        "exercise",
+        "electricity"
+      ]
     },
     {
       "id": 1600,
-      "setup": "Why did the trophy feel accomplished?",
-      "punchline": "Because it was a real winner in everyone's eyes!",
-      "categories": ["sports"],
-      "tags": ["trophy", "accomplished", "winner", "prize", "wordplay", "success", "award"]
+      "setup": "Why does someone who runs marathons make a good student?",
+      "punchline": "Because education pays off in the long run!",
+      "categories": [
+        "sports",
+        "school"
+      ],
+      "tags": [
+        "marathon",
+        "student",
+        "long run",
+        "education",
+        "wordplay",
+        "running",
+        "success"
+      ]
     },
     {
       "id": 1601,
