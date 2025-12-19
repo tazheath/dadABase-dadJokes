@@ -6122,19 +6122,19 @@
     },
     {
       "id": 348,
-      "setup": "What did the father candle say to his son?",
-      "punchline": "Don't burn out too quickly!",
+      "setup": "What did the buffalo say to his son when dropping him off at school?",
+      "punchline": "Bison!",
       "categories": [
-        "family"
-      ],
+        "family", 
+        "animals"],
       "tags": [
-        "father",
-        "candle",
-        "son",
-        "burn out",
-        "advice",
-        "wordplay",
-        "fire"
+        "buffalo", 
+        "son", 
+        "bye son", 
+        "bison", 
+        "school", 
+        "wordplay", 
+        "dad"
       ]
     },
     {
@@ -13273,20 +13273,10 @@
     },
     {
       "id": 757,
-      "setup": "Why did the ancient library burn down?",
-      "punchline": "Because someone left their Alexandria candle burning!",
-      "categories": [
-        "history"
-      ],
-      "tags": [
-        "library",
-        "alexandria",
-        "fire",
-        "candle",
-        "wordplay",
-        "ancient",
-        "egypt"
-      ]
+      "setup": "How was the Roman Empire cut in half?",
+      "punchline": "With a pair of Caesars!",
+      "categories": ["history"],
+      "tags": ["rome", "caesar", "scissors", "empire", "wordplay", "ancient", "roman"]
     },
     {
       "id": 758,
@@ -33777,7 +33767,7 @@
     {
       "id": 1925,
       "setup": "Why did the candle get fired?",
-      "punchline": "Because it kept burning out at work!",
+      "punchline": "Because it was always burned out!",
       "categories": [
         "work",
         "home"
