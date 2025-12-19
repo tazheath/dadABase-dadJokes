@@ -29519,19 +29519,17 @@
     },
     {
       "id": 1683,
-      "setup": "Why don't robots ever get lost?",
-      "punchline": "Because they always follow their programming!",
-      "categories": [
-        "technology"
-      ],
+      "setup": "Why was the robot angry?",
+      "punchline": "Because someone kept pushing its buttons!",
+      "categories": ["technology"],
       "tags": [
-        "robots",
-        "lost",
-        "programming",
-        "directions",
-        "wordplay",
-        "code",
-        "navigation"
+        "robot", 
+        "angry", 
+        "buttons", 
+        "wordplay", 
+        "technology", 
+        "machine", 
+        "frustrated"
       ]
     },
     {
