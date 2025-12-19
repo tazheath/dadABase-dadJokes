@@ -14054,1401 +14054,3497 @@
       "id": 801,
       "setup": "Why did Santa go to music school?",
       "punchline": "To improve his wrapping skills!",
-      "categories": ["holidays", "music"],
-      "tags": ["santa", "music", "wrapping", "rapping", "wordplay", "christmas", "gifts"]
+      "categories": [
+        "holidays",
+        "music"
+      ],
+      "tags": [
+        "santa",
+        "music",
+        "wrapping",
+        "rapping",
+        "wordplay",
+        "christmas",
+        "gifts"
+      ]
     },
     {
       "id": 802,
       "setup": "What do you call a turkey on the day after Thanksgiving?",
       "punchline": "Lucky!",
-      "categories": ["holidays", "food"],
-      "tags": ["turkey", "thanksgiving", "lucky", "survived", "wordplay", "dinner", "november"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "turkey",
+        "thanksgiving",
+        "lucky",
+        "survived",
+        "wordplay",
+        "dinner",
+        "november"
+      ]
     },
     {
       "id": 803,
       "setup": "Why did the Easter egg hide?",
       "punchline": "Because it was a little chicken!",
-      "categories": ["holidays", "animals"],
-      "tags": ["easter", "egg", "hiding", "chicken", "wordplay", "hunt", "scared"]
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "easter",
+        "egg",
+        "hiding",
+        "chicken",
+        "wordplay",
+        "hunt",
+        "scared"
+      ]
     },
     {
       "id": 804,
       "setup": "What do elves learn in school?",
       "punchline": "The elf-abet!",
-      "categories": ["holidays", "school"],
-      "tags": ["elves", "school", "alphabet", "elf", "wordplay", "christmas", "learning"]
+      "categories": [
+        "holidays",
+        "school"
+      ],
+      "tags": [
+        "elves",
+        "school",
+        "alphabet",
+        "elf",
+        "wordplay",
+        "christmas",
+        "learning"
+      ]
     },
     {
       "id": 805,
-      "setup": "Why is Valentine's Day a great day for fitness?",
-      "punchline": "Because love is in the air... and so is your heart rate!",
-      "categories": ["holidays", "sports"],
-      "tags": ["valentine", "fitness", "heart rate", "love", "wordplay", "exercise", "february"]
+      "setup": "What do you get when you cross a snowman with a vampire?",
+      "punchline": "Frostbite!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "snowman",
+        "vampire",
+        "frostbite",
+        "frost",
+        "bite",
+        "wordplay",
+        "winter"
+      ]
     },
     {
       "id": 806,
       "setup": "What did the gingerbread man put on his bed?",
       "punchline": "A cookie sheet!",
-      "categories": ["holidays", "home"],
-      "tags": ["gingerbread", "bed", "cookie sheet", "baking", "wordplay", "christmas", "sleeping"]
+      "categories": [
+        "holidays",
+        "home"
+      ],
+      "tags": [
+        "gingerbread",
+        "bed",
+        "cookie sheet",
+        "baking",
+        "wordplay",
+        "christmas",
+        "sleeping"
+      ]
     },
     {
       "id": 807,
-      "setup": "Why did the vampire enjoy Halloween so much?",
-      "punchline": "Because he could finally be himself!",
-      "categories": ["holidays", "fantasy"],
-      "tags": ["vampire", "halloween", "himself", "costume", "wordplay", "spooky", "october"]
+      "setup": "What does Santa suffer from if he gets stuck in a chimney?",
+      "punchline": "Claus-trophobia!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "santa",
+        "chimney",
+        "claustrophobia",
+        "stuck",
+        "wordplay",
+        "christmas",
+        "fear"
+      ]
     },
     {
       "id": 808,
       "setup": "What's the best thing to put into a Christmas cake?",
       "punchline": "Your teeth!",
-      "categories": ["holidays", "food"],
-      "tags": ["christmas", "cake", "teeth", "eating", "wordplay", "dessert", "baking"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "christmas",
+        "cake",
+        "teeth",
+        "eating",
+        "wordplay",
+        "dessert",
+        "baking"
+      ]
     },
     {
       "id": 809,
-      "setup": "Why did the New Year's resolution go to the gym?",
-      "punchline": "Because it wanted to get fit before it was forgotten in February!",
-      "categories": ["holidays", "sports"],
-      "tags": ["new year", "resolution", "gym", "forgotten", "wordplay", "fitness", "january"]
+      "setup": "Why did Santa's helper see a therapist?",
+      "punchline": "Because he had low elf-esteem!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "santa",
+        "elf",
+        "therapist",
+        "self-esteem",
+        "wordplay",
+        "christmas",
+        "mental health"
+      ]
     },
     {
       "id": 810,
       "setup": "What do you get when you cross a snowman with a baker?",
       "punchline": "Frosty the Dough-man!",
-      "categories": ["holidays", "food"],
-      "tags": ["snowman", "baker", "dough", "frosty", "wordplay", "winter", "baking"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "snowman",
+        "baker",
+        "dough",
+        "frosty",
+        "wordplay",
+        "winter",
+        "baking"
+      ]
     },
     {
       "id": 811,
       "setup": "Why did the Easter Bunny join a band?",
       "punchline": "Because he had the best hops!",
-      "categories": ["holidays", "music"],
-      "tags": ["easter bunny", "band", "hops", "hip hop", "wordplay", "music", "rabbit"]
+      "categories": [
+        "holidays",
+        "music"
+      ],
+      "tags": [
+        "easter bunny",
+        "band",
+        "hops",
+        "hip hop",
+        "wordplay",
+        "music",
+        "rabbit"
+      ]
     },
     {
       "id": 812,
       "setup": "What do you call Santa when he stops moving?",
       "punchline": "Santa Pause!",
-      "categories": ["holidays"],
-      "tags": ["santa", "pause", "claus", "stopped", "wordplay", "christmas", "still"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "santa",
+        "pause",
+        "claus",
+        "stopped",
+        "wordplay",
+        "christmas",
+        "still"
+      ]
     },
     {
       "id": 813,
       "setup": "Why did the skeleton skip Thanksgiving dinner?",
       "punchline": "Because he had no body to go with!",
-      "categories": ["holidays"],
-      "tags": ["skeleton", "thanksgiving", "nobody", "body", "wordplay", "dinner", "alone"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "skeleton",
+        "thanksgiving",
+        "nobody",
+        "body",
+        "wordplay",
+        "dinner",
+        "alone"
+      ]
     },
     {
       "id": 814,
       "setup": "What do you call a broke Santa?",
       "punchline": "Saint Nickel-less!",
-      "categories": ["holidays", "work"],
-      "tags": ["santa", "broke", "nickel", "nicholas", "wordplay", "christmas", "money"]
+      "categories": [
+        "holidays",
+        "work"
+      ],
+      "tags": [
+        "santa",
+        "broke",
+        "nickel",
+        "nicholas",
+        "wordplay",
+        "christmas",
+        "money"
+      ]
     },
     {
       "id": 815,
-      "setup": "Why did Cupid get in trouble at school?",
-      "punchline": "He got caught shooting arrows in the hallway!",
-      "categories": ["holidays", "school"],
-      "tags": ["cupid", "school", "arrows", "trouble", "valentine", "wordplay", "love"]
+      "setup": "Why is it getting harder to buy Advent calendars?",
+      "punchline": "Because their days are numbered!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "advent",
+        "calendar",
+        "days numbered",
+        "christmas",
+        "wordplay",
+        "countdown",
+        "december"
+      ]
     },
     {
       "id": 816,
       "setup": "What did the Christmas tree say to the ornament?",
       "punchline": "Quit hanging around!",
-      "categories": ["holidays"],
-      "tags": ["christmas tree", "ornament", "hanging", "decorations", "wordplay", "december", "tree"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "christmas tree",
+        "ornament",
+        "hanging",
+        "decorations",
+        "wordplay",
+        "december",
+        "tree"
+      ]
     },
     {
       "id": 817,
       "setup": "Why do mummies love Halloween?",
       "punchline": "Because they get to unwind!",
-      "categories": ["holidays"],
-      "tags": ["mummies", "halloween", "unwind", "relax", "wordplay", "wrapping", "october"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "mummies",
+        "halloween",
+        "unwind",
+        "relax",
+        "wordplay",
+        "wrapping",
+        "october"
+      ]
     },
     {
       "id": 818,
       "setup": "What did the turkey say to the computer?",
       "punchline": "Google, google, google!",
-      "categories": ["holidays", "technology"],
-      "tags": ["turkey", "computer", "google", "gobble", "wordplay", "thanksgiving", "tech"]
+      "categories": [
+        "holidays",
+        "technology"
+      ],
+      "tags": [
+        "turkey",
+        "computer",
+        "google",
+        "gobble",
+        "wordplay",
+        "thanksgiving",
+        "tech"
+      ]
     },
     {
       "id": 819,
       "setup": "Why did the menorah feel special?",
       "punchline": "Because it was lit for eight nights!",
-      "categories": ["holidays"],
-      "tags": ["menorah", "hanukkah", "lit", "special", "wordplay", "candles", "eight nights"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "menorah",
+        "hanukkah",
+        "lit",
+        "special",
+        "wordplay",
+        "candles",
+        "eight nights"
+      ]
     },
     {
       "id": 820,
       "setup": "What kind of photos do elves take?",
       "punchline": "Elfies!",
-      "categories": ["holidays", "technology"],
-      "tags": ["elves", "photos", "selfies", "elfies", "wordplay", "christmas", "camera"]
+      "categories": [
+        "holidays",
+        "technology"
+      ],
+      "tags": [
+        "elves",
+        "photos",
+        "selfies",
+        "elfies",
+        "wordplay",
+        "christmas",
+        "camera"
+      ]
     },
     {
       "id": 821,
       "setup": "Why did the jack-o-lantern go to the dentist?",
       "punchline": "Because it needed a new filling!",
-      "categories": ["holidays"],
-      "tags": ["jack-o-lantern", "dentist", "filling", "pumpkin", "wordplay", "halloween", "teeth"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "jack-o-lantern",
+        "dentist",
+        "filling",
+        "pumpkin",
+        "wordplay",
+        "halloween",
+        "teeth"
+      ]
     },
     {
       "id": 822,
       "setup": "What do you call a reindeer with bad manners?",
       "punchline": "Rude-olph!",
-      "categories": ["holidays", "animals"],
-      "tags": ["reindeer", "rudolph", "rude", "manners", "wordplay", "christmas", "santa"]
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "reindeer",
+        "rudolph",
+        "rude",
+        "manners",
+        "wordplay",
+        "christmas",
+        "santa"
+      ]
     },
     {
       "id": 823,
-      "setup": "Why did the pilgrim's pants keep falling down?",
-      "punchline": "Because their belt buckle was on their hat!",
-      "categories": ["holidays"],
-      "tags": ["pilgrim", "pants", "belt buckle", "hat", "wordplay", "thanksgiving", "clothing"]
+      "setup": "What's every parent's favorite Christmas carol?",
+      "punchline": "Silent Night!",
+      "categories": [
+        "holidays",
+        "family"
+      ],
+      "tags": [
+        "parents",
+        "christmas",
+        "carol",
+        "silent night",
+        "wordplay",
+        "quiet",
+        "kids"
+      ]
     },
     {
       "id": 824,
       "setup": "What do snowmen eat for breakfast?",
       "punchline": "Frosted Flakes!",
-      "categories": ["holidays", "food"],
-      "tags": ["snowman", "breakfast", "frosted flakes", "cereal", "wordplay", "winter", "cold"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "snowman",
+        "breakfast",
+        "frosted flakes",
+        "cereal",
+        "wordplay",
+        "winter",
+        "cold"
+      ]
     },
     {
       "id": 825,
       "setup": "Why did the witch win the Valentine's Day contest?",
       "punchline": "Because she was bewitching!",
-      "categories": ["holidays", "fantasy"],
-      "tags": ["witch", "valentine", "bewitching", "contest", "wordplay", "love", "magic"]
+      "categories": [
+        "holidays",
+        "fantasy"
+      ],
+      "tags": [
+        "witch",
+        "valentine",
+        "bewitching",
+        "contest",
+        "wordplay",
+        "love",
+        "magic"
+      ]
     },
     {
       "id": 826,
       "setup": "What did the stamp say to the Christmas card?",
       "punchline": "Stick with me and we'll go places!",
-      "categories": ["holidays"],
-      "tags": ["stamp", "christmas card", "stick", "places", "wordplay", "mail", "december"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "stamp",
+        "christmas card",
+        "stick",
+        "places",
+        "wordplay",
+        "mail",
+        "december"
+      ]
     },
     {
       "id": 827,
       "setup": "Why did the ghost go to the Fourth of July party?",
       "punchline": "For the boos and the fireworks!",
-      "categories": ["holidays", "fantasy"],
-      "tags": ["ghost", "fourth of july", "boos", "fireworks", "wordplay", "america", "party"]
+      "categories": [
+        "holidays",
+        "fantasy"
+      ],
+      "tags": [
+        "ghost",
+        "fourth of july",
+        "boos",
+        "fireworks",
+        "wordplay",
+        "america",
+        "party"
+      ]
     },
     {
       "id": 828,
       "setup": "What do you call a cat on Christmas Eve?",
       "punchline": "Santa Claws!",
-      "categories": ["holidays", "animals"],
-      "tags": ["cat", "christmas eve", "santa claus", "claws", "wordplay", "pets", "december"]
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "cat",
+        "christmas eve",
+        "santa claus",
+        "claws",
+        "wordplay",
+        "pets",
+        "december"
+      ]
     },
     {
       "id": 829,
-      "setup": "Why did the leprechaun wear green on St. Patrick's Day?",
-      "punchline": "Because his blue shirt was in the wash!",
-      "categories": ["holidays"],
-      "tags": ["leprechaun", "green", "st patricks day", "shirt", "wordplay", "irish", "march"]
+      "setup": "What do you call someone who is afraid of Santa?",
+      "punchline": "Claus-trophobic!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "santa",
+        "afraid",
+        "claustrophobic",
+        "fear",
+        "wordplay",
+        "christmas",
+        "phobia"
+      ]
     },
     {
       "id": 830,
       "setup": "What do you call a snowman tantrum?",
       "punchline": "A meltdown!",
-      "categories": ["holidays"],
-      "tags": ["snowman", "tantrum", "meltdown", "angry", "wordplay", "winter", "emotions"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "snowman",
+        "tantrum",
+        "meltdown",
+        "angry",
+        "wordplay",
+        "winter",
+        "emotions"
+      ]
     },
     {
       "id": 831,
-      "setup": "Why did the candy cane go to school?",
-      "punchline": "To get a little more cultured!",
-      "categories": ["holidays", "school"],
-      "tags": ["candy cane", "school", "cultured", "education", "wordplay", "christmas", "sweet"]
+      "setup": "What do gingerbread men use when they break their legs?",
+      "punchline": "Candy canes!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "gingerbread",
+        "legs",
+        "candy canes",
+        "crutches",
+        "wordplay",
+        "christmas",
+        "walking"
+      ]
     },
     {
       "id": 832,
-      "setup": "What did the Easter egg say to the boiling water?",
-      "punchline": "It might take me a while to get hard, I just got laid!",
-      "categories": ["holidays", "food"],
-      "tags": ["easter egg", "boiling", "hard", "laid", "wordplay", "cooking", "chicken"]
+      "setup": "What do you call an elf who sings?",
+      "punchline": "A wrapper!",
+      "categories": [
+        "holidays",
+        "music"
+      ],
+      "tags": [
+        "elf",
+        "singing",
+        "wrapper",
+        "rapper",
+        "wordplay",
+        "christmas",
+        "music"
+      ]
     },
     {
       "id": 833,
-      "setup": "Why did Santa bring 22 reindeer to the party?",
-      "punchline": "Because he wanted to have a twenty-two-deer party!",
-      "categories": ["holidays", "animals"],
-      "tags": ["santa", "reindeer", "party", "twenty two", "wordplay", "christmas", "tutu"]
+      "setup": "How much did Santa pay for his sleigh?",
+      "punchline": "Nothing - it was on the house!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "santa",
+        "sleigh",
+        "free",
+        "house",
+        "wordplay",
+        "christmas",
+        "roof"
+      ]
     },
     {
       "id": 834,
       "setup": "What's a ghost's favorite holiday dessert?",
       "punchline": "I-scream cake!",
-      "categories": ["holidays", "food"],
-      "tags": ["ghost", "halloween", "ice cream", "scream", "wordplay", "dessert", "spooky"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "ghost",
+        "halloween",
+        "ice cream",
+        "scream",
+        "wordplay",
+        "dessert",
+        "spooky"
+      ]
     },
     {
       "id": 835,
       "setup": "Why did the turkey join the band on Thanksgiving?",
       "punchline": "Because he had the drumsticks!",
-      "categories": ["holidays", "music"],
-      "tags": ["turkey", "band", "drumsticks", "thanksgiving", "wordplay", "music", "legs"]
+      "categories": [
+        "holidays",
+        "music"
+      ],
+      "tags": [
+        "turkey",
+        "band",
+        "drumsticks",
+        "thanksgiving",
+        "wordplay",
+        "music",
+        "legs"
+      ]
     },
     {
       "id": 836,
       "setup": "What did the light bulb say to its Valentine?",
       "punchline": "I love you watts and watts!",
-      "categories": ["holidays", "science"],
-      "tags": ["light bulb", "valentine", "watts", "lots", "wordplay", "love", "electricity"]
+      "categories": [
+        "holidays",
+        "science"
+      ],
+      "tags": [
+        "light bulb",
+        "valentine",
+        "watts",
+        "lots",
+        "wordplay",
+        "love",
+        "electricity"
+      ]
     },
     {
       "id": 837,
       "setup": "Why was the Thanksgiving soup so expensive?",
       "punchline": "Because it had 24 carrots!",
-      "categories": ["holidays", "food"],
-      "tags": ["thanksgiving", "soup", "carrots", "carats", "wordplay", "expensive", "gold"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "thanksgiving",
+        "soup",
+        "carrots",
+        "carats",
+        "wordplay",
+        "expensive",
+        "gold"
+      ]
     },
     {
       "id": 838,
-      "setup": "Why did the reindeer wear sunglasses on Christmas Eve?",
-      "punchline": "Because he didn't want to be recognized by the star!",
-      "categories": ["holidays", "animals"],
-      "tags": ["reindeer", "sunglasses", "christmas eve", "star", "wordplay", "disguise", "famous"]
+      "setup": "What does Santa say when he's gardening?",
+      "punchline": "Hoe, hoe, hoe!",
+      "categories": [
+        "holidays",
+        "outdoors"
+      ],
+      "tags": [
+        "santa",
+        "gardening",
+        "hoe",
+        "ho ho ho",
+        "wordplay",
+        "christmas",
+        "tools"
+      ]
     },
     {
       "id": 839,
       "setup": "Why did the Christmas cookie go to the doctor?",
       "punchline": "Because it was feeling crummy!",
-      "categories": ["holidays", "food"],
-      "tags": ["christmas cookie", "doctor", "crummy", "sick", "wordplay", "baking", "december"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "christmas cookie",
+        "doctor",
+        "crummy",
+        "sick",
+        "wordplay",
+        "baking",
+        "december"
+      ]
     },
     {
       "id": 840,
-      "setup": "What do you call a scary pumpkin?",
-      "punchline": "A fright-ening sight!",
-      "categories": ["holidays"],
-      "tags": ["pumpkin", "scary", "frightening", "halloween", "wordplay", "spooky", "october"]
+      "setup": "What do you call a pumpkin that tells jokes?",
+      "punchline": "A pun-kin!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "pumpkin",
+        "jokes",
+        "punkin",
+        "puns",
+        "wordplay",
+        "halloween",
+        "funny"
+      ]
     },
     {
       "id": 841,
-      "setup": "Why did the dreidel get dizzy?",
-      "punchline": "From all the spinning during Hanukkah!",
-      "categories": ["holidays"],
-      "tags": ["dreidel", "dizzy", "spinning", "hanukkah", "wordplay", "game", "jewish"]
+      "setup": "What's the difference between the Christmas alphabet and the regular alphabet?",
+      "punchline": "The Christmas alphabet has Noel!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "christmas",
+        "alphabet",
+        "noel",
+        "no L",
+        "wordplay",
+        "letters",
+        "december"
+      ]
     },
     {
       "id": 842,
-      "setup": "What did Santa say to his garden on Christmas morning?",
-      "punchline": "Hoe, hoe, hoe!",
-      "categories": ["holidays", "outdoors"],
-      "tags": ["santa", "garden", "hoe", "ho ho ho", "wordplay", "christmas", "gardening"]
+      "setup": "What do snowmen call their offspring?",
+      "punchline": "Chill-dren!",
+      "categories": [
+        "holidays",
+        "family"
+      ],
+      "tags": [
+        "snowmen",
+        "offspring",
+        "children",
+        "chill",
+        "wordplay",
+        "winter",
+        "family"
+      ]
     },
     {
       "id": 843,
       "setup": "Why did the cranberry turn red?",
       "punchline": "Because it saw the turkey dressing!",
-      "categories": ["holidays", "food"],
-      "tags": ["cranberry", "red", "turkey", "dressing", "wordplay", "thanksgiving", "embarrassed"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "cranberry",
+        "red",
+        "turkey",
+        "dressing",
+        "wordplay",
+        "thanksgiving",
+        "embarrassed"
+      ]
     },
     {
       "id": 844,
       "setup": "What did the mother ghost say to the baby ghost on Halloween?",
       "punchline": "Don't spook until you're spooken to!",
-      "categories": ["holidays", "family"],
-      "tags": ["ghost", "mother", "baby", "spook", "spoken", "wordplay", "halloween"]
+      "categories": [
+        "holidays",
+        "family"
+      ],
+      "tags": [
+        "ghost",
+        "mother",
+        "baby",
+        "spook",
+        "spoken",
+        "wordplay",
+        "halloween"
+      ]
     },
     {
       "id": 845,
-      "setup": "Why did the New Year go to therapy?",
-      "punchline": "It had too many issues from the past year!",
-      "categories": ["holidays"],
-      "tags": ["new year", "therapy", "issues", "past", "wordplay", "january", "resolution"]
+      "setup": "What do you call a reindeer ghost?",
+      "punchline": "Cari-boo!",
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "reindeer",
+        "ghost",
+        "caribou",
+        "boo",
+        "wordplay",
+        "christmas",
+        "spooky"
+      ]
     },
     {
       "id": 846,
       "setup": "What do you call Santa's helpers who sing?",
       "punchline": "Elfis Presley!",
-      "categories": ["holidays", "music"],
-      "tags": ["santa", "helpers", "elves", "elvis", "wordplay", "christmas", "singing"]
+      "categories": [
+        "holidays",
+        "music"
+      ],
+      "tags": [
+        "santa",
+        "helpers",
+        "elves",
+        "elvis",
+        "wordplay",
+        "christmas",
+        "singing"
+      ]
     },
     {
       "id": 847,
       "setup": "Why did the Easter Bunny cross the road?",
       "punchline": "Because the chicken had his eggs!",
-      "categories": ["holidays", "animals"],
-      "tags": ["easter bunny", "road", "chicken", "eggs", "wordplay", "crossing", "spring"]
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "easter bunny",
+        "road",
+        "chicken",
+        "eggs",
+        "wordplay",
+        "crossing",
+        "spring"
+      ]
     },
     {
       "id": 848,
       "setup": "What did the broom say on New Year's Eve?",
       "punchline": "Time to sweep out the old and ring in the new!",
-      "categories": ["holidays", "home"],
-      "tags": ["broom", "new year", "sweep", "ring in", "wordplay", "cleaning", "midnight"]
+      "categories": [
+        "holidays",
+        "home"
+      ],
+      "tags": [
+        "broom",
+        "new year",
+        "sweep",
+        "ring in",
+        "wordplay",
+        "cleaning",
+        "midnight"
+      ]
     },
     {
       "id": 849,
       "setup": "Why did the skeleton cancel Halloween?",
       "punchline": "He didn't have the guts to go through with it!",
-      "categories": ["holidays"],
-      "tags": ["skeleton", "halloween", "guts", "cancel", "wordplay", "scared", "october"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "skeleton",
+        "halloween",
+        "guts",
+        "cancel",
+        "wordplay",
+        "scared",
+        "october"
+      ]
     },
     {
       "id": 850,
       "setup": "What do you call a snowman in July?",
       "punchline": "A puddle!",
-      "categories": ["holidays"],
-      "tags": ["snowman", "july", "melting", "summer", "wordplay", "water", "hot"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "snowman",
+        "july",
+        "melting",
+        "summer",
+        "wordplay",
+        "water",
+        "hot"
+      ]
     },
     {
       "id": 851,
-      "setup": "Why did the candy corn go to the party?",
-      "punchline": "Because it was a corny celebration!",
-      "categories": ["holidays", "food"],
-      "tags": ["candy corn", "party", "corny", "halloween", "wordplay", "celebration", "sweet"]
+      "setup": "What did the candy corn say to the candy bar?",
+      "punchline": "All of your jokes are so corny!",
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "candy corn",
+        "candy bar",
+        "corny",
+        "halloween",
+        "wordplay",
+        "jokes",
+        "sweet"
+      ]
     },
     {
       "id": 852,
       "setup": "What do you call a Christmas wreath made of $100 bills?",
       "punchline": "Jingle bills!",
-      "categories": ["holidays", "work"],
-      "tags": ["wreath", "money", "bills", "jingle bells", "wordplay", "christmas", "wealthy"]
+      "categories": [
+        "holidays",
+        "work"
+      ],
+      "tags": [
+        "wreath",
+        "money",
+        "bills",
+        "jingle bells",
+        "wordplay",
+        "christmas",
+        "wealthy"
+      ]
     },
     {
       "id": 853,
-      "setup": "Why did the groundhog get a job?",
-      "punchline": "So he could save for a rainy day... or six more weeks of winter!",
-      "categories": ["holidays", "work"],
-      "tags": ["groundhog", "job", "winter", "shadow", "wordplay", "groundhog day", "february"]
+      "setup": "What do reindeers say before they tell you a joke?",
+      "punchline": "This one's gonna sleigh you!",
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "reindeer",
+        "joke",
+        "sleigh",
+        "slay",
+        "wordplay",
+        "christmas",
+        "funny"
+      ]
     },
     {
       "id": 854,
       "setup": "What do you call a snowman with a carrot nose and a six-pack?",
       "punchline": "The abdominal snowman!",
-      "categories": ["holidays", "sports"],
-      "tags": ["snowman", "carrot", "abs", "abominable", "wordplay", "winter", "fitness"]
+      "categories": [
+        "holidays",
+        "sports"
+      ],
+      "tags": [
+        "snowman",
+        "carrot",
+        "abs",
+        "abominable",
+        "wordplay",
+        "winter",
+        "fitness"
+      ]
     },
     {
       "id": 855,
-      "setup": "Why did the witch fly on Labor Day?",
-      "punchline": "Because she needed a broom with benefits!",
-      "categories": ["holidays", "work"],
-      "tags": ["witch", "labor day", "broom", "benefits", "wordplay", "flying", "september"]
+      "setup": "Why does Santa always enter through the chimney?",
+      "punchline": "Because it soots him!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "santa",
+        "chimney",
+        "soot",
+        "suits",
+        "wordplay",
+        "christmas",
+        "entrance"
+      ]
     },
     {
       "id": 856,
       "setup": "What did one firework say to the other on the Fourth of July?",
       "punchline": "My pop is bigger than your pop!",
-      "categories": ["holidays"],
-      "tags": ["fireworks", "fourth of july", "pop", "dad", "wordplay", "america", "explosion"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "fireworks",
+        "fourth of july",
+        "pop",
+        "dad",
+        "wordplay",
+        "america",
+        "explosion"
+      ]
     },
     {
       "id": 857,
-      "setup": "Why did the gingerbread man see the doctor?",
-      "punchline": "He was feeling crummy!",
-      "categories": ["holidays"],
-      "tags": ["gingerbread", "doctor", "crummy", "christmas", "wordplay", "sick", "cookie"]
+      "setup": "Who is never hungry at Christmas?",
+      "punchline": "The turkey - he's always stuffed!",
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "turkey",
+        "hungry",
+        "stuffed",
+        "christmas",
+        "wordplay",
+        "dinner",
+        "full"
+      ]
     },
     {
       "id": 858,
       "setup": "What did the maple leaf say on Canada Day?",
       "punchline": "I'm falling for this country!",
-      "categories": ["holidays", "geography"],
-      "tags": ["maple leaf", "canada day", "falling", "country", "wordplay", "july", "patriotic"]
+      "categories": [
+        "holidays",
+        "geography"
+      ],
+      "tags": [
+        "maple leaf",
+        "canada day",
+        "falling",
+        "country",
+        "wordplay",
+        "july",
+        "patriotic"
+      ]
     },
     {
       "id": 859,
       "setup": "Why did the vampire avoid the Halloween party?",
       "punchline": "Because there were too many stakes involved!",
-      "categories": ["holidays", "fantasy"],
-      "tags": ["vampire", "halloween", "stakes", "party", "wordplay", "danger", "october"]
+      "categories": [
+        "holidays",
+        "fantasy"
+      ],
+      "tags": [
+        "vampire",
+        "halloween",
+        "stakes",
+        "party",
+        "wordplay",
+        "danger",
+        "october"
+      ]
     },
     {
       "id": 860,
-      "setup": "What do you call a New Year's resolution that lasts all year?",
-      "punchline": "A miracle!",
-      "categories": ["holidays"],
-      "tags": ["new year", "resolution", "miracle", "lasting", "wordplay", "january", "goals"]
+      "setup": "How does Christmas Day end?",
+      "punchline": "With the letter Y!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "christmas",
+        "day",
+        "ending",
+        "letter",
+        "wordplay",
+        "spelling",
+        "december"
+      ]
     },
     {
       "id": 861,
-      "setup": "Why did the elf push his bed outside on Christmas?",
-      "punchline": "He wanted to sleep like a log cabin!",
-      "categories": ["holidays", "home"],
-      "tags": ["elf", "bed", "outside", "log cabin", "wordplay", "christmas", "sleeping"]
+      "setup": "Why did the elf push his bed into the fireplace?",
+      "punchline": "He wanted to sleep like a log!",
+      "categories": [
+        "holidays",
+        "home"
+      ],
+      "tags": [
+        "elf",
+        "bed",
+        "fireplace",
+        "log",
+        "wordplay",
+        "christmas",
+        "sleeping"
+      ]
     },
     {
       "id": 862,
-      "setup": "What did the ocean say to the beach on Memorial Day?",
-      "punchline": "Nothing, it just waved to the troops!",
-      "categories": ["holidays", "geography"],
-      "tags": ["ocean", "beach", "memorial day", "wave", "troops", "wordplay", "may"]
+      "setup": "What kind of motorcycle does Santa ride?",
+      "punchline": "A Holly Davidson!",
+      "categories": [
+        "holidays",
+        "travel"
+      ],
+      "tags": [
+        "santa",
+        "motorcycle",
+        "harley davidson",
+        "holly",
+        "wordplay",
+        "christmas",
+        "riding"
+      ]
     },
     {
       "id": 863,
       "setup": "Why did the pumpkin pie go to the dentist?",
       "punchline": "Because it needed more filling!",
-      "categories": ["holidays", "food"],
-      "tags": ["pumpkin pie", "dentist", "filling", "thanksgiving", "wordplay", "teeth", "dessert"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "pumpkin pie",
+        "dentist",
+        "filling",
+        "thanksgiving",
+        "wordplay",
+        "teeth",
+        "dessert"
+      ]
     },
     {
       "id": 864,
       "setup": "What did the mistletoe say to the holly?",
       "punchline": "Berry nice to meet you!",
-      "categories": ["holidays", "outdoors"],
-      "tags": ["mistletoe", "holly", "berry", "very", "wordplay", "christmas", "plants"]
+      "categories": [
+        "holidays",
+        "outdoors"
+      ],
+      "tags": [
+        "mistletoe",
+        "holly",
+        "berry",
+        "very",
+        "wordplay",
+        "christmas",
+        "plants"
+      ]
     },
     {
       "id": 865,
-      "setup": "Why did the heart-shaped box feel proud on Valentine's Day?",
+      "setup": "What did the heart-shaped box feel proud on Valentine's Day?",
       "punchline": "Because it was full of itself... and chocolates!",
-      "categories": ["holidays", "food"],
-      "tags": ["heart", "valentines", "proud", "chocolates", "wordplay", "love", "february"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "heart",
+        "valentines",
+        "proud",
+        "chocolates",
+        "wordplay",
+        "love",
+        "february"
+      ]
     },
     {
       "id": 866,
       "setup": "What do you call a turkey that's bad at bowling?",
       "punchline": "A gutter gobbler!",
-      "categories": ["holidays", "sports"],
-      "tags": ["turkey", "bowling", "gutter", "gobbler", "wordplay", "thanksgiving", "sports"]
+      "categories": [
+        "holidays",
+        "sports"
+      ],
+      "tags": [
+        "turkey",
+        "bowling",
+        "gutter",
+        "gobbler",
+        "wordplay",
+        "thanksgiving",
+        "sports"
+      ]
     },
     {
       "id": 867,
-      "setup": "Why did the icicle break up with the snowflake?",
-      "punchline": "Because their relationship was too cold!",
-      "categories": ["holidays"],
-      "tags": ["icicle", "snowflake", "breakup", "cold", "wordplay", "winter", "relationship"]
+      "setup": "What did Frosty's girlfriend give him when she was mad?",
+      "punchline": "The cold shoulder!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "frosty",
+        "girlfriend",
+        "cold shoulder",
+        "angry",
+        "wordplay",
+        "winter",
+        "relationship"
+      ]
     },
     {
       "id": 868,
       "setup": "What did the flag say on Independence Day?",
       "punchline": "Nothing, it just waved!",
-      "categories": ["holidays"],
-      "tags": ["flag", "independence day", "wave", "fourth of july", "wordplay", "america", "patriotic"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "flag",
+        "independence day",
+        "wave",
+        "fourth of july",
+        "wordplay",
+        "america",
+        "patriotic"
+      ]
     },
     {
       "id": 869,
       "setup": "Why did the Christmas lights fail the test?",
       "punchline": "Because they weren't very bright!",
-      "categories": ["holidays", "school"],
-      "tags": ["christmas lights", "test", "bright", "failed", "wordplay", "december", "dim"]
+      "categories": [
+        "holidays",
+        "school"
+      ],
+      "tags": [
+        "christmas lights",
+        "test",
+        "bright",
+        "failed",
+        "wordplay",
+        "december",
+        "dim"
+      ]
     },
     {
       "id": 870,
       "setup": "What do you call a rabbit that tells jokes on Easter?",
       "punchline": "A funny bunny!",
-      "categories": ["holidays", "animals"],
-      "tags": ["rabbit", "easter", "jokes", "funny bunny", "wordplay", "spring", "humor"]
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "rabbit",
+        "easter",
+        "jokes",
+        "funny bunny",
+        "wordplay",
+        "spring",
+        "humor"
+      ]
     },
     {
       "id": 871,
       "setup": "Why did the champagne feel bubbly on New Year's Eve?",
       "punchline": "Because it was in high spirits!",
-      "categories": ["holidays", "food"],
-      "tags": ["champagne", "bubbly", "new year", "spirits", "wordplay", "celebration", "midnight"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "champagne",
+        "bubbly",
+        "new year",
+        "spirits",
+        "wordplay",
+        "celebration",
+        "midnight"
+      ]
     },
     {
       "id": 872,
       "setup": "What did the ghost teacher say on Halloween?",
       "punchline": "Look at the board and I will go through it again!",
-      "categories": ["holidays", "school"],
-      "tags": ["ghost", "teacher", "halloween", "board", "through", "wordplay", "school"]
+      "categories": [
+        "holidays",
+        "school"
+      ],
+      "tags": [
+        "ghost",
+        "teacher",
+        "halloween",
+        "board",
+        "through",
+        "wordplay",
+        "school"
+      ]
     },
     {
       "id": 873,
       "setup": "Why did the Christmas stocking feel empty?",
       "punchline": "Because it was hung up on the past!",
-      "categories": ["holidays"],
-      "tags": ["stocking", "empty", "hung up", "past", "wordplay", "christmas", "fireplace"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "stocking",
+        "empty",
+        "hung up",
+        "past",
+        "wordplay",
+        "christmas",
+        "fireplace"
+      ]
     },
     {
       "id": 874,
-      "setup": "What do you call a snowman pool party?",
-      "punchline": "A meltdown!",
-      "categories": ["holidays"],
-      "tags": ["snowman", "pool", "party", "meltdown", "wordplay", "winter", "summer"]
+      "setup": "What do you call an old snowman?",
+      "punchline": "Water!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "snowman",
+        "old",
+        "water",
+        "melted",
+        "wordplay",
+        "winter",
+        "age"
+      ]
     },
     {
       "id": 875,
       "setup": "Why did the bunny paint eggs for Easter?",
       "punchline": "Because hiring a chicken was too egspensive!",
-      "categories": ["holidays", "animals"],
-      "tags": ["bunny", "easter", "eggs", "paint", "expensive", "wordplay", "chicken"]
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "bunny",
+        "easter",
+        "eggs",
+        "paint",
+        "expensive",
+        "wordplay",
+        "chicken"
+      ]
     },
     {
       "id": 876,
       "setup": "What did the calendar say on December 31st?",
       "punchline": "My days are numbered!",
-      "categories": ["holidays"],
-      "tags": ["calendar", "december", "new year", "days numbered", "wordplay", "ending", "time"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "calendar",
+        "december",
+        "new year",
+        "days numbered",
+        "wordplay",
+        "ending",
+        "time"
+      ]
     },
     {
       "id": 877,
-      "setup": "Why did the pumpkin spice latte get promoted?",
-      "punchline": "Because it was on a roll... every fall!",
-      "categories": ["holidays", "food"],
-      "tags": ["pumpkin spice", "latte", "promoted", "fall", "wordplay", "autumn", "coffee"]
+      "setup": "What's the best Christmas present in the world?",
+      "punchline": "A broken drum - you just can't beat it!",
+      "categories": [
+        "holidays",
+        "music"
+      ],
+      "tags": [
+        "christmas",
+        "present",
+        "drum",
+        "beat",
+        "wordplay",
+        "gifts",
+        "music"
+      ]
     },
     {
       "id": 878,
       "setup": "What do you call Santa when he loses his pants?",
       "punchline": "Saint Knickerless!",
-      "categories": ["holidays"],
-      "tags": ["santa", "pants", "knickers", "nicholas", "wordplay", "christmas", "embarrassed"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "santa",
+        "pants",
+        "knickers",
+        "nicholas",
+        "wordplay",
+        "christmas",
+        "embarrassed"
+      ]
     },
     {
       "id": 879,
       "setup": "Why did the werewolf skip Halloween?",
       "punchline": "He was having a bad hair day!",
-      "categories": ["holidays", "fantasy"],
-      "tags": ["werewolf", "halloween", "hair", "bad day", "wordplay", "costume", "october"]
+      "categories": [
+        "holidays",
+        "fantasy"
+      ],
+      "tags": [
+        "werewolf",
+        "halloween",
+        "hair",
+        "bad day",
+        "wordplay",
+        "costume",
+        "october"
+      ]
     },
     {
       "id": 880,
       "setup": "What did the turkey say before it was roasted?",
       "punchline": "I'm stuffed!",
-      "categories": ["holidays", "food"],
-      "tags": ["turkey", "roasted", "stuffed", "thanksgiving", "wordplay", "dinner", "cooking"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "turkey",
+        "roasted",
+        "stuffed",
+        "thanksgiving",
+        "wordplay",
+        "dinner",
+        "cooking"
+      ]
     },
     {
       "id": 881,
       "setup": "Why did the snowglobe get a job?",
       "punchline": "It wanted to shake things up!",
-      "categories": ["holidays", "work"],
-      "tags": ["snowglobe", "job", "shake", "christmas", "wordplay", "decoration", "change"]
+      "categories": [
+        "holidays",
+        "work"
+      ],
+      "tags": [
+        "snowglobe",
+        "job",
+        "shake",
+        "christmas",
+        "wordplay",
+        "decoration",
+        "change"
+      ]
     },
     {
       "id": 882,
       "setup": "What do you call an elf who wins the lottery?",
       "punchline": "Welfy!",
-      "categories": ["holidays", "work"],
-      "tags": ["elf", "lottery", "wealthy", "welfy", "wordplay", "christmas", "money"]
+      "categories": [
+        "holidays",
+        "work"
+      ],
+      "tags": [
+        "elf",
+        "lottery",
+        "wealthy",
+        "welfy",
+        "wordplay",
+        "christmas",
+        "money"
+      ]
     },
     {
       "id": 883,
       "setup": "Why did the candy heart say 'No' to the chocolate?",
       "punchline": "Because it already had a sweetheart!",
-      "categories": ["holidays", "food"],
-      "tags": ["candy heart", "chocolate", "valentine", "sweetheart", "wordplay", "love", "february"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "candy heart",
+        "chocolate",
+        "valentine",
+        "sweetheart",
+        "wordplay",
+        "love",
+        "february"
+      ]
     },
     {
       "id": 884,
       "setup": "What did the egg say to the Easter Bunny?",
       "punchline": "You crack me up!",
-      "categories": ["holidays", "animals"],
-      "tags": ["egg", "easter bunny", "crack", "funny", "wordplay", "easter", "laughing"]
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "egg",
+        "easter bunny",
+        "crack",
+        "funny",
+        "wordplay",
+        "easter",
+        "laughing"
+      ]
     },
     {
       "id": 885,
       "setup": "Why did the New Year's ball drop?",
       "punchline": "Because it was time to fall into a new year!",
-      "categories": ["holidays"],
-      "tags": ["new year", "ball drop", "fall", "time", "wordplay", "midnight", "january"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "new year",
+        "ball drop",
+        "fall",
+        "time",
+        "wordplay",
+        "midnight",
+        "january"
+      ]
     },
     {
       "id": 886,
-      "setup": "What do you call a grumpy reindeer?",
-      "punchline": "Rude-olph with a red nose!",
-      "categories": ["holidays", "animals"],
-      "tags": ["reindeer", "grumpy", "rude", "rudolph", "wordplay", "christmas", "attitude"]
+      "setup": "What do reindeer say after one of them tells a joke?",
+      "punchline": "That sleighed me!",
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "reindeer",
+        "joke",
+        "sleigh",
+        "slay",
+        "wordplay",
+        "christmas",
+        "funny"
+      ]
     },
     {
       "id": 887,
-      "setup": "Why did the Halloween candy go to therapy?",
-      "punchline": "It had too many wrappers to deal with!",
-      "categories": ["holidays", "food"],
-      "tags": ["candy", "halloween", "therapy", "wrappers", "wordplay", "issues", "october"]
+      "setup": "What did the Halloween candy say when it went to therapy?",
+      "punchline": "I have too many wrappers to deal with!",
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "candy",
+        "halloween",
+        "therapy",
+        "wrappers",
+        "wordplay",
+        "issues",
+        "october"
+      ]
     },
     {
       "id": 888,
-      "setup": "What did the North Pole say to the South Pole on Christmas?",
-      "punchline": "Let's stay cool this holiday season!",
-      "categories": ["holidays", "geography"],
-      "tags": ["north pole", "south pole", "christmas", "cool", "wordplay", "cold", "holiday"]
+      "setup": "What do snowmen wear on their heads?",
+      "punchline": "Ice caps!",
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "snowmen",
+        "heads",
+        "ice caps",
+        "hats",
+        "wordplay",
+        "winter",
+        "cold"
+      ]
     },
     {
       "id": 889,
       "setup": "Why did the cornucopia feel generous?",
       "punchline": "Because it was overflowing with gratitude!",
-      "categories": ["holidays"],
-      "tags": ["cornucopia", "generous", "overflowing", "gratitude", "wordplay", "thanksgiving", "abundance"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "cornucopia",
+        "generous",
+        "overflowing",
+        "gratitude",
+        "wordplay",
+        "thanksgiving",
+        "abundance"
+      ]
     },
     {
       "id": 890,
       "setup": "What do you call a leprechaun's vacation home?",
       "punchline": "A lepre-condo!",
-      "categories": ["holidays", "home"],
-      "tags": ["leprechaun", "vacation", "condo", "home", "wordplay", "st patricks", "irish"]
+      "categories": [
+        "holidays",
+        "home"
+      ],
+      "tags": [
+        "leprechaun",
+        "vacation",
+        "condo",
+        "home",
+        "wordplay",
+        "st patricks",
+        "irish"
+      ]
     },
     {
       "id": 891,
       "setup": "Why did the Easter basket feel important?",
       "punchline": "Because it was carrying a lot of eggs-pectations!",
-      "categories": ["holidays"],
-      "tags": ["easter basket", "important", "eggs", "expectations", "wordplay", "spring", "carrying"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "easter basket",
+        "important",
+        "eggs",
+        "expectations",
+        "wordplay",
+        "spring",
+        "carrying"
+      ]
     },
     {
       "id": 892,
       "setup": "What did the snowflake say to the other snowflake?",
       "punchline": "There's snow one quite like you!",
-      "categories": ["holidays"],
-      "tags": ["snowflake", "unique", "snow", "no one", "wordplay", "winter", "special"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "snowflake",
+        "unique",
+        "snow",
+        "no one",
+        "wordplay",
+        "winter",
+        "special"
+      ]
     },
     {
       "id": 893,
       "setup": "Why did the nutcracker go to the gym?",
       "punchline": "To work on his crack!",
-      "categories": ["holidays", "sports"],
-      "tags": ["nutcracker", "gym", "crack", "nuts", "wordplay", "christmas", "exercise"]
+      "categories": [
+        "holidays",
+        "sports"
+      ],
+      "tags": [
+        "nutcracker",
+        "gym",
+        "crack",
+        "nuts",
+        "wordplay",
+        "christmas",
+        "exercise"
+      ]
     },
     {
       "id": 894,
       "setup": "What do you call a Thanksgiving turkey that's afraid of everything?",
       "punchline": "A chicken!",
-      "categories": ["holidays", "animals"],
-      "tags": ["turkey", "thanksgiving", "afraid", "chicken", "wordplay", "scared", "poultry"]
+      "categories": [
+        "holidays",
+        "animals"
+      ],
+      "tags": [
+        "turkey",
+        "thanksgiving",
+        "afraid",
+        "chicken",
+        "wordplay",
+        "scared",
+        "poultry"
+      ]
     },
     {
       "id": 895,
       "setup": "Why did the Valentine's card get detention?",
       "punchline": "Because it was passing notes in class!",
-      "categories": ["holidays", "school"],
-      "tags": ["valentine card", "detention", "notes", "class", "wordplay", "school", "love"]
+      "categories": [
+        "holidays",
+        "school"
+      ],
+      "tags": [
+        "valentine card",
+        "detention",
+        "notes",
+        "class",
+        "wordplay",
+        "school",
+        "love"
+      ]
     },
     {
       "id": 896,
       "setup": "What did the gingerbread house say to the gingerbread man?",
       "punchline": "You're one smart cookie!",
-      "categories": ["holidays", "food"],
-      "tags": ["gingerbread house", "gingerbread man", "smart cookie", "christmas", "wordplay", "baking", "compliment"]
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "gingerbread house",
+        "gingerbread man",
+        "smart cookie",
+        "christmas",
+        "wordplay",
+        "baking",
+        "compliment"
+      ]
     },
     {
       "id": 897,
       "setup": "Why did the scarecrow win the Halloween costume contest?",
       "punchline": "Because he was outstanding in his field!",
-      "categories": ["holidays", "work"],
-      "tags": ["scarecrow", "halloween", "costume", "field", "wordplay", "outstanding", "contest"]
+      "categories": [
+        "holidays",
+        "work"
+      ],
+      "tags": [
+        "scarecrow",
+        "halloween",
+        "costume",
+        "field",
+        "wordplay",
+        "outstanding",
+        "contest"
+      ]
     },
     {
       "id": 898,
       "setup": "What did the mother turkey say to her disobedient children?",
       "punchline": "If your father could see you now, he'd turn over in his gravy!",
-      "categories": ["holidays", "family"],
-      "tags": ["turkey", "mother", "children", "gravy", "grave", "wordplay", "thanksgiving"]
+      "categories": [
+        "holidays",
+        "family"
+      ],
+      "tags": [
+        "turkey",
+        "mother",
+        "children",
+        "gravy",
+        "grave",
+        "wordplay",
+        "thanksgiving"
+      ]
     },
     {
       "id": 899,
       "setup": "Why did the Christmas tree go to the barber?",
       "punchline": "It needed to be trimmed!",
-      "categories": ["holidays"],
-      "tags": ["christmas tree", "barber", "trimmed", "haircut", "wordplay", "decorations", "december"]
+      "categories": [
+        "holidays"
+      ],
+      "tags": [
+        "christmas tree",
+        "barber",
+        "trimmed",
+        "haircut",
+        "wordplay",
+        "decorations",
+        "december"
+      ]
     },
     {
       "id": 900,
-      "setup": "What do you call the day after a holiday feast?",
-      "punchline": "Leftover Day!",
-      "categories": ["holidays", "food"],
-      "tags": ["holiday", "feast", "leftovers", "food", "wordplay", "next day", "eating"]
+      "setup": "What's a vampire's favorite holiday?",
+      "punchline": "Fangs-giving!",
+      "categories": [
+        "holidays",
+        "food"
+      ],
+      "tags": [
+        "vampire",
+        "holiday",
+        "fangs",
+        "thanksgiving",
+        "wordplay",
+        "teeth",
+        "grateful"
+      ]
     },
     {
       "id": 901,
       "setup": "Why did the broom get a promotion?",
       "punchline": "Because it swept the competition!",
-      "categories": ["home", "work"],
-      "tags": ["broom", "promotion", "swept", "competition", "wordplay", "cleaning", "success"]
+      "categories": [
+        "home",
+        "work"
+      ],
+      "tags": [
+        "broom",
+        "promotion",
+        "swept",
+        "competition",
+        "wordplay",
+        "cleaning",
+        "success"
+      ]
     },
     {
       "id": 902,
       "setup": "What did the toilet say to the plunger?",
       "punchline": "You really know how to get to the bottom of things!",
-      "categories": ["home"],
-      "tags": ["toilet", "plunger", "bottom", "bathroom", "wordplay", "plumbing", "fixing"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "toilet",
+        "plunger",
+        "bottom",
+        "bathroom",
+        "wordplay",
+        "plumbing",
+        "fixing"
+      ]
     },
     {
       "id": 903,
       "setup": "Why did the lamp break up with the outlet?",
       "punchline": "Because the relationship had no spark!",
-      "categories": ["home"],
-      "tags": ["lamp", "outlet", "spark", "electricity", "wordplay", "breakup", "relationship"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "lamp",
+        "outlet",
+        "spark",
+        "electricity",
+        "wordplay",
+        "breakup",
+        "relationship"
+      ]
     },
     {
       "id": 904,
       "setup": "What did the blanket say to the bed?",
       "punchline": "I've got you covered!",
-      "categories": ["home"],
-      "tags": ["blanket", "bed", "covered", "bedroom", "wordplay", "sleeping", "comfort"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "blanket",
+        "bed",
+        "covered",
+        "bedroom",
+        "wordplay",
+        "sleeping",
+        "comfort"
+      ]
     },
     {
       "id": 905,
       "setup": "Why did the vacuum cleaner stop working?",
       "punchline": "Because it was just gathering dust!",
-      "categories": ["home"],
-      "tags": ["vacuum", "cleaner", "dust", "broken", "wordplay", "cleaning", "lazy"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "vacuum",
+        "cleaner",
+        "dust",
+        "broken",
+        "wordplay",
+        "cleaning",
+        "lazy"
+      ]
     },
     {
       "id": 906,
-      "setup": "Why did the wall feel supported?",
-      "punchline": "Because it had studs behind it!",
-      "categories": ["home"],
-      "tags": ["wall", "supported", "studs", "construction", "wordplay", "building", "structure"]
+      "setup": "What did the wall outlet say to the plug?",
+      "punchline": "We make a great connection!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "outlet",
+        "plug",
+        "connection",
+        "electricity",
+        "wordplay",
+        "power",
+        "relationship"
+      ]
     },
     {
       "id": 907,
       "setup": "Why did the window go to the doctor?",
       "punchline": "Because it had panes!",
-      "categories": ["home"],
-      "tags": ["window", "doctor", "panes", "pains", "wordplay", "glass", "sick"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "window",
+        "doctor",
+        "panes",
+        "pains",
+        "wordplay",
+        "glass",
+        "sick"
+      ]
     },
     {
       "id": 908,
       "setup": "What did the ceiling say to the chandelier?",
       "punchline": "You're the light of my life!",
-      "categories": ["home"],
-      "tags": ["ceiling", "chandelier", "light", "life", "wordplay", "hanging", "romantic"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "ceiling",
+        "chandelier",
+        "light",
+        "life",
+        "wordplay",
+        "hanging",
+        "romantic"
+      ]
     },
     {
       "id": 909,
-      "setup": "Why did the chair go to therapy?",
-      "punchline": "Because it couldn't handle the pressure of everyone sitting on it!",
-      "categories": ["home"],
-      "tags": ["chair", "therapy", "pressure", "sitting", "wordplay", "furniture", "stress"]
+      "setup": "Why did the chair apply for a job?",
+      "punchline": "It wanted to support itself!",
+      "categories": [
+        "home",
+        "work"
+      ],
+      "tags": [
+        "chair",
+        "job",
+        "support",
+        "sitting",
+        "wordplay",
+        "furniture",
+        "independent"
+      ]
     },
     {
       "id": 910,
       "setup": "What did the rug say when it got stepped on?",
       "punchline": "Don't walk all over me!",
-      "categories": ["home"],
-      "tags": ["rug", "stepped on", "walk", "floor", "wordplay", "carpet", "respect"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "rug",
+        "stepped on",
+        "walk",
+        "floor",
+        "wordplay",
+        "carpet",
+        "respect"
+      ]
     },
     {
       "id": 911,
-      "setup": "Why did the front door feel important?",
-      "punchline": "Because everyone always wanted to get through it!",
-      "categories": ["home"],
-      "tags": ["door", "important", "through", "entrance", "wordplay", "front", "popular"]
+      "setup": "Why was the broom late?",
+      "punchline": "It over-swept!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "broom",
+        "late",
+        "overslept",
+        "swept",
+        "wordplay",
+        "cleaning",
+        "morning"
+      ]
     },
     {
       "id": 912,
       "setup": "What did the shower say to the bathtub?",
       "punchline": "You just sit there while I do all the work!",
-      "categories": ["home"],
-      "tags": ["shower", "bathtub", "work", "bathroom", "wordplay", "washing", "lazy"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "shower",
+        "bathtub",
+        "work",
+        "bathroom",
+        "wordplay",
+        "washing",
+        "lazy"
+      ]
     },
     {
       "id": 913,
-      "setup": "Why did the stairs feel tired?",
-      "punchline": "Because people kept running them up and down!",
-      "categories": ["home"],
-      "tags": ["stairs", "tired", "running", "up down", "wordplay", "steps", "exhausted"]
+      "setup": "What did the ceiling say to the floor?",
+      "punchline": "I'm above all of this!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "ceiling",
+        "floor",
+        "above",
+        "house",
+        "wordplay",
+        "superior",
+        "position"
+      ]
     },
     {
       "id": 914,
       "setup": "What did the smoke detector say to the stove?",
       "punchline": "You set me off every time!",
-      "categories": ["home"],
-      "tags": ["smoke detector", "stove", "set off", "alarm", "wordplay", "kitchen", "cooking"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "smoke detector",
+        "stove",
+        "set off",
+        "alarm",
+        "wordplay",
+        "kitchen",
+        "cooking"
+      ]
     },
     {
       "id": 915,
       "setup": "Why did the washing machine feel dizzy?",
       "punchline": "Because it was going through another spin cycle!",
-      "categories": ["home"],
-      "tags": ["washing machine", "dizzy", "spin cycle", "laundry", "wordplay", "clothes", "cleaning"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "washing machine",
+        "dizzy",
+        "spin cycle",
+        "laundry",
+        "wordplay",
+        "clothes",
+        "cleaning"
+      ]
     },
     {
       "id": 916,
       "setup": "What did the refrigerator say when it was complimented?",
       "punchline": "Thanks, I'm pretty cool!",
-      "categories": ["home"],
-      "tags": ["refrigerator", "compliment", "cool", "cold", "wordplay", "kitchen", "confident"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "refrigerator",
+        "compliment",
+        "cool",
+        "cold",
+        "wordplay",
+        "kitchen",
+        "confident"
+      ]
     },
     {
       "id": 917,
       "setup": "Why did the fireplace break up with the chimney?",
       "punchline": "Because the relationship went up in smoke!",
-      "categories": ["home"],
-      "tags": ["fireplace", "chimney", "smoke", "breakup", "wordplay", "fire", "relationship"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "fireplace",
+        "chimney",
+        "smoke",
+        "breakup",
+        "wordplay",
+        "fire",
+        "relationship"
+      ]
     },
     {
       "id": 918,
       "setup": "What did the pillow say after a long day?",
       "punchline": "I'm totally beat!",
-      "categories": ["home"],
-      "tags": ["pillow", "tired", "beat", "bedroom", "wordplay", "sleeping", "exhausted"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "pillow",
+        "tired",
+        "beat",
+        "bedroom",
+        "wordplay",
+        "sleeping",
+        "exhausted"
+      ]
     },
     {
       "id": 919,
       "setup": "Why did the fence feel insecure?",
       "punchline": "Because it had too many posts about its flaws!",
-      "categories": ["home", "technology"],
-      "tags": ["fence", "insecure", "posts", "flaws", "wordplay", "yard", "social media"]
+      "categories": [
+        "home",
+        "technology"
+      ],
+      "tags": [
+        "fence",
+        "insecure",
+        "posts",
+        "flaws",
+        "wordplay",
+        "yard",
+        "social media"
+      ]
     },
     {
       "id": 920,
-      "setup": "What did the doorbell say to the visitor?",
-      "punchline": "You rang?",
-      "categories": ["home"],
-      "tags": ["doorbell", "visitor", "rang", "entrance", "wordplay", "greeting", "classic"]
+      "setup": "Why did the door win an award?",
+      "punchline": "It was outstanding in its frame!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "door",
+        "award",
+        "outstanding",
+        "frame",
+        "wordplay",
+        "entrance",
+        "success"
+      ]
     },
     {
       "id": 921,
       "setup": "Why did the curtains feel exposed?",
       "punchline": "Because they were always being drawn!",
-      "categories": ["home"],
-      "tags": ["curtains", "exposed", "drawn", "window", "wordplay", "privacy", "opening"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "curtains",
+        "exposed",
+        "drawn",
+        "window",
+        "wordplay",
+        "privacy",
+        "opening"
+      ]
     },
     {
       "id": 922,
       "setup": "What did the sink say to the faucet?",
       "punchline": "You're a real drip!",
-      "categories": ["home"],
-      "tags": ["sink", "faucet", "drip", "water", "wordplay", "kitchen", "bathroom"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "sink",
+        "faucet",
+        "drip",
+        "water",
+        "wordplay",
+        "kitchen",
+        "bathroom"
+      ]
     },
     {
       "id": 923,
-      "setup": "Why did the attic feel forgotten?",
-      "punchline": "Because everyone just stored things up there and left!",
-      "categories": ["home"],
-      "tags": ["attic", "forgotten", "stored", "upstairs", "wordplay", "storage", "lonely"]
+      "setup": "Why did the attic feel superior?",
+      "punchline": "Because it was at the top of its field!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "attic",
+        "superior",
+        "top",
+        "house",
+        "wordplay",
+        "upstairs",
+        "position"
+      ]
     },
     {
       "id": 924,
       "setup": "What did the garage door say when it was opened?",
       "punchline": "I'm really lifting things up around here!",
-      "categories": ["home"],
-      "tags": ["garage door", "opened", "lifting", "car", "wordplay", "automatic", "house"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "garage door",
+        "opened",
+        "lifting",
+        "car",
+        "wordplay",
+        "automatic",
+        "house"
+      ]
     },
     {
       "id": 925,
       "setup": "Why did the closet feel stuffed?",
       "punchline": "Because everyone kept hanging around inside!",
-      "categories": ["home"],
-      "tags": ["closet", "stuffed", "hanging", "clothes", "wordplay", "storage", "crowded"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "closet",
+        "stuffed",
+        "hanging",
+        "clothes",
+        "wordplay",
+        "storage",
+        "crowded"
+      ]
     },
     {
       "id": 926,
       "setup": "What did the air conditioner say on a hot day?",
       "punchline": "Don't worry, I'll keep my cool!",
-      "categories": ["home"],
-      "tags": ["air conditioner", "hot", "cool", "summer", "wordplay", "temperature", "calm"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "air conditioner",
+        "hot",
+        "cool",
+        "summer",
+        "wordplay",
+        "temperature",
+        "calm"
+      ]
     },
     {
       "id": 927,
-      "setup": "Why did the basement feel down?",
-      "punchline": "Because it was always at the lowest point in the house!",
-      "categories": ["home"],
-      "tags": ["basement", "down", "lowest", "underground", "wordplay", "sad", "house"]
+      "setup": "Why did the basement feel so low?",
+      "punchline": "Because everyone was always putting it down!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "basement",
+        "low",
+        "down",
+        "underground",
+        "wordplay",
+        "house",
+        "feelings"
+      ]
     },
     {
       "id": 928,
       "setup": "What did the couch say to the remote control?",
       "punchline": "You're always pushing my buttons!",
-      "categories": ["home", "technology"],
-      "tags": ["couch", "remote", "buttons", "tv", "wordplay", "living room", "annoying"]
+      "categories": [
+        "home",
+        "technology"
+      ],
+      "tags": [
+        "couch",
+        "remote",
+        "buttons",
+        "tv",
+        "wordplay",
+        "living room",
+        "annoying"
+      ]
     },
     {
       "id": 929,
       "setup": "Why did the mirror go to school?",
       "punchline": "To reflect on its education!",
-      "categories": ["home", "school"],
-      "tags": ["mirror", "school", "reflect", "education", "wordplay", "bathroom", "thinking"]
+      "categories": [
+        "home",
+        "school"
+      ],
+      "tags": [
+        "mirror",
+        "school",
+        "reflect",
+        "education",
+        "wordplay",
+        "bathroom",
+        "thinking"
+      ]
     },
     {
       "id": 930,
       "setup": "What did the dishwasher say to the dirty plates?",
       "punchline": "You're in hot water now!",
-      "categories": ["home"],
-      "tags": ["dishwasher", "plates", "hot water", "trouble", "wordplay", "kitchen", "cleaning"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "dishwasher",
+        "plates",
+        "hot water",
+        "trouble",
+        "wordplay",
+        "kitchen",
+        "cleaning"
+      ]
     },
     {
       "id": 931,
-      "setup": "Why did the doorknob feel twisted?",
-      "punchline": "Because everyone kept turning on it!",
-      "categories": ["home"],
-      "tags": ["doorknob", "twisted", "turning", "door", "wordplay", "handle", "used"]
+      "setup": "Why did the doorknob feel important?",
+      "punchline": "Because people are always turning to it!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "doorknob",
+        "important",
+        "turning",
+        "door",
+        "wordplay",
+        "handle",
+        "trusted"
+      ]
     },
     {
       "id": 932,
       "setup": "What did the roof say during the storm?",
       "punchline": "I've got you all covered!",
-      "categories": ["home"],
-      "tags": ["roof", "storm", "covered", "protection", "wordplay", "rain", "shelter"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "roof",
+        "storm",
+        "covered",
+        "protection",
+        "wordplay",
+        "rain",
+        "shelter"
+      ]
     },
     {
       "id": 933,
       "setup": "Why did the microwave feel impatient?",
       "punchline": "Because it was always waiting for things to heat up!",
-      "categories": ["home", "food"],
-      "tags": ["microwave", "impatient", "heat up", "waiting", "wordplay", "kitchen", "cooking"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "microwave",
+        "impatient",
+        "heat up",
+        "waiting",
+        "wordplay",
+        "kitchen",
+        "cooking"
+      ]
     },
     {
       "id": 934,
       "setup": "What did the bookshelf say to the books?",
       "punchline": "I've got your back!",
-      "categories": ["home"],
-      "tags": ["bookshelf", "books", "back", "support", "wordplay", "reading", "furniture"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "bookshelf",
+        "books",
+        "back",
+        "support",
+        "wordplay",
+        "reading",
+        "furniture"
+      ]
     },
     {
       "id": 935,
       "setup": "Why did the light switch feel powerful?",
       "punchline": "Because it could brighten or darken anyone's day!",
-      "categories": ["home"],
-      "tags": ["light switch", "powerful", "brighten", "darken", "wordplay", "electricity", "control"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "light switch",
+        "powerful",
+        "brighten",
+        "darken",
+        "wordplay",
+        "electricity",
+        "control"
+      ]
     },
     {
       "id": 936,
       "setup": "What did the toaster say to the bread?",
       "punchline": "I'm going to make you hot!",
-      "categories": ["home", "food"],
-      "tags": ["toaster", "bread", "hot", "toast", "wordplay", "kitchen", "breakfast"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "toaster",
+        "bread",
+        "hot",
+        "toast",
+        "wordplay",
+        "kitchen",
+        "breakfast"
+      ]
     },
     {
       "id": 937,
-      "setup": "Why did the porch feel left out?",
-      "punchline": "Because it was always outside the house!",
-      "categories": ["home"],
-      "tags": ["porch", "left out", "outside", "house", "wordplay", "front", "lonely"]
+      "setup": "Why did the porch feel lonely?",
+      "punchline": "Because it was always out front and never in!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "porch",
+        "lonely",
+        "outside",
+        "front",
+        "wordplay",
+        "house",
+        "excluded"
+      ]
     },
     {
       "id": 938,
       "setup": "What did the clock say to the calendar?",
       "punchline": "Your days are numbered!",
-      "categories": ["home"],
-      "tags": ["clock", "calendar", "days numbered", "time", "wordplay", "counting", "threat"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "clock",
+        "calendar",
+        "days numbered",
+        "time",
+        "wordplay",
+        "counting",
+        "threat"
+      ]
     },
     {
       "id": 939,
-      "setup": "Why did the tile feel flat?",
-      "punchline": "Because it was always getting walked on!",
-      "categories": ["home"],
-      "tags": ["tile", "flat", "walked on", "floor", "wordplay", "bathroom", "kitchen"]
+      "setup": "What did the floor say to the table?",
+      "punchline": "You have legs but you're not going anywhere!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "floor",
+        "table",
+        "legs",
+        "standing",
+        "wordplay",
+        "furniture",
+        "stationary"
+      ]
     },
     {
       "id": 940,
       "setup": "What did the dryer say to the wet clothes?",
       "punchline": "I'm going to turn up the heat on this relationship!",
-      "categories": ["home"],
-      "tags": ["dryer", "clothes", "heat", "laundry", "wordplay", "relationship", "drying"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "dryer",
+        "clothes",
+        "heat",
+        "laundry",
+        "wordplay",
+        "relationship",
+        "drying"
+      ]
     },
     {
       "id": 941,
-      "setup": "Why did the mailbox feel popular?",
-      "punchline": "Because it was always getting letters!",
-      "categories": ["home"],
-      "tags": ["mailbox", "popular", "letters", "mail", "wordplay", "delivery", "outside"]
+      "setup": "Why did the mailbox feel stuffed?",
+      "punchline": "Because it was always getting junk!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "mailbox",
+        "stuffed",
+        "junk mail",
+        "delivery",
+        "wordplay",
+        "outside",
+        "full"
+      ]
     },
     {
       "id": 942,
       "setup": "What did the blender say at the party?",
       "punchline": "Let's mix things up!",
-      "categories": ["home", "food"],
-      "tags": ["blender", "party", "mix", "kitchen", "wordplay", "appliance", "fun"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "blender",
+        "party",
+        "mix",
+        "kitchen",
+        "wordplay",
+        "appliance",
+        "fun"
+      ]
     },
     {
       "id": 943,
       "setup": "Why did the mattress feel supportive?",
       "punchline": "Because it always had everyone's back!",
-      "categories": ["home"],
-      "tags": ["mattress", "supportive", "back", "bed", "wordplay", "sleeping", "comfort"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "mattress",
+        "supportive",
+        "back",
+        "bed",
+        "wordplay",
+        "sleeping",
+        "comfort"
+      ]
     },
     {
       "id": 944,
       "setup": "What did the hallway say to the rooms?",
       "punchline": "I'm the one who connects you all!",
-      "categories": ["home"],
-      "tags": ["hallway", "rooms", "connects", "house", "wordplay", "passage", "important"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "hallway",
+        "rooms",
+        "connects",
+        "house",
+        "wordplay",
+        "passage",
+        "important"
+      ]
     },
     {
       "id": 945,
       "setup": "Why did the garden hose feel tangled up?",
       "punchline": "Because it was all wound up about something!",
-      "categories": ["home", "outdoors"],
-      "tags": ["garden hose", "tangled", "wound up", "yard", "wordplay", "watering", "stressed"]
+      "categories": [
+        "home",
+        "outdoors"
+      ],
+      "tags": [
+        "garden hose",
+        "tangled",
+        "wound up",
+        "yard",
+        "wordplay",
+        "watering",
+        "stressed"
+      ]
     },
     {
       "id": 946,
       "setup": "What did the garbage disposal say to the food scraps?",
       "punchline": "I'm going to chew you out!",
-      "categories": ["home", "food"],
-      "tags": ["garbage disposal", "food scraps", "chew out", "kitchen", "wordplay", "sink", "grinding"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "garbage disposal",
+        "food scraps",
+        "chew out",
+        "kitchen",
+        "wordplay",
+        "sink",
+        "grinding"
+      ]
     },
     {
       "id": 947,
       "setup": "Why did the thermostat feel controlling?",
       "punchline": "Because it was always trying to change the atmosphere!",
-      "categories": ["home"],
-      "tags": ["thermostat", "controlling", "atmosphere", "temperature", "wordplay", "climate", "house"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "thermostat",
+        "controlling",
+        "atmosphere",
+        "temperature",
+        "wordplay",
+        "climate",
+        "house"
+      ]
     },
     {
       "id": 948,
       "setup": "What did the extension cord say to the outlet?",
       "punchline": "I'm really stretching to reach you!",
-      "categories": ["home"],
-      "tags": ["extension cord", "outlet", "stretching", "reach", "wordplay", "electricity", "long"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "extension cord",
+        "outlet",
+        "stretching",
+        "reach",
+        "wordplay",
+        "electricity",
+        "long"
+      ]
     },
     {
       "id": 949,
-      "setup": "Why did the pantry feel stuffed?",
-      "punchline": "Because it was full of canned personalities!",
-      "categories": ["home", "food"],
-      "tags": ["pantry", "stuffed", "canned", "food", "wordplay", "storage", "kitchen"]
+      "setup": "Why did the pantry smell so good?",
+      "punchline": "Because it was full of thyme!",
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "pantry",
+        "smell",
+        "thyme",
+        "time",
+        "wordplay",
+        "spices",
+        "kitchen"
+      ]
     },
     {
       "id": 950,
       "setup": "What did the welcome mat say to the shoes?",
       "punchline": "Wipe that attitude off before you come in!",
-      "categories": ["home"],
-      "tags": ["welcome mat", "shoes", "wipe", "attitude", "wordplay", "entrance", "feet"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "welcome mat",
+        "shoes",
+        "wipe",
+        "attitude",
+        "wordplay",
+        "entrance",
+        "feet"
+      ]
     },
     {
       "id": 951,
-      "setup": "Why did the nightstand feel overlooked?",
-      "punchline": "Because everyone just put stuff on it and went to sleep!",
-      "categories": ["home"],
-      "tags": ["nightstand", "overlooked", "sleep", "bedroom", "wordplay", "furniture", "ignored"]
+      "setup": "Why did the nightstand get an award?",
+      "punchline": "It was outstanding beside the bed!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "nightstand",
+        "award",
+        "outstanding",
+        "beside",
+        "wordplay",
+        "bedroom",
+        "furniture"
+      ]
     },
     {
       "id": 952,
       "setup": "What did the ceiling fan say when asked to work harder?",
       "punchline": "I'm already spinning out of control!",
-      "categories": ["home"],
-      "tags": ["ceiling fan", "work", "spinning", "control", "wordplay", "cooling", "stressed"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "ceiling fan",
+        "work",
+        "spinning",
+        "control",
+        "wordplay",
+        "cooling",
+        "stressed"
+      ]
     },
     {
       "id": 953,
-      "setup": "Why did the soap feel bubbly?",
-      "punchline": "Because it had an effervescent personality!",
-      "categories": ["home"],
-      "tags": ["soap", "bubbly", "effervescent", "bathroom", "wordplay", "washing", "personality"]
+      "setup": "Why did the soap run away?",
+      "punchline": "It didn't want to get into any more scrubs!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "soap",
+        "run away",
+        "scrubs",
+        "bathroom",
+        "wordplay",
+        "washing",
+        "trouble"
+      ]
     },
     {
       "id": 954,
       "setup": "What did the ironing board say to the iron?",
       "punchline": "You really know how to smooth things over!",
-      "categories": ["home"],
-      "tags": ["ironing board", "iron", "smooth", "laundry", "wordplay", "wrinkles", "clothes"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "ironing board",
+        "iron",
+        "smooth",
+        "laundry",
+        "wordplay",
+        "wrinkles",
+        "clothes"
+      ]
     },
     {
       "id": 955,
       "setup": "Why did the key feel important?",
       "punchline": "Because it was the key to everything!",
-      "categories": ["home"],
-      "tags": ["key", "important", "lock", "door", "wordplay", "security", "essential"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "key",
+        "important",
+        "lock",
+        "door",
+        "wordplay",
+        "security",
+        "essential"
+      ]
     },
     {
       "id": 956,
       "setup": "What did the bathrobe say after the shower?",
       "punchline": "I've got you wrapped up in comfort!",
-      "categories": ["home"],
-      "tags": ["bathrobe", "shower", "wrapped", "comfort", "wordplay", "bathroom", "cozy"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "bathrobe",
+        "shower",
+        "wrapped",
+        "comfort",
+        "wordplay",
+        "bathroom",
+        "cozy"
+      ]
     },
     {
       "id": 957,
       "setup": "Why did the lawn mower feel cutting edge?",
       "punchline": "Because it was always ahead of the grass!",
-      "categories": ["home", "outdoors"],
-      "tags": ["lawn mower", "cutting edge", "grass", "yard", "wordplay", "garden", "modern"]
+      "categories": [
+        "home",
+        "outdoors"
+      ],
+      "tags": [
+        "lawn mower",
+        "cutting edge",
+        "grass",
+        "yard",
+        "wordplay",
+        "garden",
+        "modern"
+      ]
     },
     {
       "id": 958,
       "setup": "What did the picture frame say to the photo?",
       "punchline": "I'm just here to make you look good!",
-      "categories": ["home"],
-      "tags": ["picture frame", "photo", "look good", "wall", "wordplay", "decoration", "support"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "picture frame",
+        "photo",
+        "look good",
+        "wall",
+        "wordplay",
+        "decoration",
+        "support"
+      ]
     },
     {
       "id": 959,
       "setup": "Why did the doormat feel used?",
       "punchline": "Because everyone kept walking all over it!",
-      "categories": ["home"],
-      "tags": ["doormat", "used", "walking", "entrance", "wordplay", "feet", "disrespected"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "doormat",
+        "used",
+        "walking",
+        "entrance",
+        "wordplay",
+        "feet",
+        "disrespected"
+      ]
     },
     {
       "id": 960,
       "setup": "What did the coffee maker say every morning?",
       "punchline": "Let's perk things up around here!",
-      "categories": ["home", "food"],
-      "tags": ["coffee maker", "morning", "perk up", "kitchen", "wordplay", "coffee", "energy"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "coffee maker",
+        "morning",
+        "perk up",
+        "kitchen",
+        "wordplay",
+        "coffee",
+        "energy"
+      ]
     },
     {
       "id": 961,
-      "setup": "Why did the dresser feel full of itself?",
-      "punchline": "Because it had so many drawers to brag about!",
-      "categories": ["home"],
-      "tags": ["dresser", "full", "drawers", "bedroom", "wordplay", "furniture", "bragging"]
+      "setup": "Why did the dresser go to therapy?",
+      "punchline": "It had too many hang-ups!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "dresser",
+        "therapy",
+        "hang-ups",
+        "clothes",
+        "wordplay",
+        "furniture",
+        "issues"
+      ]
     },
     {
       "id": 962,
       "setup": "What did the showerhead say to the drain?",
       "punchline": "Everything I do just goes down to you!",
-      "categories": ["home"],
-      "tags": ["showerhead", "drain", "goes down", "bathroom", "wordplay", "water", "plumbing"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "showerhead",
+        "drain",
+        "goes down",
+        "bathroom",
+        "wordplay",
+        "water",
+        "plumbing"
+      ]
     },
     {
       "id": 963,
-      "setup": "Why did the trash can feel unappreciated?",
-      "punchline": "Because everyone just threw things at it!",
-      "categories": ["home"],
-      "tags": ["trash can", "unappreciated", "threw", "garbage", "wordplay", "kitchen", "waste"]
+      "setup": "Why did the trash can feel down?",
+      "punchline": "Everyone kept dumping their problems on it!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "trash can",
+        "down",
+        "dumping",
+        "problems",
+        "wordplay",
+        "kitchen",
+        "waste"
+      ]
     },
     {
       "id": 964,
       "setup": "What did the dining table say to the chairs?",
       "punchline": "Pull up, let's have a meal together!",
-      "categories": ["home", "food"],
-      "tags": ["dining table", "chairs", "pull up", "meal", "wordplay", "eating", "furniture"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "dining table",
+        "chairs",
+        "pull up",
+        "meal",
+        "wordplay",
+        "eating",
+        "furniture"
+      ]
     },
     {
       "id": 965,
       "setup": "Why did the alarm clock feel annoying?",
       "punchline": "Because it was always going off on people!",
-      "categories": ["home"],
-      "tags": ["alarm clock", "annoying", "going off", "morning", "wordplay", "waking up", "loud"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "alarm clock",
+        "annoying",
+        "going off",
+        "morning",
+        "wordplay",
+        "waking up",
+        "loud"
+      ]
     },
     {
       "id": 966,
       "setup": "What did the floor say to the table?",
       "punchline": "I see you've got legs, but you're not going anywhere!",
-      "categories": ["home"],
-      "tags": ["floor", "table", "legs", "standing", "wordplay", "furniture", "stationary"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "floor",
+        "table",
+        "legs",
+        "standing",
+        "wordplay",
+        "furniture",
+        "stationary"
+      ]
     },
     {
       "id": 967,
       "setup": "Why did the towel feel hung up?",
       "punchline": "Because it was always left hanging in the bathroom!",
-      "categories": ["home"],
-      "tags": ["towel", "hung up", "hanging", "bathroom", "wordplay", "drying", "left"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "towel",
+        "hung up",
+        "hanging",
+        "bathroom",
+        "wordplay",
+        "drying",
+        "left"
+      ]
     },
     {
       "id": 968,
       "setup": "What did the oven say to the chef?",
       "punchline": "You really know how to turn me on!",
-      "categories": ["home", "food"],
-      "tags": ["oven", "chef", "turn on", "cooking", "wordplay", "kitchen", "heat"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "oven",
+        "chef",
+        "turn on",
+        "cooking",
+        "wordplay",
+        "kitchen",
+        "heat"
+      ]
     },
     {
       "id": 969,
-      "setup": "Why did the welcome sign feel friendly?",
-      "punchline": "Because it greeted everyone who came by!",
-      "categories": ["home"],
-      "tags": ["welcome sign", "friendly", "greeting", "entrance", "wordplay", "front door", "hospitable"]
+      "setup": "Why did the welcome sign get so many friends?",
+      "punchline": "Because it was so inviting!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "welcome sign",
+        "friends",
+        "inviting",
+        "entrance",
+        "wordplay",
+        "front door",
+        "hospitable"
+      ]
     },
     {
       "id": 970,
       "setup": "What did the smoke alarm say to the burnt toast?",
       "punchline": "You're really setting me off today!",
-      "categories": ["home", "food"],
-      "tags": ["smoke alarm", "burnt toast", "setting off", "kitchen", "wordplay", "alarm", "cooking"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "smoke alarm",
+        "burnt toast",
+        "setting off",
+        "kitchen",
+        "wordplay",
+        "alarm",
+        "cooking"
+      ]
     },
     {
       "id": 971,
       "setup": "Why did the recliner feel lazy?",
       "punchline": "Because it was always leaning back on the job!",
-      "categories": ["home"],
-      "tags": ["recliner", "lazy", "leaning back", "furniture", "wordplay", "relaxing", "chair"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "recliner",
+        "lazy",
+        "leaning back",
+        "furniture",
+        "wordplay",
+        "relaxing",
+        "chair"
+      ]
     },
     {
       "id": 972,
       "setup": "What did the flower pot say to the plant?",
       "punchline": "I'm rooting for you!",
-      "categories": ["home", "outdoors"],
-      "tags": ["flower pot", "plant", "rooting", "support", "wordplay", "garden", "growing"]
+      "categories": [
+        "home",
+        "outdoors"
+      ],
+      "tags": [
+        "flower pot",
+        "plant",
+        "rooting",
+        "support",
+        "wordplay",
+        "garden",
+        "growing"
+      ]
     },
     {
       "id": 973,
       "setup": "Why did the light bulb feel bright?",
       "punchline": "Because it had so many brilliant ideas!",
-      "categories": ["home"],
-      "tags": ["light bulb", "bright", "brilliant", "ideas", "wordplay", "electricity", "smart"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "light bulb",
+        "bright",
+        "brilliant",
+        "ideas",
+        "wordplay",
+        "electricity",
+        "smart"
+      ]
     },
     {
       "id": 974,
       "setup": "What did the knife block say to the knives?",
       "punchline": "You all make the cut!",
-      "categories": ["home", "food"],
-      "tags": ["knife block", "knives", "cut", "kitchen", "wordplay", "sharp", "approval"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "knife block",
+        "knives",
+        "cut",
+        "kitchen",
+        "wordplay",
+        "sharp",
+        "approval"
+      ]
     },
     {
       "id": 975,
       "setup": "Why did the screen door feel transparent?",
       "punchline": "Because everyone could see right through it!",
-      "categories": ["home"],
-      "tags": ["screen door", "transparent", "see through", "entrance", "wordplay", "mesh", "obvious"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "screen door",
+        "transparent",
+        "see through",
+        "entrance",
+        "wordplay",
+        "mesh",
+        "obvious"
+      ]
     },
     {
       "id": 976,
       "setup": "What did the deck say to the backyard?",
       "punchline": "I'm just here to raise the level of our relationship!",
-      "categories": ["home", "outdoors"],
-      "tags": ["deck", "backyard", "level", "raised", "wordplay", "patio", "relationship"]
+      "categories": [
+        "home",
+        "outdoors"
+      ],
+      "tags": [
+        "deck",
+        "backyard",
+        "level",
+        "raised",
+        "wordplay",
+        "patio",
+        "relationship"
+      ]
     },
     {
       "id": 977,
       "setup": "Why did the toilet brush feel undervalued?",
       "punchline": "Because it had a really crappy job!",
-      "categories": ["home", "work"],
-      "tags": ["toilet brush", "undervalued", "crappy", "bathroom", "wordplay", "cleaning", "job"]
+      "categories": [
+        "home",
+        "work"
+      ],
+      "tags": [
+        "toilet brush",
+        "undervalued",
+        "crappy",
+        "bathroom",
+        "wordplay",
+        "cleaning",
+        "job"
+      ]
     },
     {
       "id": 978,
       "setup": "What did the freezer say to the ice cream?",
       "punchline": "Chill out, you're not going anywhere!",
-      "categories": ["home", "food"],
-      "tags": ["freezer", "ice cream", "chill", "cold", "wordplay", "kitchen", "frozen"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "freezer",
+        "ice cream",
+        "chill",
+        "cold",
+        "wordplay",
+        "kitchen",
+        "frozen"
+      ]
     },
     {
       "id": 979,
       "setup": "Why did the venetian blinds feel confused?",
       "punchline": "Because they couldn't decide if they were open or closed!",
-      "categories": ["home"],
-      "tags": ["venetian blinds", "confused", "open", "closed", "wordplay", "window", "indecisive"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "venetian blinds",
+        "confused",
+        "open",
+        "closed",
+        "wordplay",
+        "window",
+        "indecisive"
+      ]
     },
     {
       "id": 980,
       "setup": "What did the hammer say to the nail?",
       "punchline": "I'm really going to hit it off with you!",
-      "categories": ["home", "work"],
-      "tags": ["hammer", "nail", "hit it off", "tools", "wordplay", "construction", "building"]
+      "categories": [
+        "home",
+        "work"
+      ],
+      "tags": [
+        "hammer",
+        "nail",
+        "hit it off",
+        "tools",
+        "wordplay",
+        "construction",
+        "building"
+      ]
     },
     {
       "id": 981,
       "setup": "Why did the bathroom scale feel judgmental?",
       "punchline": "Because it was always weighing in on people!",
-      "categories": ["home"],
-      "tags": ["bathroom scale", "judgmental", "weighing in", "weight", "wordplay", "opinion", "measuring"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "bathroom scale",
+        "judgmental",
+        "weighing in",
+        "weight",
+        "wordplay",
+        "opinion",
+        "measuring"
+      ]
     },
     {
       "id": 982,
       "setup": "What did the power strip say to all the plugs?",
       "punchline": "There's room for everyone here!",
-      "categories": ["home", "technology"],
-      "tags": ["power strip", "plugs", "room", "electricity", "wordplay", "outlets", "inclusive"]
+      "categories": [
+        "home",
+        "technology"
+      ],
+      "tags": [
+        "power strip",
+        "plugs",
+        "room",
+        "electricity",
+        "wordplay",
+        "outlets",
+        "inclusive"
+      ]
     },
     {
       "id": 983,
       "setup": "Why did the paint can feel colorful?",
       "punchline": "Because it was always making a splash!",
-      "categories": ["home"],
-      "tags": ["paint can", "colorful", "splash", "decorating", "wordplay", "walls", "art"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "paint can",
+        "colorful",
+        "splash",
+        "decorating",
+        "wordplay",
+        "walls",
+        "art"
+      ]
     },
     {
       "id": 984,
       "setup": "What did the staircase say to the elevator?",
       "punchline": "You have your ups and downs, but I take it step by step!",
-      "categories": ["home"],
-      "tags": ["staircase", "elevator", "ups downs", "steps", "wordplay", "building", "levels"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "staircase",
+        "elevator",
+        "ups downs",
+        "steps",
+        "wordplay",
+        "building",
+        "levels"
+      ]
     },
     {
       "id": 985,
       "setup": "Why did the tissue box feel emotional?",
       "punchline": "Because it was always there for people's tears!",
-      "categories": ["home"],
-      "tags": ["tissue box", "emotional", "tears", "crying", "wordplay", "support", "comfort"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "tissue box",
+        "emotional",
+        "tears",
+        "crying",
+        "wordplay",
+        "support",
+        "comfort"
+      ]
     },
     {
       "id": 986,
       "setup": "What did the wifi router say to the devices?",
       "punchline": "We have a strong connection!",
-      "categories": ["home", "technology"],
-      "tags": ["wifi router", "devices", "connection", "internet", "wordplay", "signal", "relationship"]
+      "categories": [
+        "home",
+        "technology"
+      ],
+      "tags": [
+        "wifi router",
+        "devices",
+        "connection",
+        "internet",
+        "wordplay",
+        "signal",
+        "relationship"
+      ]
     },
     {
       "id": 987,
       "setup": "Why did the candle feel burned out?",
       "punchline": "Because it was working around the wick!",
-      "categories": ["home"],
-      "tags": ["candle", "burned out", "wick", "clock", "wordplay", "light", "exhausted"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "candle",
+        "burned out",
+        "wick",
+        "clock",
+        "wordplay",
+        "light",
+        "exhausted"
+      ]
     },
     {
       "id": 988,
       "setup": "What did the coat rack say to the jackets?",
       "punchline": "Just hang in there!",
-      "categories": ["home"],
-      "tags": ["coat rack", "jackets", "hang in there", "support", "wordplay", "entrance", "encouragement"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "coat rack",
+        "jackets",
+        "hang in there",
+        "support",
+        "wordplay",
+        "entrance",
+        "encouragement"
+      ]
     },
     {
       "id": 989,
-      "setup": "Why did the cutting board feel chopped up?",
-      "punchline": "Because it was always getting sliced into the action!",
-      "categories": ["home", "food"],
-      "tags": ["cutting board", "chopped", "sliced", "kitchen", "wordplay", "cooking", "preparing"]
+      "setup": "Why did the cutting board feel important?",
+      "punchline": "Because everything in the kitchen happens on it!",
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "cutting board",
+        "important",
+        "kitchen",
+        "cooking",
+        "wordplay",
+        "preparing",
+        "central"
+      ]
     },
     {
       "id": 990,
       "setup": "What did the sprinkler say to the lawn?",
       "punchline": "I'm going to shower you with attention!",
-      "categories": ["home", "outdoors"],
-      "tags": ["sprinkler", "lawn", "shower", "attention", "wordplay", "yard", "watering"]
+      "categories": [
+        "home",
+        "outdoors"
+      ],
+      "tags": [
+        "sprinkler",
+        "lawn",
+        "shower",
+        "attention",
+        "wordplay",
+        "yard",
+        "watering"
+      ]
     },
     {
       "id": 991,
       "setup": "Why did the electrical outlet feel shocked?",
       "punchline": "Because someone stuck a fork in it!",
-      "categories": ["home"],
-      "tags": ["outlet", "shocked", "fork", "electricity", "wordplay", "dangerous", "surprised"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "outlet",
+        "shocked",
+        "fork",
+        "electricity",
+        "wordplay",
+        "dangerous",
+        "surprised"
+      ]
     },
     {
       "id": 992,
       "setup": "What did the spice rack say to the salt?",
       "punchline": "You're the seasoned veteran around here!",
-      "categories": ["home", "food"],
-      "tags": ["spice rack", "salt", "seasoned", "veteran", "wordplay", "kitchen", "cooking"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "spice rack",
+        "salt",
+        "seasoned",
+        "veteran",
+        "wordplay",
+        "kitchen",
+        "cooking"
+      ]
     },
     {
       "id": 993,
-      "setup": "Why did the shutter feel closed off?",
-      "punchline": "Because it was always blocking out the world!",
-      "categories": ["home"],
-      "tags": ["shutter", "closed off", "blocking", "window", "wordplay", "privacy", "isolated"]
+      "setup": "Why did the shutter feel shy?",
+      "punchline": "Because it was always covering up!",
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "shutter",
+        "shy",
+        "covering",
+        "window",
+        "wordplay",
+        "privacy",
+        "hidden"
+      ]
     },
     {
       "id": 994,
       "setup": "What did the soap dish say to the bar of soap?",
       "punchline": "You're really wearing thin these days!",
-      "categories": ["home"],
-      "tags": ["soap dish", "soap", "wearing thin", "bathroom", "wordplay", "shrinking", "used"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "soap dish",
+        "soap",
+        "wearing thin",
+        "bathroom",
+        "wordplay",
+        "shrinking",
+        "used"
+      ]
     },
     {
       "id": 995,
       "setup": "Why did the DVD player feel outdated?",
       "punchline": "Because everyone kept streaming past it!",
-      "categories": ["home", "technology"],
-      "tags": ["dvd player", "outdated", "streaming", "technology", "wordplay", "old", "obsolete"]
+      "categories": [
+        "home",
+        "technology"
+      ],
+      "tags": [
+        "dvd player",
+        "outdated",
+        "streaming",
+        "technology",
+        "wordplay",
+        "old",
+        "obsolete"
+      ]
     },
     {
       "id": 996,
       "setup": "What did the measuring cup say to the flour?",
       "punchline": "I've got your measure!",
-      "categories": ["home", "food"],
-      "tags": ["measuring cup", "flour", "measure", "baking", "wordplay", "kitchen", "precise"]
+      "categories": [
+        "home",
+        "food"
+      ],
+      "tags": [
+        "measuring cup",
+        "flour",
+        "measure",
+        "baking",
+        "wordplay",
+        "kitchen",
+        "precise"
+      ]
     },
     {
       "id": 997,
       "setup": "Why did the doorstop feel stuck?",
       "punchline": "Because it was always holding things in place!",
-      "categories": ["home"],
-      "tags": ["doorstop", "stuck", "holding", "door", "wordplay", "wedge", "stationary"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "doorstop",
+        "stuck",
+        "holding",
+        "door",
+        "wordplay",
+        "wedge",
+        "stationary"
+      ]
     },
     {
       "id": 998,
       "setup": "What did the toilet paper say to the bathroom?",
       "punchline": "I'm on a roll today!",
-      "categories": ["home"],
-      "tags": ["toilet paper", "bathroom", "roll", "success", "wordplay", "restroom", "essential"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "toilet paper",
+        "bathroom",
+        "roll",
+        "success",
+        "wordplay",
+        "restroom",
+        "essential"
+      ]
     },
     {
       "id": 999,
       "setup": "Why did the address numbers feel identified?",
       "punchline": "Because they really knew their place!",
-      "categories": ["home"],
-      "tags": ["address numbers", "identified", "place", "house", "wordplay", "location", "identity"]
+      "categories": [
+        "home"
+      ],
+      "tags": [
+        "address numbers",
+        "identified",
+        "place",
+        "house",
+        "wordplay",
+        "location",
+        "identity"
+      ]
     },
     {
       "id": 1000,
       "setup": "What did the house say to the family?",
       "punchline": "Home is where the heart is, and you've got mine!",
-      "categories": ["home", "family"],
-      "tags": ["house", "family", "heart", "home", "wordplay", "love", "belonging"]
+      "categories": [
+        "home",
+        "family"
+      ],
+      "tags": [
+        "house",
+        "family",
+        "heart",
+        "home",
+        "wordplay",
+        "love",
+        "belonging"
+      ]
     },
     {
       "id": 1001,
