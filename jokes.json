@@ -16471,19 +16471,21 @@
     },
     {
       "id": 939,
-      "setup": "What did the floor say to the table?",
-      "punchline": "You have legs but you're not going anywhere!",
+      "setup": "Why does a milking chair only have three legs?",
+      "punchline": "Because the cow has the udder!",
       "categories": [
-        "home"
+        "home",
+        "animals"
       ],
       "tags": [
-        "floor",
-        "table",
-        "legs",
-        "standing",
+        "chair",
+        "cow",
+        "udder",
+        "other",
+        "milking",
         "wordplay",
         "furniture",
-        "stationary"
+        "farm"
       ]
     },
     {
