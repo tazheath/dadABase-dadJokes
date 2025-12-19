@@ -31595,1403 +31595,3520 @@
     },
     {
       "id": 1801,
-      "setup": "Why did the wedding cake go to therapy?",
-      "punchline": "Because it had too many layers of emotions!",
-      "categories": ["wedding", "food"],
-      "tags": ["wedding cake", "therapy", "layers", "emotions", "wordplay", "dessert", "feelings"]
+      "setup": "Why was the wedding cake so emotional?",
+      "punchline": "Because it was in tiers!",
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "wedding cake",
+        "emotional",
+        "tiers",
+        "tears",
+        "wordplay",
+        "dessert",
+        "crying"
+      ]
     },
     {
       "id": 1802,
       "setup": "What did the groom say to his tie?",
       "punchline": "You're the knot I've been waiting for!",
-      "categories": ["wedding"],
-      "tags": ["groom", "tie", "knot", "waiting", "wordplay", "tying the knot", "clothing"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "groom",
+        "tie",
+        "knot",
+        "waiting",
+        "wordplay",
+        "tying the knot",
+        "clothing"
+      ]
     },
     {
       "id": 1803,
-      "setup": "Why did the bride carry a ladder down the aisle?",
-      "punchline": "Because she wanted to take her relationship to the next level!",
-      "categories": ["wedding"],
-      "tags": ["bride", "ladder", "aisle", "next level", "wordplay", "relationship", "ceremony"]
+      "setup": "Why did the groom wear extra socks on his wedding day?",
+      "punchline": "In case he got cold feet!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "groom",
+        "socks",
+        "cold feet",
+        "nervous",
+        "wordplay",
+        "ceremony",
+        "wedding"
+      ]
     },
     {
       "id": 1804,
       "setup": "What do you call a melon that's not allowed to get married?",
       "punchline": "A can't-elope!",
-      "categories": ["wedding", "food"],
-      "tags": ["melon", "married", "cantaloupe", "elope", "wordplay", "fruit", "forbidden"]
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "melon",
+        "married",
+        "cantaloupe",
+        "elope",
+        "wordplay",
+        "fruit",
+        "forbidden"
+      ]
     },
     {
       "id": 1805,
       "setup": "Why did the wedding ring feel so committed?",
       "punchline": "Because it was in a band for life!",
-      "categories": ["wedding", "music"],
-      "tags": ["wedding ring", "committed", "band", "life", "wordplay", "jewelry", "marriage"]
+      "categories": [
+        "wedding",
+        "music"
+      ],
+      "tags": [
+        "wedding ring",
+        "committed",
+        "band",
+        "life",
+        "wordplay",
+        "jewelry",
+        "marriage"
+      ]
     },
     {
       "id": 1806,
       "setup": "What did the best man say about his speech?",
       "punchline": "I'm toast... literally, I'm giving one!",
-      "categories": ["wedding", "food"],
-      "tags": ["best man", "speech", "toast", "nervous", "wordplay", "reception", "talking"]
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "best man",
+        "speech",
+        "toast",
+        "nervous",
+        "wordplay",
+        "reception",
+        "talking"
+      ]
     },
     {
       "id": 1807,
-      "setup": "Why did the flower girl feel scattered?",
-      "punchline": "Because she was always throwing petals everywhere!",
-      "categories": ["wedding", "outdoors"],
-      "tags": ["flower girl", "scattered", "petals", "throwing", "wordplay", "ceremony", "flowers"]
+      "setup": "Two florists recently got married.",
+      "punchline": "It was an arranged marriage!",
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "florists",
+        "married",
+        "arranged",
+        "flowers",
+        "wordplay",
+        "ceremony",
+        "bouquet"
+      ]
     },
     {
       "id": 1808,
       "setup": "What do you call a wedding in a library?",
       "punchline": "A binding ceremony!",
-      "categories": ["wedding", "school"],
-      "tags": ["wedding", "library", "binding", "books", "wordplay", "ceremony", "marriage"]
+      "categories": [
+        "wedding",
+        "school"
+      ],
+      "tags": [
+        "wedding",
+        "library",
+        "binding",
+        "books",
+        "wordplay",
+        "ceremony",
+        "marriage"
+      ]
     },
     {
       "id": 1809,
-      "setup": "Why did the groom bring a map to the wedding?",
-      "punchline": "Because he didn't want to lose his way to the altar!",
-      "categories": ["wedding", "travel"],
-      "tags": ["groom", "map", "lost", "altar", "wordplay", "directions", "ceremony"]
+      "setup": "How did the vocabulary words get married?",
+      "punchline": "They exchanged vowels!",
+      "categories": [
+        "wedding",
+        "school"
+      ],
+      "tags": [
+        "vocabulary",
+        "words",
+        "vows",
+        "vowels",
+        "wordplay",
+        "ceremony",
+        "spelling"
+      ]
     },
     {
       "id": 1810,
       "setup": "What did the wedding veil say to the bride?",
       "punchline": "I've got you covered!",
-      "categories": ["wedding"],
-      "tags": ["wedding veil", "bride", "covered", "protection", "wordplay", "clothing", "accessory"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "wedding veil",
+        "bride",
+        "covered",
+        "protection",
+        "wordplay",
+        "clothing",
+        "accessory"
+      ]
     },
     {
       "id": 1811,
-      "setup": "Why did the champagne feel bubbly at the wedding?",
-      "punchline": "Because love was in the air!",
-      "categories": ["wedding", "food"],
-      "tags": ["champagne", "bubbly", "love", "air", "wordplay", "drinks", "celebration"]
+      "setup": "How did the ram propose to his girlfriend?",
+      "punchline": "Will ewe marry me?",
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "ram",
+        "propose",
+        "ewe",
+        "you",
+        "wordplay",
+        "sheep",
+        "engagement"
+      ]
     },
     {
       "id": 1812,
-      "setup": "What do you call a nervous groom?",
-      "punchline": "A bundle of tied nerves!",
-      "categories": ["wedding"],
-      "tags": ["groom", "nervous", "bundle", "tied", "wordplay", "anxiety", "ceremony"]
+      "setup": "Why don't you have to invite computers to weddings?",
+      "punchline": "They're just gonna crash anyway!",
+      "categories": [
+        "wedding",
+        "technology"
+      ],
+      "tags": [
+        "computers",
+        "wedding",
+        "crash",
+        "technology",
+        "wordplay",
+        "invitation",
+        "error"
+      ]
     },
     {
       "id": 1813,
-      "setup": "Why did the DJ get hired for every wedding?",
-      "punchline": "Because he really knew how to get the reception started!",
-      "categories": ["wedding", "music"],
-      "tags": ["dj", "hired", "wedding", "reception", "wordplay", "music", "party"]
+      "setup": "What was the best part of the Verizon CEO's wedding?",
+      "punchline": "The reception!",
+      "categories": [
+        "wedding",
+        "technology"
+      ],
+      "tags": [
+        "verizon",
+        "ceo",
+        "reception",
+        "signal",
+        "wordplay",
+        "wedding",
+        "phone"
+      ]
     },
     {
       "id": 1814,
-      "setup": "What did the invitation say to the guest list?",
-      "punchline": "You're cordially invited to be part of my paper trail!",
-      "categories": ["wedding"],
-      "tags": ["invitation", "guest list", "cordially", "paper", "wordplay", "stationery", "formal"]
+      "setup": "What wedding song plays when pickles walk down the aisle?",
+      "punchline": "Here Comes the Brine!",
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "pickles",
+        "aisle",
+        "brine",
+        "bride",
+        "wordplay",
+        "song",
+        "ceremony"
+      ]
     },
     {
       "id": 1815,
-      "setup": "Why did the bride and groom go to the bank?",
-      "punchline": "To check their joint account of happiness!",
-      "categories": ["wedding", "work"],
-      "tags": ["bride", "groom", "bank", "joint account", "wordplay", "money", "happiness"]
+      "setup": "What did the delivery driver wear to his wedding?",
+      "punchline": "A Trux-edo!",
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "delivery driver",
+        "wedding",
+        "tuxedo",
+        "truck",
+        "wordplay",
+        "clothing",
+        "ceremony"
+      ]
     },
     {
       "id": 1816,
       "setup": "What do you call a wedding on a trampoline?",
       "punchline": "A marriage that's off to a bouncing start!",
-      "categories": ["wedding", "sports"],
-      "tags": ["wedding", "trampoline", "bouncing", "start", "wordplay", "jumping", "ceremony"]
+      "categories": [
+        "wedding",
+        "sports"
+      ],
+      "tags": [
+        "wedding",
+        "trampoline",
+        "bouncing",
+        "start",
+        "wordplay",
+        "jumping",
+        "ceremony"
+      ]
     },
     {
       "id": 1817,
-      "setup": "Why did the wedding planner feel organized?",
-      "punchline": "Because everything was going according to plan!",
-      "categories": ["wedding", "work"],
-      "tags": ["wedding planner", "organized", "plan", "schedule", "wordplay", "job", "events"]
+      "setup": "What did Snow White say after her wedding photos didn't show up?",
+      "punchline": "Someday my prints will come!",
+      "categories": [
+        "wedding",
+        "fantasy"
+      ],
+      "tags": [
+        "snow white",
+        "photos",
+        "prints",
+        "prince",
+        "wordplay",
+        "disney",
+        "pictures"
+      ]
     },
     {
       "id": 1818,
       "setup": "What did the shoe say to the bride?",
       "punchline": "I'm your sole mate for the big day!",
-      "categories": ["wedding"],
-      "tags": ["shoe", "bride", "sole mate", "soulmate", "wordplay", "footwear", "ceremony"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "shoe",
+        "bride",
+        "sole mate",
+        "soulmate",
+        "wordplay",
+        "footwear",
+        "ceremony"
+      ]
     },
     {
       "id": 1819,
-      "setup": "Why did the wedding bouquet feel tossed around?",
-      "punchline": "Because everyone wanted to catch it!",
-      "categories": ["wedding", "outdoors"],
-      "tags": ["bouquet", "tossed", "catch", "tradition", "wordplay", "flowers", "reception"]
+      "setup": "Did you hear about the two spiders who just got married?",
+      "punchline": "I hear they met on the web!",
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "spiders",
+        "married",
+        "web",
+        "internet",
+        "wordplay",
+        "meeting",
+        "dating"
+      ]
     },
     {
       "id": 1820,
       "setup": "What do you call a pig getting married?",
       "punchline": "Swine and dine at the reception!",
-      "categories": ["wedding", "animals"],
-      "tags": ["pig", "married", "swine", "dine", "wordplay", "reception", "food"]
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "pig",
+        "married",
+        "swine",
+        "dine",
+        "wordplay",
+        "reception",
+        "food"
+      ]
     },
     {
       "id": 1821,
-      "setup": "Why did the bridesmaid dress feel blue?",
-      "punchline": "Because it wasn't picked as the bride's favorite!",
-      "categories": ["wedding"],
-      "tags": ["bridesmaid", "dress", "blue", "favorite", "wordplay", "clothing", "sad"]
+      "setup": "Why do bunnies have such beautiful weddings?",
+      "punchline": "Because they go to the hare-dresser!",
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "bunnies",
+        "wedding",
+        "hairdresser",
+        "hare",
+        "wordplay",
+        "beauty",
+        "grooming"
+      ]
     },
     {
       "id": 1822,
-      "setup": "What did the altar say to the couple?",
-      "punchline": "I'm here to support your union!",
-      "categories": ["wedding"],
-      "tags": ["altar", "couple", "support", "union", "wordplay", "ceremony", "structure"]
+      "setup": "What did they say about the nuclear technicians who got married?",
+      "punchline": "The bride was radiant, and the groom was glowing!",
+      "categories": [
+        "wedding",
+        "science"
+      ],
+      "tags": [
+        "nuclear",
+        "technicians",
+        "radiant",
+        "glowing",
+        "wordplay",
+        "radiation",
+        "ceremony"
+      ]
     },
     {
       "id": 1823,
-      "setup": "Why did the photographer love weddings?",
-      "punchline": "Because every moment was picture perfect!",
-      "categories": ["wedding", "work"],
-      "tags": ["photographer", "weddings", "picture perfect", "moments", "wordplay", "photos", "job"]
+      "setup": "Why do painters always fall for their spouses?",
+      "punchline": "Because they love them with all of their art!",
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "painters",
+        "spouses",
+        "art",
+        "heart",
+        "wordplay",
+        "love",
+        "creative"
+      ]
     },
     {
       "id": 1824,
       "setup": "What do you call two birds getting married?",
       "punchline": "Love birds tying the nest!",
-      "categories": ["wedding", "animals"],
-      "tags": ["birds", "married", "love birds", "nest", "wordplay", "animals", "romance"]
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "birds",
+        "married",
+        "love birds",
+        "nest",
+        "wordplay",
+        "animals",
+        "romance"
+      ]
     },
     {
       "id": 1825,
-      "setup": "Why did the wedding officiant feel powerful?",
-      "punchline": "Because they had the power to pronounce people married!",
-      "categories": ["wedding"],
-      "tags": ["officiant", "powerful", "pronounce", "married", "wordplay", "ceremony", "authority"]
+      "setup": "Why did the bee get married?",
+      "punchline": "Because he found his honey!",
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "bee",
+        "married",
+        "honey",
+        "sweetheart",
+        "wordplay",
+        "insect",
+        "love"
+      ]
     },
     {
       "id": 1826,
-      "setup": "What did the napkin say at the wedding reception?",
-      "punchline": "I'm just here to catch all the happy tears!",
-      "categories": ["wedding"],
-      "tags": ["napkin", "reception", "tears", "happy", "wordplay", "crying", "emotions"]
+      "setup": "What did the acrobat say to his new wife?",
+      "punchline": "I'm head over heels in love with you!",
+      "categories": [
+        "wedding",
+        "sports"
+      ],
+      "tags": [
+        "acrobat",
+        "wife",
+        "head over heels",
+        "love",
+        "wordplay",
+        "gymnastics",
+        "romance"
+      ]
     },
     {
       "id": 1827,
-      "setup": "Why did the groom's shoes feel polished?",
-      "punchline": "Because this was their time to shine!",
-      "categories": ["wedding"],
-      "tags": ["groom", "shoes", "polished", "shine", "wordplay", "footwear", "moment"]
+      "setup": "There are three rings in marriage.",
+      "punchline": "The engagement ring, the wedding ring, and the catering!",
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "rings",
+        "marriage",
+        "engagement",
+        "wedding",
+        "catering",
+        "wordplay",
+        "food"
+      ]
     },
     {
       "id": 1828,
       "setup": "What do you call a wedding during a thunderstorm?",
       "punchline": "A match made with a little electricity!",
-      "categories": ["wedding", "science"],
-      "tags": ["wedding", "thunderstorm", "electricity", "match", "wordplay", "weather", "romance"]
+      "categories": [
+        "wedding",
+        "science"
+      ],
+      "tags": [
+        "wedding",
+        "thunderstorm",
+        "electricity",
+        "match",
+        "wordplay",
+        "weather",
+        "romance"
+      ]
     },
     {
       "id": 1829,
       "setup": "Why did the unity candle feel lit?",
       "punchline": "Because two flames became one!",
-      "categories": ["wedding"],
-      "tags": ["unity candle", "lit", "flames", "one", "wordplay", "ceremony", "tradition"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "unity candle",
+        "lit",
+        "flames",
+        "one",
+        "wordplay",
+        "ceremony",
+        "tradition"
+      ]
     },
     {
       "id": 1830,
       "setup": "What did the wedding band say to the finger?",
       "punchline": "I'm wrapped around you forever!",
-      "categories": ["wedding"],
-      "tags": ["wedding band", "finger", "wrapped", "forever", "wordplay", "ring", "commitment"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "wedding band",
+        "finger",
+        "wrapped",
+        "forever",
+        "wordplay",
+        "ring",
+        "commitment"
+      ]
     },
     {
       "id": 1831,
-      "setup": "Why did the caterer feel saucy at the wedding?",
-      "punchline": "Because they were dishing out the love!",
-      "categories": ["wedding", "food"],
-      "tags": ["caterer", "saucy", "dishing", "love", "wordplay", "food", "reception"]
+      "setup": "How do Hawaiian brides get married?",
+      "punchline": "They walk down the isle!",
+      "categories": [
+        "wedding",
+        "geography"
+      ],
+      "tags": [
+        "hawaiian",
+        "brides",
+        "isle",
+        "aisle",
+        "wordplay",
+        "tropical",
+        "ceremony"
+      ]
     },
     {
       "id": 1832,
       "setup": "What do you call a spider getting married?",
       "punchline": "A webbing ceremony!",
-      "categories": ["wedding", "animals"],
-      "tags": ["spider", "married", "webbing", "ceremony", "wordplay", "insect", "web"]
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "spider",
+        "married",
+        "webbing",
+        "ceremony",
+        "wordplay",
+        "insect",
+        "web"
+      ]
     },
     {
       "id": 1833,
-      "setup": "Why did the bride's train feel long?",
-      "punchline": "Because it was always being followed!",
-      "categories": ["wedding"],
-      "tags": ["bride", "train", "long", "followed", "wordplay", "dress", "trailing"]
+      "setup": "Why wasn't the elevator invited to the wedding?",
+      "punchline": "Because there wasn't any groom!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "elevator",
+        "wedding",
+        "groom",
+        "room",
+        "wordplay",
+        "space",
+        "invitation"
+      ]
     },
     {
       "id": 1834,
       "setup": "What did the garter say to the bride?",
       "punchline": "I'm just here for a little leg of the journey!",
-      "categories": ["wedding"],
-      "tags": ["garter", "bride", "leg", "journey", "wordplay", "tradition", "accessory"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "garter",
+        "bride",
+        "leg",
+        "journey",
+        "wordplay",
+        "tradition",
+        "accessory"
+      ]
     },
     {
       "id": 1835,
-      "setup": "Why did the wedding venue feel booked?",
-      "punchline": "Because love stories were being written there every weekend!",
-      "categories": ["wedding"],
-      "tags": ["venue", "booked", "love stories", "weekend", "wordplay", "location", "events"]
+      "setup": "Why can't you tell a joke at a vampire wedding?",
+      "punchline": "Because the reception always sucks!",
+      "categories": [
+        "wedding",
+        "fantasy"
+      ],
+      "tags": [
+        "vampire",
+        "wedding",
+        "reception",
+        "sucks",
+        "wordplay",
+        "spooky",
+        "humor"
+      ]
     },
     {
       "id": 1836,
       "setup": "What do you call a fish getting married?",
       "punchline": "A catch of a lifetime!",
-      "categories": ["wedding", "animals"],
-      "tags": ["fish", "married", "catch", "lifetime", "wordplay", "ocean", "romance"]
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "married",
+        "catch",
+        "lifetime",
+        "wordplay",
+        "ocean",
+        "romance"
+      ]
     },
     {
       "id": 1837,
-      "setup": "Why did the seating chart feel confused?",
-      "punchline": "Because it couldn't figure out where everyone belonged!",
-      "categories": ["wedding"],
-      "tags": ["seating chart", "confused", "belonged", "guests", "wordplay", "planning", "reception"]
+      "setup": "Why don't birds write their wedding vows ahead of time?",
+      "punchline": "They like to wing it!",
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "birds",
+        "vows",
+        "wing it",
+        "improvise",
+        "wordplay",
+        "flying",
+        "ceremony"
+      ]
     },
     {
       "id": 1838,
       "setup": "What did the honeymoon say to the wedding?",
       "punchline": "I'm the sweet part that comes after!",
-      "categories": ["wedding", "travel"],
-      "tags": ["honeymoon", "wedding", "sweet", "after", "wordplay", "vacation", "romance"]
+      "categories": [
+        "wedding",
+        "travel"
+      ],
+      "tags": [
+        "honeymoon",
+        "wedding",
+        "sweet",
+        "after",
+        "wordplay",
+        "vacation",
+        "romance"
+      ]
     },
     {
       "id": 1839,
-      "setup": "Why did the ring bearer feel important?",
-      "punchline": "Because he was carrying the symbols of love!",
-      "categories": ["wedding"],
-      "tags": ["ring bearer", "important", "symbols", "love", "wordplay", "ceremony", "child"]
+      "setup": "Horse trainers always have huge weddings.",
+      "punchline": "They have a huge bridle party!",
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "horse trainers",
+        "wedding",
+        "bridle",
+        "bridal",
+        "wordplay",
+        "party",
+        "horses"
+      ]
     },
     {
       "id": 1840,
-      "setup": "What do you call a wedding at the gym?",
-      "punchline": "A match made in flex-ercise heaven!",
-      "categories": ["wedding", "sports"],
-      "tags": ["wedding", "gym", "match", "exercise", "wordplay", "fitness", "ceremony"]
+      "setup": "What did Einstein invite to his wedding?",
+      "punchline": "Time! Because time was relative!",
+      "categories": [
+        "wedding",
+        "science"
+      ],
+      "tags": [
+        "einstein",
+        "wedding",
+        "time",
+        "relative",
+        "wordplay",
+        "physics",
+        "family"
+      ]
     },
     {
       "id": 1841,
-      "setup": "Why did the wedding favor feel appreciated?",
+      "setup": "What did the wedding favor feel appreciated?",
       "punchline": "Because everyone wanted to take it home!",
-      "categories": ["wedding"],
-      "tags": ["wedding favor", "appreciated", "home", "gift", "wordplay", "reception", "keepsake"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "wedding favor",
+        "appreciated",
+        "home",
+        "gift",
+        "wordplay",
+        "reception",
+        "keepsake"
+      ]
     },
     {
       "id": 1842,
       "setup": "What did the father of the bride say during his speech?",
       "punchline": "I'm not losing a daughter, I'm gaining a punchline for future jokes!",
-      "categories": ["wedding", "family"],
-      "tags": ["father", "bride", "speech", "daughter", "wordplay", "jokes", "reception"]
+      "categories": [
+        "wedding",
+        "family"
+      ],
+      "tags": [
+        "father",
+        "bride",
+        "speech",
+        "daughter",
+        "wordplay",
+        "jokes",
+        "reception"
+      ]
     },
     {
       "id": 1843,
-      "setup": "Why did the wedding dress feel white?",
-      "punchline": "Because it was pure perfection!",
-      "categories": ["wedding"],
-      "tags": ["wedding dress", "white", "pure", "perfection", "wordplay", "clothing", "tradition"]
+      "setup": "How do celebrity brides walk to the altar?",
+      "punchline": "Down the wed carpet!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "celebrity",
+        "brides",
+        "altar",
+        "red carpet",
+        "wordplay",
+        "famous",
+        "ceremony"
+      ]
     },
     {
       "id": 1844,
       "setup": "What do you call a dentist getting married?",
       "punchline": "A filling ceremony!",
-      "categories": ["wedding", "work"],
-      "tags": ["dentist", "married", "filling", "ceremony", "wordplay", "teeth", "job"]
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "dentist",
+        "married",
+        "filling",
+        "ceremony",
+        "wordplay",
+        "teeth",
+        "job"
+      ]
     },
     {
       "id": 1845,
       "setup": "Why did the first dance feel special?",
       "punchline": "Because it was a step in the right direction!",
-      "categories": ["wedding", "music"],
-      "tags": ["first dance", "special", "step", "direction", "wordplay", "dancing", "reception"]
+      "categories": [
+        "wedding",
+        "music"
+      ],
+      "tags": [
+        "first dance",
+        "special",
+        "step",
+        "direction",
+        "wordplay",
+        "dancing",
+        "reception"
+      ]
     },
     {
       "id": 1846,
       "setup": "What did the wedding cake topper say?",
       "punchline": "I'm on top of the world... or at least the cake!",
-      "categories": ["wedding", "food"],
-      "tags": ["cake topper", "top", "world", "cake", "wordplay", "decoration", "figurine"]
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "cake topper",
+        "top",
+        "world",
+        "cake",
+        "wordplay",
+        "decoration",
+        "figurine"
+      ]
     },
     {
       "id": 1847,
-      "setup": "Why did the usher feel guided?",
-      "punchline": "Because showing people to their seats was his purpose!",
-      "categories": ["wedding"],
-      "tags": ["usher", "guided", "seats", "purpose", "wordplay", "ceremony", "job"]
+      "setup": "How do podiatrists start every wedding speech?",
+      "punchline": "I'd like to make a toes!",
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "podiatrists",
+        "speech",
+        "toes",
+        "toast",
+        "wordplay",
+        "feet",
+        "reception"
+      ]
     },
     {
       "id": 1848,
       "setup": "What do you call a clock getting married?",
       "punchline": "A timely union!",
-      "categories": ["wedding", "home"],
-      "tags": ["clock", "married", "timely", "union", "wordplay", "time", "ceremony"]
+      "categories": [
+        "wedding",
+        "home"
+      ],
+      "tags": [
+        "clock",
+        "married",
+        "timely",
+        "union",
+        "wordplay",
+        "time",
+        "ceremony"
+      ]
     },
     {
       "id": 1849,
-      "setup": "Why did the vows feel promising?",
-      "punchline": "Because they were full of commitment!",
-      "categories": ["wedding"],
-      "tags": ["vows", "promising", "commitment", "promises", "wordplay", "ceremony", "love"]
+      "setup": "Do you know any good jokes about getting married?",
+      "punchline": "I'm a frayed knot!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "married",
+        "jokes",
+        "afraid not",
+        "knot",
+        "wordplay",
+        "tying the knot",
+        "humor"
+      ]
     },
     {
       "id": 1850,
       "setup": "What did the centerpiece say to the table?",
       "punchline": "I really bring everyone together!",
-      "categories": ["wedding"],
-      "tags": ["centerpiece", "table", "together", "decoration", "wordplay", "reception", "gathering"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "centerpiece",
+        "table",
+        "together",
+        "decoration",
+        "wordplay",
+        "reception",
+        "gathering"
+      ]
     },
     {
       "id": 1851,
       "setup": "Why did the bachelor party feel single-minded?",
       "punchline": "Because it was the last night of freedom!",
-      "categories": ["wedding"],
-      "tags": ["bachelor party", "single", "freedom", "night", "wordplay", "celebration", "groom"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "bachelor party",
+        "single",
+        "freedom",
+        "night",
+        "wordplay",
+        "celebration",
+        "groom"
+      ]
     },
     {
       "id": 1852,
       "setup": "What do you call a ghost getting married?",
       "punchline": "A spook-tacular union!",
-      "categories": ["wedding", "fantasy"],
-      "tags": ["ghost", "married", "spectacular", "spooky", "wordplay", "supernatural", "ceremony"]
+      "categories": [
+        "wedding",
+        "fantasy"
+      ],
+      "tags": [
+        "ghost",
+        "married",
+        "spectacular",
+        "spooky",
+        "wordplay",
+        "supernatural",
+        "ceremony"
+      ]
     },
     {
       "id": 1853,
       "setup": "Why did the bridal shower feel wet?",
       "punchline": "Because it was raining gifts!",
-      "categories": ["wedding"],
-      "tags": ["bridal shower", "wet", "raining", "gifts", "wordplay", "party", "celebration"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "bridal shower",
+        "wet",
+        "raining",
+        "gifts",
+        "wordplay",
+        "party",
+        "celebration"
+      ]
     },
     {
       "id": 1854,
-      "setup": "What did the confetti say at the wedding?",
-      "punchline": "I'm just here to make things colorful!",
-      "categories": ["wedding"],
-      "tags": ["confetti", "wedding", "colorful", "celebration", "wordplay", "throwing", "party"]
+      "setup": "Why did the two cannonballs have a shotgun wedding?",
+      "punchline": "They were already expecting BBs!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "cannonballs",
+        "shotgun wedding",
+        "bbs",
+        "babies",
+        "wordplay",
+        "expecting",
+        "ammunition"
+      ]
     },
     {
       "id": 1855,
       "setup": "Why did the florist love weddings?",
       "punchline": "Because business was always blooming!",
-      "categories": ["wedding", "work"],
-      "tags": ["florist", "weddings", "blooming", "business", "wordplay", "flowers", "job"]
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "florist",
+        "weddings",
+        "blooming",
+        "business",
+        "wordplay",
+        "flowers",
+        "job"
+      ]
     },
     {
       "id": 1856,
       "setup": "What do you call an electrician getting married?",
       "punchline": "A current affair of the heart!",
-      "categories": ["wedding", "work"],
-      "tags": ["electrician", "married", "current", "heart", "wordplay", "electricity", "romance"]
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "electrician",
+        "married",
+        "current",
+        "heart",
+        "wordplay",
+        "electricity",
+        "romance"
+      ]
     },
     {
       "id": 1857,
-      "setup": "Why did the bridal party feel supportive?",
-      "punchline": "Because they were always standing by the bride!",
-      "categories": ["wedding"],
-      "tags": ["bridal party", "supportive", "standing", "bride", "wordplay", "friends", "ceremony"]
+      "setup": "What did the stenographer say when she broke off her engagement?",
+      "punchline": "He just wasn't my type!",
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "stenographer",
+        "engagement",
+        "type",
+        "typing",
+        "wordplay",
+        "breakup",
+        "job"
+      ]
     },
     {
       "id": 1858,
       "setup": "What did the envelope say to the RSVP card?",
       "punchline": "I've got you sealed with love!",
-      "categories": ["wedding"],
-      "tags": ["envelope", "rsvp", "sealed", "love", "wordplay", "invitation", "mail"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "envelope",
+        "rsvp",
+        "sealed",
+        "love",
+        "wordplay",
+        "invitation",
+        "mail"
+      ]
     },
     {
       "id": 1859,
-      "setup": "Why did the wedding registry feel wanted?",
-      "punchline": "Because everyone was checking it out!",
-      "categories": ["wedding"],
-      "tags": ["wedding registry", "wanted", "checking", "gifts", "wordplay", "shopping", "list"]
+      "setup": "Which side of a wedding cake has the most frosting?",
+      "punchline": "The outside!",
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "wedding cake",
+        "frosting",
+        "outside",
+        "riddle",
+        "wordplay",
+        "dessert",
+        "decoration"
+      ]
     },
     {
       "id": 1860,
       "setup": "What do you call a baker getting married?",
       "punchline": "A recipe for love!",
-      "categories": ["wedding", "food"],
-      "tags": ["baker", "married", "recipe", "love", "wordplay", "cooking", "romance"]
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "baker",
+        "married",
+        "recipe",
+        "love",
+        "wordplay",
+        "cooking",
+        "romance"
+      ]
     },
     {
       "id": 1861,
       "setup": "Why did the engagement ring feel nervous?",
       "punchline": "Because it was about to pop the question!",
-      "categories": ["wedding"],
-      "tags": ["engagement ring", "nervous", "pop the question", "proposal", "wordplay", "jewelry", "asking"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "engagement ring",
+        "nervous",
+        "pop the question",
+        "proposal",
+        "wordplay",
+        "jewelry",
+        "asking"
+      ]
     },
     {
       "id": 1862,
       "setup": "What did the dance floor say to the guests?",
       "punchline": "Come on, let's get this party started!",
-      "categories": ["wedding", "music"],
-      "tags": ["dance floor", "guests", "party", "started", "wordplay", "dancing", "reception"]
+      "categories": [
+        "wedding",
+        "music"
+      ],
+      "tags": [
+        "dance floor",
+        "guests",
+        "party",
+        "started",
+        "wordplay",
+        "dancing",
+        "reception"
+      ]
     },
     {
       "id": 1863,
-      "setup": "Why did the maid of honor feel honored?",
-      "punchline": "Because it was right there in her title!",
-      "categories": ["wedding"],
-      "tags": ["maid of honor", "honored", "title", "bride", "wordplay", "role", "ceremony"]
+      "setup": "What did the groom say when he spent $500 to rent a limousine?",
+      "punchline": "I spent all that money, and I have nothing to chauffeur it!",
+      "categories": [
+        "wedding",
+        "travel"
+      ],
+      "tags": [
+        "groom",
+        "limousine",
+        "chauffeur",
+        "show for",
+        "wordplay",
+        "transportation",
+        "money"
+      ]
     },
     {
       "id": 1864,
       "setup": "What do you call a mathematician getting married?",
       "punchline": "An addition to the family!",
-      "categories": ["wedding", "math"],
-      "tags": ["mathematician", "married", "addition", "family", "wordplay", "math", "joining"]
+      "categories": [
+        "wedding",
+        "math"
+      ],
+      "tags": [
+        "mathematician",
+        "married",
+        "addition",
+        "family",
+        "wordplay",
+        "math",
+        "joining"
+      ]
     },
     {
       "id": 1865,
       "setup": "Why did the boutonniere feel attached?",
       "punchline": "Because it was pinned to someone special!",
-      "categories": ["wedding"],
-      "tags": ["boutonniere", "attached", "pinned", "special", "wordplay", "flower", "groom"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "boutonniere",
+        "attached",
+        "pinned",
+        "special",
+        "wordplay",
+        "flower",
+        "groom"
+      ]
     },
     {
       "id": 1866,
       "setup": "What did the limousine say to the wedding party?",
       "punchline": "I'm here to drive this celebration forward!",
-      "categories": ["wedding", "travel"],
-      "tags": ["limousine", "wedding party", "drive", "celebration", "wordplay", "transportation", "luxury"]
+      "categories": [
+        "wedding",
+        "travel"
+      ],
+      "tags": [
+        "limousine",
+        "wedding party",
+        "drive",
+        "celebration",
+        "wordplay",
+        "transportation",
+        "luxury"
+      ]
     },
     {
       "id": 1867,
-      "setup": "Why did the save-the-date feel important?",
-      "punchline": "Because it was marking a moment in history!",
-      "categories": ["wedding"],
-      "tags": ["save the date", "important", "marking", "history", "wordplay", "calendar", "invitation"]
+      "setup": "What's it called when you get the weird feeling you heard the same song earlier?",
+      "punchline": "DJ-vu!",
+      "categories": [
+        "wedding",
+        "music"
+      ],
+      "tags": [
+        "song",
+        "feeling",
+        "deja vu",
+        "dj",
+        "wordplay",
+        "reception",
+        "music"
+      ]
     },
     {
       "id": 1868,
       "setup": "What do you call a weatherman getting married?",
       "punchline": "A forecast for sunny days ahead!",
-      "categories": ["wedding", "work"],
-      "tags": ["weatherman", "married", "forecast", "sunny", "wordplay", "weather", "future"]
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "weatherman",
+        "married",
+        "forecast",
+        "sunny",
+        "wordplay",
+        "weather",
+        "future"
+      ]
     },
     {
       "id": 1869,
       "setup": "Why did the wedding hashtag trend?",
       "punchline": "Because love was going viral!",
-      "categories": ["wedding", "technology"],
-      "tags": ["wedding hashtag", "trend", "viral", "love", "wordplay", "social media", "internet"]
+      "categories": [
+        "wedding",
+        "technology"
+      ],
+      "tags": [
+        "wedding hashtag",
+        "trend",
+        "viral",
+        "love",
+        "wordplay",
+        "social media",
+        "internet"
+      ]
     },
     {
       "id": 1870,
       "setup": "What did the sparklers say at the reception?",
       "punchline": "We're here to light up your love!",
-      "categories": ["wedding"],
-      "tags": ["sparklers", "reception", "light up", "love", "wordplay", "celebration", "fire"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "sparklers",
+        "reception",
+        "light up",
+        "love",
+        "wordplay",
+        "celebration",
+        "fire"
+      ]
     },
     {
       "id": 1871,
-      "setup": "Why did the prenup feel protective?",
-      "punchline": "Because it was looking out for both parties!",
-      "categories": ["wedding", "work"],
-      "tags": ["prenup", "protective", "parties", "legal", "wordplay", "document", "marriage"]
+      "setup": "Marriage is like a walk in the park...",
+      "punchline": "Jurassic Park!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "marriage",
+        "walk",
+        "park",
+        "jurassic",
+        "wordplay",
+        "dinosaurs",
+        "humor"
+      ]
     },
     {
       "id": 1872,
       "setup": "What do you call a gardener getting married?",
       "punchline": "A growing relationship!",
-      "categories": ["wedding", "outdoors"],
-      "tags": ["gardener", "married", "growing", "relationship", "wordplay", "plants", "romance"]
+      "categories": [
+        "wedding",
+        "outdoors"
+      ],
+      "tags": [
+        "gardener",
+        "married",
+        "growing",
+        "relationship",
+        "wordplay",
+        "plants",
+        "romance"
+      ]
     },
     {
       "id": 1873,
       "setup": "Why did the something borrowed feel used?",
       "punchline": "Because it had been to weddings before!",
-      "categories": ["wedding"],
-      "tags": ["something borrowed", "used", "weddings", "tradition", "wordplay", "lucky", "item"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "something borrowed",
+        "used",
+        "weddings",
+        "tradition",
+        "wordplay",
+        "lucky",
+        "item"
+      ]
     },
     {
       "id": 1874,
       "setup": "What did the church bells say?",
       "punchline": "We're ringing in a new chapter!",
-      "categories": ["wedding", "music"],
-      "tags": ["church bells", "ringing", "chapter", "ceremony", "wordplay", "sound", "celebration"]
+      "categories": [
+        "wedding",
+        "music"
+      ],
+      "tags": [
+        "church bells",
+        "ringing",
+        "chapter",
+        "ceremony",
+        "wordplay",
+        "sound",
+        "celebration"
+      ]
     },
     {
       "id": 1875,
-      "setup": "Why did the wedding speech feel lengthy?",
-      "punchline": "Because the best man had a lot to say about love!",
-      "categories": ["wedding"],
-      "tags": ["wedding speech", "lengthy", "best man", "love", "wordplay", "talking", "reception"]
+      "setup": "The sound of marriage has something nice about it.",
+      "punchline": "It has a nice ring to it!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "marriage",
+        "sound",
+        "ring",
+        "nice",
+        "wordplay",
+        "wedding ring",
+        "expression"
+      ]
     },
     {
       "id": 1876,
       "setup": "What do you call a pilot getting married?",
       "punchline": "A love that's really taking off!",
-      "categories": ["wedding", "travel"],
-      "tags": ["pilot", "married", "taking off", "love", "wordplay", "flying", "romance"]
+      "categories": [
+        "wedding",
+        "travel"
+      ],
+      "tags": [
+        "pilot",
+        "married",
+        "taking off",
+        "love",
+        "wordplay",
+        "flying",
+        "romance"
+      ]
     },
     {
       "id": 1877,
       "setup": "Why did the thank you cards feel grateful?",
       "punchline": "Because they were spreading appreciation!",
-      "categories": ["wedding"],
-      "tags": ["thank you cards", "grateful", "appreciation", "spreading", "wordplay", "stationery", "gifts"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "thank you cards",
+        "grateful",
+        "appreciation",
+        "spreading",
+        "wordplay",
+        "stationery",
+        "gifts"
+      ]
     },
     {
       "id": 1878,
       "setup": "What did the aisle runner say to the bride?",
       "punchline": "Walk all over me, it's your special day!",
-      "categories": ["wedding"],
-      "tags": ["aisle runner", "bride", "walk", "special day", "wordplay", "carpet", "ceremony"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "aisle runner",
+        "bride",
+        "walk",
+        "special day",
+        "wordplay",
+        "carpet",
+        "ceremony"
+      ]
     },
     {
       "id": 1879,
-      "setup": "Why did the rehearsal dinner feel practiced?",
-      "punchline": "Because everyone was getting ready for the big show!",
-      "categories": ["wedding", "food"],
-      "tags": ["rehearsal dinner", "practiced", "ready", "show", "wordplay", "preparation", "event"]
+      "setup": "For butter or worse...",
+      "punchline": "A toast to the newlyweds!",
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "butter",
+        "worse",
+        "toast",
+        "newlyweds",
+        "wordplay",
+        "bread",
+        "reception"
+      ]
     },
     {
       "id": 1880,
       "setup": "What do you call a lawyer getting married?",
       "punchline": "A court-ship turned commitment!",
-      "categories": ["wedding", "work"],
-      "tags": ["lawyer", "married", "courtship", "commitment", "wordplay", "legal", "romance"]
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "lawyer",
+        "married",
+        "courtship",
+        "commitment",
+        "wordplay",
+        "legal",
+        "romance"
+      ]
     },
     {
       "id": 1881,
-      "setup": "Why did the champagne toast feel raised?",
-      "punchline": "Because glasses were lifted in honor of love!",
-      "categories": ["wedding", "food"],
-      "tags": ["champagne toast", "raised", "glasses", "honor", "wordplay", "drinks", "celebration"]
+      "setup": "Why was the maid of honor in a rush to get married?",
+      "punchline": "She wasn't! She was just aisle be right back!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "maid of honor",
+        "rush",
+        "aisle",
+        "right back",
+        "wordplay",
+        "ceremony",
+        "bridal party"
+      ]
     },
     {
       "id": 1882,
       "setup": "What did the something blue say?",
       "punchline": "I'm here to bring good luck, not sadness!",
-      "categories": ["wedding"],
-      "tags": ["something blue", "luck", "sadness", "tradition", "wordplay", "color", "item"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "something blue",
+        "luck",
+        "sadness",
+        "tradition",
+        "wordplay",
+        "color",
+        "item"
+      ]
     },
     {
       "id": 1883,
       "setup": "Why did the groomsmen feel suited?",
       "punchline": "Because they were perfectly dressed for the occasion!",
-      "categories": ["wedding"],
-      "tags": ["groomsmen", "suited", "dressed", "occasion", "wordplay", "clothing", "ceremony"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "groomsmen",
+        "suited",
+        "dressed",
+        "occasion",
+        "wordplay",
+        "clothing",
+        "ceremony"
+      ]
     },
     {
       "id": 1884,
       "setup": "What do you call a chef getting married?",
       "punchline": "A perfect pairing!",
-      "categories": ["wedding", "food"],
-      "tags": ["chef", "married", "pairing", "cooking", "wordplay", "food", "romance"]
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "chef",
+        "married",
+        "pairing",
+        "cooking",
+        "wordplay",
+        "food",
+        "romance"
+      ]
     },
     {
       "id": 1885,
-      "setup": "Why did the wedding program feel informative?",
-      "punchline": "Because it had all the details covered!",
-      "categories": ["wedding"],
-      "tags": ["wedding program", "informative", "details", "covered", "wordplay", "schedule", "ceremony"]
+      "setup": "What is a ghost's favorite part of a wedding?",
+      "punchline": "The booooouquet toss!",
+      "categories": [
+        "wedding",
+        "fantasy"
+      ],
+      "tags": [
+        "ghost",
+        "wedding",
+        "boo",
+        "bouquet",
+        "wordplay",
+        "spooky",
+        "toss"
+      ]
     },
     {
       "id": 1886,
       "setup": "What did the diamond say to the engagement ring setting?",
       "punchline": "Thanks for holding me up during this big moment!",
-      "categories": ["wedding"],
-      "tags": ["diamond", "setting", "holding", "moment", "wordplay", "jewelry", "proposal"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "diamond",
+        "setting",
+        "holding",
+        "moment",
+        "wordplay",
+        "jewelry",
+        "proposal"
+      ]
     },
     {
       "id": 1887,
       "setup": "Why did the bachelorette party feel wild?",
       "punchline": "Because it was the bride's last fling before the ring!",
-      "categories": ["wedding"],
-      "tags": ["bachelorette party", "wild", "fling", "ring", "wordplay", "celebration", "bride"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "bachelorette party",
+        "wild",
+        "fling",
+        "ring",
+        "wordplay",
+        "celebration",
+        "bride"
+      ]
     },
     {
       "id": 1888,
       "setup": "What do you call a judge getting married?",
       "punchline": "A ruling in favor of love!",
-      "categories": ["wedding", "work"],
-      "tags": ["judge", "married", "ruling", "love", "wordplay", "court", "romance"]
+      "categories": [
+        "wedding",
+        "work"
+      ],
+      "tags": [
+        "judge",
+        "married",
+        "ruling",
+        "love",
+        "wordplay",
+        "court",
+        "romance"
+      ]
     },
     {
       "id": 1889,
-      "setup": "Why did the flower arrangement feel centered?",
+      "setup": "What did the flower arrangement feel centered?",
       "punchline": "Because it was the focus of attention!",
-      "categories": ["wedding", "outdoors"],
-      "tags": ["flower arrangement", "centered", "focus", "attention", "wordplay", "decoration", "flowers"]
+      "categories": [
+        "wedding",
+        "outdoors"
+      ],
+      "tags": [
+        "flower arrangement",
+        "centered",
+        "focus",
+        "attention",
+        "wordplay",
+        "decoration",
+        "flowers"
+      ]
     },
     {
       "id": 1890,
       "setup": "What did the wedding band say to the crowd?",
       "punchline": "We're here to make some beautiful music together!",
-      "categories": ["wedding", "music"],
-      "tags": ["wedding band", "crowd", "music", "together", "wordplay", "musicians", "reception"]
+      "categories": [
+        "wedding",
+        "music"
+      ],
+      "tags": [
+        "wedding band",
+        "crowd",
+        "music",
+        "together",
+        "wordplay",
+        "musicians",
+        "reception"
+      ]
     },
     {
       "id": 1891,
-      "setup": "Why did the mother of the bride cry?",
-      "punchline": "Because her baby was finally getting her happily ever after!",
-      "categories": ["wedding", "family"],
-      "tags": ["mother", "bride", "cry", "happily ever after", "wordplay", "emotions", "family"]
+      "setup": "You may now kiss...",
+      "punchline": "Your bae-ter half!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "kiss",
+        "bae",
+        "better half",
+        "spouse",
+        "wordplay",
+        "ceremony",
+        "love"
+      ]
     },
     {
       "id": 1892,
       "setup": "What do you call an astronaut getting married?",
       "punchline": "A love that's out of this world!",
-      "categories": ["wedding", "science"],
-      "tags": ["astronaut", "married", "out of this world", "space", "wordplay", "love", "romance"]
+      "categories": [
+        "wedding",
+        "science"
+      ],
+      "tags": [
+        "astronaut",
+        "married",
+        "out of this world",
+        "space",
+        "wordplay",
+        "love",
+        "romance"
+      ]
     },
     {
       "id": 1893,
       "setup": "Why did the place cards feel assigned?",
       "punchline": "Because they knew exactly where everyone belonged!",
-      "categories": ["wedding"],
-      "tags": ["place cards", "assigned", "belonged", "seating", "wordplay", "reception", "guests"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "place cards",
+        "assigned",
+        "belonged",
+        "seating",
+        "wordplay",
+        "reception",
+        "guests"
+      ]
     },
     {
       "id": 1894,
       "setup": "What did the marriage license say?",
       "punchline": "I'm the official stamp of approval on your love!",
-      "categories": ["wedding"],
-      "tags": ["marriage license", "official", "stamp", "approval", "wordplay", "document", "legal"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "marriage license",
+        "official",
+        "stamp",
+        "approval",
+        "wordplay",
+        "document",
+        "legal"
+      ]
     },
     {
       "id": 1895,
       "setup": "Why did the cake cutting feel divided?",
       "punchline": "Because it was sharing sweetness with everyone!",
-      "categories": ["wedding", "food"],
-      "tags": ["cake cutting", "divided", "sharing", "sweetness", "wordplay", "tradition", "dessert"]
+      "categories": [
+        "wedding",
+        "food"
+      ],
+      "tags": [
+        "cake cutting",
+        "divided",
+        "sharing",
+        "sweetness",
+        "wordplay",
+        "tradition",
+        "dessert"
+      ]
     },
     {
       "id": 1896,
       "setup": "What do you call a teacher getting married?",
       "punchline": "A lesson in love!",
-      "categories": ["wedding", "school"],
-      "tags": ["teacher", "married", "lesson", "love", "wordplay", "education", "romance"]
+      "categories": [
+        "wedding",
+        "school"
+      ],
+      "tags": [
+        "teacher",
+        "married",
+        "lesson",
+        "love",
+        "wordplay",
+        "education",
+        "romance"
+      ]
     },
     {
       "id": 1897,
-      "setup": "Why did the exit sign feel ignored at the wedding?",
-      "punchline": "Because nobody wanted to leave the celebration!",
-      "categories": ["wedding"],
-      "tags": ["exit sign", "ignored", "leave", "celebration", "wordplay", "party", "staying"]
+      "setup": "Why did the groom almost not make it to the wedding?",
+      "punchline": "He had cold feet, but the bride warmed them with a hairdryer!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "groom",
+        "wedding",
+        "cold feet",
+        "nervous",
+        "wordplay",
+        "bride",
+        "ceremony"
+      ]
     },
     {
       "id": 1898,
       "setup": "What did the getaway car say to the newlyweds?",
       "punchline": "Hop in, your adventure awaits!",
-      "categories": ["wedding", "travel"],
-      "tags": ["getaway car", "newlyweds", "adventure", "awaits", "wordplay", "departure", "honeymoon"]
+      "categories": [
+        "wedding",
+        "travel"
+      ],
+      "tags": [
+        "getaway car",
+        "newlyweds",
+        "adventure",
+        "awaits",
+        "wordplay",
+        "departure",
+        "honeymoon"
+      ]
     },
     {
       "id": 1899,
-      "setup": "Why did the anniversary feel celebrated?",
-      "punchline": "Because it marked another year of saying I do!",
-      "categories": ["wedding", "birthday"],
-      "tags": ["anniversary", "celebrated", "year", "i do", "wordplay", "milestone", "marriage"]
+      "setup": "Why do men stand on the left during a wedding ceremony?",
+      "punchline": "Because women are always right!",
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "men",
+        "left",
+        "ceremony",
+        "women",
+        "right",
+        "wordplay",
+        "tradition"
+      ]
     },
     {
       "id": 1900,
       "setup": "What did the happily ever after say to the couple?",
       "punchline": "I've been waiting for you two all along!",
-      "categories": ["wedding"],
-      "tags": ["happily ever after", "couple", "waiting", "love", "wordplay", "fairy tale", "ending"]
+      "categories": [
+        "wedding"
+      ],
+      "tags": [
+        "happily ever after",
+        "couple",
+        "waiting",
+        "love",
+        "wordplay",
+        "fairy tale",
+        "ending"
+      ]
     },
     {
       "id": 1901,
       "setup": "Why did the calendar feel overworked?",
       "punchline": "Because its days were numbered!",
-      "categories": ["work"],
-      "tags": ["calendar", "overworked", "days", "numbered", "wordplay", "schedule", "busy"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "calendar",
+        "overworked",
+        "days",
+        "numbered",
+        "wordplay",
+        "schedule",
+        "busy"
+      ]
     },
     {
       "id": 1902,
       "setup": "What did the boss say to the spreadsheet?",
-      "punchline": "You really excel at your job!",
-      "categories": ["work", "technology"],
-      "tags": ["boss", "spreadsheet", "excel", "job", "wordplay", "office", "microsoft"]
+      "punchline": "You really Excel at your job!",
+      "categories": [
+        "work",
+        "technology"
+      ],
+      "tags": [
+        "boss",
+        "spreadsheet",
+        "excel",
+        "job",
+        "wordplay",
+        "office",
+        "microsoft"
+      ]
     },
     {
       "id": 1903,
       "setup": "Why did the employee bring a blanket to work?",
       "punchline": "Because they wanted to cover all their bases!",
-      "categories": ["work", "sports"],
-      "tags": ["employee", "blanket", "cover", "bases", "wordplay", "office", "prepared"]
+      "categories": [
+        "work",
+        "sports"
+      ],
+      "tags": [
+        "employee",
+        "blanket",
+        "cover",
+        "bases",
+        "wordplay",
+        "office",
+        "prepared"
+      ]
     },
     {
       "id": 1904,
       "setup": "What do you call a person who's happy on Monday?",
       "punchline": "Retired!",
-      "categories": ["work"],
-      "tags": ["happy", "monday", "retired", "weekend", "wordplay", "job", "week"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "happy",
+        "monday",
+        "retired",
+        "weekend",
+        "wordplay",
+        "job",
+        "week"
+      ]
     },
     {
       "id": 1905,
       "setup": "Why did the coffee file a police report at the office?",
       "punchline": "Because it got mugged!",
-      "categories": ["work", "food"],
-      "tags": ["coffee", "police report", "mugged", "office", "wordplay", "drink", "crime"]
+      "categories": [
+        "work",
+        "food"
+      ],
+      "tags": [
+        "coffee",
+        "police report",
+        "mugged",
+        "office",
+        "wordplay",
+        "drink",
+        "crime"
+      ]
     },
     {
       "id": 1906,
       "setup": "What did the elevator say to its coworker?",
       "punchline": "I think I'm coming down with something!",
-      "categories": ["work", "home"],
-      "tags": ["elevator", "coworker", "coming down", "sick", "wordplay", "building", "floors"]
+      "categories": [
+        "work",
+        "home"
+      ],
+      "tags": [
+        "elevator",
+        "coworker",
+        "coming down",
+        "sick",
+        "wordplay",
+        "building",
+        "floors"
+      ]
     },
     {
       "id": 1907,
       "setup": "Why did the vacuum cleaner get a promotion?",
       "punchline": "Because it really sucked up to the boss!",
-      "categories": ["work", "home"],
-      "tags": ["vacuum cleaner", "promotion", "sucked up", "boss", "wordplay", "cleaning", "success"]
+      "categories": [
+        "work",
+        "home"
+      ],
+      "tags": [
+        "vacuum cleaner",
+        "promotion",
+        "sucked up",
+        "boss",
+        "wordplay",
+        "cleaning",
+        "success"
+      ]
     },
     {
       "id": 1908,
       "setup": "What do you call a factory that makes average products?",
       "punchline": "A satisfactory!",
-      "categories": ["work"],
-      "tags": ["factory", "average", "satisfactory", "products", "wordplay", "manufacturing", "okay"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "factory",
+        "average",
+        "satisfactory",
+        "products",
+        "wordplay",
+        "manufacturing",
+        "okay"
+      ]
     },
     {
       "id": 1909,
-      "setup": "Why did the resume feel nervous?",
-      "punchline": "Because it was about to get reviewed!",
-      "categories": ["work"],
-      "tags": ["resume", "nervous", "reviewed", "job", "wordplay", "hiring", "application"]
+      "setup": "Boss: 'How good are you at PowerPoint?'",
+      "punchline": "Me: 'I Excel at it.' Boss: 'Was that a Microsoft Office pun?' Me: 'Word.'",
+      "categories": [
+        "work",
+        "technology"
+      ],
+      "tags": [
+        "boss",
+        "powerpoint",
+        "excel",
+        "word",
+        "wordplay",
+        "microsoft",
+        "office"
+      ]
     },
     {
       "id": 1910,
       "setup": "What did the paperclip say to the magnet?",
       "punchline": "I find you very attractive at work!",
-      "categories": ["work", "science"],
-      "tags": ["paperclip", "magnet", "attractive", "office", "wordplay", "supplies", "magnetism"]
+      "categories": [
+        "work",
+        "science"
+      ],
+      "tags": [
+        "paperclip",
+        "magnet",
+        "attractive",
+        "office",
+        "wordplay",
+        "supplies",
+        "magnetism"
+      ]
     },
     {
       "id": 1911,
       "setup": "Why did the accountant break up with the calculator?",
       "punchline": "Because they felt they could only count on themselves!",
-      "categories": ["work", "math"],
-      "tags": ["accountant", "calculator", "breakup", "count", "wordplay", "numbers", "relationship"]
+      "categories": [
+        "work",
+        "math"
+      ],
+      "tags": [
+        "accountant",
+        "calculator",
+        "breakup",
+        "count",
+        "wordplay",
+        "numbers",
+        "relationship"
+      ]
     },
     {
       "id": 1912,
-      "setup": "What do you call a meeting that could have been an email?",
-      "punchline": "A waste of company time!",
-      "categories": ["work"],
-      "tags": ["meeting", "email", "waste", "time", "wordplay", "office", "productivity"]
+      "setup": "Why did the employee get fired from the calendar factory?",
+      "punchline": "He took a day off!",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "employee",
+        "fired",
+        "calendar",
+        "day off",
+        "wordplay",
+        "factory",
+        "termination"
+      ]
     },
     {
       "id": 1913,
       "setup": "Why did the light bulb get an award at work?",
       "punchline": "Because it had a bright idea!",
-      "categories": ["work", "home"],
-      "tags": ["light bulb", "award", "bright", "idea", "wordplay", "innovation", "recognition"]
+      "categories": [
+        "work",
+        "home"
+      ],
+      "tags": [
+        "light bulb",
+        "award",
+        "bright",
+        "idea",
+        "wordplay",
+        "innovation",
+        "recognition"
+      ]
     },
     {
       "id": 1914,
-      "setup": "What did the stressed employee say to the deadline?",
-      "punchline": "Stop rushing me, I'm doing my best!",
-      "categories": ["work"],
-      "tags": ["stressed", "employee", "deadline", "rushing", "wordplay", "pressure", "time"]
+      "setup": "My boss told me to have a good day.",
+      "punchline": "So I went home!",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "boss",
+        "good day",
+        "home",
+        "leave",
+        "wordplay",
+        "office",
+        "humor"
+      ]
     },
     {
       "id": 1915,
       "setup": "Why did the construction worker quit?",
       "punchline": "Because he felt like he was hitting a wall!",
-      "categories": ["work"],
-      "tags": ["construction worker", "quit", "hitting a wall", "building", "wordplay", "frustrated", "job"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "construction worker",
+        "quit",
+        "hitting a wall",
+        "building",
+        "wordplay",
+        "frustrated",
+        "job"
+      ]
     },
     {
       "id": 1916,
-      "setup": "What do you call a lazy office chair?",
-      "punchline": "One that won't support you!",
-      "categories": ["work"],
-      "tags": ["lazy", "office chair", "support", "sitting", "wordplay", "furniture", "ergonomic"]
+      "setup": "I quit my job at the helium factory.",
+      "punchline": "I refuse to be spoken to in that tone of voice!",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "helium",
+        "factory",
+        "quit",
+        "tone",
+        "voice",
+        "wordplay",
+        "high pitched"
+      ]
     },
     {
       "id": 1917,
       "setup": "Why did the banker switch careers?",
       "punchline": "Because he lost interest!",
-      "categories": ["work", "math"],
-      "tags": ["banker", "careers", "interest", "money", "wordplay", "finance", "bored"]
+      "categories": [
+        "work",
+        "math"
+      ],
+      "tags": [
+        "banker",
+        "careers",
+        "interest",
+        "money",
+        "wordplay",
+        "finance",
+        "bored"
+      ]
     },
     {
       "id": 1918,
-      "setup": "What did the sticky note say to the important document?",
-      "punchline": "I'm just here to remind you of something!",
-      "categories": ["work"],
-      "tags": ["sticky note", "document", "remind", "office", "wordplay", "memory", "supplies"]
+      "setup": "My boss asked me to start my presentation with a joke.",
+      "punchline": "So I put my paycheck on the first slide!",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "boss",
+        "presentation",
+        "joke",
+        "paycheck",
+        "wordplay",
+        "salary",
+        "humor"
+      ]
     },
     {
       "id": 1919,
       "setup": "Why did the secretary break up with the filing cabinet?",
       "punchline": "Because the relationship was too compartmentalized!",
-      "categories": ["work"],
-      "tags": ["secretary", "filing cabinet", "breakup", "compartmentalized", "wordplay", "office", "organized"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "secretary",
+        "filing cabinet",
+        "breakup",
+        "compartmentalized",
+        "wordplay",
+        "office",
+        "organized"
+      ]
     },
     {
       "id": 1920,
-      "setup": "What do you call a snowman in the summer who works hard?",
-      "punchline": "Dedicated... until they melt under pressure!",
-      "categories": ["work", "holidays"],
-      "tags": ["snowman", "summer", "dedicated", "pressure", "wordplay", "melting", "stress"]
+      "setup": "Why did the employee stare at the can of orange juice?",
+      "punchline": "Because it said concentrate!",
+      "categories": [
+        "work",
+        "food"
+      ],
+      "tags": [
+        "employee",
+        "orange juice",
+        "concentrate",
+        "focus",
+        "wordplay",
+        "drink",
+        "office"
+      ]
     },
     {
       "id": 1921,
-      "setup": "Why did the employee eat their timesheet?",
-      "punchline": "Because the boss said they needed to digest the hours!",
-      "categories": ["work", "food"],
-      "tags": ["employee", "timesheet", "digest", "hours", "wordplay", "eating", "payroll"]
+      "setup": "I got a job at a paperless office.",
+      "punchline": "Everything was great until I needed to use the bathroom!",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "paperless",
+        "office",
+        "bathroom",
+        "toilet paper",
+        "wordplay",
+        "technology",
+        "humor"
+      ]
     },
     {
       "id": 1922,
       "setup": "What did the pencil say during the performance review?",
       "punchline": "I've been making my point all year!",
-      "categories": ["work", "school"],
-      "tags": ["pencil", "performance review", "point", "year", "wordplay", "sharp", "evaluation"]
+      "categories": [
+        "work",
+        "school"
+      ],
+      "tags": [
+        "pencil",
+        "performance review",
+        "point",
+        "year",
+        "wordplay",
+        "sharp",
+        "evaluation"
+      ]
     },
     {
       "id": 1923,
       "setup": "Why did the optometrist go to work happy?",
       "punchline": "Because they were looking forward to it!",
-      "categories": ["work"],
-      "tags": ["optometrist", "happy", "looking forward", "eyes", "wordplay", "vision", "job"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "optometrist",
+        "happy",
+        "looking forward",
+        "eyes",
+        "wordplay",
+        "vision",
+        "job"
+      ]
     },
     {
       "id": 1924,
       "setup": "What do you call a fish that's a CEO?",
       "punchline": "The head of the school!",
-      "categories": ["work", "animals"],
-      "tags": ["fish", "ceo", "head", "school", "wordplay", "ocean", "leader"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "ceo",
+        "head",
+        "school",
+        "wordplay",
+        "ocean",
+        "leader"
+      ]
     },
     {
       "id": 1925,
       "setup": "Why did the candle get fired?",
       "punchline": "Because it kept burning out at work!",
-      "categories": ["work", "home"],
-      "tags": ["candle", "fired", "burning out", "burnout", "wordplay", "exhausted", "job"]
+      "categories": [
+        "work",
+        "home"
+      ],
+      "tags": [
+        "candle",
+        "fired",
+        "burning out",
+        "burnout",
+        "wordplay",
+        "exhausted",
+        "job"
+      ]
     },
     {
       "id": 1926,
-      "setup": "What did the manager say to the unmotivated clock?",
-      "punchline": "It's time to step up your game!",
-      "categories": ["work"],
-      "tags": ["manager", "clock", "time", "step up", "wordplay", "motivation", "deadline"]
+      "setup": "A guy shows up late for work. The boss yells, 'You should've been here at 8:30!'",
+      "punchline": "He replies, 'Why? What happened at 8:30?'",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "late",
+        "work",
+        "boss",
+        "time",
+        "wordplay",
+        "misunderstanding",
+        "humor"
+      ]
     },
     {
       "id": 1927,
       "setup": "Why did the envelope seal the deal?",
       "punchline": "Because it knew how to stick to business!",
-      "categories": ["work"],
-      "tags": ["envelope", "seal the deal", "stick", "business", "wordplay", "office", "contracts"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "envelope",
+        "seal the deal",
+        "stick",
+        "business",
+        "wordplay",
+        "office",
+        "contracts"
+      ]
     },
     {
       "id": 1928,
-      "setup": "What do you call a dinosaur who works in HR?",
-      "punchline": "A Tyranno-source of conflict resolution!",
-      "categories": ["work", "animals"],
-      "tags": ["dinosaur", "hr", "tyrannosaurus", "conflict resolution", "wordplay", "prehistoric", "department"]
+      "setup": "Why did the janitor get promoted?",
+      "punchline": "Because he swept the competition!",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "janitor",
+        "promoted",
+        "swept",
+        "competition",
+        "wordplay",
+        "cleaning",
+        "success"
+      ]
     },
     {
       "id": 1929,
-      "setup": "Why did the coffee pot feel important at the office?",
-      "punchline": "Because everyone depended on it every morning!",
-      "categories": ["work", "food"],
-      "tags": ["coffee pot", "important", "office", "morning", "wordplay", "caffeine", "essential"]
+      "setup": "I told my boss I saw a deer on the way to work.",
+      "punchline": "He said, 'How do you know it was going to work?'",
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "boss",
+        "deer",
+        "work",
+        "commute",
+        "wordplay",
+        "misunderstanding",
+        "humor"
+      ]
     },
     {
       "id": 1930,
       "setup": "What did the networking event say to the introvert?",
       "punchline": "Come on, let's make some connections!",
-      "categories": ["work"],
-      "tags": ["networking", "event", "introvert", "connections", "wordplay", "social", "career"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "networking",
+        "event",
+        "introvert",
+        "connections",
+        "wordplay",
+        "social",
+        "career"
+      ]
     },
     {
       "id": 1931,
       "setup": "Why did the tailor get promoted?",
       "punchline": "Because he was a perfect fit for the position!",
-      "categories": ["work"],
-      "tags": ["tailor", "promoted", "fit", "position", "wordplay", "sewing", "job"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "tailor",
+        "promoted",
+        "fit",
+        "position",
+        "wordplay",
+        "sewing",
+        "job"
+      ]
     },
     {
       "id": 1932,
       "setup": "What do you call a lazy skeleton at work?",
       "punchline": "Bone idle!",
-      "categories": ["work", "fantasy"],
-      "tags": ["skeleton", "lazy", "bone idle", "work", "wordplay", "bones", "unmotivated"]
+      "categories": [
+        "work",
+        "fantasy"
+      ],
+      "tags": [
+        "skeleton",
+        "lazy",
+        "bone idle",
+        "work",
+        "wordplay",
+        "bones",
+        "unmotivated"
+      ]
     },
     {
       "id": 1933,
-      "setup": "Why did the presentation feel nervous?",
-      "punchline": "Because it was about to be shown up in front of everyone!",
-      "categories": ["work"],
-      "tags": ["presentation", "nervous", "shown", "everyone", "wordplay", "meeting", "slides"]
+      "setup": "I'm a big fan of whiteboards.",
+      "punchline": "They're re-markable!",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "whiteboards",
+        "fan",
+        "remarkable",
+        "marker",
+        "wordplay",
+        "office",
+        "supplies"
+      ]
     },
     {
       "id": 1934,
       "setup": "What did the office plant say to the window?",
       "punchline": "Thanks for letting me grow in this position!",
-      "categories": ["work", "outdoors"],
-      "tags": ["office plant", "window", "grow", "position", "wordplay", "sunlight", "career"]
+      "categories": [
+        "work",
+        "outdoors"
+      ],
+      "tags": [
+        "office plant",
+        "window",
+        "grow",
+        "position",
+        "wordplay",
+        "sunlight",
+        "career"
+      ]
     },
     {
       "id": 1935,
       "setup": "Why did the comedian get fired from the office?",
       "punchline": "Because they took too many pun-ch breaks!",
-      "categories": ["work"],
-      "tags": ["comedian", "fired", "pun", "breaks", "wordplay", "jokes", "office"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "comedian",
+        "fired",
+        "pun",
+        "breaks",
+        "wordplay",
+        "jokes",
+        "office"
+      ]
     },
     {
       "id": 1936,
       "setup": "What do you call a bear working in finance?",
       "punchline": "A stock market bear!",
-      "categories": ["work", "animals"],
-      "tags": ["bear", "finance", "stock market", "trading", "wordplay", "wall street", "investing"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "bear",
+        "finance",
+        "stock market",
+        "trading",
+        "wordplay",
+        "wall street",
+        "investing"
+      ]
     },
     {
       "id": 1937,
-      "setup": "Why did the voicemail feel ignored at work?",
-      "punchline": "Because nobody ever listened to it anymore!",
-      "categories": ["work", "technology"],
-      "tags": ["voicemail", "ignored", "listened", "phone", "wordplay", "communication", "obsolete"]
+      "setup": "My boss is going to fire the employee with the worst posture.",
+      "punchline": "I have a hunch it's going to be me!",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "boss",
+        "fire",
+        "posture",
+        "hunch",
+        "wordplay",
+        "back",
+        "suspicion"
+      ]
     },
     {
       "id": 1938,
-      "setup": "What did the hiring manager say to the exceptional candidate?",
-      "punchline": "You're hired... effective immediately!",
-      "categories": ["work"],
-      "tags": ["hiring manager", "candidate", "hired", "immediately", "wordplay", "job", "interview"]
+      "setup": "Employer: 'We need someone responsible for this job.'",
+      "punchline": "Applicant: 'I'm your person! In my last job, whenever something went wrong, everyone said I was responsible!'",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "employer",
+        "responsible",
+        "job",
+        "interview",
+        "wordplay",
+        "blame",
+        "humor"
+      ]
     },
     {
       "id": 1939,
-      "setup": "Why did the conveyor belt feel used?",
-      "punchline": "Because everyone just kept walking all over it!",
-      "categories": ["work"],
-      "tags": ["conveyor belt", "used", "walking", "factory", "wordplay", "manufacturing", "movement"]
+      "setup": "I quit my job at the bakery.",
+      "punchline": "I couldn't make enough dough!",
+      "categories": [
+        "work",
+        "food"
+      ],
+      "tags": [
+        "bakery",
+        "quit",
+        "dough",
+        "money",
+        "wordplay",
+        "bread",
+        "salary"
+      ]
     },
     {
       "id": 1940,
-      "setup": "What do you call a clumsy coworker?",
-      "punchline": "An accident waiting to happen at the water cooler!",
-      "categories": ["work"],
-      "tags": ["clumsy", "coworker", "accident", "water cooler", "wordplay", "office", "spills"]
+      "setup": "Why did the train driver get promoted?",
+      "punchline": "He was on the right track!",
+      "categories": [
+        "work",
+        "travel"
+      ],
+      "tags": [
+        "train driver",
+        "promoted",
+        "track",
+        "success",
+        "wordplay",
+        "railroad",
+        "career"
+      ]
     },
     {
       "id": 1941,
       "setup": "Why did the pen feel blue at work?",
       "punchline": "Because it was always getting clicked around!",
-      "categories": ["work", "school"],
-      "tags": ["pen", "blue", "clicked", "office", "wordplay", "supplies", "sad"]
+      "categories": [
+        "work",
+        "school"
+      ],
+      "tags": [
+        "pen",
+        "blue",
+        "clicked",
+        "office",
+        "wordplay",
+        "supplies",
+        "sad"
+      ]
     },
     {
       "id": 1942,
-      "setup": "What did the quarterly report say to the CEO?",
-      "punchline": "I've got all the figures you're looking for!",
-      "categories": ["work", "math"],
-      "tags": ["quarterly report", "ceo", "figures", "numbers", "wordplay", "business", "finance"]
+      "setup": "My boss said my math skills are average.",
+      "punchline": "That's just mean!",
+      "categories": [
+        "work",
+        "math"
+      ],
+      "tags": [
+        "boss",
+        "math",
+        "average",
+        "mean",
+        "wordplay",
+        "statistics",
+        "insult"
+      ]
     },
     {
       "id": 1943,
       "setup": "Why did the ladder feel above everyone?",
       "punchline": "Because it was always climbing the corporate structure!",
-      "categories": ["work"],
-      "tags": ["ladder", "above", "climbing", "corporate", "wordplay", "promotion", "hierarchy"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "ladder",
+        "above",
+        "climbing",
+        "corporate",
+        "wordplay",
+        "promotion",
+        "hierarchy"
+      ]
     },
     {
       "id": 1944,
       "setup": "What do you call a cat that works at a copy center?",
       "punchline": "A copycat!",
-      "categories": ["work", "animals"],
-      "tags": ["cat", "copy center", "copycat", "printing", "wordplay", "office", "duplicate"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "cat",
+        "copy center",
+        "copycat",
+        "printing",
+        "wordplay",
+        "office",
+        "duplicate"
+      ]
     },
     {
       "id": 1945,
       "setup": "Why did the employee bring a pillow to the meeting?",
       "punchline": "In case the presentation put them to sleep!",
-      "categories": ["work"],
-      "tags": ["employee", "pillow", "meeting", "sleep", "wordplay", "boring", "presentation"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "employee",
+        "pillow",
+        "meeting",
+        "sleep",
+        "wordplay",
+        "boring",
+        "presentation"
+      ]
     },
     {
       "id": 1946,
       "setup": "What did the staple say to the papers?",
       "punchline": "Let me hold you all together through this!",
-      "categories": ["work"],
-      "tags": ["staple", "papers", "hold together", "office", "wordplay", "supplies", "teamwork"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "staple",
+        "papers",
+        "hold together",
+        "office",
+        "wordplay",
+        "supplies",
+        "teamwork"
+      ]
     },
     {
       "id": 1947,
       "setup": "Why did the marathon runner make a great salesperson?",
       "punchline": "Because they were always going the extra mile!",
-      "categories": ["work", "sports"],
-      "tags": ["marathon runner", "salesperson", "extra mile", "effort", "wordplay", "running", "sales"]
+      "categories": [
+        "work",
+        "sports"
+      ],
+      "tags": [
+        "marathon runner",
+        "salesperson",
+        "extra mile",
+        "effort",
+        "wordplay",
+        "running",
+        "sales"
+      ]
     },
     {
       "id": 1948,
       "setup": "What do you call a dog that audits companies?",
       "punchline": "A compliance hound!",
-      "categories": ["work", "animals"],
-      "tags": ["dog", "audits", "compliance", "hound", "wordplay", "business", "rules"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "dog",
+        "audits",
+        "compliance",
+        "hound",
+        "wordplay",
+        "business",
+        "rules"
+      ]
     },
     {
       "id": 1949,
       "setup": "Why did the desk lamp feel burned out?",
       "punchline": "Because it was always working late nights!",
-      "categories": ["work", "home"],
-      "tags": ["desk lamp", "burned out", "late nights", "overtime", "wordplay", "light", "exhausted"]
+      "categories": [
+        "work",
+        "home"
+      ],
+      "tags": [
+        "desk lamp",
+        "burned out",
+        "late nights",
+        "overtime",
+        "wordplay",
+        "light",
+        "exhausted"
+      ]
     },
     {
       "id": 1950,
       "setup": "What did the broken copier say?",
-      "punchline": "I just can't seem to get my life together!",
-      "categories": ["work", "technology"],
-      "tags": ["copier", "broken", "life together", "malfunction", "wordplay", "office", "printing"]
+      "punchline": "I can't seem to get my life together... I'm always jamming!",
+      "categories": [
+        "work",
+        "technology"
+      ],
+      "tags": [
+        "copier",
+        "broken",
+        "jamming",
+        "paper jam",
+        "wordplay",
+        "office",
+        "printing"
+      ]
     },
     {
       "id": 1951,
       "setup": "Why did the motivational poster feel ignored?",
       "punchline": "Because nobody was hanging on to its words!",
-      "categories": ["work"],
-      "tags": ["motivational poster", "ignored", "hanging", "words", "wordplay", "office", "inspiration"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "motivational poster",
+        "ignored",
+        "hanging",
+        "words",
+        "wordplay",
+        "office",
+        "inspiration"
+      ]
     },
     {
       "id": 1952,
       "setup": "What do you call a horse that works on Wall Street?",
       "punchline": "A stable investor!",
-      "categories": ["work", "animals"],
-      "tags": ["horse", "wall street", "stable", "investor", "wordplay", "finance", "trading"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "horse",
+        "wall street",
+        "stable",
+        "investor",
+        "wordplay",
+        "finance",
+        "trading"
+      ]
     },
     {
       "id": 1953,
       "setup": "Why did the CEO bring a mirror to work?",
       "punchline": "For some self-reflection on leadership!",
-      "categories": ["work"],
-      "tags": ["ceo", "mirror", "self-reflection", "leadership", "wordplay", "management", "growth"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "ceo",
+        "mirror",
+        "self-reflection",
+        "leadership",
+        "wordplay",
+        "management",
+        "growth"
+      ]
     },
     {
       "id": 1954,
-      "setup": "What did the overtime say to the employee?",
-      "punchline": "I know you're tired, but we need to spend more time together!",
-      "categories": ["work"],
-      "tags": ["overtime", "employee", "tired", "time", "wordplay", "extra hours", "exhausted"]
+      "setup": "I asked if I could leave work early. The boss said yes if I made up the time.",
+      "punchline": "I said, 'Sure, it's twenty past fourteen!'",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "leave early",
+        "boss",
+        "make up time",
+        "clock",
+        "wordplay",
+        "humor",
+        "office"
+      ]
     },
     {
       "id": 1955,
       "setup": "Why did the waiter bring a ladder to work?",
       "punchline": "To reach new heights in customer service!",
-      "categories": ["work", "food"],
-      "tags": ["waiter", "ladder", "heights", "customer service", "wordplay", "restaurant", "excellence"]
+      "categories": [
+        "work",
+        "food"
+      ],
+      "tags": [
+        "waiter",
+        "ladder",
+        "heights",
+        "customer service",
+        "wordplay",
+        "restaurant",
+        "excellence"
+      ]
     },
     {
       "id": 1956,
       "setup": "What do you call a rabbit that works in HR?",
       "punchline": "A hire-bunny!",
-      "categories": ["work", "animals"],
-      "tags": ["rabbit", "hr", "hiring", "bunny", "wordplay", "recruitment", "cute"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "rabbit",
+        "hr",
+        "hiring",
+        "bunny",
+        "wordplay",
+        "recruitment",
+        "cute"
+      ]
     },
     {
       "id": 1957,
       "setup": "Why did the business card feel flat?",
       "punchline": "Because it wasn't making any impressions!",
-      "categories": ["work"],
-      "tags": ["business card", "flat", "impressions", "networking", "wordplay", "contacts", "forgettable"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "business card",
+        "flat",
+        "impressions",
+        "networking",
+        "wordplay",
+        "contacts",
+        "forgettable"
+      ]
     },
     {
       "id": 1958,
       "setup": "What did the Wi-Fi say to the remote worker?",
       "punchline": "We have a strong connection!",
-      "categories": ["work", "technology"],
-      "tags": ["wifi", "remote worker", "connection", "internet", "wordplay", "working from home", "signal"]
+      "categories": [
+        "work",
+        "technology"
+      ],
+      "tags": [
+        "wifi",
+        "remote worker",
+        "connection",
+        "internet",
+        "wordplay",
+        "working from home",
+        "signal"
+      ]
     },
     {
       "id": 1959,
       "setup": "Why did the clock get employee of the month?",
       "punchline": "Because it always clocked in on time!",
-      "categories": ["work"],
-      "tags": ["clock", "employee of the month", "clocked in", "time", "wordplay", "punctual", "award"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "clock",
+        "employee of the month",
+        "clocked in",
+        "time",
+        "wordplay",
+        "punctual",
+        "award"
+      ]
     },
     {
       "id": 1960,
       "setup": "What do you call an elephant that manages projects?",
       "punchline": "Someone who never forgets a deadline!",
-      "categories": ["work", "animals"],
-      "tags": ["elephant", "projects", "forgets", "deadline", "wordplay", "memory", "management"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "elephant",
+        "projects",
+        "forgets",
+        "deadline",
+        "wordplay",
+        "memory",
+        "management"
+      ]
     },
     {
       "id": 1961,
-      "setup": "Why did the scanner feel seen?",
-      "punchline": "Because it was always being asked to look things over!",
-      "categories": ["work", "technology"],
-      "tags": ["scanner", "seen", "look over", "documents", "wordplay", "office", "copying"]
+      "setup": "I'm friends with all the office supplies.",
+      "punchline": "But the paperclip really holds us together!",
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "office supplies",
+        "friends",
+        "paperclip",
+        "together",
+        "wordplay",
+        "bond",
+        "teamwork"
+      ]
     },
     {
       "id": 1962,
-      "setup": "What did the budget say to the department?",
-      "punchline": "We need to cut back on our spending relationship!",
-      "categories": ["work", "math"],
-      "tags": ["budget", "department", "cut back", "spending", "wordplay", "finance", "money"]
+      "setup": "Why did the HR manager turn down the job at the bakery?",
+      "punchline": "She was tired of all the turnovers!",
+      "categories": [
+        "work",
+        "food"
+      ],
+      "tags": [
+        "hr manager",
+        "bakery",
+        "turnovers",
+        "pastry",
+        "wordplay",
+        "employee turnover",
+        "job"
+      ]
     },
     {
       "id": 1963,
       "setup": "Why did the electrician love their job?",
       "punchline": "Because it was always an electrifying experience!",
-      "categories": ["work", "science"],
-      "tags": ["electrician", "love", "electrifying", "experience", "wordplay", "electricity", "exciting"]
+      "categories": [
+        "work",
+        "science"
+      ],
+      "tags": [
+        "electrician",
+        "love",
+        "electrifying",
+        "experience",
+        "wordplay",
+        "electricity",
+        "exciting"
+      ]
     },
     {
       "id": 1964,
       "setup": "What do you call a sheep that handles payroll?",
       "punchline": "A baaa-lance sheet expert!",
-      "categories": ["work", "animals"],
-      "tags": ["sheep", "payroll", "balance sheet", "baa", "wordplay", "accounting", "farm"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "sheep",
+        "payroll",
+        "balance sheet",
+        "baa",
+        "wordplay",
+        "accounting",
+        "farm"
+      ]
     },
     {
       "id": 1965,
       "setup": "Why did the keyboard feel pressed at work?",
       "punchline": "Because everyone kept pushing its buttons!",
-      "categories": ["work", "technology"],
-      "tags": ["keyboard", "pressed", "buttons", "typing", "wordplay", "office", "stressed"]
+      "categories": [
+        "work",
+        "technology"
+      ],
+      "tags": [
+        "keyboard",
+        "pressed",
+        "buttons",
+        "typing",
+        "wordplay",
+        "office",
+        "stressed"
+      ]
     },
     {
       "id": 1966,
       "setup": "What did the Monday say to the Friday?",
       "punchline": "You're always so popular, and I'm just the start of the struggle!",
-      "categories": ["work"],
-      "tags": ["monday", "friday", "popular", "struggle", "wordplay", "week", "days"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "monday",
+        "friday",
+        "popular",
+        "struggle",
+        "wordplay",
+        "week",
+        "days"
+      ]
     },
     {
       "id": 1967,
       "setup": "Why did the forklift operator feel uplifting?",
       "punchline": "Because they were always raising spirits in the warehouse!",
-      "categories": ["work"],
-      "tags": ["forklift", "operator", "uplifting", "spirits", "wordplay", "warehouse", "lifting"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "forklift",
+        "operator",
+        "uplifting",
+        "spirits",
+        "wordplay",
+        "warehouse",
+        "lifting"
+      ]
     },
     {
       "id": 1968,
       "setup": "What do you call a frog that works in tech support?",
       "punchline": "A help-desk toad!",
-      "categories": ["work", "animals"],
-      "tags": ["frog", "tech support", "help desk", "toad", "wordplay", "it", "amphibian"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "frog",
+        "tech support",
+        "help desk",
+        "toad",
+        "wordplay",
+        "it",
+        "amphibian"
+      ]
     },
     {
       "id": 1969,
       "setup": "Why did the intern feel like they were just getting started?",
       "punchline": "Because they were at the entry level of everything!",
-      "categories": ["work"],
-      "tags": ["intern", "started", "entry level", "beginning", "wordplay", "career", "learning"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "intern",
+        "started",
+        "entry level",
+        "beginning",
+        "wordplay",
+        "career",
+        "learning"
+      ]
     },
     {
       "id": 1970,
       "setup": "What did the highlighter say during the review?",
       "punchline": "I'm just here to make your points stand out!",
-      "categories": ["work", "school"],
-      "tags": ["highlighter", "review", "points", "stand out", "wordplay", "marking", "important"]
+      "categories": [
+        "work",
+        "school"
+      ],
+      "tags": [
+        "highlighter",
+        "review",
+        "points",
+        "stand out",
+        "wordplay",
+        "marking",
+        "important"
+      ]
     },
     {
       "id": 1971,
       "setup": "Why did the lunch break feel too short?",
       "punchline": "Because time flies when you're actually relaxing!",
-      "categories": ["work", "food"],
-      "tags": ["lunch break", "short", "time flies", "relaxing", "wordplay", "eating", "rest"]
+      "categories": [
+        "work",
+        "food"
+      ],
+      "tags": [
+        "lunch break",
+        "short",
+        "time flies",
+        "relaxing",
+        "wordplay",
+        "eating",
+        "rest"
+      ]
     },
     {
       "id": 1972,
       "setup": "What do you call a duck that's a financial advisor?",
       "punchline": "A wealth of quack-tical advice!",
-      "categories": ["work", "animals"],
-      "tags": ["duck", "financial advisor", "quack", "practical", "wordplay", "money", "advice"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "duck",
+        "financial advisor",
+        "quack",
+        "practical",
+        "wordplay",
+        "money",
+        "advice"
+      ]
     },
     {
       "id": 1973,
-      "setup": "Why did the phone feel important at the office?",
-      "punchline": "Because everyone was always calling on it!",
-      "categories": ["work", "technology"],
-      "tags": ["phone", "important", "calling", "office", "wordplay", "communication", "essential"]
+      "setup": "The accounting department is always adding to the numbers.",
+      "punchline": "They're a sum-thing else!",
+      "categories": [
+        "work",
+        "math"
+      ],
+      "tags": [
+        "accounting",
+        "adding",
+        "numbers",
+        "something",
+        "wordplay",
+        "math",
+        "finance"
+      ]
     },
     {
       "id": 1974,
       "setup": "What did the late employee say to the time clock?",
       "punchline": "Sorry, I didn't mean to punch in your buttons like this!",
-      "categories": ["work"],
-      "tags": ["late", "employee", "time clock", "punch in", "wordplay", "tardy", "apology"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "late",
+        "employee",
+        "time clock",
+        "punch in",
+        "wordplay",
+        "tardy",
+        "apology"
+      ]
     },
     {
       "id": 1975,
       "setup": "Why did the pilot always stay calm under pressure?",
       "punchline": "Because they knew how to navigate through turbulence!",
-      "categories": ["work", "travel"],
-      "tags": ["pilot", "calm", "pressure", "navigate", "wordplay", "flying", "turbulence"]
+      "categories": [
+        "work",
+        "travel"
+      ],
+      "tags": [
+        "pilot",
+        "calm",
+        "pressure",
+        "navigate",
+        "wordplay",
+        "flying",
+        "turbulence"
+      ]
     },
     {
       "id": 1976,
       "setup": "What do you call a snail that delivers packages?",
       "punchline": "Slow mail!",
-      "categories": ["work", "animals"],
-      "tags": ["snail", "packages", "slow mail", "delivery", "wordplay", "shipping", "slow"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "snail",
+        "packages",
+        "slow mail",
+        "delivery",
+        "wordplay",
+        "shipping",
+        "slow"
+      ]
     },
     {
       "id": 1977,
-      "setup": "Why did the recycling bin feel valued at work?",
-      "punchline": "Because it was always given a second chance at usefulness!",
-      "categories": ["work", "outdoors"],
-      "tags": ["recycling bin", "valued", "second chance", "usefulness", "wordplay", "environment", "reuse"]
+      "setup": "I quit my job selling vegetables.",
+      "punchline": "I couldn't live off that celery!",
+      "categories": [
+        "work",
+        "food"
+      ],
+      "tags": [
+        "vegetables",
+        "quit",
+        "celery",
+        "salary",
+        "wordplay",
+        "job",
+        "pay"
+      ]
     },
     {
       "id": 1978,
       "setup": "What did the stressed manager say to the team?",
       "punchline": "We're all in this deadline together!",
-      "categories": ["work"],
-      "tags": ["stressed", "manager", "team", "deadline", "wordplay", "pressure", "together"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "stressed",
+        "manager",
+        "team",
+        "deadline",
+        "wordplay",
+        "pressure",
+        "together"
+      ]
     },
     {
       "id": 1979,
       "setup": "Why did the briefcase feel important?",
       "punchline": "Because it was always carrying the weight of business!",
-      "categories": ["work"],
-      "tags": ["briefcase", "important", "carrying", "weight", "wordplay", "business", "documents"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "briefcase",
+        "important",
+        "carrying",
+        "weight",
+        "wordplay",
+        "business",
+        "documents"
+      ]
     },
     {
       "id": 1980,
       "setup": "What do you call a bee that works in an office?",
       "punchline": "A busy-bee-ness professional!",
-      "categories": ["work", "animals"],
-      "tags": ["bee", "office", "busy", "business", "wordplay", "professional", "insect"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "bee",
+        "office",
+        "busy",
+        "business",
+        "wordplay",
+        "professional",
+        "insect"
+      ]
     },
     {
       "id": 1981,
       "setup": "Why did the air conditioner get promoted?",
       "punchline": "Because it always kept its cool under pressure!",
-      "categories": ["work", "home"],
-      "tags": ["air conditioner", "promoted", "cool", "pressure", "wordplay", "office", "temperature"]
+      "categories": [
+        "work",
+        "home"
+      ],
+      "tags": [
+        "air conditioner",
+        "promoted",
+        "cool",
+        "pressure",
+        "wordplay",
+        "office",
+        "temperature"
+      ]
     },
     {
       "id": 1982,
       "setup": "What did the name tag say at the conference?",
       "punchline": "Hello, I'm here to help you remember me!",
-      "categories": ["work"],
-      "tags": ["name tag", "conference", "remember", "identity", "wordplay", "networking", "introduction"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "name tag",
+        "conference",
+        "remember",
+        "identity",
+        "wordplay",
+        "networking",
+        "introduction"
+      ]
     },
     {
       "id": 1983,
       "setup": "Why did the barber love going to work?",
       "punchline": "Because every day was a cut above the rest!",
-      "categories": ["work"],
-      "tags": ["barber", "love", "cut above", "hair", "wordplay", "salon", "job"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "barber",
+        "love",
+        "cut above",
+        "hair",
+        "wordplay",
+        "salon",
+        "job"
+      ]
     },
     {
       "id": 1984,
       "setup": "What do you call a turkey that works in construction?",
       "punchline": "A gobble-er of hard work!",
-      "categories": ["work", "animals"],
-      "tags": ["turkey", "construction", "gobble", "hard work", "wordplay", "building", "bird"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "turkey",
+        "construction",
+        "gobble",
+        "hard work",
+        "wordplay",
+        "building",
+        "bird"
+      ]
     },
     {
       "id": 1985,
-      "setup": "Why did the suggestion box feel empty?",
-      "punchline": "Because nobody was opening up to it anymore!",
-      "categories": ["work"],
-      "tags": ["suggestion box", "empty", "opening up", "ideas", "wordplay", "feedback", "ignored"]
+      "setup": "I'm really good at my job in IT.",
+      "punchline": "I've mastered the art of Ctrl and self-delete!",
+      "categories": [
+        "work",
+        "technology"
+      ],
+      "tags": [
+        "it",
+        "job",
+        "ctrl",
+        "delete",
+        "wordplay",
+        "computer",
+        "keyboard"
+      ]
     },
     {
       "id": 1986,
       "setup": "What did the paycheck say to the employee?",
       "punchline": "I'm here because you earned it!",
-      "categories": ["work"],
-      "tags": ["paycheck", "employee", "earned", "money", "wordplay", "salary", "reward"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "paycheck",
+        "employee",
+        "earned",
+        "money",
+        "wordplay",
+        "salary",
+        "reward"
+      ]
     },
     {
       "id": 1987,
       "setup": "Why did the architect feel like building something?",
       "punchline": "Because their plans were really coming together!",
-      "categories": ["work"],
-      "tags": ["architect", "building", "plans", "together", "wordplay", "design", "construction"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "architect",
+        "building",
+        "plans",
+        "together",
+        "wordplay",
+        "design",
+        "construction"
+      ]
     },
     {
       "id": 1988,
       "setup": "What do you call a chicken that runs a business?",
       "punchline": "The CEO of Poultry Inc.!",
-      "categories": ["work", "animals"],
-      "tags": ["chicken", "business", "ceo", "poultry", "wordplay", "company", "bird"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "chicken",
+        "business",
+        "ceo",
+        "poultry",
+        "wordplay",
+        "company",
+        "bird"
+      ]
     },
     {
       "id": 1989,
       "setup": "Why did the scissors feel cut out for the job?",
       "punchline": "Because they were always making the right cuts!",
-      "categories": ["work"],
-      "tags": ["scissors", "cut out", "job", "cuts", "wordplay", "office", "supplies"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "scissors",
+        "cut out",
+        "job",
+        "cuts",
+        "wordplay",
+        "office",
+        "supplies"
+      ]
     },
     {
       "id": 1990,
       "setup": "What did the retirement say to the career?",
       "punchline": "It's been a long run, but I'm finally taking over!",
-      "categories": ["work"],
-      "tags": ["retirement", "career", "long run", "taking over", "wordplay", "ending", "relaxation"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "retirement",
+        "career",
+        "long run",
+        "taking over",
+        "wordplay",
+        "ending",
+        "relaxation"
+      ]
     },
     {
       "id": 1991,
       "setup": "Why did the marketing team love their job?",
       "punchline": "Because they were always making an impression!",
-      "categories": ["work"],
-      "tags": ["marketing team", "love", "impression", "advertising", "wordplay", "brand", "creative"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "marketing team",
+        "love",
+        "impression",
+        "advertising",
+        "wordplay",
+        "brand",
+        "creative"
+      ]
     },
     {
       "id": 1992,
       "setup": "What do you call a giraffe that works in management?",
       "punchline": "Someone who always sees the big picture from above!",
-      "categories": ["work", "animals"],
-      "tags": ["giraffe", "management", "big picture", "tall", "wordplay", "vision", "leadership"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "giraffe",
+        "management",
+        "big picture",
+        "tall",
+        "wordplay",
+        "vision",
+        "leadership"
+      ]
     },
     {
       "id": 1993,
       "setup": "Why did the whiteboard feel blank?",
       "punchline": "Because the meeting hadn't started yet!",
-      "categories": ["work"],
-      "tags": ["whiteboard", "blank", "meeting", "started", "wordplay", "office", "brainstorming"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "whiteboard",
+        "blank",
+        "meeting",
+        "started",
+        "wordplay",
+        "office",
+        "brainstorming"
+      ]
     },
     {
       "id": 1994,
       "setup": "What did the corporate ladder say?",
       "punchline": "Keep climbing, the view is better at the top!",
-      "categories": ["work"],
-      "tags": ["corporate ladder", "climbing", "view", "top", "wordplay", "promotion", "success"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "corporate ladder",
+        "climbing",
+        "view",
+        "top",
+        "wordplay",
+        "promotion",
+        "success"
+      ]
     },
     {
       "id": 1995,
       "setup": "Why did the firefighter love their job?",
       "punchline": "Because it was always a blazing success!",
-      "categories": ["work"],
-      "tags": ["firefighter", "love", "blazing", "success", "wordplay", "fire", "hero"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "firefighter",
+        "love",
+        "blazing",
+        "success",
+        "wordplay",
+        "fire",
+        "hero"
+      ]
     },
     {
       "id": 1996,
       "setup": "What do you call an owl that works the night shift?",
       "punchline": "A real hoot to work with after hours!",
-      "categories": ["work", "animals"],
-      "tags": ["owl", "night shift", "hoot", "hours", "wordplay", "nocturnal", "coworker"]
+      "categories": [
+        "work",
+        "animals"
+      ],
+      "tags": [
+        "owl",
+        "night shift",
+        "hoot",
+        "hours",
+        "wordplay",
+        "nocturnal",
+        "coworker"
+      ]
     },
     {
       "id": 1997,
       "setup": "Why did the training manual feel informative?",
       "punchline": "Because it had all the answers covered!",
-      "categories": ["work"],
-      "tags": ["training manual", "informative", "answers", "covered", "wordplay", "learning", "onboarding"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "training manual",
+        "informative",
+        "answers",
+        "covered",
+        "wordplay",
+        "learning",
+        "onboarding"
+      ]
     },
     {
       "id": 1998,
       "setup": "What did the break room say to the employees?",
       "punchline": "Take all the time you need... within reason!",
-      "categories": ["work", "food"],
-      "tags": ["break room", "employees", "time", "reason", "wordplay", "rest", "relaxation"]
+      "categories": [
+        "work",
+        "food"
+      ],
+      "tags": [
+        "break room",
+        "employees",
+        "time",
+        "reason",
+        "wordplay",
+        "rest",
+        "relaxation"
+      ]
     },
     {
       "id": 1999,
       "setup": "Why did the entrepreneur feel driven?",
       "punchline": "Because they were always steering their own success!",
-      "categories": ["work"],
-      "tags": ["entrepreneur", "driven", "steering", "success", "wordplay", "business", "motivated"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "entrepreneur",
+        "driven",
+        "steering",
+        "success",
+        "wordplay",
+        "business",
+        "motivated"
+      ]
     },
     {
       "id": 2000,
       "setup": "What did the work-life balance say to the workaholic?",
       "punchline": "It's time to clock out and enjoy the other side!",
-      "categories": ["work"],
-      "tags": ["work-life balance", "workaholic", "clock out", "enjoy", "wordplay", "rest", "life"]
+      "categories": [
+        "work"
+      ],
+      "tags": [
+        "work-life balance",
+        "workaholic",
+        "clock out",
+        "enjoy",
+        "wordplay",
+        "rest",
+        "life"
+      ]
     }
   ]
 }
