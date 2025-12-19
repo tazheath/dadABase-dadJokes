@@ -17550,1401 +17550,3517 @@
       "id": 1001,
       "setup": "Why was the equal sign so humble?",
       "punchline": "Because it knew it wasn't greater than or less than anyone else!",
-      "categories": ["math"],
-      "tags": ["equal sign", "humble", "greater than", "less than", "wordplay", "symbols", "equality"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "equal sign",
+        "humble",
+        "greater than",
+        "less than",
+        "wordplay",
+        "symbols",
+        "equality"
+      ]
     },
     {
       "id": 1002,
       "setup": "Why did the student do multiplication problems on the floor?",
       "punchline": "Because the teacher told them not to use tables!",
-      "categories": ["math", "school"],
-      "tags": ["multiplication", "floor", "tables", "student", "wordplay", "teacher", "furniture"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "multiplication",
+        "floor",
+        "tables",
+        "student",
+        "wordplay",
+        "teacher",
+        "furniture"
+      ]
     },
     {
       "id": 1003,
-      "setup": "Why did the infinity symbol break up with the number eight?",
-      "punchline": "Because it wanted someone who would stand up for the relationship!",
-      "categories": ["math"],
-      "tags": ["infinity", "eight", "breakup", "standing", "wordplay", "symbols", "relationship"]
+      "setup": "What did zero say to eight?",
+      "punchline": "Nice belt!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "zero",
+        "eight",
+        "belt",
+        "numbers",
+        "wordplay",
+        "shape",
+        "compliment"
+      ]
     },
     {
       "id": 1004,
       "setup": "Why was the fraction nervous about marrying the decimal?",
       "punchline": "Because it would have to convert!",
-      "categories": ["math"],
-      "tags": ["fraction", "decimal", "convert", "marriage", "wordplay", "nervous", "change"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "fraction",
+        "decimal",
+        "convert",
+        "marriage",
+        "wordplay",
+        "nervous",
+        "change"
+      ]
     },
     {
       "id": 1005,
       "setup": "What do you call friends who love math?",
       "punchline": "Algebros!",
-      "categories": ["math"],
-      "tags": ["friends", "algebra", "bros", "math lovers", "wordplay", "friendship", "pun"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "friends",
+        "algebra",
+        "bros",
+        "math lovers",
+        "wordplay",
+        "friendship",
+        "pun"
+      ]
     },
     {
       "id": 1006,
       "setup": "Why did the two fours skip lunch?",
       "punchline": "Because they already eight!",
-      "categories": ["math", "food"],
-      "tags": ["four", "eight", "ate", "lunch", "wordplay", "numbers", "skipping"]
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "four",
+        "eight",
+        "ate",
+        "lunch",
+        "wordplay",
+        "numbers",
+        "skipping"
+      ]
     },
     {
       "id": 1007,
       "setup": "What's a math teacher's favorite season?",
       "punchline": "Sum-mer!",
-      "categories": ["math", "school"],
-      "tags": ["teacher", "season", "summer", "sum", "wordplay", "favorite", "weather"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "teacher",
+        "season",
+        "summer",
+        "sum",
+        "wordplay",
+        "favorite",
+        "weather"
+      ]
     },
     {
       "id": 1008,
       "setup": "Why did the obtuse angle go to the beach?",
       "punchline": "Because it was over 90 degrees!",
-      "categories": ["math", "outdoors"],
-      "tags": ["obtuse angle", "beach", "degrees", "temperature", "wordplay", "geometry", "hot"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "obtuse angle",
+        "beach",
+        "degrees",
+        "temperature",
+        "wordplay",
+        "geometry",
+        "hot"
+      ]
     },
     {
       "id": 1009,
-      "setup": "Why was the math teacher happy at the end of the meal?",
-      "punchline": "Because he finally got the check!",
-      "categories": ["math", "food"],
-      "tags": ["math teacher", "meal", "check", "restaurant", "wordplay", "bill", "happy"]
+      "setup": "Why should you never trust someone writing on graph paper?",
+      "punchline": "Because they're probably plotting something!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "graph paper",
+        "trust",
+        "plotting",
+        "conspiracy",
+        "wordplay",
+        "graphs",
+        "suspicious"
+      ]
     },
     {
       "id": 1010,
       "setup": "Why was the geometry book so adorable?",
       "punchline": "Because it had acute angles!",
-      "categories": ["math", "school"],
-      "tags": ["geometry", "book", "acute", "cute", "wordplay", "angles", "adorable"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "geometry",
+        "book",
+        "acute",
+        "cute",
+        "wordplay",
+        "angles",
+        "adorable"
+      ]
     },
     {
       "id": 1011,
       "setup": "What do you call a number that can't keep still?",
       "punchline": "A roamin' numeral!",
-      "categories": ["math", "history"],
-      "tags": ["number", "roaming", "roman numeral", "still", "wordplay", "moving", "ancient"]
+      "categories": [
+        "math",
+        "history"
+      ],
+      "tags": [
+        "number",
+        "roaming",
+        "roman numeral",
+        "still",
+        "wordplay",
+        "moving",
+        "ancient"
+      ]
     },
     {
       "id": 1012,
       "setup": "Why did the student wear glasses in math class?",
       "punchline": "Because it improved their di-vision!",
-      "categories": ["math", "school"],
-      "tags": ["student", "glasses", "division", "vision", "wordplay", "class", "seeing"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "student",
+        "glasses",
+        "division",
+        "vision",
+        "wordplay",
+        "class",
+        "seeing"
+      ]
     },
     {
       "id": 1013,
       "setup": "What do you call a crushed angle?",
       "punchline": "A rectangle!",
-      "categories": ["math"],
-      "tags": ["angle", "crushed", "rectangle", "wrecked", "wordplay", "geometry", "shape"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "angle",
+        "crushed",
+        "rectangle",
+        "wrecked",
+        "wordplay",
+        "geometry",
+        "shape"
+      ]
     },
     {
       "id": 1014,
-      "setup": "Why did the mathematician spill his coffee?",
-      "punchline": "Because he had too many problems to solve!",
-      "categories": ["math", "food"],
-      "tags": ["mathematician", "coffee", "problems", "solve", "wordplay", "spill", "busy"]
+      "setup": "Why is the obtuse triangle always upset?",
+      "punchline": "Because it's never right!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "obtuse triangle",
+        "upset",
+        "never right",
+        "geometry",
+        "wordplay",
+        "angles",
+        "sad"
+      ]
     },
     {
       "id": 1015,
       "setup": "What's the official animal of Pi Day?",
       "punchline": "The pi-thon!",
-      "categories": ["math", "animals"],
-      "tags": ["pi", "python", "animal", "pi day", "wordplay", "snake", "march"]
+      "categories": [
+        "math",
+        "animals"
+      ],
+      "tags": [
+        "pi",
+        "python",
+        "animal",
+        "pi day",
+        "wordplay",
+        "snake",
+        "march"
+      ]
     },
     {
       "id": 1016,
-      "setup": "Why don't mathematicians argue?",
-      "punchline": "Because they know they can't argue with logic!",
-      "categories": ["math"],
-      "tags": ["mathematicians", "argue", "logic", "reasoning", "wordplay", "peaceful", "rational"]
+      "setup": "Why was algebra so easy for the Romans?",
+      "punchline": "Because X was always 10!",
+      "categories": [
+        "math",
+        "history"
+      ],
+      "tags": [
+        "algebra",
+        "romans",
+        "x",
+        "ten",
+        "wordplay",
+        "numerals",
+        "ancient"
+      ]
     },
     {
       "id": 1017,
       "setup": "What did the triangle say to the circle?",
       "punchline": "You're so pointless!",
-      "categories": ["math"],
-      "tags": ["triangle", "circle", "pointless", "shapes", "wordplay", "geometry", "insult"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "triangle",
+        "circle",
+        "pointless",
+        "shapes",
+        "wordplay",
+        "geometry",
+        "insult"
+      ]
     },
     {
       "id": 1018,
       "setup": "Why was the math book sad?",
       "punchline": "Because it had too many problems!",
-      "categories": ["math", "school"],
-      "tags": ["math book", "sad", "problems", "issues", "wordplay", "homework", "emotions"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "math book",
+        "sad",
+        "problems",
+        "issues",
+        "wordplay",
+        "homework",
+        "emotions"
+      ]
     },
     {
       "id": 1019,
       "setup": "What do you call a teapot of boiling water on top of Mount Everest?",
       "punchline": "A high-pot-in-use... hypotenuse!",
-      "categories": ["math", "geography"],
-      "tags": ["teapot", "everest", "hypotenuse", "high", "wordplay", "geometry", "mountain"]
+      "categories": [
+        "math",
+        "geography"
+      ],
+      "tags": [
+        "teapot",
+        "everest",
+        "hypotenuse",
+        "high",
+        "wordplay",
+        "geometry",
+        "mountain"
+      ]
     },
     {
       "id": 1020,
       "setup": "Why did the parallel lines break up?",
       "punchline": "Because they never met!",
-      "categories": ["math"],
-      "tags": ["parallel lines", "breakup", "never met", "geometry", "wordplay", "relationship", "infinity"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "parallel lines",
+        "breakup",
+        "never met",
+        "geometry",
+        "wordplay",
+        "relationship",
+        "infinity"
+      ]
     },
     {
       "id": 1021,
       "setup": "What do you get when you cross a math teacher with a clock?",
       "punchline": "Arithme-tick!",
-      "categories": ["math", "school"],
-      "tags": ["teacher", "clock", "arithmetic", "tick", "wordplay", "time", "crossing"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "teacher",
+        "clock",
+        "arithmetic",
+        "tick",
+        "wordplay",
+        "time",
+        "crossing"
+      ]
     },
     {
       "id": 1022,
       "setup": "Why was the calculus teacher bad at baseball?",
       "punchline": "Because they kept trying to find the curve!",
-      "categories": ["math", "sports"],
-      "tags": ["calculus", "teacher", "baseball", "curve", "wordplay", "sports", "finding"]
+      "categories": [
+        "math",
+        "sports"
+      ],
+      "tags": [
+        "calculus",
+        "teacher",
+        "baseball",
+        "curve",
+        "wordplay",
+        "sports",
+        "finding"
+      ]
     },
     {
       "id": 1023,
       "setup": "What do you call a man who spent all summer at the beach?",
       "punchline": "A tangent! (Tan gent)",
-      "categories": ["math", "outdoors"],
-      "tags": ["beach", "summer", "tan", "tangent", "wordplay", "geometry", "sunbathing"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "beach",
+        "summer",
+        "tan",
+        "tangent",
+        "wordplay",
+        "geometry",
+        "sunbathing"
+      ]
     },
     {
       "id": 1024,
       "setup": "Why do plants hate math?",
       "punchline": "Because it gives them square roots!",
-      "categories": ["math", "outdoors"],
-      "tags": ["plants", "square roots", "math", "nature", "wordplay", "gardening", "algebra"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "plants",
+        "square roots",
+        "math",
+        "nature",
+        "wordplay",
+        "gardening",
+        "algebra"
+      ]
     },
     {
       "id": 1025,
       "setup": "What did the acorn say when it grew up?",
       "punchline": "Ge-om-e-tree!",
-      "categories": ["math", "outdoors"],
-      "tags": ["acorn", "grew up", "geometry", "tree", "wordplay", "nature", "shapes"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "acorn",
+        "grew up",
+        "geometry",
+        "tree",
+        "wordplay",
+        "nature",
+        "shapes"
+      ]
     },
     {
       "id": 1026,
       "setup": "Why did seven eat nine?",
       "punchline": "Because you're supposed to eat three squared meals a day!",
-      "categories": ["math", "food"],
-      "tags": ["seven", "eight", "nine", "squared", "wordplay", "meals", "numbers"]
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "seven",
+        "eight",
+        "nine",
+        "squared",
+        "wordplay",
+        "meals",
+        "numbers"
+      ]
     },
     {
       "id": 1027,
       "setup": "What do you call an angle that is adorable?",
       "punchline": "Acute angle!",
-      "categories": ["math"],
-      "tags": ["angle", "adorable", "acute", "cute", "wordplay", "geometry", "sweet"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "angle",
+        "adorable",
+        "acute",
+        "cute",
+        "wordplay",
+        "geometry",
+        "sweet"
+      ]
     },
     {
       "id": 1028,
       "setup": "Why did the polynomial plant wilt?",
       "punchline": "Because its roots were imaginary!",
-      "categories": ["math", "outdoors"],
-      "tags": ["polynomial", "plant", "roots", "imaginary", "wordplay", "algebra", "wilting"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "polynomial",
+        "plant",
+        "roots",
+        "imaginary",
+        "wordplay",
+        "algebra",
+        "wilting"
+      ]
     },
     {
       "id": 1029,
       "setup": "What's a bird's favorite type of math?",
       "punchline": "Owl-gebra!",
-      "categories": ["math", "animals"],
-      "tags": ["bird", "owl", "algebra", "favorite", "wordplay", "animal", "subject"]
+      "categories": [
+        "math",
+        "animals"
+      ],
+      "tags": [
+        "bird",
+        "owl",
+        "algebra",
+        "favorite",
+        "wordplay",
+        "animal",
+        "subject"
+      ]
     },
     {
       "id": 1030,
       "setup": "Why did the statistician drown in the river?",
       "punchline": "Because it was 3 feet deep on average!",
-      "categories": ["math", "geography"],
-      "tags": ["statistician", "drown", "average", "river", "wordplay", "statistics", "depth"]
+      "categories": [
+        "math",
+        "geography"
+      ],
+      "tags": [
+        "statistician",
+        "drown",
+        "average",
+        "river",
+        "wordplay",
+        "statistics",
+        "depth"
+      ]
     },
     {
       "id": 1031,
-      "setup": "What do you call a number that's always moving around?",
-      "punchline": "A roamin' numeral!",
-      "categories": ["math"],
-      "tags": ["number", "moving", "roman numeral", "roaming", "wordplay", "traveling", "ancient"]
+      "setup": "Why should you never start a conversation with Pi?",
+      "punchline": "Because it goes on forever!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "pi",
+        "conversation",
+        "forever",
+        "infinite",
+        "wordplay",
+        "irrational",
+        "talking"
+      ]
     },
     {
       "id": 1032,
       "setup": "Why was the mathematician late to work?",
       "punchline": "Because he took the rhombus!",
-      "categories": ["math", "work"],
-      "tags": ["mathematician", "late", "rhombus", "wrong bus", "wordplay", "geometry", "transportation"]
+      "categories": [
+        "math",
+        "work"
+      ],
+      "tags": [
+        "mathematician",
+        "late",
+        "rhombus",
+        "wrong bus",
+        "wordplay",
+        "geometry",
+        "transportation"
+      ]
     },
     {
       "id": 1033,
       "setup": "What do you get if you divide the circumference of a pumpkin by its diameter?",
       "punchline": "Pumpkin pi!",
-      "categories": ["math", "food"],
-      "tags": ["circumference", "diameter", "pumpkin", "pi", "wordplay", "pie", "formula"]
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "circumference",
+        "diameter",
+        "pumpkin",
+        "pi",
+        "wordplay",
+        "pie",
+        "formula"
+      ]
     },
     {
       "id": 1034,
       "setup": "Why don't calculus majors throw parties?",
       "punchline": "Because they don't want to drink and derive!",
-      "categories": ["math"],
-      "tags": ["calculus", "parties", "drink", "derive", "wordplay", "drive", "safety"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "calculus",
+        "parties",
+        "drink",
+        "derive",
+        "wordplay",
+        "drive",
+        "safety"
+      ]
     },
     {
       "id": 1035,
       "setup": "What do baby parabolas drink?",
       "punchline": "Quadratic formula!",
-      "categories": ["math"],
-      "tags": ["parabola", "baby", "quadratic formula", "drink", "wordplay", "algebra", "milk"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "parabola",
+        "baby",
+        "quadratic formula",
+        "drink",
+        "wordplay",
+        "algebra",
+        "milk"
+      ]
     },
     {
       "id": 1036,
       "setup": "Why is the number six afraid of seven?",
       "punchline": "Because seven eight nine!",
-      "categories": ["math"],
-      "tags": ["six", "seven", "eight", "nine", "wordplay", "afraid", "numbers"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "wordplay",
+        "afraid",
+        "numbers"
+      ]
     },
     {
       "id": 1037,
       "setup": "What did the calculator say to the math student?",
       "punchline": "You can count on me!",
-      "categories": ["math", "school"],
-      "tags": ["calculator", "student", "count", "rely", "wordplay", "trust", "device"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "calculator",
+        "student",
+        "count",
+        "rely",
+        "wordplay",
+        "trust",
+        "device"
+      ]
     },
     {
       "id": 1038,
       "setup": "Why was the algebra teacher suspicious of prime numbers?",
       "punchline": "Because they couldn't be divided!",
-      "categories": ["math", "school"],
-      "tags": ["algebra", "teacher", "prime numbers", "divided", "wordplay", "suspicious", "indivisible"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "algebra",
+        "teacher",
+        "prime numbers",
+        "divided",
+        "wordplay",
+        "suspicious",
+        "indivisible"
+      ]
     },
     {
       "id": 1039,
-      "setup": "What do you call a destroyed angle?",
-      "punchline": "A rect-angle!",
-      "categories": ["math"],
-      "tags": ["destroyed", "angle", "rectangle", "wrecked", "wordplay", "geometry", "shape"]
+      "setup": "If you're cold, where should you go?",
+      "punchline": "To the corner of the room - it's always 90 degrees!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "cold",
+        "corner",
+        "90 degrees",
+        "temperature",
+        "wordplay",
+        "geometry",
+        "right angle"
+      ]
     },
     {
       "id": 1040,
       "setup": "Why did the math teacher love the park?",
       "punchline": "Because of all the natural logs!",
-      "categories": ["math", "outdoors"],
-      "tags": ["math teacher", "park", "natural log", "trees", "wordplay", "calculus", "nature"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "math teacher",
+        "park",
+        "natural log",
+        "trees",
+        "wordplay",
+        "calculus",
+        "nature"
+      ]
     },
     {
       "id": 1041,
       "setup": "What's a mathematician's favorite place in New York?",
       "punchline": "Times Square!",
-      "categories": ["math", "geography"],
-      "tags": ["mathematician", "new york", "times square", "multiply", "wordplay", "travel", "city"]
+      "categories": [
+        "math",
+        "geography"
+      ],
+      "tags": [
+        "mathematician",
+        "new york",
+        "times square",
+        "multiply",
+        "wordplay",
+        "travel",
+        "city"
+      ]
     },
     {
       "id": 1042,
-      "setup": "Why did the student do her math homework on the floor?",
-      "punchline": "Because her teacher told her not to use tables!",
-      "categories": ["math", "school"],
-      "tags": ["student", "homework", "floor", "tables", "wordplay", "multiplication", "teacher"]
+      "setup": "Where should you do your math homework?",
+      "punchline": "On a multiplication table!",
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "homework",
+        "multiplication table",
+        "desk",
+        "studying",
+        "wordplay",
+        "furniture",
+        "math"
+      ]
     },
     {
       "id": 1043,
-      "setup": "What did one math book say to the other?",
-      "punchline": "Don't bother me, I've got my own problems!",
-      "categories": ["math", "school"],
-      "tags": ["math book", "problems", "bother", "homework", "wordplay", "issues", "talking"]
+      "setup": "What's the best tool for math?",
+      "punchline": "Multi-pliers!",
+      "categories": [
+        "math",
+        "work"
+      ],
+      "tags": [
+        "tool",
+        "multipliers",
+        "pliers",
+        "math",
+        "wordplay",
+        "multiplication",
+        "hardware"
+      ]
     },
     {
       "id": 1044,
-      "setup": "Why was the circle so argumentative?",
-      "punchline": "Because it always had to get its point around!",
-      "categories": ["math"],
-      "tags": ["circle", "argumentative", "point", "around", "wordplay", "geometry", "shape"]
+      "setup": "Why can't a nose be 12 inches long?",
+      "punchline": "Because then it would be a foot!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "nose",
+        "inches",
+        "foot",
+        "measurement",
+        "wordplay",
+        "length",
+        "body"
+      ]
     },
     {
       "id": 1045,
       "setup": "What's a math teacher's favorite dance move?",
       "punchline": "The algo-rhythm!",
-      "categories": ["math", "music"],
-      "tags": ["teacher", "dance", "algorithm", "rhythm", "wordplay", "music", "movement"]
+      "categories": [
+        "math",
+        "music"
+      ],
+      "tags": [
+        "teacher",
+        "dance",
+        "algorithm",
+        "rhythm",
+        "wordplay",
+        "music",
+        "movement"
+      ]
     },
     {
       "id": 1046,
       "setup": "Why did the right angle go to the therapist?",
       "punchline": "Because it had a 90-degree complex!",
-      "categories": ["math"],
-      "tags": ["right angle", "therapist", "90 degrees", "complex", "wordplay", "geometry", "therapy"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "right angle",
+        "therapist",
+        "90 degrees",
+        "complex",
+        "wordplay",
+        "geometry",
+        "therapy"
+      ]
     },
     {
       "id": 1047,
       "setup": "What do you call a hen who counts her eggs?",
       "punchline": "A mathema-chicken!",
-      "categories": ["math", "animals"],
-      "tags": ["hen", "counting", "eggs", "mathematician", "wordplay", "chicken", "farm"]
+      "categories": [
+        "math",
+        "animals"
+      ],
+      "tags": [
+        "hen",
+        "counting",
+        "eggs",
+        "mathematician",
+        "wordplay",
+        "chicken",
+        "farm"
+      ]
     },
     {
       "id": 1048,
       "setup": "Why couldn't the angle get a loan?",
       "punchline": "Because its parents wouldn't cosine!",
-      "categories": ["math", "family"],
-      "tags": ["angle", "loan", "cosine", "cosign", "wordplay", "trigonometry", "parents"]
+      "categories": [
+        "math",
+        "family"
+      ],
+      "tags": [
+        "angle",
+        "loan",
+        "cosine",
+        "cosign",
+        "wordplay",
+        "trigonometry",
+        "parents"
+      ]
     },
     {
       "id": 1049,
-      "setup": "What do you call a snake that's 3.14 meters long?",
-      "punchline": "A pi-thon!",
-      "categories": ["math", "animals"],
-      "tags": ["snake", "pi", "python", "meters", "wordplay", "length", "reptile"]
+      "setup": "What happens when you put a root beer in a square glass?",
+      "punchline": "It just becomes beer!",
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "root beer",
+        "square",
+        "glass",
+        "math",
+        "wordplay",
+        "square root",
+        "drink"
+      ]
     },
     {
       "id": 1050,
       "setup": "Why did the minus sign stay home?",
       "punchline": "Because it was feeling negative!",
-      "categories": ["math"],
-      "tags": ["minus sign", "home", "negative", "feeling", "wordplay", "subtraction", "sad"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "minus sign",
+        "home",
+        "negative",
+        "feeling",
+        "wordplay",
+        "subtraction",
+        "sad"
+      ]
     },
     {
       "id": 1051,
       "setup": "What do you call a mathematician who loves to fish?",
       "punchline": "An angle-r!",
-      "categories": ["math", "outdoors"],
-      "tags": ["mathematician", "fishing", "angler", "angle", "wordplay", "hobby", "geometry"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "mathematician",
+        "fishing",
+        "angler",
+        "angle",
+        "wordplay",
+        "hobby",
+        "geometry"
+      ]
     },
     {
       "id": 1052,
-      "setup": "Why did Pi get its driver's license revoked?",
-      "punchline": "Because it went on forever and never stopped!",
-      "categories": ["math", "travel"],
-      "tags": ["pi", "driver", "license", "forever", "wordplay", "infinite", "irrational"]
+      "setup": "Why do math teachers love parks?",
+      "punchline": "Plenty of natural logs!",
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "math teachers",
+        "parks",
+        "natural log",
+        "calculus",
+        "wordplay",
+        "trees",
+        "nature"
+      ]
     },
     {
       "id": 1053,
       "setup": "What's a math teacher's favorite kind of tree?",
       "punchline": "Geometry!",
-      "categories": ["math", "outdoors"],
-      "tags": ["teacher", "tree", "geometry", "nature", "wordplay", "shapes", "gum tree"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "teacher",
+        "tree",
+        "geometry",
+        "nature",
+        "wordplay",
+        "shapes",
+        "gum tree"
+      ]
     },
     {
       "id": 1054,
-      "setup": "Why did the two 4's skip dinner?",
-      "punchline": "Because they already 8!",
-      "categories": ["math", "food"],
-      "tags": ["four", "dinner", "eight", "ate", "wordplay", "numbers", "skipping"]
+      "setup": "Why did the boy refuse to drink water with 8 ice cubes in it?",
+      "punchline": "Because it was too cubed!",
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "boy",
+        "water",
+        "ice cubes",
+        "cubed",
+        "wordplay",
+        "cold",
+        "math"
+      ]
     },
     {
       "id": 1055,
-      "setup": "What did the mathematician name his dog?",
-      "punchline": "Cauchy, because he leaves a residue at every pole!",
-      "categories": ["math", "animals"],
-      "tags": ["mathematician", "dog", "cauchy", "residue", "wordplay", "calculus", "pet"]
+      "setup": "What's the best way to serve pi?",
+      "punchline": "A la mode - anything else is mean!",
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "pi",
+        "pie",
+        "a la mode",
+        "mean",
+        "wordplay",
+        "dessert",
+        "average"
+      ]
     },
     {
       "id": 1056,
-      "setup": "Why was the math test crying?",
-      "punchline": "Because it had too many problems to solve!",
-      "categories": ["math", "school"],
-      "tags": ["math test", "crying", "problems", "solve", "wordplay", "exam", "difficult"]
+      "setup": "Why do teenagers travel in groups of threes and fives?",
+      "punchline": "Because they can't even!",
+      "categories": [
+        "math",
+        "family"
+      ],
+      "tags": [
+        "teenagers",
+        "groups",
+        "threes",
+        "fives",
+        "even",
+        "wordplay",
+        "odd numbers"
+      ]
     },
     {
       "id": 1057,
       "setup": "What do you call 144 grapes?",
       "punchline": "Gross!",
-      "categories": ["math", "food"],
-      "tags": ["grapes", "gross", "144", "dozen", "wordplay", "fruit", "counting"]
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "grapes",
+        "gross",
+        "144",
+        "dozen",
+        "wordplay",
+        "fruit",
+        "counting"
+      ]
     },
     {
       "id": 1058,
       "setup": "Why did the mathematician work from home?",
       "punchline": "Because he could only function in his own domain!",
-      "categories": ["math", "work"],
-      "tags": ["mathematician", "home", "function", "domain", "wordplay", "calculus", "remote"]
+      "categories": [
+        "math",
+        "work"
+      ],
+      "tags": [
+        "mathematician",
+        "home",
+        "function",
+        "domain",
+        "wordplay",
+        "calculus",
+        "remote"
+      ]
     },
     {
       "id": 1059,
-      "setup": "What do you call a number that won't sit still?",
-      "punchline": "A roamin' numeral!",
-      "categories": ["math"],
-      "tags": ["number", "sit still", "roman numeral", "roaming", "wordplay", "restless", "ancient"]
+      "setup": "How do you stay warm in a cold room?",
+      "punchline": "Go sit in the corner - it's always 90 degrees there!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "warm",
+        "cold room",
+        "corner",
+        "90 degrees",
+        "wordplay",
+        "geometry",
+        "temperature"
+      ]
     },
     {
       "id": 1060,
       "setup": "Why are obtuse angles so depressed?",
       "punchline": "Because they're never right!",
-      "categories": ["math"],
-      "tags": ["obtuse angles", "depressed", "never right", "geometry", "wordplay", "sad", "degrees"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "obtuse angles",
+        "depressed",
+        "never right",
+        "geometry",
+        "wordplay",
+        "sad",
+        "degrees"
+      ]
     },
     {
       "id": 1061,
       "setup": "What do you call a broken record player doing math?",
       "punchline": "A skip counter!",
-      "categories": ["math", "music"],
-      "tags": ["record player", "broken", "skip counter", "counting", "wordplay", "music", "device"]
+      "categories": [
+        "math",
+        "music"
+      ],
+      "tags": [
+        "record player",
+        "broken",
+        "skip counter",
+        "counting",
+        "wordplay",
+        "music",
+        "device"
+      ]
     },
     {
       "id": 1062,
       "setup": "Why did the mathematician refuse dessert?",
       "punchline": "Because he'd already had more than enough pi!",
-      "categories": ["math", "food"],
-      "tags": ["mathematician", "dessert", "pi", "pie", "wordplay", "full", "irrational"]
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "mathematician",
+        "dessert",
+        "pi",
+        "pie",
+        "wordplay",
+        "full",
+        "irrational"
+      ]
     },
     {
       "id": 1063,
       "setup": "What did the square say to the old circle?",
       "punchline": "Been around long?",
-      "categories": ["math"],
-      "tags": ["square", "circle", "around", "old", "wordplay", "geometry", "greeting"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "square",
+        "circle",
+        "around",
+        "old",
+        "wordplay",
+        "geometry",
+        "greeting"
+      ]
     },
     {
       "id": 1064,
       "setup": "Why did the student fail algebra?",
       "punchline": "Because she couldn't find X!",
-      "categories": ["math", "school"],
-      "tags": ["student", "fail", "algebra", "x", "wordplay", "variable", "finding"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "student",
+        "fail",
+        "algebra",
+        "x",
+        "wordplay",
+        "variable",
+        "finding"
+      ]
     },
     {
       "id": 1065,
       "setup": "What do you get when you take the sun and divide its circumference by its diameter?",
       "punchline": "Pi in the sky!",
-      "categories": ["math", "science"],
-      "tags": ["sun", "circumference", "diameter", "pi", "wordplay", "sky", "dream"]
+      "categories": [
+        "math",
+        "science"
+      ],
+      "tags": [
+        "sun",
+        "circumference",
+        "diameter",
+        "pi",
+        "wordplay",
+        "sky",
+        "dream"
+      ]
     },
     {
       "id": 1066,
       "setup": "Why was the matrix so popular at parties?",
       "punchline": "Because it knew how to transform the mood!",
-      "categories": ["math"],
-      "tags": ["matrix", "popular", "parties", "transform", "wordplay", "algebra", "mood"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "matrix",
+        "popular",
+        "parties",
+        "transform",
+        "wordplay",
+        "algebra",
+        "mood"
+      ]
     },
     {
       "id": 1067,
-      "setup": "What do you call a young eigenvector?",
-      "punchline": "A baby that's in the right direction!",
-      "categories": ["math", "family"],
-      "tags": ["eigenvector", "young", "direction", "baby", "wordplay", "linear algebra", "cute"]
+      "setup": "How do you make seven an even number?",
+      "punchline": "Just remove the S!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "seven",
+        "even",
+        "spelling",
+        "letter",
+        "wordplay",
+        "numbers",
+        "trick"
+      ]
     },
     {
       "id": 1068,
       "setup": "Why was the mathematician cold in the winter?",
       "punchline": "Because he forgot to put on his natural log!",
-      "categories": ["math", "holidays"],
-      "tags": ["mathematician", "cold", "winter", "natural log", "wordplay", "calculus", "clothing"]
+      "categories": [
+        "math",
+        "holidays"
+      ],
+      "tags": [
+        "mathematician",
+        "cold",
+        "winter",
+        "natural log",
+        "wordplay",
+        "calculus",
+        "clothing"
+      ]
     },
     {
       "id": 1069,
-      "setup": "What do you call a group of odd numbers hanging out?",
-      "punchline": "A weird party!",
-      "categories": ["math"],
-      "tags": ["odd numbers", "group", "weird", "party", "wordplay", "gathering", "unusual"]
+      "setup": "What did the math book say to the therapist?",
+      "punchline": "I have too many problems!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "math book",
+        "therapist",
+        "problems",
+        "therapy",
+        "wordplay",
+        "issues",
+        "help"
+      ]
     },
     {
       "id": 1070,
       "setup": "Why did the obtuse triangle fail to get into college?",
       "punchline": "Because it was never right!",
-      "categories": ["math", "school"],
-      "tags": ["obtuse triangle", "college", "never right", "geometry", "wordplay", "admission", "failure"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "obtuse triangle",
+        "college",
+        "never right",
+        "geometry",
+        "wordplay",
+        "admission",
+        "failure"
+      ]
     },
     {
       "id": 1071,
       "setup": "What did the exponent say to the base?",
       "punchline": "I've got the power!",
-      "categories": ["math"],
-      "tags": ["exponent", "base", "power", "algebra", "wordplay", "math", "song"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "exponent",
+        "base",
+        "power",
+        "algebra",
+        "wordplay",
+        "math",
+        "song"
+      ]
     },
     {
       "id": 1072,
-      "setup": "Why did the number 1 break up with the number 2?",
-      "punchline": "Because it found someone number one!",
-      "categories": ["math"],
-      "tags": ["one", "two", "breakup", "number one", "wordplay", "relationship", "best"]
+      "setup": "Why should you never mention the number 288?",
+      "punchline": "Because it's two gross!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "288",
+        "two gross",
+        "144",
+        "disgusting",
+        "wordplay",
+        "dozen",
+        "numbers"
+      ]
     },
     {
       "id": 1073,
       "setup": "What did the complementary angle say to the isosceles triangle?",
       "punchline": "Nice legs!",
-      "categories": ["math"],
-      "tags": ["complementary angle", "isosceles triangle", "legs", "nice", "wordplay", "geometry", "compliment"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "complementary angle",
+        "isosceles triangle",
+        "legs",
+        "nice",
+        "wordplay",
+        "geometry",
+        "compliment"
+      ]
     },
     {
       "id": 1074,
       "setup": "Why did the mathematician bring a ladder to class?",
       "punchline": "To work on his higher-level problems!",
-      "categories": ["math", "school"],
-      "tags": ["mathematician", "ladder", "higher level", "problems", "wordplay", "class", "advanced"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "mathematician",
+        "ladder",
+        "higher level",
+        "problems",
+        "wordplay",
+        "class",
+        "advanced"
+      ]
     },
     {
       "id": 1075,
       "setup": "What do you call a mathematical snake?",
       "punchline": "An adder!",
-      "categories": ["math", "animals"],
-      "tags": ["mathematical", "snake", "adder", "addition", "wordplay", "reptile", "computing"]
+      "categories": [
+        "math",
+        "animals"
+      ],
+      "tags": [
+        "mathematical",
+        "snake",
+        "adder",
+        "addition",
+        "wordplay",
+        "reptile",
+        "computing"
+      ]
     },
     {
       "id": 1076,
-      "setup": "Why did the fraction worry about fitting in?",
-      "punchline": "Because it always felt like a part of something!",
-      "categories": ["math"],
-      "tags": ["fraction", "fitting in", "part", "whole", "wordplay", "belonging", "incomplete"]
+      "setup": "Why don't atheists have trouble with exponents?",
+      "punchline": "Because they don't believe in higher powers!",
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "atheists",
+        "exponents",
+        "higher powers",
+        "believe",
+        "wordplay",
+        "math",
+        "religion"
+      ]
     },
     {
       "id": 1077,
       "setup": "What's a swimmer's favorite kind of math?",
       "punchline": "Dive-ision!",
-      "categories": ["math", "sports"],
-      "tags": ["swimmer", "math", "division", "dive", "wordplay", "swimming", "operation"]
+      "categories": [
+        "math",
+        "sports"
+      ],
+      "tags": [
+        "swimmer",
+        "math",
+        "division",
+        "dive",
+        "wordplay",
+        "swimming",
+        "operation"
+      ]
     },
     {
       "id": 1078,
       "setup": "Why was the percentage sign so full of itself?",
       "punchline": "Because it was always out of 100!",
-      "categories": ["math"],
-      "tags": ["percentage", "sign", "full of itself", "100", "wordplay", "perfect", "arrogant"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "percentage",
+        "sign",
+        "full of itself",
+        "100",
+        "wordplay",
+        "perfect",
+        "arrogant"
+      ]
     },
     {
       "id": 1079,
       "setup": "What do you call a mathematician's garden?",
       "punchline": "An algae-bra!",
-      "categories": ["math", "outdoors"],
-      "tags": ["mathematician", "garden", "algebra", "algae", "wordplay", "plants", "nature"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "mathematician",
+        "garden",
+        "algebra",
+        "algae",
+        "wordplay",
+        "plants",
+        "nature"
+      ]
     },
     {
       "id": 1080,
       "setup": "Why was the variable always lost?",
       "punchline": "Because X never knew where it was!",
-      "categories": ["math"],
-      "tags": ["variable", "lost", "x", "unknown", "wordplay", "algebra", "confused"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "variable",
+        "lost",
+        "x",
+        "unknown",
+        "wordplay",
+        "algebra",
+        "confused"
+      ]
     },
     {
       "id": 1081,
       "setup": "What did zero say to one after a compliment?",
       "punchline": "Thanks, you're the one!",
-      "categories": ["math"],
-      "tags": ["zero", "one", "compliment", "thanks", "wordplay", "numbers", "friendship"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "zero",
+        "one",
+        "compliment",
+        "thanks",
+        "wordplay",
+        "numbers",
+        "friendship"
+      ]
     },
     {
       "id": 1082,
       "setup": "Why was the geometry teacher such a great boxer?",
       "punchline": "Because she knew all the angles!",
-      "categories": ["math", "sports"],
-      "tags": ["geometry", "teacher", "boxer", "angles", "wordplay", "fighting", "strategy"]
+      "categories": [
+        "math",
+        "sports"
+      ],
+      "tags": [
+        "geometry",
+        "teacher",
+        "boxer",
+        "angles",
+        "wordplay",
+        "fighting",
+        "strategy"
+      ]
     },
     {
       "id": 1083,
       "setup": "What did the square root say to 64?",
       "punchline": "I've got your number!",
-      "categories": ["math"],
-      "tags": ["square root", "64", "eight", "number", "wordplay", "algebra", "answer"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "square root",
+        "64",
+        "eight",
+        "number",
+        "wordplay",
+        "algebra",
+        "answer"
+      ]
     },
     {
       "id": 1084,
       "setup": "Why did the circle feel excluded?",
       "punchline": "Because it wasn't part of the polygon club!",
-      "categories": ["math"],
-      "tags": ["circle", "excluded", "polygon", "club", "wordplay", "geometry", "shapes"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "circle",
+        "excluded",
+        "polygon",
+        "club",
+        "wordplay",
+        "geometry",
+        "shapes"
+      ]
     },
     {
       "id": 1085,
       "setup": "What's a math teacher's favorite type of music?",
       "punchline": "Algo-rhythm and blues!",
-      "categories": ["math", "music"],
-      "tags": ["teacher", "music", "algorithm", "rhythm", "wordplay", "blues", "genre"]
+      "categories": [
+        "math",
+        "music"
+      ],
+      "tags": [
+        "teacher",
+        "music",
+        "algorithm",
+        "rhythm",
+        "wordplay",
+        "blues",
+        "genre"
+      ]
     },
     {
       "id": 1086,
-      "setup": "Why couldn't the decimal ever make a decision?",
-      "punchline": "Because it was always on the fence... at the point!",
-      "categories": ["math"],
-      "tags": ["decimal", "decision", "fence", "point", "wordplay", "indecisive", "numbers"]
+      "setup": "Why was the math class so long?",
+      "punchline": "Because the teacher kept going off on a tangent!",
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "math class",
+        "long",
+        "tangent",
+        "teacher",
+        "wordplay",
+        "geometry",
+        "sidetracked"
+      ]
     },
     {
       "id": 1087,
       "setup": "What do mathematicians eat for Thanksgiving?",
       "punchline": "Pumpkin pi!",
-      "categories": ["math", "food"],
-      "tags": ["mathematicians", "thanksgiving", "pumpkin", "pi", "wordplay", "pie", "holiday"]
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "mathematicians",
+        "thanksgiving",
+        "pumpkin",
+        "pi",
+        "wordplay",
+        "pie",
+        "holiday"
+      ]
     },
     {
       "id": 1088,
       "setup": "Why was the math teacher suspicious of her garden?",
       "punchline": "Because she found square roots everywhere!",
-      "categories": ["math", "outdoors"],
-      "tags": ["teacher", "garden", "square roots", "suspicious", "wordplay", "plants", "algebra"]
+      "categories": [
+        "math",
+        "outdoors"
+      ],
+      "tags": [
+        "teacher",
+        "garden",
+        "square roots",
+        "suspicious",
+        "wordplay",
+        "plants",
+        "algebra"
+      ]
     },
     {
       "id": 1089,
       "setup": "What did the denominator say to the numerator?",
       "punchline": "Stop looking down on me!",
-      "categories": ["math"],
-      "tags": ["denominator", "numerator", "looking down", "fraction", "wordplay", "position", "relationship"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "denominator",
+        "numerator",
+        "looking down",
+        "fraction",
+        "wordplay",
+        "position",
+        "relationship"
+      ]
     },
     {
       "id": 1090,
       "setup": "Why did the line go to the gym?",
       "punchline": "To become a line segment with definition!",
-      "categories": ["math", "sports"],
-      "tags": ["line", "gym", "segment", "definition", "wordplay", "geometry", "exercise"]
+      "categories": [
+        "math",
+        "sports"
+      ],
+      "tags": [
+        "line",
+        "gym",
+        "segment",
+        "definition",
+        "wordplay",
+        "geometry",
+        "exercise"
+      ]
     },
     {
       "id": 1091,
       "setup": "What do you call an empty parrot cage?",
       "punchline": "A polygon!",
-      "categories": ["math", "animals"],
-      "tags": ["parrot", "cage", "polygon", "polly gone", "wordplay", "geometry", "bird"]
+      "categories": [
+        "math",
+        "animals"
+      ],
+      "tags": [
+        "parrot",
+        "cage",
+        "polygon",
+        "polly gone",
+        "wordplay",
+        "geometry",
+        "bird"
+      ]
     },
     {
       "id": 1092,
       "setup": "Why did the function break up with the equation?",
       "punchline": "Because it needed more space to express itself!",
-      "categories": ["math"],
-      "tags": ["function", "equation", "breakup", "space", "wordplay", "algebra", "expression"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "function",
+        "equation",
+        "breakup",
+        "space",
+        "wordplay",
+        "algebra",
+        "expression"
+      ]
     },
     {
       "id": 1093,
       "setup": "What did the math teacher order at the restaurant?",
       "punchline": "A pi-zza with extra angles!",
-      "categories": ["math", "food"],
-      "tags": ["teacher", "restaurant", "pizza", "pi", "wordplay", "angles", "ordering"]
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "teacher",
+        "restaurant",
+        "pizza",
+        "pi",
+        "wordplay",
+        "angles",
+        "ordering"
+      ]
     },
     {
       "id": 1094,
       "setup": "Why did the student bring a ruler to bed?",
       "punchline": "To see how long they slept!",
-      "categories": ["math", "school"],
-      "tags": ["student", "ruler", "bed", "sleep", "wordplay", "measuring", "length"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "student",
+        "ruler",
+        "bed",
+        "sleep",
+        "wordplay",
+        "measuring",
+        "length"
+      ]
     },
     {
       "id": 1095,
       "setup": "What do you call a metric cookie?",
       "punchline": "A gram cracker!",
-      "categories": ["math", "food"],
-      "tags": ["metric", "cookie", "gram", "cracker", "wordplay", "measurement", "snack"]
+      "categories": [
+        "math",
+        "food"
+      ],
+      "tags": [
+        "metric",
+        "cookie",
+        "gram",
+        "cracker",
+        "wordplay",
+        "measurement",
+        "snack"
+      ]
     },
     {
       "id": 1096,
       "setup": "Why was the scalene triangle always alone?",
       "punchline": "Because none of its sides were equal!",
-      "categories": ["math"],
-      "tags": ["scalene triangle", "alone", "sides", "equal", "wordplay", "geometry", "lonely"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "scalene triangle",
+        "alone",
+        "sides",
+        "equal",
+        "wordplay",
+        "geometry",
+        "lonely"
+      ]
     },
     {
       "id": 1097,
-      "setup": "What do you call a midget psychic who escaped from prison?",
-      "punchline": "A small medium at large!",
-      "categories": ["math"],
-      "tags": ["small", "medium", "large", "sizes", "wordplay", "measurement", "psychic"]
+      "setup": "What did the geometry teacher decorate her floor with?",
+      "punchline": "Area rugs!",
+      "categories": [
+        "math",
+        "home"
+      ],
+      "tags": [
+        "geometry",
+        "teacher",
+        "floor",
+        "area rugs",
+        "wordplay",
+        "decorating",
+        "home"
+      ]
     },
     {
       "id": 1098,
       "setup": "Why was the multiplication sign so religious?",
       "punchline": "Because it always crossed itself!",
-      "categories": ["math"],
-      "tags": ["multiplication", "sign", "religious", "crossed", "wordplay", "symbol", "faith"]
+      "categories": [
+        "math"
+      ],
+      "tags": [
+        "multiplication",
+        "sign",
+        "religious",
+        "crossed",
+        "wordplay",
+        "symbol",
+        "faith"
+      ]
     },
     {
       "id": 1099,
       "setup": "What did the math teacher say about the student's geometry test?",
       "punchline": "Your future is looking shapely!",
-      "categories": ["math", "school"],
-      "tags": ["teacher", "geometry", "test", "future", "shapely", "wordplay", "encouraging"]
+      "categories": [
+        "math",
+        "school"
+      ],
+      "tags": [
+        "teacher",
+        "geometry",
+        "test",
+        "future",
+        "shapely",
+        "wordplay",
+        "encouraging"
+      ]
     },
     {
       "id": 1100,
       "setup": "Why did the mathematician name his cat 'Minus'?",
       "punchline": "Because she always made a difference!",
-      "categories": ["math", "animals"],
-      "tags": ["mathematician", "cat", "minus", "difference", "wordplay", "subtraction", "pet"]
+      "categories": [
+        "math",
+        "animals"
+      ],
+      "tags": [
+        "mathematician",
+        "cat",
+        "minus",
+        "difference",
+        "wordplay",
+        "subtraction",
+        "pet"
+      ]
     },
     {
       "id": 1101,
       "setup": "Why did the musician get arrested?",
       "punchline": "Because he got caught in treble!",
-      "categories": ["music"],
-      "tags": ["musician", "arrested", "treble", "trouble", "wordplay", "clef", "crime"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "musician",
+        "arrested",
+        "treble",
+        "trouble",
+        "wordplay",
+        "clef",
+        "crime"
+      ]
     },
     {
       "id": 1102,
       "setup": "What do you call a cow that plays guitar?",
       "punchline": "A moo-sician!",
-      "categories": ["music", "animals"],
-      "tags": ["cow", "guitar", "musician", "moo", "wordplay", "farm", "instrument"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "cow",
+        "guitar",
+        "musician",
+        "moo",
+        "wordplay",
+        "farm",
+        "instrument"
+      ]
     },
     {
       "id": 1103,
       "setup": "Why did the piano break up with the accordion?",
       "punchline": "Because it was too pushy!",
-      "categories": ["music"],
-      "tags": ["piano", "accordion", "breakup", "pushy", "wordplay", "keys", "relationship"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "piano",
+        "accordion",
+        "breakup",
+        "pushy",
+        "wordplay",
+        "keys",
+        "relationship"
+      ]
     },
     {
       "id": 1104,
       "setup": "What's a skeleton's favorite instrument?",
       "punchline": "The trom-bone!",
-      "categories": ["music"],
-      "tags": ["skeleton", "instrument", "trombone", "bone", "wordplay", "brass", "halloween"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "skeleton",
+        "instrument",
+        "trombone",
+        "bone",
+        "wordplay",
+        "brass",
+        "halloween"
+      ]
     },
     {
       "id": 1105,
       "setup": "Why did the drummer go to jail?",
       "punchline": "Because he was caught beating!",
-      "categories": ["music"],
-      "tags": ["drummer", "jail", "beating", "drums", "wordplay", "rhythm", "crime"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "drummer",
+        "jail",
+        "beating",
+        "drums",
+        "wordplay",
+        "rhythm",
+        "crime"
+      ]
     },
     {
       "id": 1106,
       "setup": "What do you call a musical insect?",
       "punchline": "A hum-bug!",
-      "categories": ["music", "animals"],
-      "tags": ["insect", "musical", "humbug", "humming", "wordplay", "bug", "singing"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "insect",
+        "musical",
+        "humbug",
+        "humming",
+        "wordplay",
+        "bug",
+        "singing"
+      ]
     },
     {
       "id": 1107,
-      "setup": "Why was the guitar teacher arrested?",
-      "punchline": "For fingering A minor!",
-      "categories": ["music", "school"],
-      "tags": ["guitar", "teacher", "arrested", "minor", "wordplay", "chord", "fingering"]
+      "setup": "What's Beethoven's favorite fruit?",
+      "punchline": "Ba-na-na-naaaaa!",
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": [
+        "beethoven",
+        "fruit",
+        "banana",
+        "symphony",
+        "wordplay",
+        "classical",
+        "fifth"
+      ]
     },
     {
       "id": 1108,
       "setup": "What did the drum say to the drummer on Valentine's Day?",
       "punchline": "My heart beats for you!",
-      "categories": ["music", "holidays"],
-      "tags": ["drum", "drummer", "valentine", "heart", "beats", "wordplay", "love"]
+      "categories": [
+        "music",
+        "holidays"
+      ],
+      "tags": [
+        "drum",
+        "drummer",
+        "valentine",
+        "heart",
+        "beats",
+        "wordplay",
+        "love"
+      ]
     },
     {
       "id": 1109,
       "setup": "Why did the singer climb a ladder?",
       "punchline": "To reach the high notes!",
-      "categories": ["music"],
-      "tags": ["singer", "ladder", "high notes", "climbing", "wordplay", "vocals", "reaching"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "singer",
+        "ladder",
+        "high notes",
+        "climbing",
+        "wordplay",
+        "vocals",
+        "reaching"
+      ]
     },
     {
       "id": 1110,
       "setup": "What's a cat's favorite song?",
       "punchline": "Three Blind Mice!",
-      "categories": ["music", "animals"],
-      "tags": ["cat", "song", "mice", "favorite", "wordplay", "nursery rhyme", "hunting"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "cat",
+        "song",
+        "mice",
+        "favorite",
+        "wordplay",
+        "nursery rhyme",
+        "hunting"
+      ]
     },
     {
       "id": 1111,
       "setup": "Why did the music note go to the doctor?",
       "punchline": "Because it was feeling flat!",
-      "categories": ["music"],
-      "tags": ["music note", "doctor", "flat", "sick", "wordplay", "pitch", "health"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "music note",
+        "doctor",
+        "flat",
+        "sick",
+        "wordplay",
+        "pitch",
+        "health"
+      ]
     },
     {
       "id": 1112,
       "setup": "What do you call a fish that plays piano?",
       "punchline": "A piano tuna!",
-      "categories": ["music", "animals"],
-      "tags": ["fish", "piano", "tuna", "tuner", "wordplay", "instrument", "ocean"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "piano",
+        "tuna",
+        "tuner",
+        "wordplay",
+        "instrument",
+        "ocean"
+      ]
     },
     {
       "id": 1113,
       "setup": "Why did the orchestra break up?",
       "punchline": "Because there was too much sax and violins!",
-      "categories": ["music"],
-      "tags": ["orchestra", "breakup", "sax", "violins", "wordplay", "instruments", "violence"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "orchestra",
+        "breakup",
+        "sax",
+        "violins",
+        "wordplay",
+        "instruments",
+        "violence"
+      ]
     },
     {
       "id": 1114,
       "setup": "What do you call a laughing piano?",
       "punchline": "A Yamaha-ha-ha!",
-      "categories": ["music"],
-      "tags": ["piano", "laughing", "yamaha", "brand", "wordplay", "instrument", "funny"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "piano",
+        "laughing",
+        "yamaha",
+        "brand",
+        "wordplay",
+        "instrument",
+        "funny"
+      ]
     },
     {
       "id": 1115,
       "setup": "Why did the conductor get struck by lightning?",
       "punchline": "Because he was a great conductor!",
-      "categories": ["music", "science"],
-      "tags": ["conductor", "lightning", "electricity", "orchestra", "wordplay", "leader", "weather"]
+      "categories": [
+        "music",
+        "science"
+      ],
+      "tags": [
+        "conductor",
+        "lightning",
+        "electricity",
+        "orchestra",
+        "wordplay",
+        "leader",
+        "weather"
+      ]
     },
     {
       "id": 1116,
       "setup": "What's a balloon's least favorite type of music?",
       "punchline": "Pop!",
-      "categories": ["music"],
-      "tags": ["balloon", "pop music", "least favorite", "burst", "wordplay", "genre", "party"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "balloon",
+        "pop music",
+        "least favorite",
+        "burst",
+        "wordplay",
+        "genre",
+        "party"
+      ]
     },
     {
       "id": 1117,
-      "setup": "Why did the jazz musician keep getting lost?",
-      "punchline": "Because he kept improvising his directions!",
-      "categories": ["music", "travel"],
-      "tags": ["jazz", "musician", "lost", "improvising", "wordplay", "directions", "navigation"]
+      "setup": "What do you get when you drop a piano down a mine shaft?",
+      "punchline": "A flat minor!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "piano",
+        "mine shaft",
+        "flat minor",
+        "chord",
+        "wordplay",
+        "falling",
+        "key"
+      ]
     },
     {
       "id": 1118,
-      "setup": "What do you call a guitar that never finishes a song?",
-      "punchline": "Incomplete strings attached!",
-      "categories": ["music"],
-      "tags": ["guitar", "song", "incomplete", "strings", "wordplay", "unfinished", "instrument"]
+      "setup": "What did the mama guitar say to the baby guitar?",
+      "punchline": "Don't fret!",
+      "categories": [
+        "music",
+        "family"
+      ],
+      "tags": [
+        "guitar",
+        "mama",
+        "baby",
+        "fret",
+        "wordplay",
+        "strings",
+        "worry"
+      ]
     },
     {
       "id": 1119,
       "setup": "Why was the metronome so reliable?",
       "punchline": "Because it always kept time!",
-      "categories": ["music"],
-      "tags": ["metronome", "reliable", "time", "rhythm", "wordplay", "tempo", "consistent"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "metronome",
+        "reliable",
+        "time",
+        "rhythm",
+        "wordplay",
+        "tempo",
+        "consistent"
+      ]
     },
     {
       "id": 1120,
       "setup": "What did the guitar say to the rock star?",
       "punchline": "Stop picking on me!",
-      "categories": ["music"],
-      "tags": ["guitar", "rock star", "picking", "bullying", "wordplay", "instrument", "playing"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "guitar",
+        "rock star",
+        "picking",
+        "bullying",
+        "wordplay",
+        "instrument",
+        "playing"
+      ]
     },
     {
       "id": 1121,
-      "setup": "Why did the symphony go to therapy?",
-      "punchline": "Because it had too many movements!",
-      "categories": ["music"],
-      "tags": ["symphony", "therapy", "movements", "classical", "wordplay", "orchestra", "sections"]
+      "setup": "Why is a piano so hard to open?",
+      "punchline": "Because the keys are on the inside!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "piano",
+        "open",
+        "keys",
+        "locked",
+        "wordplay",
+        "instrument",
+        "inside"
+      ]
     },
     {
       "id": 1122,
       "setup": "What's a pirate's favorite instrument?",
       "punchline": "The guit-arrr!",
-      "categories": ["music", "history"],
-      "tags": ["pirate", "instrument", "guitar", "arrr", "wordplay", "sailing", "treasure"]
+      "categories": [
+        "music",
+        "history"
+      ],
+      "tags": [
+        "pirate",
+        "instrument",
+        "guitar",
+        "arrr",
+        "wordplay",
+        "sailing",
+        "treasure"
+      ]
     },
     {
       "id": 1123,
       "setup": "Why did the musician bring a pencil to the concert?",
       "punchline": "In case he needed to draw a crowd!",
-      "categories": ["music", "work"],
-      "tags": ["musician", "pencil", "concert", "draw", "wordplay", "crowd", "audience"]
+      "categories": [
+        "music",
+        "work"
+      ],
+      "tags": [
+        "musician",
+        "pencil",
+        "concert",
+        "draw",
+        "wordplay",
+        "crowd",
+        "audience"
+      ]
     },
     {
       "id": 1124,
       "setup": "What do you call a singing laptop?",
       "punchline": "A Dell!",
-      "categories": ["music", "technology"],
-      "tags": ["singing", "laptop", "dell", "adele", "wordplay", "computer", "brand"]
+      "categories": [
+        "music",
+        "technology"
+      ],
+      "tags": [
+        "singing",
+        "laptop",
+        "dell",
+        "adele",
+        "wordplay",
+        "computer",
+        "brand"
+      ]
     },
     {
       "id": 1125,
       "setup": "Why was the bass guitar so chill?",
       "punchline": "Because it always kept things low-key!",
-      "categories": ["music"],
-      "tags": ["bass guitar", "chill", "low-key", "relaxed", "wordplay", "instrument", "calm"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "bass guitar",
+        "chill",
+        "low-key",
+        "relaxed",
+        "wordplay",
+        "instrument",
+        "calm"
+      ]
     },
     {
       "id": 1126,
-      "setup": "What did the violin say when it finally got played?",
-      "punchline": "It's about time I got some strings attached!",
-      "categories": ["music"],
-      "tags": ["violin", "played", "strings", "attached", "wordplay", "instrument", "relationship"]
+      "setup": "How do you fix a broken tuba?",
+      "punchline": "With a tuba glue!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "tuba",
+        "broken",
+        "glue",
+        "tube",
+        "wordplay",
+        "repair",
+        "brass"
+      ]
     },
     {
       "id": 1127,
-      "setup": "Why did the opera singer go to the bank?",
-      "punchline": "To check her balance... and hit some high notes!",
-      "categories": ["music", "work"],
-      "tags": ["opera singer", "bank", "balance", "high notes", "wordplay", "money", "vocals"]
+      "setup": "Where do pianists go on vacation?",
+      "punchline": "The Florida Keys!",
+      "categories": [
+        "music",
+        "geography"
+      ],
+      "tags": [
+        "pianist",
+        "vacation",
+        "florida keys",
+        "piano keys",
+        "wordplay",
+        "travel",
+        "island"
+      ]
     },
     {
       "id": 1128,
       "setup": "What's a tree's favorite kind of music?",
       "punchline": "Bark-oque!",
-      "categories": ["music", "outdoors"],
-      "tags": ["tree", "music", "baroque", "bark", "wordplay", "classical", "nature"]
+      "categories": [
+        "music",
+        "outdoors"
+      ],
+      "tags": [
+        "tree",
+        "music",
+        "baroque",
+        "bark",
+        "wordplay",
+        "classical",
+        "nature"
+      ]
     },
     {
       "id": 1129,
       "setup": "Why did the trumpet player get kicked out of the band?",
       "punchline": "Because he kept blowing it!",
-      "categories": ["music"],
-      "tags": ["trumpet", "kicked out", "blowing", "band", "wordplay", "brass", "mistakes"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "trumpet",
+        "kicked out",
+        "blowing",
+        "band",
+        "wordplay",
+        "brass",
+        "mistakes"
+      ]
     },
     {
       "id": 1130,
       "setup": "What do you call a musical pickle?",
       "punchline": "A dill-harmonic!",
-      "categories": ["music", "food"],
-      "tags": ["pickle", "musical", "philharmonic", "dill", "wordplay", "orchestra", "vegetable"]
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": [
+        "pickle",
+        "musical",
+        "philharmonic",
+        "dill",
+        "wordplay",
+        "orchestra",
+        "vegetable"
+      ]
     },
     {
       "id": 1131,
-      "setup": "Why did the music teacher go to prison?",
+      "setup": "Why did the music teacher go to jail?",
       "punchline": "Because she got caught with too many sharp objects!",
-      "categories": ["music", "school"],
-      "tags": ["teacher", "prison", "sharp", "notes", "wordplay", "objects", "arrested"]
+      "categories": [
+        "music",
+        "school"
+      ],
+      "tags": [
+        "teacher",
+        "jail",
+        "sharp",
+        "notes",
+        "wordplay",
+        "objects",
+        "arrested"
+      ]
     },
     {
       "id": 1132,
       "setup": "What do you call a chicken in a band?",
       "punchline": "A drumstick!",
-      "categories": ["music", "animals"],
-      "tags": ["chicken", "band", "drumstick", "drums", "wordplay", "poultry", "instrument"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "chicken",
+        "band",
+        "drumstick",
+        "drums",
+        "wordplay",
+        "poultry",
+        "instrument"
+      ]
     },
     {
       "id": 1133,
-      "setup": "Why was the music room so cold?",
-      "punchline": "Because someone left the windows open and let all the drafts in!",
-      "categories": ["music", "home"],
-      "tags": ["music room", "cold", "windows", "drafts", "wordplay", "sheet music", "temperature"]
+      "setup": "Why do fluorescent lights hum?",
+      "punchline": "Because they forgot the words!",
+      "categories": [
+        "music",
+        "home"
+      ],
+      "tags": [
+        "fluorescent lights",
+        "hum",
+        "words",
+        "singing",
+        "wordplay",
+        "forgot",
+        "lighting"
+      ]
     },
     {
       "id": 1134,
-      "setup": "What did the DJ name his son?",
-      "punchline": "Eric... Eric-a remix!",
-      "categories": ["music", "family"],
-      "tags": ["dj", "son", "remix", "name", "wordplay", "electronic", "family"]
+      "setup": "What concert costs only 45 cents?",
+      "punchline": "50 Cent featuring Nickelback!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "concert",
+        "50 cent",
+        "nickelback",
+        "cost",
+        "wordplay",
+        "artists",
+        "cheap"
+      ]
     },
     {
       "id": 1135,
-      "setup": "Why did the saxophone break up with the clarinet?",
-      "punchline": "Because it found someone more uplifting... the flute!",
-      "categories": ["music"],
-      "tags": ["saxophone", "clarinet", "breakup", "flute", "wordplay", "woodwinds", "relationship"]
+      "setup": "Why couldn't the string quartet find their composer?",
+      "punchline": "He was Haydn!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "string quartet",
+        "composer",
+        "haydn",
+        "hiding",
+        "wordplay",
+        "classical",
+        "lost"
+      ]
     },
     {
       "id": 1136,
       "setup": "What's a banana's favorite kind of music?",
       "punchline": "Peel-armonic!",
-      "categories": ["music", "food"],
-      "tags": ["banana", "music", "philharmonic", "peel", "wordplay", "fruit", "orchestra"]
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": [
+        "banana",
+        "music",
+        "philharmonic",
+        "peel",
+        "wordplay",
+        "fruit",
+        "orchestra"
+      ]
     },
     {
       "id": 1137,
       "setup": "Why did the musician get a job at the bakery?",
       "punchline": "Because he kneaded the dough and loved making rolls!",
-      "categories": ["music", "food"],
-      "tags": ["musician", "bakery", "dough", "rolls", "wordplay", "drum rolls", "baking"]
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": [
+        "musician",
+        "bakery",
+        "dough",
+        "rolls",
+        "wordplay",
+        "drum rolls",
+        "baking"
+      ]
     },
     {
       "id": 1138,
       "setup": "What do you call a bear who plays piano?",
       "punchline": "Bearethoven!",
-      "categories": ["music", "animals"],
-      "tags": ["bear", "piano", "beethoven", "classical", "wordplay", "composer", "animal"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "bear",
+        "piano",
+        "beethoven",
+        "classical",
+        "wordplay",
+        "composer",
+        "animal"
+      ]
     },
     {
       "id": 1139,
       "setup": "Why was the music stand so supportive?",
       "punchline": "Because it always held things up!",
-      "categories": ["music"],
-      "tags": ["music stand", "supportive", "held up", "sheet music", "wordplay", "equipment", "helpful"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "music stand",
+        "supportive",
+        "held up",
+        "sheet music",
+        "wordplay",
+        "equipment",
+        "helpful"
+      ]
     },
     {
       "id": 1140,
       "setup": "What did the tuba say to the trumpet?",
       "punchline": "You're too high-pitched for me!",
-      "categories": ["music"],
-      "tags": ["tuba", "trumpet", "high-pitched", "brass", "wordplay", "low", "instruments"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "tuba",
+        "trumpet",
+        "high-pitched",
+        "brass",
+        "wordplay",
+        "low",
+        "instruments"
+      ]
     },
     {
       "id": 1141,
       "setup": "Why did the electric guitar feel powerful?",
       "punchline": "Because it was always amped up!",
-      "categories": ["music"],
-      "tags": ["electric guitar", "powerful", "amped", "amplifier", "wordplay", "rock", "energy"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "electric guitar",
+        "powerful",
+        "amped",
+        "amplifier",
+        "wordplay",
+        "rock",
+        "energy"
+      ]
     },
     {
       "id": 1142,
       "setup": "What do you call a sleeping brass instrument?",
       "punchline": "A tuba bed!",
-      "categories": ["music", "home"],
-      "tags": ["sleeping", "brass", "tuba", "to bed", "wordplay", "instrument", "tired"]
+      "categories": [
+        "music",
+        "home"
+      ],
+      "tags": [
+        "sleeping",
+        "brass",
+        "tuba",
+        "to bed",
+        "wordplay",
+        "instrument",
+        "tired"
+      ]
     },
     {
       "id": 1143,
       "setup": "Why did the choir sound so heavenly?",
       "punchline": "Because they were always in perfect harmony!",
-      "categories": ["music"],
-      "tags": ["choir", "heavenly", "harmony", "singing", "wordplay", "vocals", "together"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "choir",
+        "heavenly",
+        "harmony",
+        "singing",
+        "wordplay",
+        "vocals",
+        "together"
+      ]
     },
     {
       "id": 1144,
       "setup": "What's a ghost's favorite type of music?",
       "punchline": "Soul music!",
-      "categories": ["music", "fantasy"],
-      "tags": ["ghost", "music", "soul", "genre", "wordplay", "spooky", "spirit"]
+      "categories": [
+        "music",
+        "fantasy"
+      ],
+      "tags": [
+        "ghost",
+        "music",
+        "soul",
+        "genre",
+        "wordplay",
+        "spooky",
+        "spirit"
+      ]
     },
     {
       "id": 1145,
-      "setup": "Why did the ukulele feel small?",
-      "punchline": "Because it was always being compared to the guitar!",
-      "categories": ["music"],
-      "tags": ["ukulele", "small", "guitar", "comparison", "wordplay", "instrument", "size"]
+      "setup": "Why did Beethoven get rid of his chickens?",
+      "punchline": "All they said was Bach, Bach, Bach!",
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "beethoven",
+        "chickens",
+        "bach",
+        "classical",
+        "wordplay",
+        "composers",
+        "clucking"
+      ]
     },
     {
       "id": 1146,
-      "setup": "What did the musical note write on its Valentine's card?",
-      "punchline": "I love you from my head to-ma-toes... wait, wrong kind of note!",
-      "categories": ["music", "holidays"],
-      "tags": ["note", "valentine", "love", "card", "wordplay", "music", "romance"]
+      "setup": "What kind of music do mummies listen to?",
+      "punchline": "Wrap music!",
+      "categories": [
+        "music",
+        "holidays"
+      ],
+      "tags": [
+        "mummy",
+        "music",
+        "wrap",
+        "rap",
+        "wordplay",
+        "halloween",
+        "bandages"
+      ]
     },
     {
       "id": 1147,
       "setup": "Why did the harp always win arguments?",
       "punchline": "Because it knew how to pluck at your heartstrings!",
-      "categories": ["music"],
-      "tags": ["harp", "arguments", "pluck", "heartstrings", "wordplay", "strings", "emotions"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "harp",
+        "arguments",
+        "pluck",
+        "heartstrings",
+        "wordplay",
+        "strings",
+        "emotions"
+      ]
     },
     {
       "id": 1148,
       "setup": "What do you call a dinosaur that plays music?",
       "punchline": "A Rap-tor!",
-      "categories": ["music", "animals"],
-      "tags": ["dinosaur", "music", "raptor", "rap", "wordplay", "prehistoric", "genre"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "music",
+        "raptor",
+        "rap",
+        "wordplay",
+        "prehistoric",
+        "genre"
+      ]
     },
     {
       "id": 1149,
       "setup": "Why was the banjo so good at networking?",
       "punchline": "Because it was always picking up new connections!",
-      "categories": ["music", "work"],
-      "tags": ["banjo", "networking", "picking", "connections", "wordplay", "strings", "business"]
+      "categories": [
+        "music",
+        "work"
+      ],
+      "tags": [
+        "banjo",
+        "networking",
+        "picking",
+        "connections",
+        "wordplay",
+        "strings",
+        "business"
+      ]
     },
     {
       "id": 1150,
       "setup": "What did the bass drum say after a great performance?",
       "punchline": "That really had impact!",
-      "categories": ["music"],
-      "tags": ["bass drum", "performance", "impact", "percussion", "wordplay", "sound", "great"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "bass drum",
+        "performance",
+        "impact",
+        "percussion",
+        "wordplay",
+        "sound",
+        "great"
+      ]
     },
     {
       "id": 1151,
       "setup": "Why did the pop song go to the gym?",
       "punchline": "To work on its hooks!",
-      "categories": ["music", "sports"],
-      "tags": ["pop song", "gym", "hooks", "catchy", "wordplay", "workout", "lyrics"]
+      "categories": [
+        "music",
+        "sports"
+      ],
+      "tags": [
+        "pop song",
+        "gym",
+        "hooks",
+        "catchy",
+        "wordplay",
+        "workout",
+        "lyrics"
+      ]
     },
     {
       "id": 1152,
       "setup": "What do you call a musical robbery?",
       "punchline": "A lute-ing!",
-      "categories": ["music"],
-      "tags": ["musical", "robbery", "lute", "looting", "wordplay", "instrument", "crime"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "musical",
+        "robbery",
+        "lute",
+        "looting",
+        "wordplay",
+        "instrument",
+        "crime"
+      ]
     },
     {
       "id": 1153,
       "setup": "Why did the oboe feel misunderstood?",
       "punchline": "Because nobody could reed its emotions!",
-      "categories": ["music"],
-      "tags": ["oboe", "misunderstood", "reed", "read", "wordplay", "woodwind", "emotions"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "oboe",
+        "misunderstood",
+        "reed",
+        "read",
+        "wordplay",
+        "woodwind",
+        "emotions"
+      ]
     },
     {
       "id": 1154,
-      "setup": "What's a door's favorite type of music?",
-      "punchline": "Hinges and beats!",
-      "categories": ["music", "home"],
-      "tags": ["door", "music", "hinges", "beats", "wordplay", "swinging", "rhythm"]
+      "setup": "What do you call it when a composer gets sick?",
+      "punchline": "A Liszt of symptoms!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "composer",
+        "sick",
+        "liszt",
+        "list",
+        "wordplay",
+        "classical",
+        "symptoms"
+      ]
     },
     {
       "id": 1155,
       "setup": "Why did the musician study earthquakes?",
       "punchline": "Because he wanted to understand rock and roll!",
-      "categories": ["music", "science"],
-      "tags": ["musician", "earthquakes", "rock", "roll", "wordplay", "geology", "genre"]
+      "categories": [
+        "music",
+        "science"
+      ],
+      "tags": [
+        "musician",
+        "earthquakes",
+        "rock",
+        "roll",
+        "wordplay",
+        "geology",
+        "genre"
+      ]
     },
     {
       "id": 1156,
       "setup": "What did the snare drum say to the cymbal?",
       "punchline": "You crash every party!",
-      "categories": ["music"],
-      "tags": ["snare drum", "cymbal", "crash", "party", "wordplay", "percussion", "drums"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "snare drum",
+        "cymbal",
+        "crash",
+        "party",
+        "wordplay",
+        "percussion",
+        "drums"
+      ]
     },
     {
       "id": 1157,
       "setup": "Why was the musical rest so lazy?",
       "punchline": "Because it was always taking breaks!",
-      "categories": ["music"],
-      "tags": ["rest", "lazy", "breaks", "pause", "wordplay", "notation", "silence"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "rest",
+        "lazy",
+        "breaks",
+        "pause",
+        "wordplay",
+        "notation",
+        "silence"
+      ]
     },
     {
       "id": 1158,
       "setup": "What do you call a musical vegetable?",
       "punchline": "A beet-boxer!",
-      "categories": ["music", "food"],
-      "tags": ["vegetable", "musical", "beet", "beatboxer", "wordplay", "hip-hop", "garden"]
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": [
+        "vegetable",
+        "musical",
+        "beet",
+        "beatboxer",
+        "wordplay",
+        "hip-hop",
+        "garden"
+      ]
     },
     {
       "id": 1159,
       "setup": "Why did the composer go to bed?",
-      "punchline": "Because he was baroque and needed rest!",
-      "categories": ["music"],
-      "tags": ["composer", "bed", "baroque", "broke", "wordplay", "classical", "tired"]
+      "punchline": "Because he was Baroque and needed rest!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "composer",
+        "bed",
+        "baroque",
+        "broke",
+        "wordplay",
+        "classical",
+        "tired"
+      ]
     },
     {
       "id": 1160,
       "setup": "What's a computer's favorite music?",
       "punchline": "Disc-o!",
-      "categories": ["music", "technology"],
-      "tags": ["computer", "music", "disco", "disc", "wordplay", "genre", "technology"]
+      "categories": [
+        "music",
+        "technology"
+      ],
+      "tags": [
+        "computer",
+        "music",
+        "disco",
+        "disc",
+        "wordplay",
+        "genre",
+        "technology"
+      ]
     },
     {
       "id": 1161,
-      "setup": "Why did the violinist make a great spy?",
-      "punchline": "Because she was always working undercover... with her strings!",
-      "categories": ["music", "work"],
-      "tags": ["violinist", "spy", "undercover", "strings", "wordplay", "secret", "instrument"]
+      "setup": "What do a harmonica and a lawsuit have in common?",
+      "punchline": "Everyone is relieved when the case is closed!",
+      "categories": [
+        "music",
+        "work"
+      ],
+      "tags": [
+        "harmonica",
+        "lawsuit",
+        "case",
+        "closed",
+        "wordplay",
+        "instrument",
+        "legal"
+      ]
     },
     {
       "id": 1162,
-      "setup": "What did the music producer say to the lazy singer?",
-      "punchline": "You need to pick up the tempo on your life!",
-      "categories": ["music", "work"],
-      "tags": ["producer", "singer", "tempo", "lazy", "wordplay", "speed", "motivation"]
+      "setup": "What kind of band doesn't play music?",
+      "punchline": "A rubber band!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "band",
+        "music",
+        "rubber band",
+        "play",
+        "wordplay",
+        "office",
+        "supplies"
+      ]
     },
     {
       "id": 1163,
       "setup": "Why was the xylophone so happy?",
-      "punchline": "Because it was always getting struck with joy!",
-      "categories": ["music"],
-      "tags": ["xylophone", "happy", "struck", "joy", "wordplay", "percussion", "mallet"]
+      "punchline": "It was always being struck with joy!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "xylophone",
+        "happy",
+        "struck",
+        "joy",
+        "wordplay",
+        "percussion",
+        "mallet"
+      ]
     },
     {
       "id": 1164,
       "setup": "What do you call a rabbit that plays drums?",
       "punchline": "A hip-hopper!",
-      "categories": ["music", "animals"],
-      "tags": ["rabbit", "drums", "hip-hop", "hopper", "wordplay", "bunny", "genre"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "rabbit",
+        "drums",
+        "hip-hop",
+        "hopper",
+        "wordplay",
+        "bunny",
+        "genre"
+      ]
     },
     {
       "id": 1165,
       "setup": "Why did the sheet music go to the therapist?",
       "punchline": "Because it had too many issues with its staff!",
-      "categories": ["music"],
-      "tags": ["sheet music", "therapist", "staff", "issues", "wordplay", "notation", "problems"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "sheet music",
+        "therapist",
+        "staff",
+        "issues",
+        "wordplay",
+        "notation",
+        "problems"
+      ]
     },
     {
       "id": 1166,
       "setup": "What's a plumber's favorite type of music?",
       "punchline": "Pipe organ!",
-      "categories": ["music", "work"],
-      "tags": ["plumber", "music", "pipe organ", "pipes", "wordplay", "instrument", "job"]
+      "categories": [
+        "music",
+        "work"
+      ],
+      "tags": [
+        "plumber",
+        "music",
+        "pipe organ",
+        "pipes",
+        "wordplay",
+        "instrument",
+        "job"
+      ]
     },
     {
       "id": 1167,
-      "setup": "Why did the clarinet get promoted?",
-      "punchline": "Because it really rose to the occasion!",
-      "categories": ["music", "work"],
-      "tags": ["clarinet", "promoted", "rose", "occasion", "wordplay", "woodwind", "success"]
+      "setup": "Why did the singer get locked out?",
+      "punchline": "She couldn't find the right key!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "singer",
+        "locked out",
+        "key",
+        "door",
+        "wordplay",
+        "pitch",
+        "music"
+      ]
     },
     {
       "id": 1168,
       "setup": "What do you call a musical bee?",
       "punchline": "A hum-mer!",
-      "categories": ["music", "animals"],
-      "tags": ["bee", "musical", "hum", "hummer", "wordplay", "insect", "singing"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "bee",
+        "musical",
+        "hum",
+        "hummer",
+        "wordplay",
+        "insect",
+        "singing"
+      ]
     },
     {
       "id": 1169,
-      "setup": "Why was the concert hall so emotional?",
-      "punchline": "Because it was always filled with moving performances!",
-      "categories": ["music"],
-      "tags": ["concert hall", "emotional", "moving", "performances", "wordplay", "venue", "feelings"]
+      "setup": "Why was the concert hall always emotional?",
+      "punchline": "It was filled with moving performances!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "concert hall",
+        "emotional",
+        "moving",
+        "performances",
+        "wordplay",
+        "venue",
+        "feelings"
+      ]
     },
     {
       "id": 1170,
       "setup": "What did the quarter note say to the whole note?",
       "punchline": "You take up too much time!",
-      "categories": ["music"],
-      "tags": ["quarter note", "whole note", "time", "duration", "wordplay", "notation", "length"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "quarter note",
+        "whole note",
+        "time",
+        "duration",
+        "wordplay",
+        "notation",
+        "length"
+      ]
     },
     {
       "id": 1171,
       "setup": "Why did the cello go to the doctor?",
       "punchline": "Because it was feeling a bit strung out!",
-      "categories": ["music"],
-      "tags": ["cello", "doctor", "strung out", "stressed", "wordplay", "strings", "health"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "cello",
+        "doctor",
+        "strung out",
+        "stressed",
+        "wordplay",
+        "strings",
+        "health"
+      ]
     },
     {
       "id": 1172,
       "setup": "What's a snake's favorite kind of music?",
       "punchline": "Hip-hops!",
-      "categories": ["music", "animals"],
-      "tags": ["snake", "music", "hip-hop", "slither", "wordplay", "reptile", "genre"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "snake",
+        "music",
+        "hip-hop",
+        "slither",
+        "wordplay",
+        "reptile",
+        "genre"
+      ]
     },
     {
       "id": 1173,
       "setup": "Why did the musician always carry a map?",
       "punchline": "Because he kept getting lost in the music!",
-      "categories": ["music", "travel"],
-      "tags": ["musician", "map", "lost", "music", "wordplay", "navigation", "absorbed"]
+      "categories": [
+        "music",
+        "travel"
+      ],
+      "tags": [
+        "musician",
+        "map",
+        "lost",
+        "music",
+        "wordplay",
+        "navigation",
+        "absorbed"
+      ]
     },
     {
       "id": 1174,
-      "setup": "What do you call a musical hot dog?",
-      "punchline": "A frank-furter with relish for music!",
-      "categories": ["music", "food"],
-      "tags": ["hot dog", "musical", "frankfurter", "relish", "wordplay", "food", "enthusiasm"]
+      "setup": "What's an avocado's favorite music?",
+      "punchline": "Guac 'n' roll!",
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": [
+        "avocado",
+        "music",
+        "guacamole",
+        "rock and roll",
+        "wordplay",
+        "food",
+        "genre"
+      ]
     },
     {
       "id": 1175,
       "setup": "Why was the tambourine always invited to parties?",
       "punchline": "Because it knew how to shake things up!",
-      "categories": ["music"],
-      "tags": ["tambourine", "parties", "shake", "percussion", "wordplay", "fun", "instrument"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "tambourine",
+        "parties",
+        "shake",
+        "percussion",
+        "wordplay",
+        "fun",
+        "instrument"
+      ]
     },
     {
       "id": 1176,
       "setup": "What did the record say to the turntable?",
       "punchline": "You really spin me right round!",
-      "categories": ["music", "technology"],
-      "tags": ["record", "turntable", "spin", "round", "wordplay", "vinyl", "dj"]
+      "categories": [
+        "music",
+        "technology"
+      ],
+      "tags": [
+        "record",
+        "turntable",
+        "spin",
+        "round",
+        "wordplay",
+        "vinyl",
+        "dj"
+      ]
     },
     {
       "id": 1177,
       "setup": "Why did the musician refuse to play cards?",
       "punchline": "Because he was afraid of the shuffle!",
-      "categories": ["music"],
-      "tags": ["musician", "cards", "shuffle", "afraid", "wordplay", "playing", "random"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "musician",
+        "cards",
+        "shuffle",
+        "afraid",
+        "wordplay",
+        "playing",
+        "random"
+      ]
     },
     {
       "id": 1178,
       "setup": "What's a frog's favorite kind of music?",
       "punchline": "Hip-hop!",
-      "categories": ["music", "animals"],
-      "tags": ["frog", "music", "hip-hop", "hopping", "wordplay", "amphibian", "genre"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "frog",
+        "music",
+        "hip-hop",
+        "hopping",
+        "wordplay",
+        "amphibian",
+        "genre"
+      ]
     },
     {
       "id": 1179,
       "setup": "Why did the melody go to school?",
       "punchline": "To improve its composition!",
-      "categories": ["music", "school"],
-      "tags": ["melody", "school", "composition", "writing", "wordplay", "education", "improve"]
+      "categories": [
+        "music",
+        "school"
+      ],
+      "tags": [
+        "melody",
+        "school",
+        "composition",
+        "writing",
+        "wordplay",
+        "education",
+        "improve"
+      ]
     },
     {
       "id": 1180,
       "setup": "What do you call a group of musical whales?",
       "punchline": "An orca-stra!",
-      "categories": ["music", "animals"],
-      "tags": ["whales", "musical", "orchestra", "orca", "wordplay", "ocean", "group"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "whales",
+        "musical",
+        "orchestra",
+        "orca",
+        "wordplay",
+        "ocean",
+        "group"
+      ]
     },
     {
       "id": 1181,
-      "setup": "Why did the tempo feel rushed?",
-      "punchline": "Because everyone was always telling it to pick up the pace!",
-      "categories": ["music"],
-      "tags": ["tempo", "rushed", "pace", "speed", "wordplay", "timing", "pressure"]
+      "setup": "What does a guitar player get if the strings break?",
+      "punchline": "Nothing to fret about!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "guitar",
+        "strings",
+        "break",
+        "fret",
+        "wordplay",
+        "instrument",
+        "worry"
+      ]
     },
     {
       "id": 1182,
-      "setup": "What did the broken guitar string say?",
-      "punchline": "I'm feeling a bit snapped!",
-      "categories": ["music"],
-      "tags": ["guitar string", "broken", "snapped", "feeling", "wordplay", "instrument", "emotions"]
+      "setup": "What's the most musical part of a snake?",
+      "punchline": "The scales!",
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "snake",
+        "musical",
+        "scales",
+        "reptile",
+        "wordplay",
+        "music theory",
+        "skin"
+      ]
     },
     {
       "id": 1183,
-      "setup": "Why was the music note always nervous?",
-      "punchline": "Because it was afraid of being sharped or flatted!",
-      "categories": ["music"],
-      "tags": ["music note", "nervous", "sharp", "flat", "wordplay", "pitch", "afraid"]
+      "setup": "Which composer likes tea the most?",
+      "punchline": "Chai-kovsky!",
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": [
+        "composer",
+        "tea",
+        "tchaikovsky",
+        "chai",
+        "wordplay",
+        "classical",
+        "drink"
+      ]
     },
     {
       "id": 1184,
       "setup": "What do you call a musician who's also a gardener?",
       "punchline": "Someone who really knows their roots!",
-      "categories": ["music", "outdoors"],
-      "tags": ["musician", "gardener", "roots", "music", "wordplay", "plants", "foundation"]
+      "categories": [
+        "music",
+        "outdoors"
+      ],
+      "tags": [
+        "musician",
+        "gardener",
+        "roots",
+        "music",
+        "wordplay",
+        "plants",
+        "foundation"
+      ]
     },
     {
       "id": 1185,
       "setup": "Why did the harmonica player get lost?",
       "punchline": "Because he kept blowing in the wrong direction!",
-      "categories": ["music", "travel"],
-      "tags": ["harmonica", "lost", "blowing", "direction", "wordplay", "instrument", "navigation"]
+      "categories": [
+        "music",
+        "travel"
+      ],
+      "tags": [
+        "harmonica",
+        "lost",
+        "blowing",
+        "direction",
+        "wordplay",
+        "instrument",
+        "navigation"
+      ]
     },
     {
       "id": 1186,
       "setup": "What's a chicken's favorite composer?",
       "punchline": "Bach, bach, bach!",
-      "categories": ["music", "animals"],
-      "tags": ["chicken", "composer", "bach", "clucking", "wordplay", "classical", "bird"]
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "chicken",
+        "composer",
+        "bach",
+        "clucking",
+        "wordplay",
+        "classical",
+        "bird"
+      ]
     },
     {
       "id": 1187,
       "setup": "Why did the music festival feel crowded?",
       "punchline": "Because everyone wanted to band together!",
-      "categories": ["music"],
-      "tags": ["festival", "crowded", "band", "together", "wordplay", "concert", "gathering"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "festival",
+        "crowded",
+        "band",
+        "together",
+        "wordplay",
+        "concert",
+        "gathering"
+      ]
     },
     {
       "id": 1188,
       "setup": "What did the piano keys say to the pianist?",
       "punchline": "You're really pushing our buttons!",
-      "categories": ["music"],
-      "tags": ["piano keys", "pianist", "buttons", "pushing", "wordplay", "playing", "instrument"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "piano keys",
+        "pianist",
+        "buttons",
+        "pushing",
+        "wordplay",
+        "playing",
+        "instrument"
+      ]
     },
     {
       "id": 1189,
       "setup": "Why was the bagpipe player so popular?",
       "punchline": "Because he was always blowing up on social media!",
-      "categories": ["music", "technology"],
-      "tags": ["bagpipe", "popular", "blowing up", "social media", "wordplay", "instrument", "viral"]
+      "categories": [
+        "music",
+        "technology"
+      ],
+      "tags": [
+        "bagpipe",
+        "popular",
+        "blowing up",
+        "social media",
+        "wordplay",
+        "instrument",
+        "viral"
+      ]
     },
     {
       "id": 1190,
-      "setup": "What do you call a sleeping guitar?",
-      "punchline": "Acoustic... because it's so quiet!",
-      "categories": ["music"],
-      "tags": ["sleeping", "guitar", "acoustic", "quiet", "wordplay", "instrument", "silent"]
+      "setup": "What do you get when you drop a piano on an army base?",
+      "punchline": "A flat major!",
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "piano",
+        "army base",
+        "flat major",
+        "military",
+        "wordplay",
+        "chord",
+        "falling"
+      ]
     },
     {
       "id": 1191,
-      "setup": "Why did the karaoke singer bring an umbrella?",
-      "punchline": "In case she hit a rain-bow of notes!",
-      "categories": ["music"],
-      "tags": ["karaoke", "singer", "umbrella", "rainbow", "wordplay", "singing", "notes"]
+      "setup": "What type of songs do eggs like best?",
+      "punchline": "Anything that's over-easy listening!",
+      "categories": [
+        "music",
+        "food"
+      ],
+      "tags": [
+        "eggs",
+        "songs",
+        "over-easy",
+        "listening",
+        "wordplay",
+        "cooking",
+        "genre"
+      ]
     },
     {
       "id": 1192,
       "setup": "What's a window's favorite kind of music?",
       "punchline": "Pane-o music!",
-      "categories": ["music", "home"],
-      "tags": ["window", "music", "pane", "piano", "wordplay", "glass", "instrument"]
+      "categories": [
+        "music",
+        "home"
+      ],
+      "tags": [
+        "window",
+        "music",
+        "pane",
+        "piano",
+        "wordplay",
+        "glass",
+        "instrument"
+      ]
     },
     {
       "id": 1193,
       "setup": "Why did the clef feel important?",
       "punchline": "Because it was the key to everything!",
-      "categories": ["music"],
-      "tags": ["clef", "important", "key", "music", "wordplay", "notation", "essential"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "clef",
+        "important",
+        "key",
+        "music",
+        "wordplay",
+        "notation",
+        "essential"
+      ]
     },
     {
       "id": 1194,
       "setup": "What did the amp say to the speaker?",
       "punchline": "I really get a charge out of you!",
-      "categories": ["music", "technology"],
-      "tags": ["amp", "speaker", "charge", "electricity", "wordplay", "equipment", "sound"]
+      "categories": [
+        "music",
+        "technology"
+      ],
+      "tags": [
+        "amp",
+        "speaker",
+        "charge",
+        "electricity",
+        "wordplay",
+        "equipment",
+        "sound"
+      ]
     },
     {
       "id": 1195,
       "setup": "Why did the marching band break up?",
       "punchline": "Because they couldn't get in step with each other!",
-      "categories": ["music"],
-      "tags": ["marching band", "breakup", "step", "marching", "wordplay", "coordination", "together"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "marching band",
+        "breakup",
+        "step",
+        "marching",
+        "wordplay",
+        "coordination",
+        "together"
+      ]
     },
     {
       "id": 1196,
-      "setup": "What do you call a sleeping musical?",
-      "punchline": "A Broadway snooze!",
-      "categories": ["music"],
-      "tags": ["sleeping", "musical", "broadway", "snooze", "wordplay", "theater", "show"]
+      "setup": "What do you call a cow that can sing?",
+      "punchline": "A crooner heifer!",
+      "categories": [
+        "music",
+        "animals"
+      ],
+      "tags": [
+        "cow",
+        "singing",
+        "crooner",
+        "heifer",
+        "wordplay",
+        "farm",
+        "vocalist"
+      ]
     },
     {
       "id": 1197,
       "setup": "Why was the violin bow so tired?",
       "punchline": "Because it was always being dragged across strings!",
-      "categories": ["music"],
-      "tags": ["violin bow", "tired", "dragged", "strings", "wordplay", "instrument", "playing"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "violin bow",
+        "tired",
+        "dragged",
+        "strings",
+        "wordplay",
+        "instrument",
+        "playing"
+      ]
     },
     {
       "id": 1198,
       "setup": "What did the music app say to the user?",
       "punchline": "I've got you on shuffle... let's mix things up!",
-      "categories": ["music", "technology"],
-      "tags": ["music app", "user", "shuffle", "mix", "wordplay", "streaming", "playlist"]
+      "categories": [
+        "music",
+        "technology"
+      ],
+      "tags": [
+        "music app",
+        "user",
+        "shuffle",
+        "mix",
+        "wordplay",
+        "streaming",
+        "playlist"
+      ]
     },
     {
       "id": 1199,
       "setup": "Why did the songwriter sit by the window?",
       "punchline": "Looking for inspiration to compose himself!",
-      "categories": ["music", "home"],
-      "tags": ["songwriter", "window", "inspiration", "compose", "wordplay", "writing", "calm"]
+      "categories": [
+        "music",
+        "home"
+      ],
+      "tags": [
+        "songwriter",
+        "window",
+        "inspiration",
+        "compose",
+        "wordplay",
+        "writing",
+        "calm"
+      ]
     },
     {
       "id": 1200,
       "setup": "What did the band say at the end of their final concert?",
       "punchline": "Thanks for all the support... you've been instrumental!",
-      "categories": ["music"],
-      "tags": ["band", "concert", "support", "instrumental", "wordplay", "thanks", "final"]
+      "categories": [
+        "music"
+      ],
+      "tags": [
+        "band",
+        "concert",
+        "support",
+        "instrumental",
+        "wordplay",
+        "thanks",
+        "final"
+      ]
     },
     {
       "id": 1201,
