@@ -2703,20 +2703,10 @@
     },
     {
       "id": 157,
-      "setup": "Why did the birthday present feel nervous?",
-      "punchline": "Because it was about to be ripped open!",
-      "categories": [
-        "birthday"
-      ],
-      "tags": [
-        "present",
-        "nervous",
-        "unwrapping",
-        "gift",
-        "paper",
-        "excitement",
-        "anxiety"
-      ]
+      "setup": "Why don't kids remember their past birthday parties?",
+      "punchline": "They're too focused on the present!",
+      "categories": ["birthday"],
+      "tags": ["present", "gift", "memory", "kids", "wordplay", "party", "birthday"]
     },
     {
       "id": 158,
@@ -12985,21 +12975,10 @@
     },
     {
       "id": 743,
-      "setup": "Why was the Medieval castle always so cold?",
-      "punchline": "Because it was full of drafts!",
-      "categories": [
-        "history",
-        "home"
-      ],
-      "tags": [
-        "castle",
-        "cold",
-        "drafts",
-        "medieval",
-        "wordplay",
-        "architecture",
-        "wind"
-      ]
+      "setup": "Why did the king go to the dentist?",
+      "punchline": "To get his teeth crowned!",
+      "categories": ["history", "home"],
+      "tags": ["king", "dentist", "crown", "teeth", "medieval", "wordplay", "royalty"]
     },
     {
       "id": 744,
@@ -29450,20 +29429,10 @@
     },
     {
       "id": 1682,
-      "setup": "What do you call a computer that does nothing?",
-      "punchline": "A nonestation!",
-      "categories": [
-        "technology"
-      ],
-      "tags": [
-        "computer",
-        "nothing",
-        "workstation",
-        "lazy",
-        "wordplay",
-        "idle",
-        "pun"
-      ]
+      "setup": "Why was the computer cold?",
+      "punchline": "It left its Windows open!",
+      "categories": ["technology"],
+      "tags": ["computer", "windows", "cold", "wordplay", "microsoft", "software", "pun"]
     },
     {
       "id": 1683,
