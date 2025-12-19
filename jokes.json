@@ -1851,20 +1851,10 @@
     },
     {
       "id": 107,
-      "setup": "What did the birthday candles say when they got lit?",
-      "punchline": "We're totally fired up for this party!",
-      "categories": [
-        "birthday"
-      ],
-      "tags": [
-        "candles",
-        "lit",
-        "fire",
-        "excited",
-        "wordplay",
-        "party",
-        "flames"
-      ]
+      "setup": "What did the teddy bear say after blowing out his birthday candles?",
+      "punchline": "No cake for me, I'm stuffed!",
+      "categories": ["birthday"],
+      "tags": ["teddy bear", "cake", "stuffed", "candles", "wordplay", "party", "full"]
     },
     {
       "id": 108,
@@ -2219,21 +2209,10 @@
     },
     {
       "id": 128,
-      "setup": "What do birthday candles and the school year have in common?",
-      "punchline": "There are too many of them!",
-      "categories": [
-        "birthday",
-        "school"
-      ],
-      "tags": [
-        "candles",
-        "school",
-        "too many",
-        "years",
-        "aging",
-        "complaining",
-        "counting"
-      ]
+      "setup": "Why did the birthday cake go to the doctor?",
+      "punchline": "Because it was feeling crumby!",
+      "categories": ["birthday", "school"],
+      "tags": ["cake", "doctor", "crumby", "crummy", "wordplay", "birthday", "sick"]
     },
     {
       "id": 129,
@@ -2592,20 +2571,10 @@
     },
     {
       "id": 149,
-      "setup": "Why did the birthday candles feel lonely?",
-      "punchline": "Because they were only lit once a year!",
-      "categories": [
-        "birthday"
-      ],
-      "tags": [
-        "candles",
-        "lonely",
-        "lit",
-        "once a year",
-        "sad",
-        "fire",
-        "annual"
-      ]
+      "setup": "Why do candles love birthday parties?",
+      "punchline": "They just want to get lit!",
+      "categories": ["birthday"],
+      "tags": ["candles", "lit", "party", "fire", "wordplay", "birthday", "excited"]
     },
     {
       "id": 150,
@@ -3051,21 +3020,10 @@
     },
     {
       "id": 175,
-      "setup": "Why did the candle go to school on its birthday?",
-      "punchline": "To get a little brighter!",
-      "categories": [
-        "birthday",
-        "school"
-      ],
-      "tags": [
-        "candle",
-        "school",
-        "bright",
-        "learning",
-        "wordplay",
-        "education",
-        "smart"
-      ]
+      "setup": "Why don't birthday candles ever exercise?",
+      "punchline": "Because they burn out too quickly!",
+      "categories": ["birthday", "school"],
+      "tags": ["candles", "exercise", "burn out", "tired", "wordplay", "fire", "fitness"]
     },
     {
       "id": 176,
