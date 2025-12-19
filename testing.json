@@ -10569,1401 +10569,3486 @@
       "id": 601,
       "setup": "Why did the map go to therapy?",
       "punchline": "Because it had too many issues with boundaries!",
-      "categories": ["geography"],
-      "tags": ["map", "therapy", "boundaries", "borders", "wordplay", "mental health", "countries"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "map",
+        "therapy",
+        "boundaries",
+        "borders",
+        "wordplay",
+        "mental health",
+        "countries"
+      ]
     },
     {
       "id": 602,
       "setup": "What's the fastest country in the world?",
       "punchline": "Rush-a!",
-      "categories": ["geography"],
-      "tags": ["russia", "fast", "rushing", "countries", "wordplay", "speed", "nations"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "russia",
+        "fast",
+        "rushing",
+        "countries",
+        "wordplay",
+        "speed",
+        "nations"
+      ]
     },
     {
       "id": 603,
       "setup": "Why did the mountain break up with the valley?",
       "punchline": "Because the relationship had too many ups and downs!",
-      "categories": ["geography"],
-      "tags": ["mountain", "valley", "breakup", "ups and downs", "wordplay", "terrain", "relationship"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "mountain",
+        "valley",
+        "breakup",
+        "ups and downs",
+        "wordplay",
+        "terrain",
+        "relationship"
+      ]
     },
     {
       "id": 604,
       "setup": "What do you call a map that's always bragging?",
       "punchline": "Legend-ary!",
-      "categories": ["geography"],
-      "tags": ["map", "bragging", "legend", "legendary", "wordplay", "key", "navigation"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "map",
+        "bragging",
+        "legend",
+        "legendary",
+        "wordplay",
+        "key",
+        "navigation"
+      ]
     },
     {
       "id": 605,
       "setup": "Why don't rivers ever get lost?",
-      "punchline": "Because they always follow their flow!",
-      "categories": ["geography"],
-      "tags": ["rivers", "lost", "flow", "current", "wordplay", "water", "direction"]
+      "punchline": "Because they always follow the current!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "rivers",
+        "lost",
+        "current",
+        "flow",
+        "wordplay",
+        "water",
+        "direction"
+      ]
     },
     {
       "id": 606,
       "setup": "What did Delaware?",
       "punchline": "A New Jersey!",
-      "categories": ["geography"],
-      "tags": ["delaware", "new jersey", "wear", "states", "wordplay", "usa", "clothing"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "delaware",
+        "new jersey",
+        "wear",
+        "states",
+        "wordplay",
+        "usa",
+        "clothing"
+      ]
     },
     {
       "id": 607,
       "setup": "Why did the globe break up with the map?",
       "punchline": "Because it felt like the relationship was going in circles!",
-      "categories": ["geography"],
-      "tags": ["globe", "map", "circles", "breakup", "wordplay", "round", "relationship"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "globe",
+        "map",
+        "circles",
+        "breakup",
+        "wordplay",
+        "round",
+        "relationship"
+      ]
     },
     {
       "id": 608,
       "setup": "What's the coldest country in the world?",
       "punchline": "Chile!",
-      "categories": ["geography"],
-      "tags": ["chile", "cold", "chilly", "countries", "wordplay", "temperature", "south america"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "chile",
+        "cold",
+        "chilly",
+        "countries",
+        "wordplay",
+        "temperature",
+        "south america"
+      ]
     },
     {
       "id": 609,
-      "setup": "Why did the peninsula feel left out?",
-      "punchline": "Because it was only almost an island!",
-      "categories": ["geography"],
-      "tags": ["peninsula", "island", "left out", "almost", "wordplay", "landforms", "water"]
+      "setup": "Why don't you see penguins in Great Britain?",
+      "punchline": "Because they're afraid of Wales!",
+      "categories": [
+        "geography",
+        "animals"
+      ],
+      "tags": [
+        "penguins",
+        "britain",
+        "wales",
+        "whales",
+        "wordplay",
+        "animals",
+        "countries"
+      ]
     },
     {
       "id": 610,
-      "setup": "What do you call a lazy river?",
-      "punchline": "A stream of consciousness... that's asleep!",
-      "categories": ["geography"],
-      "tags": ["river", "lazy", "stream", "sleeping", "wordplay", "water", "relaxed"]
+      "setup": "What do you call the little rivers that flow into the Nile?",
+      "punchline": "Juveniles!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "river",
+        "nile",
+        "juveniles",
+        "young",
+        "wordplay",
+        "water",
+        "egypt"
+      ]
     },
     {
       "id": 611,
       "setup": "Why did the equator win the award?",
       "punchline": "Because it was the center of attention!",
-      "categories": ["geography"],
-      "tags": ["equator", "award", "center", "attention", "wordplay", "earth", "middle"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "equator",
+        "award",
+        "center",
+        "attention",
+        "wordplay",
+        "earth",
+        "middle"
+      ]
     },
     {
       "id": 612,
       "setup": "What state has the smallest drinks?",
       "punchline": "Mini-soda!",
-      "categories": ["geography", "food"],
-      "tags": ["minnesota", "mini soda", "drinks", "states", "wordplay", "usa", "small"]
+      "categories": [
+        "geography",
+        "food"
+      ],
+      "tags": [
+        "minnesota",
+        "mini soda",
+        "drinks",
+        "states",
+        "wordplay",
+        "usa",
+        "small"
+      ]
     },
     {
       "id": 613,
-      "setup": "Why did the island feel lonely?",
-      "punchline": "Because it was surrounded by water and had no mainland friends!",
-      "categories": ["geography"],
-      "tags": ["island", "lonely", "surrounded", "water", "friends", "isolated", "ocean"]
+      "setup": "What has five eyes and is lying on the water?",
+      "punchline": "The Mississippi River!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "mississippi",
+        "eyes",
+        "letters",
+        "river",
+        "wordplay",
+        "water",
+        "spelling"
+      ]
     },
     {
       "id": 614,
       "setup": "What did the Atlantic Ocean say to the Pacific Ocean?",
       "punchline": "Nothing, they just waved!",
-      "categories": ["geography"],
-      "tags": ["atlantic", "pacific", "ocean", "wave", "wordplay", "water", "greeting"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "atlantic",
+        "pacific",
+        "ocean",
+        "wave",
+        "wordplay",
+        "water",
+        "greeting"
+      ]
     },
     {
       "id": 615,
       "setup": "Why do geographers make great friends?",
       "punchline": "Because they really know where you're coming from!",
-      "categories": ["geography", "work"],
-      "tags": ["geographers", "friends", "understanding", "location", "wordplay", "career", "empathy"]
+      "categories": [
+        "geography",
+        "work"
+      ],
+      "tags": [
+        "geographers",
+        "friends",
+        "understanding",
+        "location",
+        "wordplay",
+        "career",
+        "empathy"
+      ]
     },
     {
       "id": 616,
       "setup": "What's the happiest state in America?",
       "punchline": "Merry-land!",
-      "categories": ["geography"],
-      "tags": ["maryland", "merry", "happy", "states", "wordplay", "usa", "cheerful"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "maryland",
+        "merry",
+        "happy",
+        "states",
+        "wordplay",
+        "usa",
+        "cheerful"
+      ]
     },
     {
       "id": 617,
       "setup": "Why did the continent break up with the island?",
       "punchline": "Because it needed more space!",
-      "categories": ["geography"],
-      "tags": ["continent", "island", "breakup", "space", "wordplay", "size", "relationship"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "continent",
+        "island",
+        "breakup",
+        "space",
+        "wordplay",
+        "size",
+        "relationship"
+      ]
     },
     {
       "id": 618,
       "setup": "What do you call a mountain that's always telling jokes?",
       "punchline": "Hill-arious!",
-      "categories": ["geography"],
-      "tags": ["mountain", "jokes", "hilarious", "hill", "wordplay", "funny", "terrain"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "mountain",
+        "jokes",
+        "hilarious",
+        "hill",
+        "wordplay",
+        "funny",
+        "terrain"
+      ]
     },
     {
       "id": 619,
       "setup": "Why did the compass break up with the map?",
       "punchline": "Because the relationship was going in the wrong direction!",
-      "categories": ["geography"],
-      "tags": ["compass", "map", "direction", "breakup", "wordplay", "navigation", "relationship"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "compass",
+        "map",
+        "direction",
+        "breakup",
+        "wordplay",
+        "navigation",
+        "relationship"
+      ]
     },
     {
       "id": 620,
       "setup": "What did Idaho to Missouri?",
       "punchline": "I don't know, Alaska!",
-      "categories": ["geography"],
-      "tags": ["idaho", "missouri", "alaska", "states", "wordplay", "usa", "asking"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "idaho",
+        "missouri",
+        "alaska",
+        "states",
+        "wordplay",
+        "usa",
+        "asking"
+      ]
     },
     {
       "id": 621,
-      "setup": "Why are mountains so funny?",
-      "punchline": "Because they're hill-areas!",
-      "categories": ["geography"],
-      "tags": ["mountains", "funny", "hilarious", "hills", "wordplay", "terrain", "comedy"]
+      "setup": "How do mountains see?",
+      "punchline": "They peak!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "mountains",
+        "see",
+        "peak",
+        "peek",
+        "wordplay",
+        "terrain",
+        "vision"
+      ]
     },
     {
       "id": 622,
       "setup": "What's the most musical state?",
       "punchline": "Okla-homa, homa, homa!",
-      "categories": ["geography", "music"],
-      "tags": ["oklahoma", "musical", "home", "states", "wordplay", "usa", "singing"]
+      "categories": [
+        "geography",
+        "music"
+      ],
+      "tags": [
+        "oklahoma",
+        "musical",
+        "home",
+        "states",
+        "wordplay",
+        "usa",
+        "singing"
+      ]
     },
     {
       "id": 623,
       "setup": "Why did the desert feel empty inside?",
       "punchline": "Because it was going through a dry spell!",
-      "categories": ["geography"],
-      "tags": ["desert", "empty", "dry", "spell", "wordplay", "sand", "feelings"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "desert",
+        "empty",
+        "dry",
+        "spell",
+        "wordplay",
+        "sand",
+        "feelings"
+      ]
     },
     {
       "id": 624,
       "setup": "What do you call a continent that's always sneezing?",
       "punchline": "Achoo-rope!",
-      "categories": ["geography"],
-      "tags": ["continent", "sneezing", "europe", "achoo", "wordplay", "sick", "cold"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "continent",
+        "sneezing",
+        "europe",
+        "achoo",
+        "wordplay",
+        "sick",
+        "cold"
+      ]
     },
     {
       "id": 625,
       "setup": "Why did the GPS break up with the driver?",
       "punchline": "Because the relationship was going nowhere!",
-      "categories": ["geography", "technology"],
-      "tags": ["gps", "driver", "breakup", "nowhere", "wordplay", "navigation", "relationship"]
+      "categories": [
+        "geography",
+        "technology"
+      ],
+      "tags": [
+        "gps",
+        "driver",
+        "breakup",
+        "nowhere",
+        "wordplay",
+        "navigation",
+        "relationship"
+      ]
     },
     {
       "id": 626,
       "setup": "What's a geologist's favorite type of music?",
       "punchline": "Rock!",
-      "categories": ["geography", "music"],
-      "tags": ["geologist", "music", "rock", "stones", "wordplay", "science", "genre"]
+      "categories": [
+        "geography",
+        "music"
+      ],
+      "tags": [
+        "geologist",
+        "music",
+        "rock",
+        "stones",
+        "wordplay",
+        "science",
+        "genre"
+      ]
     },
     {
       "id": 627,
       "setup": "Why did the tectonic plates break up?",
       "punchline": "Because there was too much friction in the relationship!",
-      "categories": ["geography", "science"],
-      "tags": ["tectonic plates", "breakup", "friction", "earthquake", "wordplay", "geology", "relationship"]
+      "categories": [
+        "geography",
+        "science"
+      ],
+      "tags": [
+        "tectonic plates",
+        "breakup",
+        "friction",
+        "earthquake",
+        "wordplay",
+        "geology",
+        "relationship"
+      ]
     },
     {
       "id": 628,
-      "setup": "What do you call a country that loves to argue?",
-      "punchline": "Dispute-ain! (Britain)",
-      "categories": ["geography"],
-      "tags": ["britain", "arguing", "dispute", "countries", "wordplay", "uk", "fighting"]
+      "setup": "Why don't paper maps ever win at poker?",
+      "punchline": "Because they always fold!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "maps",
+        "poker",
+        "fold",
+        "paper",
+        "wordplay",
+        "cards",
+        "games"
+      ]
     },
     {
       "id": 629,
       "setup": "Why did the canyon feel so deep?",
       "punchline": "Because it was going through a rough gorge!",
-      "categories": ["geography"],
-      "tags": ["canyon", "deep", "gorge", "rough", "wordplay", "terrain", "feelings"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "canyon",
+        "deep",
+        "gorge",
+        "rough",
+        "wordplay",
+        "terrain",
+        "feelings"
+      ]
     },
     {
       "id": 630,
       "setup": "What state is the most round?",
       "punchline": "O-hi-o!",
-      "categories": ["geography"],
-      "tags": ["ohio", "round", "circle", "states", "wordplay", "usa", "shape"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "ohio",
+        "round",
+        "circle",
+        "states",
+        "wordplay",
+        "usa",
+        "shape"
+      ]
     },
     {
       "id": 631,
       "setup": "Why did the lake feel overwhelmed?",
       "punchline": "Because it was in over its head!",
-      "categories": ["geography"],
-      "tags": ["lake", "overwhelmed", "over head", "water", "wordplay", "deep", "feelings"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "lake",
+        "overwhelmed",
+        "over head",
+        "water",
+        "wordplay",
+        "deep",
+        "feelings"
+      ]
     },
     {
       "id": 632,
-      "setup": "What do you call a sleeping volcano?",
-      "punchline": "A napkin... wait, no... dormant!",
-      "categories": ["geography"],
-      "tags": ["volcano", "sleeping", "dormant", "nap", "wordplay", "eruption", "inactive"]
+      "setup": "What do you call a volcano that tells dad jokes?",
+      "punchline": "A pop eruption!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "volcano",
+        "dad jokes",
+        "pop",
+        "eruption",
+        "wordplay",
+        "lava",
+        "funny"
+      ]
     },
     {
       "id": 633,
-      "setup": "Why did the atlas go on a diet?",
-      "punchline": "Because it had too many extra pounds... of paper!",
-      "categories": ["geography"],
-      "tags": ["atlas", "diet", "pounds", "paper", "wordplay", "heavy", "maps"]
+      "setup": "Where do fish keep their money?",
+      "punchline": "In a river bank!",
+      "categories": [
+        "geography",
+        "animals"
+      ],
+      "tags": [
+        "fish",
+        "money",
+        "river",
+        "bank",
+        "wordplay",
+        "water",
+        "finance"
+      ]
     },
     {
       "id": 634,
       "setup": "What did Tennessee?",
       "punchline": "The same thing Arkansas!",
-      "categories": ["geography"],
-      "tags": ["tennessee", "arkansas", "see", "saw", "wordplay", "states", "usa"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "tennessee",
+        "arkansas",
+        "see",
+        "saw",
+        "wordplay",
+        "states",
+        "usa"
+      ]
     },
     {
       "id": 635,
       "setup": "Why did the plateau feel average?",
       "punchline": "Because it was on a whole different level!",
-      "categories": ["geography"],
-      "tags": ["plateau", "level", "flat", "average", "wordplay", "terrain", "landform"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "plateau",
+        "level",
+        "flat",
+        "average",
+        "wordplay",
+        "terrain",
+        "landform"
+      ]
     },
     {
       "id": 636,
       "setup": "What country is the hungriest?",
       "punchline": "Hungary!",
-      "categories": ["geography", "food"],
-      "tags": ["hungary", "hungry", "food", "countries", "wordplay", "europe", "eating"]
+      "categories": [
+        "geography",
+        "food"
+      ],
+      "tags": [
+        "hungary",
+        "hungry",
+        "food",
+        "countries",
+        "wordplay",
+        "europe",
+        "eating"
+      ]
     },
     {
       "id": 637,
       "setup": "Why did the glacier move so slowly?",
       "punchline": "Because it was frozen with indecision!",
-      "categories": ["geography"],
-      "tags": ["glacier", "slow", "frozen", "indecision", "wordplay", "ice", "movement"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "glacier",
+        "slow",
+        "frozen",
+        "indecision",
+        "wordplay",
+        "ice",
+        "movement"
+      ]
     },
     {
       "id": 638,
       "setup": "What do you call a city that's always moving?",
       "punchline": "Mobile, Alabama!",
-      "categories": ["geography"],
-      "tags": ["mobile", "alabama", "moving", "city", "wordplay", "usa", "states"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "mobile",
+        "alabama",
+        "moving",
+        "city",
+        "wordplay",
+        "usa",
+        "states"
+      ]
     },
     {
       "id": 639,
       "setup": "Why did the coast feel stressed?",
       "punchline": "Because it was under a lot of shore pressure!",
-      "categories": ["geography"],
-      "tags": ["coast", "stressed", "shore", "pressure", "wordplay", "beach", "ocean"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "coast",
+        "stressed",
+        "shore",
+        "pressure",
+        "wordplay",
+        "beach",
+        "ocean"
+      ]
     },
     {
       "id": 640,
       "setup": "What's a map's favorite snack?",
       "punchline": "Scale chips!",
-      "categories": ["geography", "food"],
-      "tags": ["map", "snack", "scale", "chips", "wordplay", "navigation", "eating"]
+      "categories": [
+        "geography",
+        "food"
+      ],
+      "tags": [
+        "map",
+        "snack",
+        "scale",
+        "chips",
+        "wordplay",
+        "navigation",
+        "eating"
+      ]
     },
     {
       "id": 641,
-      "setup": "Why did the archipelago feel scattered?",
-      "punchline": "Because it was spread across so many islands!",
-      "categories": ["geography"],
-      "tags": ["archipelago", "scattered", "islands", "spread", "wordplay", "ocean", "landform"]
+      "setup": "What rock group has four men that don't sing?",
+      "punchline": "Mount Rushmore!",
+      "categories": [
+        "geography",
+        "music"
+      ],
+      "tags": [
+        "rock group",
+        "mount rushmore",
+        "presidents",
+        "singing",
+        "wordplay",
+        "usa",
+        "monument"
+      ]
     },
     {
       "id": 642,
       "setup": "What state is the smartest?",
       "punchline": "Alabama - it has four A's and one B!",
-      "categories": ["geography", "school"],
-      "tags": ["alabama", "smart", "grades", "letters", "wordplay", "usa", "spelling"]
+      "categories": [
+        "geography",
+        "school"
+      ],
+      "tags": [
+        "alabama",
+        "smart",
+        "grades",
+        "letters",
+        "wordplay",
+        "usa",
+        "spelling"
+      ]
     },
     {
       "id": 643,
-      "setup": "Why did the delta feel triangular?",
-      "punchline": "Because that's just the shape it was in!",
-      "categories": ["geography"],
-      "tags": ["delta", "triangle", "shape", "river", "wordplay", "landform", "geometry"]
+      "setup": "Why does it take so long to get into Florida?",
+      "punchline": "Because there are so many keys to go through!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "florida",
+        "keys",
+        "florida keys",
+        "long",
+        "wordplay",
+        "usa",
+        "islands"
+      ]
     },
     {
       "id": 644,
       "setup": "What do you call a nervous island?",
       "punchline": "Shaky ground!",
-      "categories": ["geography"],
-      "tags": ["island", "nervous", "shaky", "ground", "wordplay", "earthquake", "anxious"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "island",
+        "nervous",
+        "shaky",
+        "ground",
+        "wordplay",
+        "earthquake",
+        "anxious"
+      ]
     },
     {
       "id": 645,
       "setup": "Why did the meridian feel divided?",
       "punchline": "Because it was stuck between East and West!",
-      "categories": ["geography"],
-      "tags": ["meridian", "divided", "east", "west", "wordplay", "longitude", "direction"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "meridian",
+        "divided",
+        "east",
+        "west",
+        "wordplay",
+        "longitude",
+        "direction"
+      ]
     },
     {
       "id": 646,
       "setup": "What country is the most surprised?",
       "punchline": "O-man!",
-      "categories": ["geography"],
-      "tags": ["oman", "surprised", "oh man", "countries", "wordplay", "middle east", "exclamation"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "oman",
+        "surprised",
+        "oh man",
+        "countries",
+        "wordplay",
+        "middle east",
+        "exclamation"
+      ]
     },
     {
       "id": 647,
-      "setup": "Why did the bay feel enclosed?",
-      "punchline": "Because it was surrounded on three sides!",
-      "categories": ["geography"],
-      "tags": ["bay", "enclosed", "surrounded", "water", "wordplay", "landform", "coastline"]
+      "setup": "What's the best thing about Switzerland?",
+      "punchline": "I don't know, but the flag is a big plus!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "switzerland",
+        "flag",
+        "plus",
+        "cross",
+        "wordplay",
+        "europe",
+        "positive"
+      ]
     },
     {
       "id": 648,
-      "setup": "What do you call a mountain that never stops talking?",
-      "punchline": "Mount Ever-rest your ears!",
-      "categories": ["geography"],
-      "tags": ["mountain", "talking", "everest", "rest", "wordplay", "tall", "chatty"]
+      "setup": "Why do mountains never get cold?",
+      "punchline": "Because they wear snow caps!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "mountains",
+        "cold",
+        "snow caps",
+        "hats",
+        "wordplay",
+        "winter",
+        "terrain"
+      ]
     },
     {
       "id": 649,
       "setup": "Why did the North Pole and South Pole never hang out?",
       "punchline": "Because they were polar opposites!",
-      "categories": ["geography"],
-      "tags": ["north pole", "south pole", "polar", "opposites", "wordplay", "cold", "arctic"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "north pole",
+        "south pole",
+        "polar",
+        "opposites",
+        "wordplay",
+        "cold",
+        "arctic"
+      ]
     },
     {
       "id": 650,
       "setup": "What's the most egotistical country?",
       "punchline": "Me-xico!",
-      "categories": ["geography"],
-      "tags": ["mexico", "egotistical", "me", "countries", "wordplay", "north america", "self-centered"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "mexico",
+        "egotistical",
+        "me",
+        "countries",
+        "wordplay",
+        "north america",
+        "self-centered"
+      ]
     },
     {
       "id": 651,
-      "setup": "Why did the isthmus feel skinny?",
-      "punchline": "Because it was a narrow strip of land between two bodies of water!",
-      "categories": ["geography"],
-      "tags": ["isthmus", "skinny", "narrow", "land", "wordplay", "landform", "water"]
+      "setup": "What do you call a country that looks like one thigh?",
+      "punchline": "Taiwan!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "taiwan",
+        "thigh",
+        "one",
+        "asia",
+        "wordplay",
+        "countries",
+        "shape"
+      ]
     },
     {
       "id": 652,
       "setup": "What state washes the most dishes?",
       "punchline": "Washing-ton!",
-      "categories": ["geography", "home"],
-      "tags": ["washington", "washing", "dishes", "states", "wordplay", "usa", "cleaning"]
+      "categories": [
+        "geography",
+        "home"
+      ],
+      "tags": [
+        "washington",
+        "washing",
+        "dishes",
+        "states",
+        "wordplay",
+        "usa",
+        "cleaning"
+      ]
     },
     {
       "id": 653,
       "setup": "Why did the cliff feel edgy?",
       "punchline": "Because it was always on the brink!",
-      "categories": ["geography"],
-      "tags": ["cliff", "edgy", "brink", "edge", "wordplay", "terrain", "dangerous"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "cliff",
+        "edgy",
+        "brink",
+        "edge",
+        "wordplay",
+        "terrain",
+        "dangerous"
+      ]
     },
     {
       "id": 654,
-      "setup": "Why did Cambodia go to the gym?",
-      "punchline": "To work on its Phnom Penh-cils!",
-      "categories": ["geography", "sports"],
-      "tags": ["cambodia", "gym", "phnom penh", "pencils", "wordplay", "exercise", "capital"]
+      "setup": "Where do pianists go for vacation?",
+      "punchline": "The Florida Keys!",
+      "categories": [
+        "geography",
+        "music"
+      ],
+      "tags": [
+        "pianists",
+        "vacation",
+        "florida keys",
+        "piano keys",
+        "wordplay",
+        "usa",
+        "travel"
+      ]
     },
     {
       "id": 655,
       "setup": "Why did the longitude and latitude break up?",
       "punchline": "Because they kept crossing each other!",
-      "categories": ["geography"],
-      "tags": ["longitude", "latitude", "crossing", "breakup", "wordplay", "coordinates", "relationship"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "longitude",
+        "latitude",
+        "crossing",
+        "breakup",
+        "wordplay",
+        "coordinates",
+        "relationship"
+      ]
     },
     {
       "id": 656,
-      "setup": "What's the most careful country?",
-      "punchline": "You-gotta-be-careful-goslavia... too late!",
-      "categories": ["geography"],
-      "tags": ["yugoslavia", "careful", "countries", "europe", "wordplay", "caution", "history"]
+      "setup": "What did the ocean say to the beach?",
+      "punchline": "Nothing, it just waved!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "ocean",
+        "beach",
+        "wave",
+        "greeting",
+        "wordplay",
+        "water",
+        "shore"
+      ]
     },
     {
       "id": 657,
       "setup": "Why did the swamp feel mushy?",
       "punchline": "Because it was going through a soggy phase!",
-      "categories": ["geography"],
-      "tags": ["swamp", "mushy", "soggy", "wet", "wordplay", "wetland", "feelings"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "swamp",
+        "mushy",
+        "soggy",
+        "wet",
+        "wordplay",
+        "wetland",
+        "feelings"
+      ]
     },
     {
       "id": 658,
       "setup": "What did the North say to the South?",
       "punchline": "Let's meet in the middle... at the Equator!",
-      "categories": ["geography"],
-      "tags": ["north", "south", "equator", "middle", "wordplay", "directions", "compromise"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "north",
+        "south",
+        "equator",
+        "middle",
+        "wordplay",
+        "directions",
+        "compromise"
+      ]
     },
     {
       "id": 659,
       "setup": "Why did the strait feel narrow-minded?",
       "punchline": "Because it couldn't see beyond its channel!",
-      "categories": ["geography"],
-      "tags": ["strait", "narrow", "channel", "minded", "wordplay", "water", "passage"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "strait",
+        "narrow",
+        "channel",
+        "minded",
+        "wordplay",
+        "water",
+        "passage"
+      ]
     },
     {
       "id": 660,
       "setup": "Why is Nepal such a spiritual country?",
       "punchline": "Because it's always on a higher plane!",
-      "categories": ["geography"],
-      "tags": ["nepal", "spiritual", "mountains", "higher", "wordplay", "elevation", "himalayas"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "nepal",
+        "spiritual",
+        "mountains",
+        "higher",
+        "wordplay",
+        "elevation",
+        "himalayas"
+      ]
     },
     {
       "id": 661,
       "setup": "Why did the savanna feel grassy?",
       "punchline": "Because it was going through a growth spurt!",
-      "categories": ["geography", "outdoors"],
-      "tags": ["savanna", "grass", "growth", "africa", "wordplay", "plains", "nature"]
+      "categories": [
+        "geography",
+        "outdoors"
+      ],
+      "tags": [
+        "savanna",
+        "grass",
+        "growth",
+        "africa",
+        "wordplay",
+        "plains",
+        "nature"
+      ]
     },
     {
       "id": 662,
       "setup": "What country tells the best jokes?",
       "punchline": "Pun-ama!",
-      "categories": ["geography"],
-      "tags": ["country", "jokes", "panama", "puns", "wordplay", "comedy", "central america"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "country",
+        "jokes",
+        "panama",
+        "puns",
+        "wordplay",
+        "comedy",
+        "central america"
+      ]
     },
     {
       "id": 663,
-      "setup": "Why did the oasis feel special?",
-      "punchline": "Because it was the water everyone was looking for in the desert!",
-      "categories": ["geography"],
-      "tags": ["oasis", "special", "water", "desert", "wordplay", "rare", "refreshing"]
+      "setup": "What is the capital of Alaska?",
+      "punchline": "Come on, Juneau this one!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "alaska",
+        "capital",
+        "juneau",
+        "you know",
+        "wordplay",
+        "usa",
+        "states"
+      ]
     },
     {
       "id": 664,
       "setup": "What do you call a polite body of water?",
       "punchline": "Lake You Very Much!",
-      "categories": ["geography"],
-      "tags": ["lake", "polite", "thank you", "water", "wordplay", "manners", "pun"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "lake",
+        "polite",
+        "thank you",
+        "water",
+        "wordplay",
+        "manners",
+        "pun"
+      ]
     },
     {
       "id": 665,
       "setup": "Why did the hemisphere feel half-hearted?",
       "punchline": "Because it was only half of the whole!",
-      "categories": ["geography"],
-      "tags": ["hemisphere", "half", "hearted", "earth", "wordplay", "globe", "division"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "hemisphere",
+        "half",
+        "hearted",
+        "earth",
+        "wordplay",
+        "globe",
+        "division"
+      ]
     },
     {
       "id": 666,
       "setup": "What state has the best doctors?",
       "punchline": "MD - Maryland!",
-      "categories": ["geography", "work"],
-      "tags": ["maryland", "doctors", "md", "states", "wordplay", "usa", "medical"]
+      "categories": [
+        "geography",
+        "work"
+      ],
+      "tags": [
+        "maryland",
+        "doctors",
+        "md",
+        "states",
+        "wordplay",
+        "usa",
+        "medical"
+      ]
     },
     {
       "id": 667,
-      "setup": "Why did the sand dune feel shifting?",
-      "punchline": "Because it couldn't stay in one place with all that wind!",
-      "categories": ["geography"],
-      "tags": ["sand dune", "shifting", "wind", "desert", "wordplay", "moving", "terrain"]
+      "setup": "Which country's citizens have the nicest teeth?",
+      "punchline": "Brus-sia!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "russia",
+        "teeth",
+        "brush",
+        "brushing",
+        "wordplay",
+        "dental",
+        "countries"
+      ]
     },
     {
       "id": 668,
       "setup": "What Canadian city loves arithmetic?",
       "punchline": "Count-couver!",
-      "categories": ["geography", "math"],
-      "tags": ["canada", "city", "vancouver", "counting", "wordplay", "math", "british columbia"]
+      "categories": [
+        "geography",
+        "math"
+      ],
+      "tags": [
+        "canada",
+        "city",
+        "vancouver",
+        "counting",
+        "wordplay",
+        "math",
+        "british columbia"
+      ]
     },
     {
       "id": 669,
       "setup": "Why did the reef feel colorful?",
       "punchline": "Because it was having a coral good day!",
-      "categories": ["geography"],
-      "tags": ["reef", "colorful", "coral", "good", "wordplay", "ocean", "underwater"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "reef",
+        "colorful",
+        "coral",
+        "good",
+        "wordplay",
+        "ocean",
+        "underwater"
+      ]
     },
     {
       "id": 670,
-      "setup": "What country is the coldest?",
-      "punchline": "Chile!",
-      "categories": ["geography"],
-      "tags": ["country", "cold", "chile", "chilly", "wordplay", "temperature", "south america"]
+      "setup": "Which country do pirates love to sail to?",
+      "punchline": "AARRRGHentina!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "pirates",
+        "argentina",
+        "arrgh",
+        "sailing",
+        "wordplay",
+        "south america",
+        "countries"
+      ]
     },
     {
       "id": 671,
       "setup": "Why did the trench feel down?",
       "punchline": "Because it was at the lowest point in the ocean!",
-      "categories": ["geography"],
-      "tags": ["trench", "down", "low", "ocean", "wordplay", "deep", "mariana"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "trench",
+        "down",
+        "low",
+        "ocean",
+        "wordplay",
+        "deep",
+        "mariana"
+      ]
     },
     {
       "id": 672,
       "setup": "What state makes the best pencils?",
       "punchline": "Pennsylvania!",
-      "categories": ["geography"],
-      "tags": ["state", "pencils", "pennsylvania", "pen", "wordplay", "writing", "usa"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "state",
+        "pencils",
+        "pennsylvania",
+        "pen",
+        "wordplay",
+        "writing",
+        "usa"
+      ]
     },
     {
       "id": 673,
-      "setup": "Why did the wetland feel moist?",
-      "punchline": "Because it was in a perpetual state of dampness!",
-      "categories": ["geography"],
-      "tags": ["wetland", "moist", "damp", "water", "wordplay", "swamp", "marsh"]
+      "setup": "What is smarter, longitude or latitude?",
+      "punchline": "Longitude - it has 360 degrees!",
+      "categories": [
+        "geography",
+        "school"
+      ],
+      "tags": [
+        "longitude",
+        "latitude",
+        "degrees",
+        "smart",
+        "wordplay",
+        "coordinates",
+        "education"
+      ]
     },
     {
       "id": 674,
-      "setup": "What country is the most questioning?",
-      "punchline": "Why-oming... wait, that's a state!",
-      "categories": ["geography"],
-      "tags": ["wyoming", "questioning", "why", "states", "wordplay", "usa", "asking"]
+      "setup": "What is the capital of Washington?",
+      "punchline": "The W!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "washington",
+        "capital",
+        "letter",
+        "spelling",
+        "wordplay",
+        "usa",
+        "states"
+      ]
     },
     {
       "id": 675,
-      "setup": "Why did the cave feel hollow?",
-      "punchline": "Because it was empty inside!",
-      "categories": ["geography"],
-      "tags": ["cave", "hollow", "empty", "inside", "wordplay", "underground", "terrain"]
+      "setup": "Teacher: What can you tell me about the Dead Sea?",
+      "punchline": "Student: I didn't even know it was sick!",
+      "categories": [
+        "geography",
+        "school"
+      ],
+      "tags": [
+        "dead sea",
+        "sick",
+        "teacher",
+        "student",
+        "wordplay",
+        "middle east",
+        "humor"
+      ]
     },
     {
       "id": 676,
-      "setup": "What's the most explosive country?",
-      "punchline": "Vol-cano... wait, that's not a country!",
-      "categories": ["geography"],
-      "tags": ["volcano", "explosive", "countries", "eruption", "wordplay", "fire", "geology"]
+      "setup": "What are the Great Plains?",
+      "punchline": "The 747, Concorde, and F-16!",
+      "categories": [
+        "geography",
+        "travel"
+      ],
+      "tags": [
+        "great plains",
+        "planes",
+        "airplanes",
+        "wordplay",
+        "usa",
+        "flying",
+        "midwest"
+      ]
     },
     {
       "id": 677,
       "setup": "Why did the harbor feel safe?",
       "punchline": "Because ships always found shelter there!",
-      "categories": ["geography", "travel"],
-      "tags": ["harbor", "safe", "ships", "shelter", "wordplay", "port", "water"]
+      "categories": [
+        "geography",
+        "travel"
+      ],
+      "tags": [
+        "harbor",
+        "safe",
+        "ships",
+        "shelter",
+        "wordplay",
+        "port",
+        "water"
+      ]
     },
     {
       "id": 678,
       "setup": "What state do lions like the most?",
       "punchline": "Maine!",
-      "categories": ["geography", "animals"],
-      "tags": ["maine", "lions", "mane", "states", "wordplay", "usa", "hair"]
+      "categories": [
+        "geography",
+        "animals"
+      ],
+      "tags": [
+        "maine",
+        "lions",
+        "mane",
+        "states",
+        "wordplay",
+        "usa",
+        "hair"
+      ]
     },
     {
       "id": 679,
       "setup": "Why did the fjord feel deep?",
       "punchline": "Because it had a lot of Norwegian feelings!",
-      "categories": ["geography"],
-      "tags": ["fjord", "deep", "norway", "feelings", "wordplay", "water", "scandinavia"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "fjord",
+        "deep",
+        "norway",
+        "feelings",
+        "wordplay",
+        "water",
+        "scandinavia"
+      ]
     },
     {
       "id": 680,
-      "setup": "What do you call a river that's really good at math?",
-      "punchline": "A calcu-later... wait, the Mississippi - it has lots of curves to calculate!",
-      "categories": ["geography", "math"],
-      "tags": ["river", "math", "mississippi", "curves", "wordplay", "calculation", "water"]
+      "setup": "Where do senators send their dirty clothes?",
+      "punchline": "To Washington DC!",
+      "categories": [
+        "geography",
+        "work"
+      ],
+      "tags": [
+        "senators",
+        "dirty clothes",
+        "washington",
+        "cleaning",
+        "wordplay",
+        "politics",
+        "laundry"
+      ]
     },
     {
       "id": 681,
       "setup": "Why did the tundra feel frozen out?",
       "punchline": "Because it was always left out in the cold!",
-      "categories": ["geography"],
-      "tags": ["tundra", "frozen", "cold", "left out", "wordplay", "arctic", "ice"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "tundra",
+        "frozen",
+        "cold",
+        "left out",
+        "wordplay",
+        "arctic",
+        "ice"
+      ]
     },
     {
       "id": 682,
-      "setup": "What country is always winning?",
-      "punchline": "Vict-oria... wait, that's a state in Australia!",
-      "categories": ["geography"],
-      "tags": ["victoria", "winning", "victory", "australia", "wordplay", "success", "champion"]
+      "setup": "What do you call a colorful sky over Spain?",
+      "punchline": "A Spainbow!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "spain",
+        "rainbow",
+        "colorful",
+        "sky",
+        "wordplay",
+        "europe",
+        "weather"
+      ]
     },
     {
       "id": 683,
       "setup": "Why did the estuary feel mixed up?",
       "punchline": "Because fresh water and salt water were always meeting there!",
-      "categories": ["geography"],
-      "tags": ["estuary", "mixed", "fresh water", "salt water", "wordplay", "river", "ocean"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "estuary",
+        "mixed",
+        "fresh water",
+        "salt water",
+        "wordplay",
+        "river",
+        "ocean"
+      ]
     },
     {
       "id": 684,
-      "setup": "What state is the roundest?",
-      "punchline": "O-hio!",
-      "categories": ["geography"],
-      "tags": ["state", "round", "ohio", "letter o", "wordplay", "shape", "midwest"]
+      "setup": "Who was Mississippi married to?",
+      "punchline": "Mr. Sippi!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "mississippi",
+        "married",
+        "mister",
+        "river",
+        "wordplay",
+        "states",
+        "spouse"
+      ]
     },
     {
       "id": 685,
       "setup": "Why did the prairie feel flat?",
       "punchline": "Because it couldn't rise to the occasion!",
-      "categories": ["geography"],
-      "tags": ["prairie", "flat", "rise", "plains", "wordplay", "terrain", "grassland"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "prairie",
+        "flat",
+        "rise",
+        "plains",
+        "wordplay",
+        "terrain",
+        "grassland"
+      ]
     },
     {
       "id": 686,
       "setup": "What city is the most tired?",
       "punchline": "Nap-les!",
-      "categories": ["geography"],
-      "tags": ["naples", "tired", "nap", "italy", "wordplay", "city", "sleeping"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "naples",
+        "tired",
+        "nap",
+        "italy",
+        "wordplay",
+        "city",
+        "sleeping"
+      ]
     },
     {
       "id": 687,
-      "setup": "Why did the atoll feel surrounded?",
-      "punchline": "Because it was a ring-shaped island around a lagoon!",
-      "categories": ["geography"],
-      "tags": ["atoll", "surrounded", "ring", "lagoon", "wordplay", "island", "ocean"]
+      "setup": "What do you call a map guide to Alcatraz?",
+      "punchline": "A con-tour map!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "map",
+        "alcatraz",
+        "contour",
+        "con",
+        "wordplay",
+        "prison",
+        "navigation"
+      ]
     },
     {
       "id": 688,
-      "setup": "What country is always hungry?",
-      "punchline": "Hungary!",
-      "categories": ["geography", "food"],
-      "tags": ["country", "hungry", "hungary", "eating", "wordplay", "europe", "appetite"]
+      "setup": "What did the rock say to the geographer?",
+      "punchline": "Don't take me for granite!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "rock",
+        "geographer",
+        "granite",
+        "granted",
+        "wordplay",
+        "geology",
+        "stone"
+      ]
     },
     {
       "id": 689,
       "setup": "Why did the geyser feel explosive?",
       "punchline": "Because it was under too much pressure!",
-      "categories": ["geography"],
-      "tags": ["geyser", "explosive", "pressure", "hot spring", "wordplay", "yellowstone", "water"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "geyser",
+        "explosive",
+        "pressure",
+        "hot spring",
+        "wordplay",
+        "yellowstone",
+        "water"
+      ]
     },
     {
       "id": 690,
       "setup": "What's the most musical city?",
       "punchline": "Sing-apore!",
-      "categories": ["geography", "music"],
-      "tags": ["singapore", "musical", "sing", "asia", "wordplay", "city", "voice"]
+      "categories": [
+        "geography",
+        "music"
+      ],
+      "tags": [
+        "singapore",
+        "musical",
+        "sing",
+        "asia",
+        "wordplay",
+        "city",
+        "voice"
+      ]
     },
     {
       "id": 691,
       "setup": "Why did the butte feel alone?",
       "punchline": "Because it was the only hill standing in the flat area!",
-      "categories": ["geography"],
-      "tags": ["butte", "alone", "hill", "flat", "wordplay", "terrain", "landform"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "butte",
+        "alone",
+        "hill",
+        "flat",
+        "wordplay",
+        "terrain",
+        "landform"
+      ]
     },
     {
       "id": 692,
       "setup": "What country do cows like the most?",
       "punchline": "Moo-rocco!",
-      "categories": ["geography", "animals"],
-      "tags": ["morocco", "cows", "moo", "africa", "wordplay", "countries", "animals"]
+      "categories": [
+        "geography",
+        "animals"
+      ],
+      "tags": [
+        "morocco",
+        "cows",
+        "moo",
+        "africa",
+        "wordplay",
+        "countries",
+        "animals"
+      ]
     },
     {
       "id": 693,
       "setup": "Why did the waterfall feel rushed?",
       "punchline": "Because it was always falling behind schedule!",
-      "categories": ["geography"],
-      "tags": ["waterfall", "rushed", "falling", "behind", "wordplay", "water", "cascade"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "waterfall",
+        "rushed",
+        "falling",
+        "behind",
+        "wordplay",
+        "water",
+        "cascade"
+      ]
     },
     {
       "id": 694,
-      "setup": "What state is the most ironic?",
-      "punchline": "Connect-i-cut... because it actually connects things!",
-      "categories": ["geography"],
-      "tags": ["connecticut", "ironic", "connect", "states", "wordplay", "usa", "bridges"]
+      "setup": "What is always in the corner but travels around the world?",
+      "punchline": "A stamp!",
+      "categories": [
+        "geography",
+        "travel"
+      ],
+      "tags": [
+        "stamp",
+        "corner",
+        "world",
+        "travel",
+        "wordplay",
+        "mail",
+        "postal"
+      ]
     },
     {
       "id": 695,
       "setup": "Why did the volcano apply for a job?",
       "punchline": "Because it wanted to blow off some steam!",
-      "categories": ["geography", "work"],
-      "tags": ["volcano", "job", "steam", "blow off", "wordplay", "eruption", "stress"]
+      "categories": [
+        "geography",
+        "work"
+      ],
+      "tags": [
+        "volcano",
+        "job",
+        "steam",
+        "blow off",
+        "wordplay",
+        "eruption",
+        "stress"
+      ]
     },
     {
       "id": 696,
-      "setup": "What ocean is the saltiest?",
-      "punchline": "The Pacific... it has so many sea-sonal mood swings!",
-      "categories": ["geography"],
-      "tags": ["ocean", "salty", "pacific", "seasonal", "wordplay", "moody", "sea"]
+      "setup": "What stays at 90 degrees but is never hot?",
+      "punchline": "The North and South Poles!",
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "degrees",
+        "hot",
+        "poles",
+        "cold",
+        "wordplay",
+        "arctic",
+        "temperature"
+      ]
     },
     {
       "id": 697,
       "setup": "Why did the canyon feel grand?",
       "punchline": "Because everyone kept calling it that!",
-      "categories": ["geography"],
-      "tags": ["canyon", "grand", "grand canyon", "arizona", "wordplay", "terrain", "famous"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "canyon",
+        "grand",
+        "grand canyon",
+        "arizona",
+        "wordplay",
+        "terrain",
+        "famous"
+      ]
     },
     {
       "id": 698,
       "setup": "What country loves breakfast the most?",
       "punchline": "Greece - they love their eggs over-easy!",
-      "categories": ["geography", "food"],
-      "tags": ["greece", "breakfast", "grease", "eggs", "wordplay", "europe", "cooking"]
+      "categories": [
+        "geography",
+        "food"
+      ],
+      "tags": [
+        "greece",
+        "breakfast",
+        "grease",
+        "eggs",
+        "wordplay",
+        "europe",
+        "cooking"
+      ]
     },
     {
       "id": 699,
       "setup": "Why did the peninsula go to the doctor?",
       "punchline": "Because it was feeling a little land-sick!",
-      "categories": ["geography"],
-      "tags": ["peninsula", "doctor", "land", "sick", "wordplay", "landform", "health"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "peninsula",
+        "doctor",
+        "land",
+        "sick",
+        "wordplay",
+        "landform",
+        "health"
+      ]
     },
     {
       "id": 700,
       "setup": "What do you call a country that's always cold and always telling jokes?",
       "punchline": "Ice-land... and it's snow joke!",
-      "categories": ["geography"],
-      "tags": ["iceland", "cold", "snow", "jokes", "wordplay", "europe", "funny"]
+      "categories": [
+        "geography"
+      ],
+      "tags": [
+        "iceland",
+        "cold",
+        "snow",
+        "jokes",
+        "wordplay",
+        "europe",
+        "funny"
+      ]
     },
     {
       "id": 701,
       "setup": "Why did the archaeologist go broke?",
       "punchline": "Because his career was in ruins!",
-      "categories": ["history", "work"],
-      "tags": ["archaeologist", "broke", "ruins", "career", "wordplay", "ancient", "money"]
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "archaeologist",
+        "broke",
+        "ruins",
+        "career",
+        "wordplay",
+        "ancient",
+        "money"
+      ]
     },
     {
       "id": 702,
-      "setup": "What did the Medieval knight say when he saw a dragon?",
-      "punchline": "Well, that's a fire time to leave!",
-      "categories": ["history", "fantasy"],
-      "tags": ["knight", "dragon", "medieval", "fire", "wordplay", "fine time", "escape"]
+      "setup": "How was the Roman Empire cut in half?",
+      "punchline": "With a pair of Caesars!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "roman",
+        "empire",
+        "caesar",
+        "scissors",
+        "wordplay",
+        "ancient",
+        "cutting"
+      ]
     },
     {
       "id": 703,
       "setup": "Why was the Egyptian pharaoh so confident?",
       "punchline": "Because he was in de-Nile!",
-      "categories": ["history", "geography"],
-      "tags": ["pharaoh", "egypt", "denial", "nile", "wordplay", "confident", "river"]
+      "categories": [
+        "history",
+        "geography"
+      ],
+      "tags": [
+        "pharaoh",
+        "egypt",
+        "denial",
+        "nile",
+        "wordplay",
+        "confident",
+        "river"
+      ]
     },
     {
       "id": 704,
       "setup": "What do you call a Roman emperor with a cold?",
       "punchline": "Julius Sneezer!",
-      "categories": ["history"],
-      "tags": ["roman", "emperor", "julius caesar", "sneeze", "wordplay", "cold", "sick"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "roman",
+        "emperor",
+        "julius caesar",
+        "sneeze",
+        "wordplay",
+        "cold",
+        "sick"
+      ]
     },
     {
       "id": 705,
       "setup": "Why did the history teacher break up with the math teacher?",
       "punchline": "Because they had too many problems in the past!",
-      "categories": ["history", "school"],
-      "tags": ["teacher", "breakup", "problems", "past", "wordplay", "math", "relationship"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "teacher",
+        "breakup",
+        "problems",
+        "past",
+        "wordplay",
+        "math",
+        "relationship"
+      ]
     },
     {
       "id": 706,
       "setup": "What was the most popular dance in colonial America?",
       "punchline": "The indepen-dance!",
-      "categories": ["history"],
-      "tags": ["colonial", "america", "dance", "independence", "wordplay", "revolution", "patriotic"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "colonial",
+        "america",
+        "dance",
+        "independence",
+        "wordplay",
+        "revolution",
+        "patriotic"
+      ]
     },
     {
       "id": 707,
       "setup": "Why did the Viking buy a boat?",
       "punchline": "It was on sail!",
-      "categories": ["history", "travel"],
-      "tags": ["viking", "boat", "sale", "sail", "wordplay", "norse", "shopping"]
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "viking",
+        "boat",
+        "sale",
+        "sail",
+        "wordplay",
+        "norse",
+        "shopping"
+      ]
     },
     {
       "id": 708,
       "setup": "What did the ancient Greek say when his toga ripped?",
       "punchline": "Seams like I need a new one!",
-      "categories": ["history"],
-      "tags": ["greek", "toga", "seams", "seems", "wordplay", "ancient", "clothing"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "greek",
+        "toga",
+        "seams",
+        "seems",
+        "wordplay",
+        "ancient",
+        "clothing"
+      ]
     },
     {
       "id": 709,
       "setup": "Why couldn't the mummy answer the phone?",
       "punchline": "Because he was all wrapped up!",
-      "categories": ["history"],
-      "tags": ["mummy", "phone", "wrapped up", "busy", "wordplay", "egypt", "bandages"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "mummy",
+        "phone",
+        "wrapped up",
+        "busy",
+        "wordplay",
+        "egypt",
+        "bandages"
+      ]
     },
     {
       "id": 710,
       "setup": "What's a pirate's favorite letter?",
       "punchline": "You'd think it's R, but it's really the C!",
-      "categories": ["history"],
-      "tags": ["pirate", "letter", "sea", "r", "wordplay", "ocean", "alphabet"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "pirate",
+        "letter",
+        "sea",
+        "r",
+        "wordplay",
+        "ocean",
+        "alphabet"
+      ]
     },
     {
       "id": 711,
-      "setup": "Why did Napoleon keep his hand in his jacket?",
-      "punchline": "Because he couldn't find a pocket!",
-      "categories": ["history"],
-      "tags": ["napoleon", "hand", "jacket", "pocket", "france", "emperor", "famous"]
+      "setup": "How did the Vikings send secret messages?",
+      "punchline": "By Norse code!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "vikings",
+        "secret",
+        "messages",
+        "norse",
+        "morse code",
+        "wordplay",
+        "communication"
+      ]
     },
     {
       "id": 712,
       "setup": "What did the caveman say after inventing fire?",
       "punchline": "This idea is really catching on!",
-      "categories": ["history", "science"],
-      "tags": ["caveman", "fire", "invention", "catching", "wordplay", "prehistoric", "discovery"]
+      "categories": [
+        "history",
+        "science"
+      ],
+      "tags": [
+        "caveman",
+        "fire",
+        "invention",
+        "catching",
+        "wordplay",
+        "prehistoric",
+        "discovery"
+      ]
     },
     {
       "id": 713,
       "setup": "Why was the medieval dungeon so popular?",
       "punchline": "Because it was cell-ebrated!",
-      "categories": ["history"],
-      "tags": ["medieval", "dungeon", "cell", "celebrated", "wordplay", "prison", "castle"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "medieval",
+        "dungeon",
+        "cell",
+        "celebrated",
+        "wordplay",
+        "prison",
+        "castle"
+      ]
     },
     {
       "id": 714,
       "setup": "What do you call a sleeping prehistoric reptile?",
       "punchline": "A dino-snore!",
-      "categories": ["history", "animals"],
-      "tags": ["dinosaur", "sleeping", "snore", "prehistoric", "wordplay", "reptile", "nap"]
+      "categories": [
+        "history",
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "sleeping",
+        "snore",
+        "prehistoric",
+        "wordplay",
+        "reptile",
+        "nap"
+      ]
     },
     {
       "id": 715,
-      "setup": "Why did the Pilgrim's pants keep falling down?",
-      "punchline": "Because their belt buckles were on their hats!",
-      "categories": ["history"],
-      "tags": ["pilgrim", "pants", "belt", "buckle", "hat", "thanksgiving", "wordplay"]
+      "setup": "When a knight was killed in battle, what sign did they put on his grave?",
+      "punchline": "Rust in peace!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "knight",
+        "grave",
+        "rust",
+        "rest in peace",
+        "wordplay",
+        "medieval",
+        "armor"
+      ]
     },
     {
       "id": 716,
       "setup": "What did the Stone Age man say when he stubbed his toe?",
       "punchline": "That rocks!",
-      "categories": ["history"],
-      "tags": ["stone age", "rocks", "toe", "pain", "wordplay", "prehistoric", "caveman"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "stone age",
+        "rocks",
+        "toe",
+        "pain",
+        "wordplay",
+        "prehistoric",
+        "caveman"
+      ]
     },
     {
       "id": 717,
       "setup": "Why did George Washington have trouble sleeping?",
       "punchline": "Because he couldn't lie!",
-      "categories": ["history"],
-      "tags": ["washington", "sleeping", "lie", "honest", "wordplay", "president", "cherry tree"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "washington",
+        "sleeping",
+        "lie",
+        "honest",
+        "wordplay",
+        "president",
+        "cherry tree"
+      ]
     },
     {
       "id": 718,
       "setup": "What do you call a knight who's afraid to fight?",
       "punchline": "Sir Render!",
-      "categories": ["history"],
-      "tags": ["knight", "afraid", "surrender", "sir", "wordplay", "medieval", "coward"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "knight",
+        "afraid",
+        "surrender",
+        "sir",
+        "wordplay",
+        "medieval",
+        "coward"
+      ]
     },
     {
       "id": 719,
       "setup": "Why did the Roman gladiator go to school?",
       "punchline": "To get his Latin degree!",
-      "categories": ["history", "school"],
-      "tags": ["roman", "gladiator", "school", "latin", "degree", "wordplay", "education"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "roman",
+        "gladiator",
+        "school",
+        "latin",
+        "degree",
+        "wordplay",
+        "education"
+      ]
     },
     {
       "id": 720,
       "setup": "What did the Egyptian pyramid say to the other pyramid?",
       "punchline": "How's your mummy?",
-      "categories": ["history", "family"],
-      "tags": ["pyramid", "egypt", "mummy", "mom", "wordplay", "ancient", "greeting"]
+      "categories": [
+        "history",
+        "family"
+      ],
+      "tags": [
+        "pyramid",
+        "egypt",
+        "mummy",
+        "mom",
+        "wordplay",
+        "ancient",
+        "greeting"
+      ]
     },
     {
       "id": 721,
       "setup": "Why was the Renaissance so illuminating?",
       "punchline": "Because of all the bright ideas!",
-      "categories": ["history"],
-      "tags": ["renaissance", "illuminating", "bright ideas", "art", "wordplay", "enlightenment", "era"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "renaissance",
+        "illuminating",
+        "bright ideas",
+        "art",
+        "wordplay",
+        "enlightenment",
+        "era"
+      ]
     },
     {
       "id": 722,
       "setup": "What do you call a medieval ruler who's always online?",
       "punchline": "The Serfing King!",
-      "categories": ["history", "technology"],
-      "tags": ["medieval", "king", "surfing", "serf", "wordplay", "internet", "ruler"]
+      "categories": [
+        "history",
+        "technology"
+      ],
+      "tags": [
+        "medieval",
+        "king",
+        "surfing",
+        "serf",
+        "wordplay",
+        "internet",
+        "ruler"
+      ]
     },
     {
       "id": 723,
       "setup": "Why did the Aztec refuse to fight?",
       "punchline": "He didn't have the heart for it!",
-      "categories": ["history"],
-      "tags": ["aztec", "fight", "heart", "sacrifice", "wordplay", "mexico", "ancient"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "aztec",
+        "fight",
+        "heart",
+        "sacrifice",
+        "wordplay",
+        "mexico",
+        "ancient"
+      ]
     },
     {
       "id": 724,
       "setup": "What was Cleopatra's favorite day of the week?",
       "punchline": "Pharaoh-day!",
-      "categories": ["history"],
-      "tags": ["cleopatra", "egypt", "pharaoh", "friday", "wordplay", "ancient", "queen"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "cleopatra",
+        "egypt",
+        "pharaoh",
+        "friday",
+        "wordplay",
+        "ancient",
+        "queen"
+      ]
     },
     {
       "id": 725,
       "setup": "Why did the samurai go to therapy?",
       "punchline": "He had too many inner demons to fight!",
-      "categories": ["history"],
-      "tags": ["samurai", "therapy", "demons", "fighting", "wordplay", "japan", "mental health"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "samurai",
+        "therapy",
+        "demons",
+        "fighting",
+        "wordplay",
+        "japan",
+        "mental health"
+      ]
     },
     {
       "id": 726,
       "setup": "What did Benjamin Franklin say when he discovered electricity?",
       "punchline": "I'm shocked!",
-      "categories": ["history", "science"],
-      "tags": ["franklin", "electricity", "shocked", "discovery", "wordplay", "kite", "invention"]
+      "categories": [
+        "history",
+        "science"
+      ],
+      "tags": [
+        "franklin",
+        "electricity",
+        "shocked",
+        "discovery",
+        "wordplay",
+        "kite",
+        "invention"
+      ]
     },
     {
       "id": 727,
       "setup": "Why were the Dark Ages so dark?",
       "punchline": "Because there were so many knights!",
-      "categories": ["history"],
-      "tags": ["dark ages", "dark", "knights", "nights", "wordplay", "medieval", "era"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "dark ages",
+        "dark",
+        "knights",
+        "nights",
+        "wordplay",
+        "medieval",
+        "era"
+      ]
     },
     {
       "id": 728,
-      "setup": "What do you call a Roman barber?",
-      "punchline": "A little Caesar!",
-      "categories": ["history", "work"],
-      "tags": ["roman", "barber", "caesar", "little", "wordplay", "haircut", "emperor"]
+      "setup": "How did kids in Ancient Rome get their hair cut?",
+      "punchline": "With little Caesars!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "roman",
+        "haircut",
+        "caesar",
+        "scissors",
+        "wordplay",
+        "ancient",
+        "barber"
+      ]
     },
     {
       "id": 729,
       "setup": "Why did the ancient historian break up with his girlfriend?",
       "punchline": "Because she had too much baggage from the past!",
-      "categories": ["history"],
-      "tags": ["historian", "breakup", "baggage", "past", "wordplay", "relationship", "ancient"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "historian",
+        "breakup",
+        "baggage",
+        "past",
+        "wordplay",
+        "relationship",
+        "ancient"
+      ]
     },
     {
       "id": 730,
       "setup": "What did the pirate say on his 80th birthday?",
       "punchline": "Aye matey!",
-      "categories": ["history", "birthday"],
-      "tags": ["pirate", "birthday", "eighty", "aye matey", "wordplay", "age", "celebration"]
+      "categories": [
+        "history",
+        "birthday"
+      ],
+      "tags": [
+        "pirate",
+        "birthday",
+        "eighty",
+        "aye matey",
+        "wordplay",
+        "age",
+        "celebration"
+      ]
     },
     {
       "id": 731,
       "setup": "Why did the Civil War soldier carry a pencil?",
       "punchline": "In case he needed to draw his weapon!",
-      "categories": ["history"],
-      "tags": ["civil war", "soldier", "pencil", "draw", "weapon", "wordplay", "american"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "civil war",
+        "soldier",
+        "pencil",
+        "draw",
+        "weapon",
+        "wordplay",
+        "american"
+      ]
     },
     {
       "id": 732,
       "setup": "What do you call an ancient Egyptian who was a stand-up comedian?",
       "punchline": "A mummy who really killed it!",
-      "categories": ["history"],
-      "tags": ["egyptian", "mummy", "comedian", "killed it", "wordplay", "ancient", "funny"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "egyptian",
+        "mummy",
+        "comedian",
+        "killed it",
+        "wordplay",
+        "ancient",
+        "funny"
+      ]
     },
     {
       "id": 733,
       "setup": "Why did the Medieval peasant do well in school?",
       "punchline": "Because he was an A-serf student!",
-      "categories": ["history", "school"],
-      "tags": ["medieval", "peasant", "serf", "student", "wordplay", "grades", "education"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "medieval",
+        "peasant",
+        "serf",
+        "student",
+        "wordplay",
+        "grades",
+        "education"
+      ]
     },
     {
       "id": 734,
-      "setup": "What did the Viking name his son?",
-      "punchline": "Leif... because he wanted him to branch out!",
-      "categories": ["history", "family"],
-      "tags": ["viking", "son", "leif", "leaf", "branch", "wordplay", "norse"]
+      "setup": "Did you hear about the Viking who was reincarnated?",
+      "punchline": "He was Bjorn again!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "viking",
+        "reincarnated",
+        "bjorn",
+        "born again",
+        "wordplay",
+        "norse",
+        "rebirth"
+      ]
     },
     {
       "id": 735,
       "setup": "Why was the wheel the greatest invention in history?",
       "punchline": "Because it got things rolling!",
-      "categories": ["history", "science"],
-      "tags": ["wheel", "invention", "rolling", "history", "wordplay", "ancient", "transportation"]
+      "categories": [
+        "history",
+        "science"
+      ],
+      "tags": [
+        "wheel",
+        "invention",
+        "rolling",
+        "history",
+        "wordplay",
+        "ancient",
+        "transportation"
+      ]
     },
     {
       "id": 736,
       "setup": "What did the Greek philosopher say to his student?",
       "punchline": "I'm Plato-nically proud of you!",
-      "categories": ["history", "school"],
-      "tags": ["greek", "philosopher", "plato", "platonic", "wordplay", "student", "ancient"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "greek",
+        "philosopher",
+        "plato",
+        "platonic",
+        "wordplay",
+        "student",
+        "ancient"
+      ]
     },
     {
       "id": 737,
       "setup": "Why did the Medieval king go to the dentist?",
       "punchline": "To get his crown checked!",
-      "categories": ["history"],
-      "tags": ["king", "dentist", "crown", "teeth", "wordplay", "medieval", "royalty"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "king",
+        "dentist",
+        "crown",
+        "teeth",
+        "wordplay",
+        "medieval",
+        "royalty"
+      ]
     },
     {
       "id": 738,
       "setup": "What do you call a Spartan who loves to garden?",
       "punchline": "A warrior with a green thumb!",
-      "categories": ["history", "outdoors"],
-      "tags": ["spartan", "garden", "warrior", "green thumb", "wordplay", "greek", "plants"]
+      "categories": [
+        "history",
+        "outdoors"
+      ],
+      "tags": [
+        "spartan",
+        "garden",
+        "warrior",
+        "green thumb",
+        "wordplay",
+        "greek",
+        "plants"
+      ]
     },
     {
       "id": 739,
       "setup": "Why did the history book go to the doctor?",
       "punchline": "Because it had a broken spine!",
-      "categories": ["history", "school"],
-      "tags": ["history book", "doctor", "spine", "broken", "wordplay", "reading", "injury"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "history book",
+        "doctor",
+        "spine",
+        "broken",
+        "wordplay",
+        "reading",
+        "injury"
+      ]
     },
     {
       "id": 740,
       "setup": "What did Abraham Lincoln say after a bad day?",
       "punchline": "I need to log out for a while!",
-      "categories": ["history"],
-      "tags": ["lincoln", "log cabin", "log out", "bad day", "wordplay", "president", "american"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "lincoln",
+        "log cabin",
+        "log out",
+        "bad day",
+        "wordplay",
+        "president",
+        "american"
+      ]
     },
     {
       "id": 741,
       "setup": "Why did the conquistador bring a ladder to Mexico?",
       "punchline": "Because he heard the stakes were high!",
-      "categories": ["history", "geography"],
-      "tags": ["conquistador", "ladder", "mexico", "stakes", "wordplay", "spanish", "exploration"]
+      "categories": [
+        "history",
+        "geography"
+      ],
+      "tags": [
+        "conquistador",
+        "ladder",
+        "mexico",
+        "stakes",
+        "wordplay",
+        "spanish",
+        "exploration"
+      ]
     },
     {
       "id": 742,
       "setup": "What did the ancient Roman say at the salad bar?",
       "punchline": "Romaine calm, everyone!",
-      "categories": ["history", "food"],
-      "tags": ["roman", "salad", "romaine", "remain calm", "wordplay", "lettuce", "ancient"]
+      "categories": [
+        "history",
+        "food"
+      ],
+      "tags": [
+        "roman",
+        "salad",
+        "romaine",
+        "remain calm",
+        "wordplay",
+        "lettuce",
+        "ancient"
+      ]
     },
     {
       "id": 743,
       "setup": "Why was the Medieval castle always so cold?",
       "punchline": "Because it was full of drafts!",
-      "categories": ["history", "home"],
-      "tags": ["castle", "cold", "drafts", "medieval", "wordplay", "architecture", "wind"]
+      "categories": [
+        "history",
+        "home"
+      ],
+      "tags": [
+        "castle",
+        "cold",
+        "drafts",
+        "medieval",
+        "wordplay",
+        "architecture",
+        "wind"
+      ]
     },
     {
       "id": 744,
       "setup": "What did the Ottoman say when someone sat on his furniture?",
       "punchline": "That's my empire you're sitting on!",
-      "categories": ["history", "home"],
-      "tags": ["ottoman", "furniture", "empire", "sitting", "wordplay", "turkish", "couch"]
+      "categories": [
+        "history",
+        "home"
+      ],
+      "tags": [
+        "ottoman",
+        "furniture",
+        "empire",
+        "sitting",
+        "wordplay",
+        "turkish",
+        "couch"
+      ]
     },
     {
       "id": 745,
       "setup": "Why did the ancient Greek athlete win every race?",
       "punchline": "Because he was always ahead of his time!",
-      "categories": ["history", "sports"],
-      "tags": ["greek", "athlete", "race", "ahead", "time", "wordplay", "olympics"]
+      "categories": [
+        "history",
+        "sports"
+      ],
+      "tags": [
+        "greek",
+        "athlete",
+        "race",
+        "ahead",
+        "time",
+        "wordplay",
+        "olympics"
+      ]
     },
     {
       "id": 746,
-      "setup": "What do you call a Medieval messenger who's always late?",
-      "punchline": "A slow-courier!",
-      "categories": ["history", "work"],
-      "tags": ["medieval", "messenger", "late", "courier", "wordplay", "slow", "delivery"]
+      "setup": "What did Medieval postmen wear?",
+      "punchline": "Chain mail!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "medieval",
+        "postmen",
+        "chain mail",
+        "armor",
+        "wordplay",
+        "delivery",
+        "knights"
+      ]
     },
     {
       "id": 747,
       "setup": "Why did the Egyptian queen use so much makeup?",
       "punchline": "Because she wanted to look Cleo-fabulous!",
-      "categories": ["history"],
-      "tags": ["egyptian", "cleopatra", "makeup", "fabulous", "wordplay", "queen", "beauty"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "egyptian",
+        "cleopatra",
+        "makeup",
+        "fabulous",
+        "wordplay",
+        "queen",
+        "beauty"
+      ]
     },
     {
       "id": 748,
       "setup": "What did the time traveler say after visiting Ancient Rome?",
       "punchline": "That was a blast from the past!",
-      "categories": ["history", "travel"],
-      "tags": ["time traveler", "rome", "blast", "past", "wordplay", "ancient", "visiting"]
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "time traveler",
+        "rome",
+        "blast",
+        "past",
+        "wordplay",
+        "ancient",
+        "visiting"
+      ]
     },
     {
       "id": 749,
       "setup": "Why did the caveman's jokes always bomb?",
       "punchline": "Because his delivery was too stone-faced!",
-      "categories": ["history"],
-      "tags": ["caveman", "jokes", "stone", "faced", "wordplay", "prehistoric", "comedy"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "caveman",
+        "jokes",
+        "stone",
+        "faced",
+        "wordplay",
+        "prehistoric",
+        "comedy"
+      ]
     },
     {
       "id": 750,
       "setup": "What did the Founding Father say about the Constitution?",
       "punchline": "It's right up my alley!",
-      "categories": ["history"],
-      "tags": ["founding father", "constitution", "rights", "alley", "wordplay", "american", "government"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "founding father",
+        "constitution",
+        "rights",
+        "alley",
+        "wordplay",
+        "american",
+        "government"
+      ]
     },
     {
       "id": 751,
       "setup": "Why did the Medieval blacksmith do well in school?",
       "punchline": "Because he always struck while the iron was hot!",
-      "categories": ["history", "work"],
-      "tags": ["blacksmith", "school", "iron", "hot", "wordplay", "medieval", "forge"]
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "blacksmith",
+        "school",
+        "iron",
+        "hot",
+        "wordplay",
+        "medieval",
+        "forge"
+      ]
     },
     {
       "id": 752,
       "setup": "What did the ancient Greek say when he broke his chair?",
       "punchline": "Looks like I need to take a Stoic approach!",
-      "categories": ["history", "home"],
-      "tags": ["greek", "chair", "stoic", "philosophy", "wordplay", "ancient", "broken"]
+      "categories": [
+        "history",
+        "home"
+      ],
+      "tags": [
+        "greek",
+        "chair",
+        "stoic",
+        "philosophy",
+        "wordplay",
+        "ancient",
+        "broken"
+      ]
     },
     {
       "id": 753,
       "setup": "Why did the pirate fail his exam?",
       "punchline": "Because he got caught on the high C's!",
-      "categories": ["history", "school"],
-      "tags": ["pirate", "exam", "seas", "c grades", "wordplay", "high", "failing"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "pirate",
+        "exam",
+        "seas",
+        "c grades",
+        "wordplay",
+        "high",
+        "failing"
+      ]
     },
     {
       "id": 754,
       "setup": "What did the pharaoh say when he saw the sphinx?",
       "punchline": "That's sphinx-credible!",
-      "categories": ["history"],
-      "tags": ["pharaoh", "sphinx", "incredible", "egypt", "wordplay", "ancient", "monument"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "pharaoh",
+        "sphinx",
+        "incredible",
+        "egypt",
+        "wordplay",
+        "ancient",
+        "monument"
+      ]
     },
     {
       "id": 755,
       "setup": "Why did the Revolutionary War soldier use a quill pen?",
       "punchline": "Because he wanted to write his wrongs!",
-      "categories": ["history"],
-      "tags": ["revolutionary war", "soldier", "quill", "write", "rights", "wordplay", "american"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "revolutionary war",
+        "soldier",
+        "quill",
+        "write",
+        "rights",
+        "wordplay",
+        "american"
+      ]
     },
     {
       "id": 756,
       "setup": "What did the Mongol warrior say before battle?",
       "punchline": "Let's get this show on the horde!",
-      "categories": ["history"],
-      "tags": ["mongol", "warrior", "horde", "road", "wordplay", "battle", "genghis khan"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "mongol",
+        "warrior",
+        "horde",
+        "road",
+        "wordplay",
+        "battle",
+        "genghis khan"
+      ]
     },
     {
       "id": 757,
       "setup": "Why did the ancient library burn down?",
       "punchline": "Because someone left their Alexandria candle burning!",
-      "categories": ["history"],
-      "tags": ["library", "alexandria", "fire", "candle", "wordplay", "ancient", "egypt"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "library",
+        "alexandria",
+        "fire",
+        "candle",
+        "wordplay",
+        "ancient",
+        "egypt"
+      ]
     },
     {
       "id": 758,
-      "setup": "What did the Medieval jester say to the king?",
-      "punchline": "I'm just clowning around, your majesty!",
-      "categories": ["history"],
-      "tags": ["jester", "king", "clown", "medieval", "wordplay", "comedy", "royalty"]
+      "setup": "Who made King Arthur's round table?",
+      "punchline": "Sir Cumference!",
+      "categories": [
+        "history",
+        "math"
+      ],
+      "tags": [
+        "king arthur",
+        "round table",
+        "circumference",
+        "sir",
+        "wordplay",
+        "medieval",
+        "geometry"
+      ]
     },
     {
       "id": 759,
       "setup": "Why was the Boston Tea Party so successful?",
       "punchline": "Because they really knew how to steep things up!",
-      "categories": ["history", "food"],
-      "tags": ["boston", "tea party", "steep", "stir", "wordplay", "american", "revolution"]
+      "categories": [
+        "history",
+        "food"
+      ],
+      "tags": [
+        "boston",
+        "tea party",
+        "steep",
+        "stir",
+        "wordplay",
+        "american",
+        "revolution"
+      ]
     },
     {
       "id": 760,
       "setup": "What did Caesar say to Brutus at the gym?",
       "punchline": "Et tu, Brute? Even you work out?",
-      "categories": ["history", "sports"],
-      "tags": ["caesar", "brutus", "gym", "et tu", "wordplay", "roman", "workout"]
+      "categories": [
+        "history",
+        "sports"
+      ],
+      "tags": [
+        "caesar",
+        "brutus",
+        "gym",
+        "et tu",
+        "wordplay",
+        "roman",
+        "workout"
+      ]
     },
     {
       "id": 761,
       "setup": "Why did the dinosaur refuse to fight?",
       "punchline": "Because he was a paci-saurus!",
-      "categories": ["history", "animals"],
-      "tags": ["dinosaur", "fight", "pacifist", "saurus", "wordplay", "prehistoric", "peaceful"]
+      "categories": [
+        "history",
+        "animals"
+      ],
+      "tags": [
+        "dinosaur",
+        "fight",
+        "pacifist",
+        "saurus",
+        "wordplay",
+        "prehistoric",
+        "peaceful"
+      ]
     },
     {
       "id": 762,
       "setup": "What did the ancient Mayan say about their calendar?",
       "punchline": "It's really ahead of its time!",
-      "categories": ["history"],
-      "tags": ["mayan", "calendar", "ahead", "time", "wordplay", "ancient", "mexico"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "mayan",
+        "calendar",
+        "ahead",
+        "time",
+        "wordplay",
+        "ancient",
+        "mexico"
+      ]
     },
     {
       "id": 763,
       "setup": "Why did the Medieval archer win the talent show?",
       "punchline": "Because he hit all the right notes... and targets!",
-      "categories": ["history", "music"],
-      "tags": ["archer", "talent show", "notes", "targets", "wordplay", "medieval", "bow"]
+      "categories": [
+        "history",
+        "music"
+      ],
+      "tags": [
+        "archer",
+        "talent show",
+        "notes",
+        "targets",
+        "wordplay",
+        "medieval",
+        "bow"
+      ]
     },
     {
       "id": 764,
       "setup": "What did the historian say at the party?",
       "punchline": "Let me tell you, this is going down in history!",
-      "categories": ["history"],
-      "tags": ["historian", "party", "going down", "history", "wordplay", "memorable", "fun"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "historian",
+        "party",
+        "going down",
+        "history",
+        "wordplay",
+        "memorable",
+        "fun"
+      ]
     },
     {
       "id": 765,
       "setup": "Why did the mummy become a detective?",
       "punchline": "Because he was great at wrapping up cases!",
-      "categories": ["history", "work"],
-      "tags": ["mummy", "detective", "wrapping", "cases", "wordplay", "egypt", "mystery"]
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "mummy",
+        "detective",
+        "wrapping",
+        "cases",
+        "wordplay",
+        "egypt",
+        "mystery"
+      ]
     },
     {
       "id": 766,
       "setup": "What did the ancient Roman say about his chariot?",
       "punchline": "It really gets me wheeling and dealing!",
-      "categories": ["history", "travel"],
-      "tags": ["roman", "chariot", "wheels", "dealing", "wordplay", "ancient", "transportation"]
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "roman",
+        "chariot",
+        "wheels",
+        "dealing",
+        "wordplay",
+        "ancient",
+        "transportation"
+      ]
     },
     {
       "id": 767,
       "setup": "Why did the Medieval knight always win at chess?",
       "punchline": "Because he knew all the right moves!",
-      "categories": ["history"],
-      "tags": ["knight", "chess", "moves", "winning", "wordplay", "medieval", "strategy"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "knight",
+        "chess",
+        "moves",
+        "winning",
+        "wordplay",
+        "medieval",
+        "strategy"
+      ]
     },
     {
       "id": 768,
       "setup": "What did the ancient Greek inventor say?",
       "punchline": "Eureka! I've found it... my lost sock!",
-      "categories": ["history", "home"],
-      "tags": ["greek", "eureka", "inventor", "archimedes", "wordplay", "discovery", "lost"]
+      "categories": [
+        "history",
+        "home"
+      ],
+      "tags": [
+        "greek",
+        "eureka",
+        "inventor",
+        "archimedes",
+        "wordplay",
+        "discovery",
+        "lost"
+      ]
     },
     {
       "id": 769,
       "setup": "Why did the Tudor king have so many wives?",
       "punchline": "Because he kept losing his head over them!",
-      "categories": ["history", "family"],
-      "tags": ["tudor", "henry viii", "wives", "head", "wordplay", "england", "king"]
+      "categories": [
+        "history",
+        "family"
+      ],
+      "tags": [
+        "tudor",
+        "henry viii",
+        "wives",
+        "head",
+        "wordplay",
+        "england",
+        "king"
+      ]
     },
     {
       "id": 770,
       "setup": "What did the Civil War general say about his strategy?",
       "punchline": "I'm divided on the issue!",
-      "categories": ["history"],
-      "tags": ["civil war", "general", "divided", "strategy", "wordplay", "american", "conflict"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "civil war",
+        "general",
+        "divided",
+        "strategy",
+        "wordplay",
+        "american",
+        "conflict"
+      ]
     },
     {
       "id": 771,
       "setup": "Why did the Egyptian architect do well in math?",
       "punchline": "Because he knew all the angles on the pyramids!",
-      "categories": ["history", "math"],
-      "tags": ["egyptian", "architect", "angles", "pyramids", "wordplay", "math", "building"]
+      "categories": [
+        "history",
+        "math"
+      ],
+      "tags": [
+        "egyptian",
+        "architect",
+        "angles",
+        "pyramids",
+        "wordplay",
+        "math",
+        "building"
+      ]
     },
     {
       "id": 772,
       "setup": "What did the Medieval peasant say about his farm?",
       "punchline": "It's not much, but it's honest serf-work!",
-      "categories": ["history", "work"],
-      "tags": ["medieval", "peasant", "serf", "farm", "wordplay", "honest", "labor"]
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "medieval",
+        "peasant",
+        "serf",
+        "farm",
+        "wordplay",
+        "honest",
+        "labor"
+      ]
     },
     {
       "id": 773,
       "setup": "Why did the ancient philosopher cross the road?",
       "punchline": "To question why the chicken did it first!",
-      "categories": ["history"],
-      "tags": ["philosopher", "crossing", "chicken", "question", "wordplay", "ancient", "thinking"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "philosopher",
+        "crossing",
+        "chicken",
+        "question",
+        "wordplay",
+        "ancient",
+        "thinking"
+      ]
     },
     {
       "id": 774,
       "setup": "What did the Viking say when he discovered new land?",
       "punchline": "This is Norse-thing compared to home!",
-      "categories": ["history", "geography"],
-      "tags": ["viking", "discovery", "norse", "nothing", "wordplay", "exploration", "land"]
+      "categories": [
+        "history",
+        "geography"
+      ],
+      "tags": [
+        "viking",
+        "discovery",
+        "norse",
+        "nothing",
+        "wordplay",
+        "exploration",
+        "land"
+      ]
     },
     {
       "id": 775,
       "setup": "Why was the Ancient Greek pottery so popular?",
       "punchline": "Because it was always in vase demand!",
-      "categories": ["history"],
-      "tags": ["greek", "pottery", "vase", "vast", "wordplay", "ancient", "art"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "greek",
+        "pottery",
+        "vase",
+        "vast",
+        "wordplay",
+        "ancient",
+        "art"
+      ]
     },
     {
       "id": 776,
       "setup": "What did the castle guard say to the visitor?",
       "punchline": "Welcome to our humble moat-el!",
-      "categories": ["history", "travel"],
-      "tags": ["castle", "guard", "moat", "motel", "wordplay", "medieval", "welcome"]
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "castle",
+        "guard",
+        "moat",
+        "motel",
+        "wordplay",
+        "medieval",
+        "welcome"
+      ]
     },
     {
       "id": 777,
       "setup": "Why did the caveman's wife leave him?",
       "punchline": "Because he took her for granite!",
-      "categories": ["history", "family"],
-      "tags": ["caveman", "wife", "granite", "granted", "wordplay", "prehistoric", "relationship"]
+      "categories": [
+        "history",
+        "family"
+      ],
+      "tags": [
+        "caveman",
+        "wife",
+        "granite",
+        "granted",
+        "wordplay",
+        "prehistoric",
+        "relationship"
+      ]
     },
     {
       "id": 778,
       "setup": "What did Socrates say at the coffee shop?",
       "punchline": "I think, therefore I espresso!",
-      "categories": ["history", "food"],
-      "tags": ["socrates", "coffee", "espresso", "think", "wordplay", "philosophy", "greek"]
+      "categories": [
+        "history",
+        "food"
+      ],
+      "tags": [
+        "socrates",
+        "coffee",
+        "espresso",
+        "think",
+        "wordplay",
+        "philosophy",
+        "greek"
+      ]
     },
     {
       "id": 779,
-      "setup": "Why did the Revolutionary soldiers march in a line?",
-      "punchline": "Because they were following orders!",
-      "categories": ["history"],
-      "tags": ["revolutionary", "soldiers", "marching", "orders", "wordplay", "american", "military"]
+      "setup": "Why was the medieval knight always tired?",
+      "punchline": "Because he worked knight shifts!",
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "knight",
+        "tired",
+        "night shift",
+        "medieval",
+        "wordplay",
+        "work",
+        "sleeping"
+      ]
     },
     {
       "id": 780,
       "setup": "What did the pharaoh say when he was annoyed?",
       "punchline": "Tut, tut, tut!",
-      "categories": ["history"],
-      "tags": ["pharaoh", "annoyed", "tut", "tutankhamun", "wordplay", "egypt", "frustration"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "pharaoh",
+        "annoyed",
+        "tut",
+        "tutankhamun",
+        "wordplay",
+        "egypt",
+        "frustration"
+      ]
     },
     {
       "id": 781,
       "setup": "Why did the ancient library close early?",
       "punchline": "Because they wanted to book it out of there!",
-      "categories": ["history", "school"],
-      "tags": ["library", "book", "close", "ancient", "wordplay", "reading", "leaving"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "library",
+        "book",
+        "close",
+        "ancient",
+        "wordplay",
+        "reading",
+        "leaving"
+      ]
     },
     {
       "id": 782,
-      "setup": "What did the Medieval cook say about his soup?",
-      "punchline": "It's fit for a king... or at least a duke!",
-      "categories": ["history", "food"],
-      "tags": ["medieval", "cook", "soup", "king", "duke", "wordplay", "royalty"]
+      "setup": "Why was the history class so interesting?",
+      "punchline": "Because it had lots of great dates!",
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "history",
+        "class",
+        "dates",
+        "interesting",
+        "wordplay",
+        "school",
+        "learning"
+      ]
     },
     {
       "id": 783,
       "setup": "Why did the ancient Roman road last so long?",
       "punchline": "Because it was built with concrete evidence of good engineering!",
-      "categories": ["history", "science"],
-      "tags": ["roman", "road", "concrete", "evidence", "wordplay", "engineering", "ancient"]
+      "categories": [
+        "history",
+        "science"
+      ],
+      "tags": [
+        "roman",
+        "road",
+        "concrete",
+        "evidence",
+        "wordplay",
+        "engineering",
+        "ancient"
+      ]
     },
     {
       "id": 784,
       "setup": "What did the Trojan say when he saw the wooden horse?",
       "punchline": "That's a gift horse I shouldn't look in the mouth!",
-      "categories": ["history"],
-      "tags": ["trojan", "horse", "gift", "mouth", "wordplay", "greek", "war"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "trojan",
+        "horse",
+        "gift",
+        "mouth",
+        "wordplay",
+        "greek",
+        "war"
+      ]
     },
     {
       "id": 785,
       "setup": "Why did the Medieval knight refuse dessert?",
       "punchline": "Because he was already stuffed into his armor!",
-      "categories": ["history", "food"],
-      "tags": ["knight", "dessert", "stuffed", "armor", "wordplay", "medieval", "eating"]
+      "categories": [
+        "history",
+        "food"
+      ],
+      "tags": [
+        "knight",
+        "dessert",
+        "stuffed",
+        "armor",
+        "wordplay",
+        "medieval",
+        "eating"
+      ]
     },
     {
       "id": 786,
-      "setup": "What did the ancient Greek say after running a marathon?",
-      "punchline": "That was a long run-ion!",
-      "categories": ["history", "sports"],
-      "tags": ["greek", "marathon", "running", "reunion", "wordplay", "ancient", "race"]
+      "setup": "What kind of music did the Pilgrims like?",
+      "punchline": "Plymouth Rock!",
+      "categories": [
+        "history",
+        "music"
+      ],
+      "tags": [
+        "pilgrims",
+        "music",
+        "plymouth rock",
+        "rock",
+        "wordplay",
+        "american",
+        "thanksgiving"
+      ]
     },
     {
       "id": 787,
       "setup": "Why did the Elizabethan actor break character?",
       "punchline": "Because the play was too dramatic!",
-      "categories": ["history"],
-      "tags": ["elizabethan", "actor", "shakespeare", "dramatic", "wordplay", "theater", "play"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "elizabethan",
+        "actor",
+        "shakespeare",
+        "dramatic",
+        "wordplay",
+        "theater",
+        "play"
+      ]
     },
     {
       "id": 788,
       "setup": "What did the ancient Chinese philosopher say about wisdom?",
       "punchline": "Confucius say: man who learns from history doesn't repeat bad jokes!",
-      "categories": ["history", "school"],
-      "tags": ["confucius", "philosophy", "wisdom", "history", "wordplay", "chinese", "ancient"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "confucius",
+        "philosophy",
+        "wisdom",
+        "history",
+        "wordplay",
+        "chinese",
+        "ancient"
+      ]
     },
     {
       "id": 789,
       "setup": "Why did the pyramid fail its driving test?",
       "punchline": "Because it couldn't make any turns!",
-      "categories": ["history", "travel"],
-      "tags": ["pyramid", "driving", "turns", "egypt", "wordplay", "ancient", "shape"]
+      "categories": [
+        "history",
+        "travel"
+      ],
+      "tags": [
+        "pyramid",
+        "driving",
+        "turns",
+        "egypt",
+        "wordplay",
+        "ancient",
+        "shape"
+      ]
     },
     {
       "id": 790,
       "setup": "What did the Medieval lord say about his land?",
       "punchline": "It's all mine... and yours if you're a serf!",
-      "categories": ["history"],
-      "tags": ["medieval", "lord", "land", "serf", "wordplay", "feudal", "ownership"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "medieval",
+        "lord",
+        "land",
+        "serf",
+        "wordplay",
+        "feudal",
+        "ownership"
+      ]
     },
     {
       "id": 791,
       "setup": "Why did the ancient historian get fired?",
       "punchline": "Because he kept living in the past!",
-      "categories": ["history", "work"],
-      "tags": ["historian", "fired", "past", "living", "wordplay", "ancient", "career"]
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "historian",
+        "fired",
+        "past",
+        "living",
+        "wordplay",
+        "ancient",
+        "career"
+      ]
     },
     {
       "id": 792,
       "setup": "What did the Roman emperor say about his new robe?",
       "punchline": "It's toga-tally awesome!",
-      "categories": ["history"],
-      "tags": ["roman", "emperor", "toga", "totally", "wordplay", "clothing", "ancient"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "roman",
+        "emperor",
+        "toga",
+        "totally",
+        "wordplay",
+        "clothing",
+        "ancient"
+      ]
     },
     {
       "id": 793,
       "setup": "Why did the Medieval knight always carry a spare horse?",
       "punchline": "In case he needed to horse around!",
-      "categories": ["history", "animals"],
-      "tags": ["knight", "horse", "spare", "horse around", "wordplay", "medieval", "riding"]
+      "categories": [
+        "history",
+        "animals"
+      ],
+      "tags": [
+        "knight",
+        "horse",
+        "spare",
+        "horse around",
+        "wordplay",
+        "medieval",
+        "riding"
+      ]
     },
     {
       "id": 794,
       "setup": "What did the ancient Egyptian say about hieroglyphics?",
       "punchline": "It's not just writing, it's picture perfect!",
-      "categories": ["history"],
-      "tags": ["egyptian", "hieroglyphics", "writing", "picture", "wordplay", "ancient", "symbols"]
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "egyptian",
+        "hieroglyphics",
+        "writing",
+        "picture",
+        "wordplay",
+        "ancient",
+        "symbols"
+      ]
     },
     {
       "id": 795,
       "setup": "Why did the Ice Age mammoth feel cold?",
       "punchline": "Because the climate was getting to him!",
-      "categories": ["history", "animals"],
-      "tags": ["ice age", "mammoth", "cold", "climate", "wordplay", "prehistoric", "weather"]
+      "categories": [
+        "history",
+        "animals"
+      ],
+      "tags": [
+        "ice age",
+        "mammoth",
+        "cold",
+        "climate",
+        "wordplay",
+        "prehistoric",
+        "weather"
+      ]
     },
     {
       "id": 796,
-      "setup": "What did the founding fathers say about democracy?",
-      "punchline": "It's a representatively great idea!",
-      "categories": ["history"],
-      "tags": ["founding fathers", "democracy", "representative", "idea", "wordplay", "american", "government"]
+      "setup": "Which colonists told the most jokes?",
+      "punchline": "Punn-sylvanians!",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "colonists",
+        "jokes",
+        "pennsylvania",
+        "puns",
+        "wordplay",
+        "american",
+        "colonial"
+      ]
     },
     {
       "id": 797,
       "setup": "Why did the ancient scroll get a promotion?",
       "punchline": "Because it was on a roll!",
-      "categories": ["history", "work"],
-      "tags": ["scroll", "promotion", "roll", "ancient", "wordplay", "writing", "success"]
+      "categories": [
+        "history",
+        "work"
+      ],
+      "tags": [
+        "scroll",
+        "promotion",
+        "roll",
+        "ancient",
+        "wordplay",
+        "writing",
+        "success"
+      ]
     },
     {
       "id": 798,
       "setup": "What did the Medieval musician say about his lute?",
       "punchline": "It's absolutely lute-iful!",
-      "categories": ["history", "music"],
-      "tags": ["medieval", "musician", "lute", "beautiful", "wordplay", "instrument", "music"]
+      "categories": [
+        "history",
+        "music"
+      ],
+      "tags": [
+        "medieval",
+        "musician",
+        "lute",
+        "beautiful",
+        "wordplay",
+        "instrument",
+        "music"
+      ]
     },
     {
       "id": 799,
       "setup": "Why did the ancient sundial go to school?",
       "punchline": "To get a better understanding of the times!",
-      "categories": ["history", "school"],
-      "tags": ["sundial", "school", "times", "ancient", "wordplay", "clock", "education"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "sundial",
+        "school",
+        "times",
+        "ancient",
+        "wordplay",
+        "clock",
+        "education"
+      ]
     },
     {
       "id": 800,
       "setup": "What did the history teacher say on the last day of class?",
       "punchline": "Well, that's history!",
-      "categories": ["history", "school"],
-      "tags": ["teacher", "class", "history", "ending", "wordplay", "school", "final"]
+      "categories": [
+        "history",
+        "school"
+      ],
+      "tags": [
+        "teacher",
+        "class",
+        "history",
+        "ending",
+        "wordplay",
+        "school",
+        "final"
+      ]
     },
     {
       "id": 801,
