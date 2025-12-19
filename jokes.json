@@ -13240,19 +13240,19 @@
     },
     {
       "id": 755,
-      "setup": "Why did the Revolutionary War soldier use a quill pen?",
-      "punchline": "Because he wanted to write his wrongs!",
+      "setup": "What dance was very popular in 1776?",
+      "punchline": "The Indepen-dance!",
       "categories": [
-        "history"
-      ],
+        "history",
+        "music"],
       "tags": [
-        "revolutionary war",
-        "soldier",
-        "quill",
-        "write",
-        "rights",
-        "wordplay",
-        "american"
+        "1776",
+        "independence", 
+        "dance", 
+        "revolutionary war", 
+        "american", 
+        "wordplay", 
+        "colonial"
       ]
     },
     {
@@ -23164,20 +23164,20 @@
     },
     {
       "id": 1320,
-      "setup": "Why did the student bring a duck to English class?",
-      "punchline": "Because the teacher said to bring a quill!",
+      "setup": "Why did the student eat his homework?",
+      "punchline": "Because the teacher said it was a piece of cake!",
       "categories": [
         "school",
-        "animals"
+        "food"
       ],
       "tags": [
         "student",
-        "duck",
-        "quill",
-        "english",
+        "homework",
+        "cake",
+        "teacher",
         "wordplay",
-        "writing",
-        "bird"
+        "easy",
+        "eating"
       ]
     },
     {
