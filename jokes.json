@@ -1097,20 +1097,19 @@
     },
     {
       "id": 64,
-      "setup": "What do you call a baby monkey?",
-      "punchline": "A chimp off the old block!",
+      "setup": "What kind of key opens a banana?",
+      "punchline": "A mon-key!",
       "categories": [
         "animals",
         "family"
       ],
       "tags": [
         "monkey",
-        "baby",
-        "chimp",
-        "chip",
+        "banana",
+        "key",
         "wordplay",
         "apes",
-        "family"
+        "fruit"
       ]
     },
     {
