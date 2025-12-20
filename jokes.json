@@ -1889,38 +1889,37 @@
     },
     {
       "id": 110,
-      "setup": "What do you give a 900-pound gorilla for his birthday?",
-      "punchline": "I don't know, but you better hope he likes it!",
+      "setup": "What did the elephant want for his birthday?",
+      "punchline": "A trunk full of gifts!",
       "categories": [
         "birthday",
         "animals"
       ],
       "tags": [
-        "gorilla",
+        "elephant",
         "gift",
-        "scary",
-        "big",
+        "trunk",
         "presents",
-        "zoo",
-        "dangerous"
+        "wordplay",
+        "zoo"
       ]
     },
     {
       "id": 111,
-      "setup": "What happens when no one comes to your birthday party?",
-      "punchline": "You can have your cake and eat it too!",
+      "setup": "What song do you sing at a snowman's birthday party?",
+      "punchline": "Freeze a jolly good fellow!",
       "categories": [
         "birthday",
         "food"
       ],
       "tags": [
-        "cake",
-        "alone",
-        "eating",
+        "snowman",
+        "song",
+        "freeze",
         "party",
         "wordplay",
         "classic",
-        "saying"
+        "winter"
       ]
     },
     {
