@@ -1606,19 +1606,18 @@
     },
     {
       "id": 93,
-      "setup": "Why did the zebra cross the road?",
-      "punchline": "Because it was at a zebra crossing!",
+      "setup": "Why do zebras have stripes?",
+      "punchline": "Because they don't want to be spotted!",
       "categories": [
         "animals"
       ],
       "tags": [
         "zebra",
-        "crossing",
-        "road",
         "stripes",
+        "spotted",
         "wordplay",
         "wildlife",
-        "traffic"
+        "safari"
       ]
     },
     {
