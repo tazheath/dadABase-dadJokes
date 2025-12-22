@@ -2760,18 +2760,19 @@
     },
     {
       "id": 161,
-      "setup": "Why did the birthday girl bring string to her party?",
-      "punchline": "She wanted to tie one on!",
+      "setup": "Where do you get a birthday present for your cat?",
+      "punchline": "From a cat-alogue!",
       "categories": [
-        "birthday"
+        "birthday",
+        "animal"
       ],
       "tags": [
-        "string",
-        "tie",
-        "party",
+        "pet",
+        "catalog",
+        "gift",
         "wordplay",
-        "celebration",
-        "crafts",
+        "kitty",
+        "kitten",
         "fun"
       ]
     },
@@ -21673,20 +21674,18 @@
     },
     {
       "id": 1241,
-      "setup": "Why did the hiker bring string on the trail?",
-      "punchline": "In case he needed to tie one on!",
+      "setup": "Old cartographers never die...",
+      "punchline": "They just become legends.",
       "categories": [
         "outdoors",
-        "sports"
+        "geography"
       ],
       "tags": [
-        "hiker",
-        "string",
-        "tie",
+        "map",
+        "legend",
+        "key",
         "trail",
-        "wordplay",
-        "hiking",
-        "equipment"
+        "wordplay"
       ]
     },
     {
