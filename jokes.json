@@ -34596,7 +34596,7 @@
     {
       "id": 1980,
       "setup": "What do you call a bee that works in an office?",
-      "punchline": "A busy-bee-ness professional!",
+      "punchline": "A bees-ness professional!",
       "categories": [
         "work",
         "animals"
@@ -34631,124 +34631,118 @@
     },
     {
       "id": 1982,
-      "setup": "What did the name tag say at the conference?",
-      "punchline": "Hello, I'm here to help you remember me!",
+      "setup": "Why did the invisible man turn down the job offer?",
+      "punchline": "He couldn't see himself doing it!",
       "categories": [
         "work"
       ],
       "tags": [
-        "name tag",
-        "conference",
-        "remember",
-        "identity",
+        "invisible man",
+        "job offer",
+        "see",
         "wordplay",
-        "networking",
-        "introduction"
+        "interview",
+        "career"
       ]
     },
     {
       "id": 1983,
-      "setup": "Why did the barber love going to work?",
-      "punchline": "Because every day was a cut above the rest!",
+      "setup": "I always wanted to be a barber.",
+      "punchline": "But I just couldn't cut it!",
       "categories": [
         "work"
       ],
       "tags": [
         "barber",
-        "love",
-        "cut above",
+        "cut",
         "hair",
         "wordplay",
-        "salon",
-        "job"
+        "job",
+        "career"
       ]
     },
     {
       "id": 1984,
-      "setup": "What do you call a turkey that works in construction?",
-      "punchline": "A gobble-er of hard work!",
+      "setup": "Why did the tailor get fired?",
+      "punchline": "He wasn't a good fit!",
       "categories": [
-        "work",
-        "animals"
+        "work"
       ],
       "tags": [
-        "turkey",
-        "construction",
-        "gobble",
-        "hard work",
+        "tailor",
+        "fired",
+        "fit",
         "wordplay",
-        "building",
-        "bird"
+        "job",
+        "clothes",
+        "sewing"
       ]
     },
     {
       "id": 1985,
-      "setup": "I'm really good at my job in IT.",
-      "punchline": "I've mastered the art of Ctrl and self-delete!",
+      "setup": "How did the barber win the race?",
+      "punchline": "He knew a shortcut!",
       "categories": [
-        "work",
-        "technology"
+        "work"
       ],
       "tags": [
-        "it",
-        "job",
-        "ctrl",
-        "delete",
+        "barber",
+        "race",
+        "shortcut",
         "wordplay",
-        "computer",
-        "keyboard"
+        "hair",
+        "winner"
       ]
     },
     {
       "id": 1986,
-      "setup": "What did the paycheck say to the employee?",
-      "punchline": "I'm here because you earned it!",
+      "setup": "I focused on being a photographer.",
+      "punchline": "But nothing ever developed!",
       "categories": [
         "work"
       ],
       "tags": [
-        "paycheck",
-        "employee",
-        "earned",
-        "money",
+        "photographer",
+        "developed",
+        "camera",
         "wordplay",
-        "salary",
-        "reward"
+        "job",
+        "career",
+        "film"
       ]
     },
     {
       "id": 1987,
-      "setup": "Why did the architect feel like building something?",
-      "punchline": "Because their plans were really coming together!",
+      "setup": "What does a painter do when he gets cold?",
+      "punchline": "Puts on another coat!",
       "categories": [
         "work"
       ],
       "tags": [
-        "architect",
-        "building",
-        "plans",
-        "together",
+        "painter",
+        "cold",
+        "coat",
         "wordplay",
-        "design",
-        "construction"
+        "job",
+        "paint"
       ]
     },
     {
       "id": 1988,
-      "setup": "What do you call a chicken that runs a business?",
-      "punchline": "The CEO of Poultry Inc.!",
+      "setup": "I didn't like my job as a waiter.",
+      "punchline": "But at least I was putting food on the table!",
       "categories": [
         "work",
-        "animals"
+        "food"
       ],
       "tags": [
-        "chicken",
-        "business",
-        "ceo",
-        "poultry",
+        "waiter",
+        "food",
+        "table",
         "wordplay",
-        "company",
-        "bird"
+        "job",
+        "restaurant",
+        "serving"
       ]
     },
     {
