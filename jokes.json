@@ -31435,8 +31435,8 @@
     },
     {
       "id": 1800,
-      "setup": "Why do vacations at the beach feel so relaxing?",
-      "punchline": "Because the ocean is always waving hello!",
+      "setup": "Why is the ocean so friendly?",
+      "punchline": "Because it's always waving!",
       "categories": [
         "travel",
         "outdoors"
@@ -32948,195 +32948,198 @@
     },
     {
       "id": 1886,
-      "setup": "What did the diamond say to the engagement ring setting?",
-      "punchline": "Thanks for holding me up during this big moment!",
+      "setup": "Did you hear about the bald man who married his comb?",
+      "punchline": "He promised he'd never part with it!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "diamond",
-        "setting",
-        "holding",
-        "moment",
+        "bald",
+        "comb",
+        "part",
+        "marriage",
         "wordplay",
-        "jewelry",
-        "proposal"
+        "hair",
+        "promise"
       ]
     },
     {
       "id": 1887,
-      "setup": "Why did the bachelorette party feel wild?",
-      "punchline": "Because it was the bride's last fling before the ring!",
+      "setup": "Why did the jumper cables get married?",
+      "punchline": "They had a major spark!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "bachelorette party",
-        "wild",
-        "fling",
-        "ring",
+        "jumper cables",
+        "spark",
+        "electricity",
+        "romance",
         "wordplay",
-        "celebration",
-        "bride"
+        "love",
+        "connection"
       ]
     },
     {
       "id": 1888,
-      "setup": "What do you call a judge getting married?",
-      "punchline": "A ruling in favor of love!",
-      "categories": [
-        "wedding",
-        "work"
-      ],
-      "tags": [
-        "judge",
-        "married",
-        "ruling",
-        "love",
-        "wordplay",
-        "court",
-        "romance"
-      ]
-    },
-    {
-      "id": 1889,
-      "setup": "What did the flower arrangement feel centered?",
-      "punchline": "Because it was the focus of attention!",
+      "setup": "Did you hear about the two Scout masters who got married?",
+      "punchline": "They finally decided to tie the knot!",
       "categories": [
         "wedding",
         "outdoors"
       ],
       "tags": [
-        "flower arrangement",
-        "centered",
-        "focus",
-        "attention",
+        "scouts",
+        "tie the knot",
+        "married",
+        "knots",
         "wordplay",
-        "decoration",
-        "flowers"
+        "camping",
+        "skills"
+      ]
+    },
+    {
+      "id": 1889,
+      "setup": "Did you hear about the florists who got married?",
+      "punchline": "It was an arranged marriage!",
+      "categories": [
+        "wedding",
+        "outdoors"
+      ],
+      "tags": [
+        "florists",
+        "arranged",
+        "flowers",
+        "marriage",
+        "wordplay",
+        "bouquet",
+        "wedding"
       ]
     },
     {
       "id": 1890,
-      "setup": "What did the wedding band say to the crowd?",
-      "punchline": "We're here to make some beautiful music together!",
-      "categories": [
-        "wedding",
-        "music"
-      ],
-      "tags": [
-        "wedding band",
-        "crowd",
-        "music",
-        "together",
-        "wordplay",
-        "musicians",
-        "reception"
-      ]
-    },
-    {
-      "id": 1891,
-      "setup": "You may now kiss...",
-      "punchline": "Your bae-ter half!",
-      "categories": [
-        "wedding"
-      ],
-      "tags": [
-        "kiss",
-        "bae",
-        "better half",
-        "spouse",
-        "wordplay",
-        "ceremony",
-        "love"
-      ]
-    },
-    {
-      "id": 1892,
-      "setup": "What do you call an astronaut getting married?",
-      "punchline": "A love that's out of this world!",
-      "categories": [
-        "wedding",
-        "science"
-      ],
-      "tags": [
-        "astronaut",
-        "married",
-        "out of this world",
-        "space",
-        "wordplay",
-        "love",
-        "romance"
-      ]
-    },
-    {
-      "id": 1893,
-      "setup": "Why did the place cards feel assigned?",
-      "punchline": "Because they knew exactly where everyone belonged!",
-      "categories": [
-        "wedding"
-      ],
-      "tags": [
-        "place cards",
-        "assigned",
-        "belonged",
-        "seating",
-        "wordplay",
-        "reception",
-        "guests"
-      ]
-    },
-    {
-      "id": 1894,
-      "setup": "What did the marriage license say?",
-      "punchline": "I'm the official stamp of approval on your love!",
-      "categories": [
-        "wedding"
-      ],
-      "tags": [
-        "marriage license",
-        "official",
-        "stamp",
-        "approval",
-        "wordplay",
-        "document",
-        "legal"
-      ]
-    },
-    {
-      "id": 1895,
-      "setup": "Why did the cake cutting feel divided?",
-      "punchline": "Because it was sharing sweetness with everyone!",
+      "setup": "How do you know when a wedding is particularly emotional?",
+      "punchline": "Even the cake is in tiers!",
       "categories": [
         "wedding",
         "food"
       ],
       "tags": [
-        "cake cutting",
-        "divided",
-        "sharing",
-        "sweetness",
+        "wedding cake",
+        "tiers",
+        "tears",
+        "emotional",
         "wordplay",
-        "tradition",
+        "crying",
         "dessert"
       ]
     },
     {
-      "id": 1896,
-      "setup": "What do you call a teacher getting married?",
-      "punchline": "A lesson in love!",
+      "id": 1891,
+      "setup": "Did you hear about the notebook who married a pencil?",
+      "punchline": "She finally found Mr. Write!",
       "categories": [
         "wedding",
         "school"
       ],
       "tags": [
-        "teacher",
-        "married",
-        "lesson",
-        "love",
+        "notebook",
+        "pencil",
+        "write",
+        "right",
         "wordplay",
-        "education",
+        "stationery",
         "romance"
+      ]
+    },
+    {
+      "id": 1892,
+      "setup": "What did they say about the nuclear technicians who got married?",
+      "punchline": "The bride was radiant, and the groom was glowing!",
+      "categories": [
+        "wedding",
+        "science"
+      ],
+      "tags": [
+        "nuclear",
+        "radiant",
+        "glowing",
+        "radiation",
+        "wordplay",
+        "technicians",
+        "happy"
+      ]
+    },
+    {
+      "id": 1893,
+      "setup": "Why don't you have to invite computers to weddings?",
+      "punchline": "They're just gonna crash anyway!",
+      "categories": [
+        "wedding",
+        "technology"
+      ],
+      "tags": [
+        "computers",
+        "crash",
+        "party",
+        "technology",
+        "wordplay",
+        "uninvited",
+        "malfunction"
+      ]
+    },
+    {
+      "id": 1894,
+      "setup": "Why can't you tell a joke at a vampire wedding?",
+      "punchline": "The reception always sucks!",
+      "categories": [
+        "wedding",
+        "fantasy"
+      ],
+      "tags": [
+        "vampire",
+        "reception",
+        "sucks",
+        "blood",
+        "wordplay",
+        "wedding party",
+        "spooky"
+      ]
+    },
+    {
+      "id": 1895,
+      "setup": "What did Snow White say when her wedding photos didn't show up?",
+      "punchline": "Someday my prints will come!",
+      "categories": [
+        "wedding",
+        "fantasy"
+      ],
+      "tags": [
+        "Snow White",
+        "prints",
+        "prince",
+        "photos",
+        "wordplay",
+        "fairy tale",
+        "Disney"
+      ]
+    },
+    {
+      "id": 1896,
+      "setup": "Why did the two pencils get married?",
+      "punchline": "They were write for each other!",
+      "categories": [
+        "wedding",
+        "school"
+      ],
+      "tags": [
+        "pencils",
+        "write",
+        "right",
+        "soulmates",
+        "wordplay",
+        "stationery",
+        "love"
       ]
     },
     {
@@ -33158,20 +33161,20 @@
     },
     {
       "id": 1898,
-      "setup": "What did the getaway car say to the newlyweds?",
-      "punchline": "Hop in, your adventure awaits!",
+      "setup": "Why did the couple hire a housekeeper to plan their honeymoon?",
+      "punchline": "They wanted a clean getaway!",
       "categories": [
         "wedding",
         "travel"
       ],
       "tags": [
-        "getaway car",
-        "newlyweds",
-        "adventure",
-        "awaits",
+        "housekeeper",
+        "honeymoon",
+        "clean getaway",
+        "escape",
         "wordplay",
-        "departure",
-        "honeymoon"
+        "newlyweds",
+        "vacation"
       ]
     },
     {
@@ -33193,19 +33196,18 @@
     },
     {
       "id": 1900,
-      "setup": "What did the happily ever after say to the couple?",
-      "punchline": "I've been waiting for you two all along!",
+      "setup": "How did the vocabulary words get married?",
+      "punchline": "They exchanged vowels!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "happily ever after",
-        "couple",
-        "waiting",
-        "love",
+        "vocabulary",
+        "vowels",
+        "vows",
+        "married",
         "wordplay",
-        "fairy tale",
-        "ending"
+        "language"
       ]
     },
     {
