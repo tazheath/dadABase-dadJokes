@@ -32215,178 +32215,174 @@
     },
     {
       "id": 1844,
-      "setup": "What do you call a dentist getting married?",
-      "punchline": "A filling ceremony!",
-      "categories": [
-        "wedding",
-        "work"
-      ],
-      "tags": [
-        "dentist",
-        "married",
-        "filling",
-        "ceremony",
-        "wordplay",
-        "teeth",
-        "job"
-      ]
-    },
-    {
-      "id": 1845,
-      "setup": "Why did the first dance feel special?",
-      "punchline": "Because it was a step in the right direction!",
-      "categories": [
-        "wedding",
-        "music"
-      ],
-      "tags": [
-        "first dance",
-        "special",
-        "step",
-        "direction",
-        "wordplay",
-        "dancing",
-        "reception"
-      ]
-    },
-    {
-      "id": 1846,
-      "setup": "What did the wedding cake topper say?",
-      "punchline": "I'm on top of the world... or at least the cake!",
+      "setup": "Why did the beers get married?",
+      "punchline": "Because they were pitcher perfect!",
       "categories": [
         "wedding",
         "food"
       ],
       "tags": [
-        "cake topper",
-        "top",
-        "world",
-        "cake",
+        "beers",
+        "pitcher",
+        "picture perfect",
         "wordplay",
-        "decoration",
-        "figurine"
+        "drinks",
+        "marriage"
       ]
     },
     {
-      "id": 1847,
-      "setup": "How do podiatrists start every wedding speech?",
-      "punchline": "I'd like to make a toes!",
+      "id": 1845,
+      "setup": "Why did Einstein invite time to his wedding?",
+      "punchline": "Because time was relative!",
+      "categories": [
+        "wedding",
+        "science"
+      ],
+      "tags": [
+        "Einstein",
+        "time",
+        "relative",
+        "relativity",
+        "wordplay",
+        "family",
+        "physics"
+      ]
+    },
+    {
+      "id": 1846,
+      "setup": "What did the delivery driver wear to his wedding?",
+      "punchline": "A Truxedo!",
       "categories": [
         "wedding",
         "work"
       ],
       "tags": [
-        "podiatrists",
-        "speech",
-        "toes",
-        "toast",
+        "delivery driver",
+        "truck",
+        "tuxedo",
         "wordplay",
-        "feet",
-        "reception"
+        "formal wear",
+        "job"
+      ]
+    },
+    {
+      "id": 1847,
+      "setup": "What did the groom say when he spent $500 to rent a limousine, then realized he had to hire the driver separately?",
+      "punchline": "I spent all that money, and I have nothing to chauffeur it!",
+      "categories": [
+        "wedding",
+        "travel"
+      ],
+      "tags": [
+        "limousine",
+        "chauffeur",
+        "show for it",
+        "wordplay",
+        "money",
+        "driver"
       ]
     },
     {
       "id": 1848,
-      "setup": "What do you call a clock getting married?",
-      "punchline": "A timely union!",
+      "setup": "What was the best part of the Verizon CEO's wedding?",
+      "punchline": "The reception!",
       "categories": [
         "wedding",
-        "home"
+        "technology"
       ],
       "tags": [
-        "clock",
-        "married",
-        "timely",
-        "union",
+        "Verizon",
+        "reception",
+        "cell phone",
+        "signal",
         "wordplay",
-        "time",
-        "ceremony"
+        "party"
       ]
     },
     {
       "id": 1849,
-      "setup": "Do you know any good jokes about getting married?",
-      "punchline": "I'm a frayed knot!",
+      "setup": "Why did the dad proton want his daughter proton to marry an electron?",
+      "punchline": "So the wedding would be free of charge!",
       "categories": [
-        "wedding"
+        "wedding",
+        "science"
       ],
       "tags": [
-        "married",
-        "jokes",
-        "afraid not",
-        "knot",
+        "proton",
+        "electron",
+        "charge",
+        "free",
         "wordplay",
-        "tying the knot",
-        "humor"
+        "physics",
+        "atoms"
       ]
     },
     {
       "id": 1850,
-      "setup": "What did the centerpiece say to the table?",
-      "punchline": "I really bring everyone together!",
+      "setup": "Why do brides cry at the wedding?",
+      "punchline": "Because they never marry the best man!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "centerpiece",
-        "table",
-        "together",
-        "decoration",
+        "brides",
+        "cry",
+        "best man",
+        "groomsman",
         "wordplay",
-        "reception",
-        "gathering"
-      ]
-    },
-    {
-      "id": 1851,
-      "setup": "Why did the bachelor party feel single-minded?",
-      "punchline": "Because it was the last night of freedom!",
-      "categories": [
-        "wedding"
-      ],
-      "tags": [
-        "bachelor party",
-        "single",
-        "freedom",
-        "night",
-        "wordplay",
-        "celebration",
-        "groom"
-      ]
-    },
-    {
-      "id": 1852,
-      "setup": "What do you call a ghost getting married?",
-      "punchline": "A spook-tacular union!",
-      "categories": [
-        "wedding",
-        "fantasy"
-      ],
-      "tags": [
-        "ghost",
-        "married",
-        "spectacular",
-        "spooky",
-        "wordplay",
-        "supernatural",
+        "ideal",
         "ceremony"
       ]
     },
     {
+      "id": 1851,
+      "setup": "Where do rabbits go after their wedding?",
+      "punchline": "On their bunnymoon!",
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "rabbits",
+        "bunnymoon",
+        "honeymoon",
+        "wordplay",
+        "bunnies",
+        "travel"
+      ]
+    },
+    {
+      "id": 1852,
+      "setup": "What kind of music do bunnies dance to at their weddings?",
+      "punchline": "Hip-hop!",
+      "categories": [
+        "wedding",
+        "animals"
+      ],
+      "tags": [
+        "bunnies",
+        "hip-hop",
+        "hop",
+        "music",
+        "wordplay",
+        "dancing",
+        "rabbits"
+      ]
+    },
+    {
       "id": 1853,
-      "setup": "Why did the bridal shower feel wet?",
-      "punchline": "Because it was raining gifts!",
+      "setup": "Why wasn't the maid of honor in a rush to get married?",
+      "punchline": "She was briding her time!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "bridal shower",
-        "wet",
-        "raining",
-        "gifts",
+        "maid of honor",
+        "briding",
+        "biding time",
         "wordplay",
-        "party",
-        "celebration"
+        "waiting",
+        "bride"
       ]
     },
     {
@@ -32462,19 +32458,20 @@
     },
     {
       "id": 1858,
-      "setup": "What did the envelope say to the RSVP card?",
-      "punchline": "I've got you sealed with love!",
+      "setup": "Where do bunnies get ready for their weddings?",
+      "punchline": "At the hare-dresser!",
       "categories": [
-        "wedding"
+        "wedding",
+        "animals"
       ],
       "tags": [
-        "envelope",
-        "rsvp",
-        "sealed",
-        "love",
+        "bunnies",
+        "hare",
+        "hairdresser",
+        "rabbits",
         "wordplay",
-        "invitation",
-        "mail"
+        "wedding prep",
+        "grooming"
       ]
     },
     {
@@ -32515,37 +32512,37 @@
     },
     {
       "id": 1861,
-      "setup": "Why did the engagement ring feel nervous?",
-      "punchline": "Because it was about to pop the question!",
+      "setup": "How did the ram propose to his girlfriend?",
+      "punchline": "Will ewe marry me!",
       "categories": [
-        "wedding"
+        "wedding",
+        "animals"
       ],
       "tags": [
-        "engagement ring",
-        "nervous",
-        "pop the question",
+        "ram",
+        "ewe",
+        "you",
         "proposal",
         "wordplay",
-        "jewelry",
-        "asking"
+        "sheep",
+        "marriage"
       ]
     },
     {
       "id": 1862,
-      "setup": "What did the dance floor say to the guests?",
-      "punchline": "Come on, let's get this party started!",
+      "setup": "Why did the dentist have a great marriage?",
+      "punchline": "He had strong fillings for his spouse!",
       "categories": [
         "wedding",
-        "music"
+        "work"
       ],
       "tags": [
-        "dance floor",
-        "guests",
-        "party",
-        "started",
+        "dentist",
+        "fillings",
+        "feelings",
+        "marriage",
         "wordplay",
-        "dancing",
-        "reception"
+        "love"
       ]
     },
     {
@@ -32586,19 +32583,20 @@
     },
     {
       "id": 1865,
-      "setup": "Why did the boutonniere feel attached?",
-      "punchline": "Because it was pinned to someone special!",
+      "setup": "Why did the two pianists have a good marriage?",
+      "punchline": "They were always in a chord!",
       "categories": [
-        "wedding"
+        "wedding",
+        "music"
       ],
       "tags": [
-        "boutonniere",
-        "attached",
-        "pinned",
-        "special",
+        "pianists",
+        "chord",
+        "accord",
+        "agreement",
         "wordplay",
-        "flower",
-        "groom"
+        "music",
+        "marriage"
       ]
     },
     {
@@ -32654,54 +32652,55 @@
     },
     {
       "id": 1869,
-      "setup": "Why did the wedding hashtag trend?",
-      "punchline": "Because love was going viral!",
+      "setup": "Did you hear the one about the soup at the wedding?",
+      "punchline": "It was broth-taking!",
       "categories": [
         "wedding",
-        "technology"
+        "food"
       ],
       "tags": [
-        "wedding hashtag",
-        "trend",
-        "viral",
-        "love",
+        "soup",
+        "broth",
+        "breath-taking",
         "wordplay",
-        "social media",
-        "internet"
+        "wedding",
+        "food"
       ]
     },
     {
       "id": 1870,
-      "setup": "What did the sparklers say at the reception?",
-      "punchline": "We're here to light up your love!",
+      "setup": "Why did the vegetarian couple hire a DJ for their wedding?",
+      "punchline": "So he could turnip the beets!",
       "categories": [
-        "wedding"
+        "wedding",
+        "food"
       ],
       "tags": [
-        "sparklers",
-        "reception",
-        "light up",
-        "love",
+        "vegetarian",
+        "DJ",
+        "turnip",
+        "beets",
+        "music",
         "wordplay",
-        "celebration",
-        "fire"
+        "vegetables"
       ]
     },
     {
       "id": 1871,
-      "setup": "Marriage is like a walk in the park...",
-      "punchline": "Jurassic Park!",
+      "setup": "What wedding song plays when pickles walk down the aisle?",
+      "punchline": "Here Comes the Brine!",
       "categories": [
-        "wedding"
+        "wedding",
+        "food"
       ],
       "tags": [
-        "marriage",
-        "walk",
-        "park",
-        "jurassic",
+        "pickles",
+        "brine",
+        "bride",
+        "aisle",
         "wordplay",
-        "dinosaurs",
-        "humor"
+        "wedding song",
+        "food"
       ]
     },
     {
@@ -32724,19 +32723,20 @@
     },
     {
       "id": 1873,
-      "setup": "Why did the something borrowed feel used?",
-      "punchline": "Because it had been to weddings before!",
+      "setup": "What did the bride and groom pickles say at their wedding vows?",
+      "punchline": "I dill!",
       "categories": [
-        "wedding"
+        "wedding",
+        "food"
       ],
       "tags": [
-        "something borrowed",
-        "used",
-        "weddings",
-        "tradition",
+        "pickles",
+        "dill",
+        "vows",
+        "I do",
         "wordplay",
-        "lucky",
-        "item"
+        "wedding",
+        "food"
       ]
     },
     {
@@ -32776,54 +32776,56 @@
     },
     {
       "id": 1876,
-      "setup": "What do you call a pilot getting married?",
-      "punchline": "A love that's really taking off!",
+      "setup": "Did you hear about the two bed bugs who met in the mattress?",
+      "punchline": "They got married in the spring!",
       "categories": [
         "wedding",
-        "travel"
+        "animals"
       ],
       "tags": [
-        "pilot",
-        "married",
-        "taking off",
-        "love",
+        "bed bugs",
+        "mattress",
+        "spring",
+        "season",
         "wordplay",
-        "flying",
-        "romance"
+        "insects",
+        "marriage"
       ]
     },
     {
       "id": 1877,
-      "setup": "Why did the thank you cards feel grateful?",
-      "punchline": "Because they were spreading appreciation!",
+      "setup": "Why did the stenographer have to break off her engagement?",
+      "punchline": "He just wasn't her type!",
       "categories": [
-        "wedding"
+        "wedding",
+        "work"
       ],
       "tags": [
-        "thank you cards",
-        "grateful",
-        "appreciation",
-        "spreading",
+        "stenographer",
+        "type",
+        "engagement",
+        "typing",
         "wordplay",
-        "stationery",
-        "gifts"
+        "romance",
+        "breakup"
       ]
     },
     {
       "id": 1878,
-      "setup": "What did the aisle runner say to the bride?",
-      "punchline": "Walk all over me, it's your special day!",
+      "setup": "How do astronomers get married?",
+      "punchline": "They planet!",
       "categories": [
-        "wedding"
+        "wedding",
+        "science"
       ],
       "tags": [
-        "aisle runner",
-        "bride",
-        "walk",
-        "special day",
+        "astronomers",
+        "planet",
+        "plan it",
+        "space",
         "wordplay",
-        "carpet",
-        "ceremony"
+        "science",
+        "marriage"
       ]
     },
     {
@@ -32861,52 +32863,53 @@
     },
     {
       "id": 1881,
-      "setup": "Why was the maid of honor in a rush to get married?",
-      "punchline": "She wasn't! She was just aisle be right back!",
+      "setup": "Why do brides cry at weddings?",
+      "punchline": "Because they never marry the best man!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "maid of honor",
-        "rush",
-        "aisle",
-        "right back",
+        "brides",
+        "crying",
+        "best man",
+        "marry",
         "wordplay",
-        "ceremony",
-        "bridal party"
+        "groomsman",
+        "ceremony"
       ]
     },
     {
       "id": 1882,
-      "setup": "What did the something blue say?",
-      "punchline": "I'm here to bring good luck, not sadness!",
+      "setup": "Do you know why the King of Hearts married the Queen of Hearts?",
+      "punchline": "They were perfectly suited for each other!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "something blue",
-        "luck",
-        "sadness",
-        "tradition",
+        "king",
+        "queen",
+        "hearts",
+        "suited",
+        "cards",
         "wordplay",
-        "color",
-        "item"
+        "playing cards"
       ]
     },
     {
       "id": 1883,
-      "setup": "Why did the groomsmen feel suited?",
-      "punchline": "Because they were perfectly dressed for the occasion!",
+      "setup": "Why don't birds write their wedding vows ahead of time?",
+      "punchline": "They like to wing it!",
       "categories": [
-        "wedding"
+        "wedding",
+        "animals"
       ],
       "tags": [
-        "groomsmen",
-        "suited",
-        "dressed",
-        "occasion",
+        "birds",
+        "vows",
+        "wing it",
+        "improvise",
         "wordplay",
-        "clothing",
+        "flying",
         "ceremony"
       ]
     },
