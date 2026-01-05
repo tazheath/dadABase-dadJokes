@@ -31471,19 +31471,17 @@
     },
     {
       "id": 1802,
-      "setup": "What did the groom say to his tie?",
-      "punchline": "You're the knot I've been waiting for!",
+      "setup": "Can you believe the sailor is getting married?",
+      "punchline": "I'm knot lying!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "groom",
-        "tie",
+        "sailor",
+        "fishing",
+        "boat",
         "knot",
-        "waiting",
-        "wordplay",
-        "tying the knot",
-        "clothing"
+        "wordplay"
       ]
     },
     {
@@ -31523,38 +31521,32 @@
     },
     {
       "id": 1805,
-      "setup": "Why did the wedding ring feel so committed?",
-      "punchline": "Because it was in a band for life!",
+      "setup": "Did you hear about the man who showed up to his wedding with a scraggly beard?",
+      "punchline": "I guess he didn’t know how to groom!",
       "categories": [
-        "wedding",
-        "music"
+        "wedding"
       ],
       "tags": [
-        "wedding ring",
-        "committed",
-        "band",
-        "life",
-        "wordplay",
-        "jewelry",
-        "marriage"
+        "beard",
+        "groom",
+        "hairstyle",
+        "ceremony",
+        "wordplay"
       ]
     },
     {
       "id": 1806,
-      "setup": "What did the best man say about his speech?",
-      "punchline": "I'm toast... literally, I'm giving one!",
+      "setup": "I’d tell you who’s going to walk me down the aisle but...",
+      "punchline": "I don’t want to give it away!",
       "categories": [
-        "wedding",
-        "food"
+        "wedding"
       ],
       "tags": [
-        "best man",
-        "speech",
-        "toast",
-        "nervous",
-        "wordplay",
-        "reception",
-        "talking"
+        "walk",
+        "aisle",
+        "bride",
+        "ceremony",
+        "wordplay"
       ]
     },
     {
@@ -31720,20 +31712,18 @@
     },
     {
       "id": 1816,
-      "setup": "What do you call a wedding on a trampoline?",
-      "punchline": "A marriage that's off to a bouncing start!",
+      "setup": "You never want to let a computer know about your wedding.",
+      "punchline": "They always crash!",
       "categories": [
         "wedding",
-        "sports"
+        "technology"
       ],
       "tags": [
-        "wedding",
-        "trampoline",
-        "bouncing",
-        "start",
-        "wordplay",
-        "jumping",
-        "ceremony"
+        "computer",
+        "invite",
+        "crash",
+        "party",
+        "wordplay"
       ]
     },
     {
@@ -31935,71 +31925,69 @@
     },
     {
       "id": 1828,
-      "setup": "What do you call a wedding during a thunderstorm?",
-      "punchline": "A match made with a little electricity!",
+      "setup": "What looks like half a wedding cake?",
+      "punchline": "The other half!",
       "categories": [
         "wedding",
-        "science"
+        "food"
       ],
       "tags": [
-        "wedding",
-        "thunderstorm",
-        "electricity",
-        "match",
-        "wordplay",
-        "weather",
-        "romance"
+        "cake",
+        "banquet",
+        "eat",
+        "eating",
+        "wordplay"
       ]
     },
     {
       "id": 1829,
-      "setup": "Why did the unity candle feel lit?",
-      "punchline": "Because two flames became one!",
+      "setup": "What do you call a wedding with a missing groom?",
+      "punchline": "A wife-threatening situation!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "unity candle",
-        "lit",
-        "flames",
-        "one",
+        "groom",
+        "wife",
+        "life",
+        "missing",
         "wordplay",
-        "ceremony",
-        "tradition"
+        "ceremony"
       ]
     },
     {
       "id": 1830,
-      "setup": "What did the wedding band say to the finger?",
-      "punchline": "I'm wrapped around you forever!",
+      "setup": "Why do painters fall for their husbands?",
+      "punchline": "Because they love them with all of their art!",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "wedding band",
-        "finger",
-        "wrapped",
-        "forever",
+        "painter",
+        "paint",
+        "husband",
+        "wife",
         "wordplay",
-        "ring",
-        "commitment"
+        "love",
+        "art",
+        "heart"
       ]
     },
     {
       "id": 1831,
-      "setup": "How do Hawaiian brides get married?",
-      "punchline": "They walk down the isle!",
+      "setup": "What did the mathematician say at her wedding?",
+      "punchline": "The odds of this working are better as a pair.",
       "categories": [
         "wedding",
-        "geography"
+        "math"
       ],
       "tags": [
-        "hawaiian",
-        "brides",
-        "isle",
-        "aisle",
+        "mathematician",
+        "teacher",
+        "professor",
+        "odds",
         "wordplay",
-        "tropical",
+        "pair",
         "ceremony"
       ]
     },
@@ -32023,36 +32011,35 @@
     },
     {
       "id": 1833,
-      "setup": "Why wasn't the elevator invited to the wedding?",
-      "punchline": "Because there wasn't any groom!",
+      "setup": "What did the groom say when his wedding was burglarized?",
+      "punchline": "I’ve been robbed before, but this one took the cake.",
       "categories": [
         "wedding"
       ],
       "tags": [
-        "elevator",
-        "wedding",
         "groom",
-        "room",
+        "steal",
+        "burglar",
+        "robbed",
         "wordplay",
-        "space",
-        "invitation"
+        "cake",
+        "food"
       ]
     },
     {
       "id": 1834,
-      "setup": "What did the garter say to the bride?",
-      "punchline": "I'm just here for a little leg of the journey!",
+      "setup": "What kind of music do bunnies dance to at their weddings?",
+      "punchline": "Hip-Hop!",
       "categories": [
-        "wedding"
+        "wedding",
+        "music"
       ],
       "tags": [
-        "garter",
-        "bride",
-        "leg",
-        "journey",
-        "wordplay",
-        "tradition",
-        "accessory"
+        "animal",
+        "bunny",
+        "rabbit",
+        "dance",
+        "wordplay"
       ]
     },
     {
@@ -32163,37 +32150,36 @@
     },
     {
       "id": 1841,
-      "setup": "What did the wedding favor feel appreciated?",
-      "punchline": "Because everyone wanted to take it home!",
+      "setup": "What’s the worst kind of cake to have at your wedding?",
+      "punchline": "The kind that fell on the floor.",
       "categories": [
-        "wedding"
+        "wedding",
+        "food"
       ],
       "tags": [
-        "wedding favor",
-        "appreciated",
-        "home",
-        "gift",
+        "cake",
+        "eat",
+        "catering",
+        "banquet",
         "wordplay",
-        "reception",
-        "keepsake"
+        "reception"
       ]
     },
     {
       "id": 1842,
-      "setup": "What did the father of the bride say during his speech?",
-      "punchline": "I'm not losing a daughter, I'm gaining a punchline for future jokes!",
+      "setup": "What is the best place to research wedding DJ's?",
+      "punchline": "Wiki-wiki-wikipedia!",
       "categories": [
         "wedding",
-        "family"
+        "work"
       ],
       "tags": [
-        "father",
-        "bride",
-        "speech",
-        "daughter",
+        "research",
+        "DJ",
+        "Wikipedia",
+        "music",
         "wordplay",
-        "jokes",
-        "reception"
+        "dance"
       ]
     },
     {
