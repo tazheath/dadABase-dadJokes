@@ -27962,19 +27962,19 @@
     },
     {
       "id": 1601,
-      "setup": "Why did the developer become so poor?",
-      "punchline": "Because he cleared his cache!",
+      "setup": "How does a computer get drunk?",
+      "punchline": "It takes screenshots!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "developer",
-        "poor",
-        "cache",
-        "cash",
+        "computer",
+        "drunk",
+        "screenshots",
+        "shots",
         "wordplay",
-        "programming",
-        "money"
+        "drinking",
+        "screen"
       ]
     },
     {
@@ -28068,19 +28068,20 @@
     },
     {
       "id": 1607,
-      "setup": "Why did the computer break up with the internet?",
-      "punchline": "Because there was no connection!",
+      "setup": "What was the baby computer's first word?",
+      "punchline": "Da-ta!",
       "categories": [
-        "technology"
+        "technology",
+        "family"
       ],
       "tags": [
+        "baby",
         "computer",
-        "internet",
-        "breakup",
-        "connection",
+        "data",
+        "dada",
         "wordplay",
-        "wifi",
-        "relationship"
+        "first word",
+        "family"
       ]
     },
     {
@@ -28119,19 +28120,20 @@
     },
     {
       "id": 1610,
-      "setup": "What do you call a computer that can sing and fight crime?",
-      "punchline": "A screensaver!",
+      "setup": "What do you get when you cross a computer with an elephant?",
+      "punchline": "Lots of memory!",
       "categories": [
-        "technology"
+        "technology",
+        "animals"
       ],
       "tags": [
         "computer",
-        "superhero",
-        "screen saver",
-        "saving",
+        "elephant",
+        "memory",
+        "ram",
         "wordplay",
-        "hero",
-        "monitor"
+        "animals",
+        "storage"
       ]
     },
     {
@@ -28278,38 +28280,37 @@
     },
     {
       "id": 1619,
-      "setup": "Why did the developer go broke?",
-      "punchline": "Because he used up all his cache!",
+      "setup": "How do robots pay for things?",
+      "punchline": "With cache!",
       "categories": [
-        "technology",
-        "work"
+        "technology"
       ],
       "tags": [
-        "developer",
-        "broke",
+        "robots",
+        "pay",
         "cache",
         "cash",
         "wordplay",
-        "programming",
-        "money"
+        "money",
+        "computer"
       ]
     },
     {
       "id": 1620,
-      "setup": "What's a computer's favorite dance?",
-      "punchline": "The disk-o!",
+      "setup": "What do you call a programmer from Finland?",
+      "punchline": "Nerdic!",
       "categories": [
         "technology",
-        "music"
+        "geography"
       ],
       "tags": [
-        "computer",
-        "dance",
-        "disco",
-        "disk",
+        "programmer",
+        "finland",
+        "nordic",
+        "nerd",
         "wordplay",
-        "dancing",
-        "storage"
+        "geography",
+        "coding"
       ]
     },
     {
@@ -28331,19 +28332,19 @@
     },
     {
       "id": 1622,
-      "setup": "Why do programmers prefer dark mode?",
-      "punchline": "Because light attracts bugs!",
+      "setup": "How do you comfort a JavaScript bug?",
+      "punchline": "You console it!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "programmers",
-        "dark mode",
-        "light",
-        "bugs",
+        "javascript",
+        "bug",
+        "console",
+        "comfort",
         "wordplay",
-        "coding",
-        "errors"
+        "programming",
+        "debugging"
       ]
     },
     {
@@ -28384,20 +28385,19 @@
     },
     {
       "id": 1625,
-      "setup": "Why did the computer get cold?",
-      "punchline": "Because it left its Windows open!",
+      "setup": "Why did the computer take its shoes off and put them back on?",
+      "punchline": "Because it needed to re-boot!",
       "categories": [
-        "technology",
-        "home"
+        "technology"
       ],
       "tags": [
         "computer",
-        "cold",
-        "windows",
-        "open",
+        "shoes",
+        "reboot",
+        "boot",
         "wordplay",
-        "operating system",
-        "microsoft"
+        "restart",
+        "footwear"
       ]
     },
     {
@@ -28491,20 +28491,20 @@
     },
     {
       "id": 1631,
-      "setup": "Why did the computer keep singing?",
-      "punchline": "Because it was stuck on a loop!",
+      "setup": "What advice do you give to a JS developer who has never played baseball?",
+      "punchline": "Try catch!",
       "categories": [
         "technology",
-        "music"
+        "sports"
       ],
       "tags": [
-        "computer",
-        "singing",
-        "loop",
-        "stuck",
+        "javascript",
+        "developer",
+        "baseball",
+        "try catch",
         "wordplay",
         "programming",
-        "repeat"
+        "error"
       ]
     },
     {
@@ -28631,19 +28631,20 @@
     },
     {
       "id": 1639,
-      "setup": "Why was the computer tired when it got home?",
-      "punchline": "Because it had a hard drive!",
+      "setup": "Why didn't the programmer enjoy his camping trip?",
+      "punchline": "There were too many bugs!",
       "categories": [
-        "technology"
+        "technology",
+        "outdoors"
       ],
       "tags": [
-        "computer",
-        "tired",
-        "hard drive",
-        "commute",
+        "programmer",
+        "camping",
+        "bugs",
+        "insects",
         "wordplay",
-        "storage",
-        "exhausted"
+        "coding",
+        "outdoors"
       ]
     },
     {
@@ -28666,54 +28667,55 @@
     },
     {
       "id": 1641,
-      "setup": "Why did the Bluetooth device feel isolated?",
-      "punchline": "Because it couldn't pair with anyone!",
+      "setup": "Has anyone seen the cybersecurity team?",
+      "punchline": "All I know is that they ran-som-ware!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "bluetooth",
-        "isolated",
-        "pair",
-        "connecting",
+        "cybersecurity",
+        "team",
+        "ransomware",
+        "ran somewhere",
         "wordplay",
-        "wireless",
-        "lonely"
+        "security",
+        "malware"
       ]
     },
     {
       "id": 1642,
-      "setup": "What's a computer's favorite exercise?",
-      "punchline": "Running programs!",
+      "setup": "Someone cracked my password...",
+      "punchline": "Now I need to rename my cat!",
       "categories": [
         "technology",
-        "sports"
+        "animals"
       ],
       "tags": [
-        "computer",
-        "exercise",
-        "running",
-        "programs",
+        "password",
+        "cracked",
+        "cat",
+        "security",
         "wordplay",
-        "software",
-        "fitness"
+        "pet",
+        "hacked"
       ]
     },
     {
       "id": 1643,
-      "setup": "Why did the hard drive break up with the floppy disk?",
-      "punchline": "Because their relationship was outdated!",
+      "setup": "An Excel expert walks into a bar...",
+      "punchline": "And joins two tables!",
       "categories": [
-        "technology"
+        "technology",
+        "work"
       ],
       "tags": [
-        "hard drive",
-        "floppy disk",
-        "breakup",
-        "outdated",
+        "excel",
+        "expert",
+        "bar",
+        "tables",
+        "join",
         "wordplay",
-        "storage",
-        "obsolete"
+        "database"
       ]
     },
     {
@@ -28770,20 +28772,20 @@
     },
     {
       "id": 1647,
-      "setup": "Why was the computer so good at golf?",
-      "punchline": "Because it had a hard drive!",
+      "setup": "Never ask a SQL dev to help you move furniture.",
+      "punchline": "They drop tables!",
       "categories": [
         "technology",
-        "sports"
+        "work"
       ],
       "tags": [
-        "computer",
-        "golf",
-        "hard drive",
-        "driving",
+        "sql",
+        "developer",
+        "furniture",
+        "drop tables",
         "wordplay",
-        "storage",
-        "sports"
+        "database",
+        "moving"
       ]
     },
     {
@@ -28806,19 +28808,19 @@
     },
     {
       "id": 1649,
-      "setup": "Why did the email feel unread?",
-      "punchline": "Because nobody opened up to it!",
+      "setup": "A GET request was reluctant to go to the party.",
+      "punchline": "They had no body to go with!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "email",
-        "unread",
-        "opened",
-        "feelings",
+        "get request",
+        "party",
+        "nobody",
+        "body",
         "wordplay",
-        "inbox",
-        "lonely"
+        "http",
+        "programming"
       ]
     },
     {
@@ -28858,20 +28860,21 @@
     },
     {
       "id": 1652,
-      "setup": "Why did the phone go to school?",
-      "punchline": "To improve its battery life... I mean, learn something!",
+      "setup": "A programmer's wife tells them: 'Run to the store and pick up a loaf of bread. If they have eggs, get a dozen.'",
+      "punchline": "The programmer comes home with 12 loaves of bread!",
       "categories": [
         "technology",
-        "school"
+        "family"
       ],
       "tags": [
-        "phone",
-        "school",
-        "battery",
-        "learning",
+        "programmer",
+        "wife",
+        "bread",
+        "eggs",
+        "dozen",
         "wordplay",
-        "education",
-        "charge"
+        "literal",
+        "logic"
       ]
     },
     {
@@ -28982,53 +28985,55 @@
     },
     {
       "id": 1659,
-      "setup": "Why was the cursor so arrogant?",
-      "punchline": "Because it was always pointing at others!",
+      "setup": "Why did the boy get fired from his keyboard factory job?",
+      "punchline": "Because he was not doing enough shifts!",
       "categories": [
-        "technology"
+        "technology",
+        "work"
       ],
       "tags": [
-        "cursor",
-        "arrogant",
-        "pointing",
-        "mouse",
+        "keyboard",
+        "factory",
+        "fired",
+        "shifts",
         "wordplay",
-        "screen",
-        "attitude"
+        "work",
+        "typing"
       ]
     },
     {
       "id": 1660,
-      "setup": "What do you get when you cross a computer and a lifeguard?",
-      "punchline": "A screensaver!",
+      "setup": "Two 5G towers get married...",
+      "punchline": "The ceremony was okay, but the reception was amazing!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "computer",
-        "lifeguard",
-        "screensaver",
-        "saving",
+        "5g",
+        "towers",
+        "married",
+        "reception",
         "wordplay",
-        "beach",
-        "monitor"
+        "wedding",
+        "signal"
       ]
     },
     {
       "id": 1661,
-      "setup": "Why did the Wi-Fi and the computer get married?",
-      "punchline": "Because they had a strong connection!",
+      "setup": "Why was 'beef stew' not used as a computer password?",
+      "punchline": "Because it was not strog-anoff!",
       "categories": [
-        "technology"
+        "technology",
+        "food"
       ],
       "tags": [
-        "wifi",
-        "computer",
-        "married",
-        "connection",
+        "password",
+        "beef stew",
+        "stroganoff",
+        "strong enough",
         "wordplay",
-        "relationship",
-        "networking"
+        "security",
+        "food"
       ]
     },
     {
@@ -29068,19 +29073,19 @@
     },
     {
       "id": 1664,
-      "setup": "Why did the computer mouse get tired?",
-      "punchline": "Because of all the clicking and dragging!",
+      "setup": "What does a sad website do?",
+      "punchline": "It has too many unresolved issues!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "mouse",
-        "tired",
-        "clicking",
-        "dragging",
+        "website",
+        "sad",
+        "unresolved issues",
+        "bugs",
         "wordplay",
-        "computer",
-        "exhausted"
+        "problems",
+        "github"
       ]
     },
     {
@@ -29189,20 +29194,20 @@
     },
     {
       "id": 1671,
-      "setup": "Where do computers go to dance?",
-      "punchline": "To the disk-o!",
+      "setup": "How do programming pirates pass method parameters?",
+      "punchline": "Varrrrarrrgs!",
       "categories": [
         "technology",
-        "music"
+        "history"
       ],
       "tags": [
-        "computers",
-        "dance",
-        "disco",
-        "disk",
+        "pirates",
+        "programming",
+        "parameters",
+        "varargs",
         "wordplay",
-        "dancing",
-        "storage"
+        "arrr",
+        "coding"
       ]
     },
     {
@@ -29243,37 +29248,37 @@
     },
     {
       "id": 1674,
-      "setup": "What sits on your desk, has buttons, and makes you click with it?",
-      "punchline": "Your mouse - you two really click together!",
+      "setup": "Why was the function sad after a successful first call?",
+      "punchline": "It didn't get a callback!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "desk",
-        "mouse",
-        "buttons",
-        "click",
+        "function",
+        "sad",
+        "callback",
+        "first call",
         "wordplay",
-        "computer",
-        "connection"
+        "programming",
+        "javascript"
       ]
     },
     {
       "id": 1675,
-      "setup": "Why did the firewall get promoted?",
-      "punchline": "Because it was great at blocking negativity!",
+      "setup": "What was the spider doing on the computer?",
+      "punchline": "Making a website!",
       "categories": [
         "technology",
-        "work"
+        "animals"
       ],
       "tags": [
-        "firewall",
-        "promoted",
-        "blocking",
-        "negativity",
+        "spider",
+        "computer",
+        "website",
+        "web",
         "wordplay",
-        "security",
-        "career"
+        "internet",
+        "insects"
       ]
     },
     {
@@ -29314,19 +29319,19 @@
     },
     {
       "id": 1678,
-      "setup": "Why did the computer catch a cold?",
-      "punchline": "It had a bad case of the mouses... I mean, viruses!",
+      "setup": "What do you call a developer who doesn't comment their code?",
+      "punchline": "A nomad!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "computer",
-        "cold",
-        "virus",
-        "sick",
+        "developer",
+        "comment",
+        "code",
+        "no mad",
+        "nomad",
         "wordplay",
-        "malware",
-        "health"
+        "documentation"
       ]
     },
     {
@@ -29349,7 +29354,7 @@
     },
     {
       "id": 1680,
-      "setup": "What did the hacker’s out-of-office reply say?",
+      "setup": "What did the hacker's out-of-office reply say?",
       "punchline": "Gone phishing!",
       "categories": [
         "technology"
@@ -29364,19 +29369,19 @@
     },
     {
       "id": 1681,
-      "setup": "Why did the SSD feel superior?",
-      "punchline": "Because it had no moving parts to hold it back!",
+      "setup": "Why did the computer go to therapy?",
+      "punchline": "It had too many unresolved issues!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "ssd",
-        "superior",
-        "moving parts",
-        "speed",
+        "computer",
+        "therapy",
+        "unresolved issues",
+        "bugs",
         "wordplay",
-        "storage",
-        "solid state"
+        "mental health",
+        "problems"
       ]
     },
     {
@@ -29388,17 +29393,17 @@
     },
     {
       "id": 1683,
-      "setup": "Why was the robot angry?",
-      "punchline": "Because someone kept pushing its buttons!",
-      "categories": ["technology"],
+      "setup": "Why did the computer programmer get fired from the grocery store?",
+      "punchline": "He kept clearing the cache!",
+      "categories": ["technology", "work"],
       "tags": [
-        "robot", 
-        "angry", 
-        "buttons", 
-        "wordplay", 
-        "technology", 
-        "machine", 
-        "frustrated"
+        "programmer",
+        "grocery store",
+        "cache",
+        "cash register",
+        "wordplay",
+        "fired",
+        "work"
       ]
     },
     {
@@ -29421,20 +29426,20 @@
     },
     {
       "id": 1685,
-      "setup": "Why was the network engineer always calm?",
-      "punchline": "Because they had a lot of bandwidth for stress!",
+      "setup": "How do you know if a developer is extroverted?",
+      "punchline": "They look at YOUR shoes when talking to you!",
       "categories": [
         "technology",
         "work"
       ],
       "tags": [
-        "network engineer",
-        "calm",
-        "bandwidth",
-        "stress",
+        "developer",
+        "extroverted",
+        "shoes",
+        "introverted",
         "wordplay",
-        "networking",
-        "capacity"
+        "social",
+        "joke"
       ]
     },
     {
@@ -29456,19 +29461,20 @@
     },
     {
       "id": 1687,
-      "setup": "Why did the operating system break up with the user?",
-      "punchline": "Because they had too many compatibility issues!",
+      "setup": "Why did the developer stay calm during the outage?",
+      "punchline": "They had plenty of timeout!",
       "categories": [
-        "technology"
+        "technology",
+        "work"
       ],
       "tags": [
-        "operating system",
-        "user",
-        "breakup",
-        "compatibility",
+        "developer",
+        "calm",
+        "outage",
+        "timeout",
+        "time out",
         "wordplay",
-        "software",
-        "relationship"
+        "patience"
       ]
     },
     {
@@ -29491,19 +29497,19 @@
     },
     {
       "id": 1689,
-      "setup": "Why did the smartwatch break up with the fitness tracker?",
-      "punchline": "They just couldn't sync anymore!",
+      "setup": "What do you call a belt made of watches?",
+      "punchline": "A waist of time!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "smartwatch",
-        "fitness tracker",
-        "sync",
-        "relationship",
+        "belt",
+        "watches",
+        "waist",
+        "waste of time",
         "wordplay",
-        "breakup",
-        "wearables"
+        "pun",
+        "fashion"
       ]
     },
     {
@@ -29562,19 +29568,19 @@
     },
     {
       "id": 1693,
-      "setup": "Why did the app feel rejected?",
-      "punchline": "Because everyone kept uninstalling it!",
+      "setup": "Why was the JavaScript developer sad?",
+      "punchline": "Because he didn't Node how to Express himself!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "app",
-        "rejected",
-        "uninstalling",
-        "phone",
+        "javascript",
+        "developer",
+        "node",
+        "express",
         "wordplay",
-        "software",
-        "deleted"
+        "frameworks",
+        "sad"
       ]
     },
     {
@@ -29597,19 +29603,19 @@
     },
     {
       "id": 1695,
-      "setup": "Why did the encryption feel lonely?",
-      "punchline": "Because nobody could understand it!",
+      "setup": "What's the object-oriented way to become wealthy?",
+      "punchline": "Inheritance!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "encryption",
-        "lonely",
-        "understand",
-        "security",
+        "object oriented",
+        "wealthy",
+        "inheritance",
+        "oop",
         "wordplay",
-        "code",
-        "misunderstood"
+        "programming",
+        "money"
       ]
     },
     {
@@ -29632,19 +29638,19 @@
     },
     {
       "id": 1697,
-      "setup": "Why did the 404 error feel lost?",
-      "punchline": "Because it couldn't find itself!",
+      "setup": "Why was the object-oriented programmer bad at relationships?",
+      "punchline": "Their classes were too private!",
       "categories": [
         "technology"
       ],
       "tags": [
-        "404 error",
-        "lost",
-        "find",
-        "page",
+        "object oriented",
+        "programmer",
+        "relationships",
+        "private",
+        "class",
         "wordplay",
-        "website",
-        "not found"
+        "programming"
       ]
     },
     {
@@ -29667,19 +29673,20 @@
     },
     {
       "id": 1699,
-      "setup": "Why did the pixel feel insignificant?",
-      "punchline": "Because it was just a small part of the bigger picture!",
+      "setup": "What do you get when you cross a computer and a potato?",
+      "punchline": "A micro-chip!",
       "categories": [
-        "technology"
+        "technology",
+        "food"
       ],
       "tags": [
-        "pixel",
-        "insignificant",
-        "small",
-        "picture",
+        "computer",
+        "potato",
+        "microchip",
+        "chip",
         "wordplay",
-        "display",
-        "image"
+        "food",
+        "hardware"
       ]
     },
     {
