@@ -24477,1738 +24477,701 @@
       "id": 1401,
       "setup": "Why can't you trust atoms?",
       "punchline": "Because they make up everything!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "atoms",
-        "trust",
-        "make up",
-        "lying",
-        "wordplay",
-        "chemistry",
-        "physics"
-      ]
+      "categories": ["science"],
+      "tags": ["atoms", "trust", "make up", "lying", "wordplay", "chemistry", "physics"]
     },
     {
       "id": 1402,
       "setup": "What did the biologist wear to impress their date?",
       "punchline": "Designer genes!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "biologist",
-        "date",
-        "genes",
-        "jeans",
-        "wordplay",
-        "biology",
-        "fashion"
-      ]
+      "categories": ["science"],
+      "tags": ["biologist", "date", "genes", "jeans", "wordplay", "biology", "fashion"]
     },
     {
       "id": 1403,
       "setup": "Why did the biologist break up with the physicist?",
       "punchline": "There was no chemistry!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "biologist",
-        "physicist",
-        "chemistry",
-        "breakup",
-        "wordplay",
-        "relationship",
-        "subjects"
-      ]
+      "categories": ["science"],
+      "tags": ["biologist", "physicist", "chemistry", "breakup", "wordplay", "relationship", "subjects"]
     },
     {
       "id": 1404,
       "setup": "What do you call a fish made of two sodium atoms?",
       "punchline": "2 Na!",
-      "categories": [
-        "science",
-        "animals"
-      ],
-      "tags": [
-        "fish",
-        "sodium",
-        "tuna",
-        "chemistry",
-        "wordplay",
-        "periodic table",
-        "elements"
-      ]
+      "categories": ["science", "animals"],
+      "tags": ["fish", "sodium", "tuna", "chemistry", "wordplay", "periodic table", "elements"]
     },
     {
       "id": 1405,
       "setup": "Why did the germ cross the microscope?",
       "punchline": "To get to the other slide!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "germ",
-        "microscope",
-        "slide",
-        "side",
-        "wordplay",
-        "biology",
-        "lab"
-      ]
+      "categories": ["science"],
+      "tags": ["germ", "microscope", "slide", "side", "wordplay", "biology", "lab"]
     },
     {
       "id": 1406,
       "setup": "What did the volcano say to its crush?",
       "punchline": "I lava you!",
-      "categories": [
-        "science",
-        "geography"
-      ],
-      "tags": [
-        "volcano",
-        "crush",
-        "lava",
-        "love",
-        "wordplay",
-        "geology",
-        "romance"
-      ]
+      "categories": ["science", "geography"],
+      "tags": ["volcano", "crush", "lava", "love", "wordplay", "geology", "romance"]
     },
     {
       "id": 1407,
       "setup": "Why are chemists great at solving problems?",
       "punchline": "Because they have all the solutions!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "chemists",
-        "problems",
-        "solutions",
-        "chemistry",
-        "wordplay",
-        "lab",
-        "liquids"
-      ]
+      "categories": ["science"],
+      "tags": ["chemists", "problems", "solutions", "chemistry", "wordplay", "lab", "liquids"]
     },
     {
       "id": 1408,
       "setup": "What did one ion say to the other?",
       "punchline": "I've got my ion you!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "ion",
-        "eye on",
-        "chemistry",
-        "watching",
-        "wordplay",
-        "physics",
-        "charged"
-      ]
+      "categories": ["science"],
+      "tags": ["ion", "eye on", "chemistry", "watching", "wordplay", "physics", "charged"]
     },
     {
       "id": 1409,
       "setup": "Why did the neutron get into the club for free?",
       "punchline": "Because there was no charge!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "neutron",
-        "club",
-        "charge",
-        "free",
-        "wordplay",
-        "physics",
-        "particles"
-      ]
+      "categories": ["science"],
+      "tags": ["neutron", "club", "charge", "free", "wordplay", "physics", "particles"]
     },
     {
       "id": 1410,
       "setup": "What do you call a group of iron atoms at a carnival?",
       "punchline": "A ferrous wheel!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "iron",
-        "carnival",
-        "ferrous",
-        "ferris wheel",
-        "wordplay",
-        "chemistry",
-        "elements"
-      ]
+      "categories": ["science"],
+      "tags": ["iron", "carnival", "ferrous", "ferris wheel", "wordplay", "chemistry", "elements"]
     },
     {
       "id": 1411,
       "setup": "Why did the electron apply for unemployment?",
       "punchline": "Because it got fired for being too negative!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "electron",
-        "unemployment",
-        "negative",
-        "fired",
-        "wordplay",
-        "physics",
-        "charge"
-      ]
+      "categories": ["science"],
+      "tags": ["electron", "unemployment", "negative", "fired", "wordplay", "physics", "charge"]
     },
     {
       "id": 1412,
       "setup": "What's a scientist's favorite type of dog?",
       "punchline": "A Lab-rador!",
-      "categories": [
-        "science",
-        "animals"
-      ],
-      "tags": [
-        "scientist",
-        "dog",
-        "lab",
-        "labrador",
-        "wordplay",
-        "pets",
-        "research"
-      ]
+      "categories": ["science", "animals"],
+      "tags": ["scientist", "dog", "lab", "labrador", "wordplay", "pets", "research"]
     },
     {
       "id": 1413,
       "setup": "What do biologists post on Instagram?",
       "punchline": "Cell-fies!",
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "tags": [
-        "biologists",
-        "instagram",
-        "cell",
-        "selfie",
-        "wordplay",
-        "biology",
-        "social media"
-      ]
+      "categories": ["science", "technology"],
+      "tags": ["biologists", "instagram", "cell", "selfie", "wordplay", "biology", "social media"]
     },
     {
       "id": 1414,
       "setup": "What did the thermometer say to the graduated cylinder?",
       "punchline": "You may have graduated, but I've got more degrees!",
-      "categories": [
-        "science",
-        "school"
-      ],
-      "tags": [
-        "thermometer",
-        "cylinder",
-        "degrees",
-        "graduated",
-        "wordplay",
-        "lab",
-        "measuring"
-      ]
+      "categories": ["science", "school"],
+      "tags": ["thermometer", "cylinder", "degrees", "graduated", "wordplay", "lab", "measuring"]
     },
     {
       "id": 1415,
       "setup": "How do you stop an astronaut's baby from crying?",
       "punchline": "You rocket!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "astronaut",
-        "baby",
-        "rocket",
-        "rock it",
-        "wordplay",
-        "space",
-        "parenting"
-      ]
+      "categories": ["science"],
+      "tags": ["astronaut", "baby", "rocket", "rock it", "wordplay", "space", "parenting"]
     },
     {
       "id": 1416,
       "setup": "What did the scientist say when he found two helium atoms?",
       "punchline": "HeHe!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "scientist",
-        "helium",
-        "laughing",
-        "elements",
-        "wordplay",
-        "chemistry",
-        "periodic table"
-      ]
+      "categories": ["science"],
+      "tags": ["scientist", "helium", "laughing", "elements", "wordplay", "chemistry", "periodic table"]
     },
     {
       "id": 1417,
       "setup": "Why did the photon check a bag at the airport?",
       "punchline": "Because it was traveling light!",
-      "categories": [
-        "science",
-        "travel"
-      ],
-      "tags": [
-        "photon",
-        "airport",
-        "traveling",
-        "light",
-        "wordplay",
-        "physics",
-        "luggage"
-      ]
+      "categories": ["science", "travel"],
+      "tags": ["photon", "airport", "traveling", "light", "wordplay", "physics", "luggage"]
     },
     {
       "id": 1418,
       "setup": "Did you hear about the famous microbiologist who visited 30 countries?",
       "punchline": "He was a man of many cultures!",
-      "categories": [
-        "science",
-        "travel"
-      ],
-      "tags": [
-        "microbiologist",
-        "countries",
-        "cultures",
-        "bacteria",
-        "wordplay",
-        "biology",
-        "travel"
-      ]
+      "categories": ["science", "travel"],
+      "tags": ["microbiologist", "countries", "cultures", "bacteria", "wordplay", "biology", "travel"]
     },
     {
       "id": 1419,
       "setup": "Why did the noble gas cry?",
       "punchline": "Because all its friends argon!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "noble gas",
-        "cry",
-        "argon",
-        "are gone",
-        "wordplay",
-        "chemistry",
-        "elements"
-      ]
+      "categories": ["science"],
+      "tags": ["noble gas", "cry", "argon", "are gone", "wordplay", "chemistry", "elements"]
     },
     {
       "id": 1420,
       "setup": "What did the DNA say to the other DNA?",
       "punchline": "Do these genes make me look fat?",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "dna",
-        "genes",
-        "jeans",
-        "fat",
-        "wordplay",
-        "biology",
-        "genetics"
-      ]
+      "categories": ["science"],
+      "tags": ["dna", "genes", "jeans", "fat", "wordplay", "biology", "genetics"]
     },
     {
       "id": 1421,
       "setup": "Why do biologists look forward to casual Fridays?",
       "punchline": "Because they can wear genes to work!",
-      "categories": [
-        "science",
-        "work"
-      ],
-      "tags": [
-        "biologists",
-        "casual friday",
-        "genes",
-        "jeans",
-        "wordplay",
-        "biology",
-        "clothing"
-      ]
+      "categories": ["science", "work"],
+      "tags": ["biologists", "casual friday", "genes", "jeans", "wordplay", "biology", "clothing"]
     },
     {
       "id": 1422,
       "setup": "What did the proton say to the electron?",
       "punchline": "Stop being so negative!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "proton",
-        "electron",
-        "negative",
-        "positive",
-        "wordplay",
-        "physics",
-        "attitude"
-      ]
+      "categories": ["science"],
+      "tags": ["proton", "electron", "negative", "positive", "wordplay", "physics", "attitude"]
     },
     {
       "id": 1423,
       "setup": "Why did the scientist install a knocker on his door?",
       "punchline": "To win the No-bell prize!",
-      "categories": [
-        "science",
-        "home"
-      ],
-      "tags": [
-        "scientist",
-        "knocker",
-        "door",
-        "nobel prize",
-        "wordplay",
-        "awards",
-        "bell"
-      ]
+      "categories": ["science", "home"],
+      "tags": ["scientist", "knocker", "door", "nobel prize", "wordplay", "awards", "bell"]
     },
     {
       "id": 1424,
       "setup": "What's a pirate's favorite element?",
       "punchline": "Aaaaargon!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "pirate",
-        "element",
-        "argon",
-        "arrr",
-        "wordplay",
-        "chemistry",
-        "periodic table"
-      ]
+      "categories": ["science"],
+      "tags": ["pirate", "element", "argon", "arrr", "wordplay", "chemistry", "periodic table"]
     },
     {
       "id": 1425,
       "setup": "What did the positive charge say to the negative charge after their date?",
       "punchline": "We have potential!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "positive",
-        "negative",
-        "charge",
-        "potential",
-        "wordplay",
-        "physics",
-        "electricity"
-      ]
+      "categories": ["science"],
+      "tags": ["positive", "negative", "charge", "potential", "wordplay", "physics", "electricity"]
     },
     {
       "id": 1426,
-      "setup": "What did the mitochondria say at the party?",
-      "punchline": "I'm the powerhouse of the party!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "mitochondria",
-        "party",
-        "powerhouse",
-        "cell",
-        "wordplay",
-        "biology",
-        "energy"
-      ]
+      "setup": "Why did the mushroom get invited to all the parties?",
+      "punchline": "Because he's a fun-gi!",
+      "categories": ["science"],
+      "tags": ["mushroom", "party", "fungi", "fun guy", "wordplay", "biology", "social"]
     },
     {
       "id": 1427,
       "setup": "Why did the physicist break up with gravity?",
       "punchline": "Because he needed space!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "physicist",
-        "gravity",
-        "space",
-        "breakup",
-        "wordplay",
-        "physics",
-        "astronomy"
-      ]
+      "categories": ["science"],
+      "tags": ["physicist", "gravity", "space", "breakup", "wordplay", "physics", "astronomy"]
     },
     {
       "id": 1428,
       "setup": "What do you do with a sick chemist?",
       "punchline": "If you can't helium and you can't curium, you might as well barium!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "chemist",
-        "sick",
-        "helium",
-        "curium",
-        "barium",
-        "wordplay",
-        "elements"
-      ]
+      "categories": ["science"],
+      "tags": ["chemist", "sick", "helium", "curium", "barium", "wordplay", "elements"]
     },
     {
       "id": 1429,
       "setup": "How do you organize a space party?",
       "punchline": "You planet!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "space",
-        "party",
-        "planet",
-        "plan it",
-        "wordplay",
-        "astronomy",
-        "organizing"
-      ]
+      "categories": ["science"],
+      "tags": ["space", "party", "planet", "plan it", "wordplay", "astronomy", "organizing"]
     },
     {
       "id": 1430,
-      "setup": "What did the Earth say to the other planets?",
-      "punchline": "You guys have no life!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "earth",
-        "planets",
-        "life",
-        "aliens",
-        "wordplay",
-        "astronomy",
-        "solar system"
-      ]
+      "setup": "Why did Mickey Mouse go to outer space?",
+      "punchline": "To visit Pluto!",
+      "categories": ["science"],
+      "tags": ["mickey mouse", "space", "pluto", "planet", "wordplay", "astronomy", "disney"]
     },
     {
       "id": 1431,
       "setup": "Why do plants hate algebra?",
       "punchline": "Because it gives them square roots!",
-      "categories": [
-        "science",
-        "math"
-      ],
-      "tags": [
-        "plants",
-        "algebra",
-        "square roots",
-        "math",
-        "wordplay",
-        "biology",
-        "botany"
-      ]
+      "categories": ["science", "math"],
+      "tags": ["plants", "algebra", "square roots", "math", "wordplay", "biology", "botany"]
     },
     {
       "id": 1432,
       "setup": "What do you call a periodic table with gold missing?",
       "punchline": "Au revoir!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "periodic table",
-        "gold",
-        "au",
-        "goodbye",
-        "wordplay",
-        "chemistry",
-        "french"
-      ]
+      "categories": ["science"],
+      "tags": ["periodic table", "gold", "au", "goodbye", "wordplay", "chemistry", "french"]
     },
     {
       "id": 1433,
       "setup": "Why did the bacteria fail the math test?",
       "punchline": "Because it could only multiply!",
-      "categories": [
-        "science",
-        "math"
-      ],
-      "tags": [
-        "bacteria",
-        "math test",
-        "multiply",
-        "division",
-        "wordplay",
-        "biology",
-        "reproduction"
-      ]
+      "categories": ["science", "math"],
+      "tags": ["bacteria", "math test", "multiply", "division", "wordplay", "biology", "reproduction"]
     },
     {
       "id": 1434,
       "setup": "What did the ocean say to the beach?",
       "punchline": "Nothing, it just waved!",
-      "categories": [
-        "science",
-        "geography"
-      ],
-      "tags": [
-        "ocean",
-        "beach",
-        "wave",
-        "waved",
-        "wordplay",
-        "water",
-        "greeting"
-      ]
+      "categories": ["science", "geography"],
+      "tags": ["ocean", "beach", "wave", "waved", "wordplay", "water", "greeting"]
     },
     {
       "id": 1435,
       "setup": "What did Julius Caesar receive as he looked through a microscope?",
       "punchline": "Beware the Slides of March!",
-      "categories": [
-        "science",
-        "history"
-      ],
-      "tags": [
-        "caesar",
-        "microscope",
-        "slides",
-        "ides of march",
-        "wordplay",
-        "biology",
-        "history"
-      ]
+      "categories": ["science", "history"],
+      "tags": ["caesar", "microscope", "slides", "ides of march", "wordplay", "biology", "history"]
     },
     {
       "id": 1436,
       "setup": "What do planets like to read?",
       "punchline": "Comet books!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "planets",
-        "read",
-        "comet",
-        "comic",
-        "wordplay",
-        "astronomy",
-        "space"
-      ]
+      "categories": ["science"],
+      "tags": ["planets", "read", "comet", "comic", "wordplay", "astronomy", "space"]
     },
     {
       "id": 1437,
       "setup": "Why did the acid go to the gym?",
       "punchline": "To become a buffer solution!",
-      "categories": [
-        "science",
-        "sports"
-      ],
-      "tags": [
-        "acid",
-        "gym",
-        "buffer",
-        "solution",
-        "wordplay",
-        "chemistry",
-        "exercise"
-      ]
+      "categories": ["science", "sports"],
+      "tags": ["acid", "gym", "buffer", "solution", "wordplay", "chemistry", "exercise"]
     },
     {
       "id": 1438,
       "setup": "What did the stamen say to the pistil?",
       "punchline": "I like your style!",
-      "categories": [
-        "science",
-        "outdoors"
-      ],
-      "tags": [
-        "stamen",
-        "pistil",
-        "style",
-        "flower",
-        "wordplay",
-        "biology",
-        "plants"
-      ]
+      "categories": ["science", "outdoors"],
+      "tags": ["stamen", "pistil", "style", "flower", "wordplay", "biology", "plants"]
     },
     {
       "id": 1439,
       "setup": "Why did the geologist break up with his girlfriend?",
       "punchline": "Because she took him for granite!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "geologist",
-        "girlfriend",
-        "granite",
-        "granted",
-        "wordplay",
-        "geology",
-        "rocks"
-      ]
+      "categories": ["science"],
+      "tags": ["geologist", "girlfriend", "granite", "granted", "wordplay", "geology", "rocks"]
     },
     {
       "id": 1440,
       "setup": "What do you call an educated tube?",
       "punchline": "A graduated cylinder!",
-      "categories": [
-        "science",
-        "school"
-      ],
-      "tags": [
-        "tube",
-        "educated",
-        "graduated cylinder",
-        "lab",
-        "wordplay",
-        "chemistry",
-        "measuring"
-      ]
+      "categories": ["science", "school"],
+      "tags": ["tube", "educated", "graduated cylinder", "lab", "wordplay", "chemistry", "measuring"]
     },
     {
       "id": 1441,
       "setup": "What did uranium-238 say to his friend?",
       "punchline": "Gotta split!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "uranium",
-        "split",
-        "nuclear fission",
-        "leaving",
-        "wordplay",
-        "physics",
-        "radioactive"
-      ]
+      "categories": ["science"],
+      "tags": ["uranium", "split", "nuclear fission", "leaving", "wordplay", "physics", "radioactive"]
     },
     {
       "id": 1442,
       "setup": "What did the scientist say when he discovered oxygen and potassium?",
       "punchline": "OK!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "scientist",
-        "oxygen",
-        "potassium",
-        "ok",
-        "wordplay",
-        "chemistry",
-        "elements"
-      ]
+      "categories": ["science"],
+      "tags": ["scientist", "oxygen", "potassium", "ok", "wordplay", "chemistry", "elements"]
     },
     {
       "id": 1443,
       "setup": "How come anteaters never get sick?",
       "punchline": "Because they're full of antibodies!",
-      "categories": [
-        "science",
-        "animals"
-      ],
-      "tags": [
-        "anteaters",
-        "sick",
-        "antibodies",
-        "ants",
-        "wordplay",
-        "biology",
-        "immune"
-      ]
+      "categories": ["science", "animals"],
+      "tags": ["anteaters", "sick", "antibodies", "ants", "wordplay", "biology", "immune"]
     },
     {
       "id": 1444,
       "setup": "What do you call a tooth in a glass of water?",
       "punchline": "A one molar solution!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "tooth",
-        "water",
-        "molar",
-        "solution",
-        "wordplay",
-        "chemistry",
-        "dentist"
-      ]
+      "categories": ["science"],
+      "tags": ["tooth", "water", "molar", "solution", "wordplay", "chemistry", "dentist"]
     },
     {
       "id": 1445,
       "setup": "Why was the mole of oxygen molecules excited?",
       "punchline": "Because it was going to a mole-cular party!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "mole",
-        "oxygen",
-        "molecular",
-        "party",
-        "wordplay",
-        "chemistry",
-        "avogadro"
-      ]
+      "categories": ["science"],
+      "tags": ["mole", "oxygen", "molecular", "party", "wordplay", "chemistry", "avogadro"]
     },
     {
       "id": 1446,
-      "setup": "What did the black hole say to the star?",
-      "punchline": "You're so attractive, I just can't escape you!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "black hole",
-        "star",
-        "attractive",
-        "escape",
-        "wordplay",
-        "astronomy",
-        "gravity"
-      ]
+      "setup": "What's the element of surprise on the periodic table?",
+      "punchline": "The noble gases!",
+      "categories": ["science"],
+      "tags": ["element", "surprise", "noble gases", "periodic table", "wordplay", "chemistry", "unexpected"]
     },
     {
       "id": 1447,
       "setup": "What's a nuclear physicist's favorite meal?",
       "punchline": "Fission chips!",
-      "categories": [
-        "science",
-        "food"
-      ],
-      "tags": [
-        "nuclear",
-        "physicist",
-        "fission",
-        "fish and chips",
-        "wordplay",
-        "physics",
-        "food"
-      ]
+      "categories": ["science", "food"],
+      "tags": ["nuclear", "physicist", "fission", "fish and chips", "wordplay", "physics", "food"]
     },
     {
       "id": 1448,
       "setup": "What did the uranium-238 say to the lead-206?",
       "punchline": "I decay for you!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "uranium",
-        "lead",
-        "decay",
-        "die for",
-        "wordplay",
-        "physics",
-        "radioactive"
-      ]
+      "categories": ["science"],
+      "tags": ["uranium", "lead", "decay", "die for", "wordplay", "physics", "radioactive"]
     },
     {
       "id": 1449,
       "setup": "If H2O is water, what is H2O4?",
       "punchline": "Drinking, bathing, swimming, and washing!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "h2o",
-        "water",
-        "h2o4",
-        "what for",
-        "wordplay",
-        "chemistry",
-        "formula"
-      ]
+      "categories": ["science"],
+      "tags": ["h2o", "water", "h2o4", "what for", "wordplay", "chemistry", "formula"]
     },
     {
       "id": 1450,
       "setup": "What do you call iron blowing in the wind?",
       "punchline": "Fe-breeze!",
-      "categories": [
-        "science",
-        "home"
-      ],
-      "tags": [
-        "iron",
-        "wind",
-        "febreze",
-        "fe",
-        "wordplay",
-        "chemistry",
-        "elements"
-      ]
+      "categories": ["science", "home"],
+      "tags": ["iron", "wind", "febreze", "fe", "wordplay", "chemistry", "elements"]
     },
     {
       "id": 1451,
       "setup": "Why did the capacitor kiss the inductor?",
       "punchline": "Because it couldn't resist the current attraction!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "capacitor",
-        "inductor",
-        "resist",
-        "current",
-        "wordplay",
-        "physics",
-        "electronics"
-      ]
+      "categories": ["science"],
+      "tags": ["capacitor", "inductor", "resist", "current", "wordplay", "physics", "electronics"]
     },
     {
       "id": 1452,
       "setup": "Want to hear a potassium joke?",
       "punchline": "K!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "potassium",
-        "k",
-        "okay",
-        "element",
-        "wordplay",
-        "chemistry",
-        "periodic table"
-      ]
+      "categories": ["science"],
+      "tags": ["potassium", "k", "okay", "element", "wordplay", "chemistry", "periodic table"]
     },
     {
       "id": 1453,
       "setup": "Why did the tectonic plate apologize?",
       "punchline": "Because it was at fault!",
-      "categories": [
-        "science",
-        "geography"
-      ],
-      "tags": [
-        "tectonic plate",
-        "apologize",
-        "fault",
-        "earthquake",
-        "wordplay",
-        "geology",
-        "earth"
-      ]
+      "categories": ["science", "geography"],
+      "tags": ["tectonic plate", "apologize", "fault", "earthquake", "wordplay", "geology", "earth"]
     },
     {
       "id": 1454,
       "setup": "What do you call a bunch of iron atoms at a comedy club?",
       "punchline": "Fe-larious!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "iron",
-        "atoms",
-        "comedy",
-        "hilarious",
-        "wordplay",
-        "chemistry",
-        "funny"
-      ]
+      "categories": ["science"],
+      "tags": ["iron", "atoms", "comedy", "hilarious", "wordplay", "chemistry", "funny"]
     },
     {
       "id": 1455,
       "setup": "Why did the red litmus paper turn blue?",
       "punchline": "Because it was feeling basic!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "litmus paper",
-        "blue",
-        "basic",
-        "pH",
-        "wordplay",
-        "chemistry",
-        "acid"
-      ]
+      "categories": ["science"],
+      "tags": ["litmus paper", "blue", "basic", "pH", "wordplay", "chemistry", "acid"]
     },
     {
       "id": 1456,
       "setup": "What does blood say when it's trying to be optimistic?",
       "punchline": "B positive!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "blood",
-        "optimistic",
-        "b positive",
-        "blood type",
-        "wordplay",
-        "biology",
-        "attitude"
-      ]
+      "categories": ["science"],
+      "tags": ["blood", "optimistic", "b positive", "blood type", "wordplay", "biology", "attitude"]
     },
     {
       "id": 1457,
-      "setup": "Why did the beaker feel empty?",
-      "punchline": "Because it lost its solution to life's problems!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "beaker",
-        "empty",
-        "solution",
-        "problems",
-        "wordplay",
-        "chemistry",
-        "lab"
-      ]
+      "setup": "Why did the microbiologist go to the bar?",
+      "punchline": "To culture some new friends!",
+      "categories": ["science"],
+      "tags": ["microbiologist", "bar", "culture", "friends", "wordplay", "biology", "social"]
     },
     {
       "id": 1458,
-      "setup": "What do you call a lazy kangaroo in a physics experiment?",
-      "punchline": "A pouch potato at rest!",
-      "categories": [
-        "science",
-        "animals"
-      ],
-      "tags": [
-        "kangaroo",
-        "physics",
-        "rest",
-        "newton",
-        "wordplay",
-        "inertia",
-        "lazy"
-      ]
+      "setup": "What did the scientist say when he found two isotopes of helium?",
+      "punchline": "HeHe!",
+      "categories": ["science"],
+      "tags": ["scientist", "helium", "isotopes", "laughing", "wordplay", "chemistry", "elements"]
     },
     {
       "id": 1459,
-      "setup": "Why did the catalyst get invited to every party?",
-      "punchline": "Because it always got things started!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "catalyst",
-        "party",
-        "reaction",
-        "chemistry",
-        "wordplay",
-        "speeding up",
-        "social"
-      ]
+      "setup": "Why couldn't the biologist control the crowd?",
+      "punchline": "Because the cells were dividing!",
+      "categories": ["science"],
+      "tags": ["biologist", "crowd", "cells", "dividing", "wordplay", "biology", "chaos"]
     },
     {
       "id": 1460,
-      "setup": "What did the supernova say before exploding?",
-      "punchline": "I'm having a blast!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "supernova",
-        "exploding",
-        "blast",
-        "star",
-        "wordplay",
-        "astronomy",
-        "fun"
-      ]
+      "setup": "Why was the moon so good at baseball?",
+      "punchline": "Because it had a great swing!",
+      "categories": ["science"],
+      "tags": ["moon", "baseball", "swing", "orbit", "wordplay", "astronomy", "sports"]
     },
     {
       "id": 1461,
-      "setup": "Why did the fossil feel old?",
-      "punchline": "Because it was dating itself for millions of years!",
-      "categories": [
-        "science",
-        "history"
-      ],
-      "tags": [
-        "fossil",
-        "old",
-        "dating",
-        "millions",
-        "wordplay",
-        "paleontology",
-        "carbon"
-      ]
+      "setup": "What do you call an accountant for the biology department?",
+      "punchline": "A buy-ologist!",
+      "categories": ["science"],
+      "tags": ["accountant", "biology", "biologist", "buying", "wordplay", "work", "money"]
     },
     {
       "id": 1462,
       "setup": "What do you call a wheel that runs chemistry experiments?",
       "punchline": "A centri-fuge!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "wheel",
-        "chemistry",
-        "centrifuge",
-        "spinning",
-        "wordplay",
-        "lab",
-        "equipment"
-      ]
+      "categories": ["science"],
+      "tags": ["wheel", "chemistry", "centrifuge", "spinning", "wordplay", "lab", "equipment"]
     },
     {
       "id": 1463,
       "setup": "Why is the moon so broke?",
       "punchline": "It's down to its last quarter!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "moon",
-        "broke",
-        "quarter",
-        "phases",
-        "wordplay",
-        "astronomy",
-        "money"
-      ]
+      "categories": ["science"],
+      "tags": ["moon", "broke", "quarter", "phases", "wordplay", "astronomy", "money"]
     },
     {
       "id": 1464,
-      "setup": "What did the magnet say to the iron filing?",
-      "punchline": "I find you very attractive!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "magnet",
-        "iron filing",
-        "attractive",
-        "magnetism",
-        "wordplay",
-        "physics",
-        "force"
-      ]
+      "setup": "What do you call a benzene ring with iron atoms replacing the carbon atoms?",
+      "punchline": "A ferrous wheel!",
+      "categories": ["science"],
+      "tags": ["benzene", "iron", "ferrous", "ferris wheel", "wordplay", "chemistry", "carnival"]
     },
     {
       "id": 1465,
       "setup": "Why did the light wave break up with the sound wave?",
       "punchline": "Because they were on different frequencies!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "light wave",
-        "sound wave",
-        "frequencies",
-        "breakup",
-        "wordplay",
-        "physics",
-        "waves"
-      ]
+      "categories": ["science"],
+      "tags": ["light wave", "sound wave", "frequencies", "breakup", "wordplay", "physics", "waves"]
     },
     {
       "id": 1466,
       "setup": "What's the first electricity detective called?",
       "punchline": "Sherlock Ohms!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "electricity",
-        "detective",
-        "ohms",
-        "sherlock holmes",
-        "wordplay",
-        "physics",
-        "resistance"
-      ]
+      "categories": ["science"],
+      "tags": ["electricity", "detective", "ohms", "sherlock holmes", "wordplay", "physics", "resistance"]
     },
     {
       "id": 1467,
-      "setup": "Why can you never trust stairs?",
-      "punchline": "Because they're always up to something!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "stairs",
-        "trust",
-        "up to something",
-        "physics",
-        "wordplay",
-        "elevation",
-        "pun"
-      ]
+      "setup": "What kind of tree can you hold in your hand?",
+      "punchline": "A palm tree!",
+      "categories": ["science"],
+      "tags": ["tree", "hand", "palm", "botany", "wordplay", "biology", "nature"]
     },
     {
       "id": 1468,
-      "setup": "What did the oxidizer say to the fuel?",
-      "punchline": "You really light up my life!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "oxidizer",
-        "fuel",
-        "light up",
-        "combustion",
-        "wordplay",
-        "chemistry",
-        "fire"
-      ]
+      "setup": "Why don't chemists ever get moody?",
+      "punchline": "Because they know how to keep their ions balanced!",
+      "categories": ["science"],
+      "tags": ["chemists", "moody", "ions", "balanced", "wordplay", "chemistry", "emotions"]
     },
     {
       "id": 1469,
       "setup": "Why did the astronaut bring a broom to space?",
       "punchline": "To sweep through the Milky Way!",
-      "categories": [
-        "science",
-        "home"
-      ],
-      "tags": [
-        "astronaut",
-        "broom",
-        "space",
-        "milky way",
-        "wordplay",
-        "astronomy",
-        "cleaning"
-      ]
+      "categories": ["science", "home"],
+      "tags": ["astronaut", "broom", "space", "milky way", "wordplay", "astronomy", "cleaning"]
     },
     {
       "id": 1470,
       "setup": "What do you call a snake that builds molecules?",
       "punchline": "A boa-nd builder!",
-      "categories": [
-        "science",
-        "animals"
-      ],
-      "tags": [
-        "snake",
-        "molecules",
-        "bond",
-        "boa",
-        "wordplay",
-        "chemistry",
-        "construction"
-      ]
+      "categories": ["science", "animals"],
+      "tags": ["snake", "molecules", "bond", "boa", "wordplay", "chemistry", "construction"]
     },
     {
       "id": 1471,
       "setup": "Why did the hipster chemist burn his tongue?",
       "punchline": "He picked up his beaker before it was cool!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "hipster",
-        "chemist",
-        "beaker",
-        "cool",
-        "wordplay",
-        "chemistry",
-        "temperature"
-      ]
+      "categories": ["science"],
+      "tags": ["hipster", "chemist", "beaker", "cool", "wordplay", "chemistry", "temperature"]
     },
     {
       "id": 1472,
-      "setup": "What did the petri dish say to the bacteria?",
-      "punchline": "You're really growing on me!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "petri dish",
-        "bacteria",
-        "growing",
-        "culture",
-        "wordplay",
-        "biology",
-        "lab"
-      ]
+      "setup": "How many biologists does it take to change a light bulb?",
+      "punchline": "Four. One to change it and three to write the environmental impact statement!",
+      "categories": ["science"],
+      "tags": ["biologists", "light bulb", "environmental", "impact", "wordplay", "biology", "bureaucracy"]
     },
     {
       "id": 1473,
       "setup": "What's a chemist's favorite holiday song?",
       "punchline": "Oh Chemis-tree, Oh Chemis-tree!",
-      "categories": [
-        "science",
-        "holidays"
-      ],
-      "tags": [
-        "chemist",
-        "holiday",
-        "christmas tree",
-        "chemistry",
-        "wordplay",
-        "song",
-        "seasonal"
-      ]
+      "categories": ["science", "holidays"],
+      "tags": ["chemist", "holiday", "christmas tree", "chemistry", "wordplay", "song", "seasonal"]
     },
     {
       "id": 1474,
       "setup": "What do you call a radioactive cat?",
       "punchline": "An atomic kitty!",
-      "categories": [
-        "science",
-        "animals"
-      ],
-      "tags": [
-        "radioactive",
-        "cat",
-        "atomic",
-        "kitty",
-        "wordplay",
-        "physics",
-        "nuclear"
-      ]
+      "categories": ["science", "animals"],
+      "tags": ["radioactive", "cat", "atomic", "kitty", "wordplay", "physics", "nuclear"]
     },
     {
       "id": 1475,
-      "setup": "What did the thermometer say to the graduated cylinder?",
-      "punchline": "You may be graduated, but I have several degrees!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "thermometer",
-        "graduated cylinder",
-        "degrees",
-        "lab",
-        "chemistry",
-        "wordplay",
-        "education"
-      ]
+      "setup": "I was reading a book on helium.",
+      "punchline": "I couldn't put it down!",
+      "categories": ["science"],
+      "tags": ["helium", "book", "reading", "light", "wordplay", "chemistry", "floating"]
     },
     {
       "id": 1476,
       "setup": "What did the geology professor say about the mountain's age?",
       "punchline": "Its age really peaked my interest!",
-      "categories": [
-        "science",
-        "school"
-      ],
-      "tags": [
-        "geology",
-        "professor",
-        "mountain",
-        "peaked",
-        "wordplay",
-        "age",
-        "interest"
-      ]
+      "categories": ["science", "school"],
+      "tags": ["geology", "professor", "mountain", "peaked", "wordplay", "age", "interest"]
     },
     {
       "id": 1477,
       "setup": "What do you get when you cross a set of grammar rules with electromagnetic radiation?",
       "punchline": "Grammar rays!",
-      "categories": [
-        "science",
-        "school"
-      ],
-      "tags": [
-        "grammar",
-        "electromagnetic",
-        "gamma rays",
-        "radiation",
-        "wordplay",
-        "physics",
-        "english"
-      ]
+      "categories": ["science", "school"],
+      "tags": ["grammar", "electromagnetic", "gamma rays", "radiation", "wordplay", "physics", "english"]
     },
     {
       "id": 1478,
       "setup": "If the Silver Surfer and Iron Man teamed up, what would they be?",
       "punchline": "Alloys!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "silver surfer",
-        "iron man",
-        "alloys",
-        "allies",
-        "wordplay",
-        "chemistry",
-        "superheroes"
-      ]
+      "categories": ["science"],
+      "tags": ["silver surfer", "iron man", "alloys", "allies", "wordplay", "chemistry", "superheroes"]
     },
     {
       "id": 1479,
-      "setup": "Why did the blood cell feel lost?",
-      "punchline": "Because it took the wrong vein!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "blood cell",
-        "lost",
-        "vein",
-        "lane",
-        "wordplay",
-        "biology",
-        "circulation"
-      ]
+      "setup": "Did you hear about the corn field discovered in a distant galaxy?",
+      "punchline": "It was light ears away!",
+      "categories": ["science"],
+      "tags": ["corn", "galaxy", "light years", "ears", "wordplay", "astronomy", "distance"]
     },
     {
       "id": 1480,
       "setup": "What did the scientist say when he mixed sodium and chlorine?",
       "punchline": "That's NaCl of the problem solved!",
-      "categories": [
-        "science",
-        "food"
-      ],
-      "tags": [
-        "scientist",
-        "sodium",
-        "chlorine",
-        "nacl",
-        "salt",
-        "wordplay",
-        "chemistry"
-      ]
+      "categories": ["science", "food"],
+      "tags": ["scientist", "sodium", "chlorine", "nacl", "salt", "wordplay", "chemistry"]
     },
     {
       "id": 1481,
       "setup": "What's the difference between a dog and a marine biologist?",
       "punchline": "One wags a tail and the other tags a whale!",
-      "categories": [
-        "science",
-        "animals"
-      ],
-      "tags": [
-        "dog",
-        "marine biologist",
-        "tail",
-        "whale",
-        "wordplay",
-        "biology",
-        "ocean"
-      ]
+      "categories": ["science", "animals"],
+      "tags": ["dog", "marine biologist", "tail", "whale", "wordplay", "biology", "ocean"]
     },
     {
       "id": 1482,
-      "setup": "What do you call a funny element on the periodic table?",
-      "punchline": "Helium... because it's always making you light-headed!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "element",
-        "periodic table",
-        "helium",
-        "light-headed",
-        "wordplay",
-        "chemistry",
-        "gas"
-      ]
+      "setup": "What do you call an acid with an attitude?",
+      "punchline": "A-mean-o acid!",
+      "categories": ["science"],
+      "tags": ["acid", "attitude", "amino", "mean", "wordplay", "chemistry", "personality"]
     },
     {
       "id": 1483,
       "setup": "What do you call a joke based on cobalt, radon, and yttrium?",
       "punchline": "CoRnY!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "cobalt",
-        "radon",
-        "yttrium",
-        "corny",
-        "wordplay",
-        "chemistry",
-        "elements"
-      ]
+      "categories": ["science"],
+      "tags": ["cobalt", "radon", "yttrium", "corny", "wordplay", "chemistry", "elements"]
     },
     {
       "id": 1484,
       "setup": "Why couldn't the gardener plant any flowers?",
       "punchline": "He hadn't botany!",
-      "categories": [
-        "science",
-        "outdoors"
-      ],
-      "tags": [
-        "gardener",
-        "plant",
-        "botany",
-        "bought any",
-        "wordplay",
-        "flowers",
-        "garden"
-      ]
+      "categories": ["science", "outdoors"],
+      "tags": ["gardener", "plant", "botany", "bought any", "wordplay", "flowers", "garden"]
     },
     {
       "id": 1485,
-      "setup": "What do you call it when chemists have a temper tantrum?",
-      "punchline": "They've reached their boiling point!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "chemists",
-        "temper",
-        "boiling point",
-        "angry",
-        "wordplay",
-        "chemistry",
-        "temperature"
-      ]
+      "setup": "What scientific model is used to explain the origin of vampires?",
+      "punchline": "The Big Fang Theory!",
+      "categories": ["science"],
+      "tags": ["vampires", "big bang", "fangs", "theory", "wordplay", "astronomy", "spooky"]
     },
     {
       "id": 1486,
       "setup": "What do you call a molecule that won't stop talking?",
       "punchline": "A mono-logue!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "molecule",
-        "talking",
-        "monologue",
-        "mono",
-        "wordplay",
-        "chemistry",
-        "chatty"
-      ]
+      "categories": ["science"],
+      "tags": ["molecule", "talking", "monologue", "mono", "wordplay", "chemistry", "chatty"]
     },
     {
       "id": 1487,
-      "setup": "Why did the physics teacher break up with the biology teacher?",
-      "punchline": "There was no chemistry!",
-      "categories": [
-        "science",
-        "school"
-      ],
-      "tags": [
-        "physics",
-        "biology",
-        "chemistry",
-        "breakup",
-        "wordplay",
-        "teachers",
-        "relationship"
-      ]
+      "setup": "What does a subatomic duck say?",
+      "punchline": "Quark!",
+      "categories": ["science", "animals"],
+      "tags": ["duck", "subatomic", "quark", "quack", "wordplay", "physics", "particles"]
     },
     {
       "id": 1488,
-      "setup": "What did the nebula say to the galaxy?",
-      "punchline": "I'm just trying to find my space in this universe!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "nebula",
-        "galaxy",
-        "space",
-        "universe",
-        "wordplay",
-        "astronomy",
-        "belonging"
-      ]
+      "setup": "What do you get when you cross a fundamental particle with a boat full of animals?",
+      "punchline": "Noah's quark!",
+      "categories": ["science"],
+      "tags": ["particle", "noah", "ark", "quark", "wordplay", "physics", "bible"]
     },
     {
       "id": 1489,
-      "setup": "Why did the carbon atom go on a date with the oxygen atom?",
-      "punchline": "Because they had great chemistry... CO2-gether!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "carbon",
-        "oxygen",
-        "date",
-        "chemistry",
-        "co2",
-        "wordplay",
-        "bonding"
-      ]
+      "setup": "What do you call a sermon and prayer service for physicists?",
+      "punchline": "An atomic mass!",
+      "categories": ["science"],
+      "tags": ["sermon", "physicists", "atomic", "mass", "wordplay", "physics", "religion"]
     },
     {
       "id": 1490,
       "setup": "How do trees access the internet?",
       "punchline": "They log in!",
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "tags": [
-        "trees",
-        "internet",
-        "log in",
-        "wood",
-        "wordplay",
-        "nature",
-        "computers"
-      ]
+      "categories": ["science", "technology"],
+      "tags": ["trees", "internet", "log in", "wood", "wordplay", "nature", "computers"]
     },
     {
       "id": 1491,
-      "setup": "Why did the telescope feel far-sighted?",
-      "punchline": "Because it could only focus on distant objects!",
-      "categories": [
-        "science",
-        "technology"
-      ],
-      "tags": [
-        "telescope",
-        "far-sighted",
-        "focus",
-        "distant",
-        "wordplay",
-        "astronomy",
-        "vision"
-      ]
+      "setup": "If you're thinking about telescopes as a hobby, what should you do?",
+      "punchline": "You should look into it!",
+      "categories": ["science"],
+      "tags": ["telescopes", "hobby", "look into", "astronomy", "wordplay", "space", "advice"]
     },
     {
       "id": 1492,
       "setup": "What did the hydrogen say when it bonded with oxygen?",
       "punchline": "Water we doing tonight?",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "hydrogen",
-        "oxygen",
-        "water",
-        "bonding",
-        "wordplay",
-        "chemistry",
-        "h2o"
-      ]
+      "categories": ["science"],
+      "tags": ["hydrogen", "oxygen", "water", "bonding", "wordplay", "chemistry", "h2o"]
     },
     {
       "id": 1493,
       "setup": "Why did the scuba diver fail biology?",
       "punchline": "Because he was below C level!",
-      "categories": [
-        "science",
-        "school"
-      ],
-      "tags": [
-        "scuba diver",
-        "biology",
-        "sea level",
-        "grades",
-        "wordplay",
-        "ocean",
-        "failing"
-      ]
+      "categories": ["science", "school"],
+      "tags": ["scuba diver", "biology", "sea level", "grades", "wordplay", "ocean", "failing"]
     },
     {
       "id": 1494,
       "setup": "What do you call a dinosaur that studies rocks?",
       "punchline": "A paleonto-geologist!",
-      "categories": [
-        "science",
-        "animals"
-      ],
-      "tags": [
-        "dinosaur",
-        "rocks",
-        "paleontology",
-        "geology",
-        "wordplay",
-        "fossils",
-        "studying"
-      ]
+      "categories": ["science", "animals"],
+      "tags": ["dinosaur", "rocks", "paleontology", "geology", "wordplay", "fossils", "studying"]
     },
     {
       "id": 1495,
       "setup": "Why is electricity an ideal citizen?",
       "punchline": "Because it conducts itself so well!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "electricity",
-        "citizen",
-        "conducts",
-        "behavior",
-        "wordplay",
-        "physics",
-        "current"
-      ]
+      "categories": ["science"],
+      "tags": ["electricity", "citizen", "conducts", "behavior", "wordplay", "physics", "current"]
     },
     {
       "id": 1496,
-      "setup": "What did the electron microscope say to the specimen?",
-      "punchline": "I see right through you... at a molecular level!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "electron microscope",
-        "specimen",
-        "see through",
-        "molecular",
-        "wordplay",
-        "biology",
-        "magnification"
-      ]
+      "setup": "What happens when electrons lose their energy?",
+      "punchline": "They get Bohr'ed!",
+      "categories": ["science"],
+      "tags": ["electrons", "energy", "bored", "bohr", "wordplay", "physics", "atomic"]
     },
     {
       "id": 1497,
       "setup": "What happened to the man who was cooled to absolute zero?",
       "punchline": "He was 0K!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "man",
-        "absolute zero",
-        "ok",
-        "kelvin",
-        "wordplay",
-        "physics",
-        "temperature"
-      ]
+      "categories": ["science"],
+      "tags": ["man", "absolute zero", "ok", "kelvin", "wordplay", "physics", "temperature"]
     },
     {
       "id": 1498,
       "setup": "What do you call an exciting lecture about electricity?",
       "punchline": "A current event!",
-      "categories": [
-        "science",
-        "school"
-      ],
-      "tags": [
-        "lecture",
-        "electricity",
-        "current event",
-        "exciting",
-        "wordplay",
-        "physics",
-        "news"
-      ]
+      "categories": ["science", "school"],
+      "tags": ["lecture", "electricity", "current event", "exciting", "wordplay", "physics", "news"]
     },
     {
       "id": 1499,
-      "setup": "Why did the biologist find the gene for shyness so late?",
-      "punchline": "It was hiding behind two other genes!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "biologist",
-        "gene",
-        "shyness",
-        "hiding",
-        "wordplay",
-        "biology",
-        "genetics"
-      ]
+      "setup": "Why was the equal sign so humble?",
+      "punchline": "Because it knew it wasn't greater than or less than anyone else!",
+      "categories": ["science", "math"],
+      "tags": ["equal sign", "humble", "math", "greater than", "wordplay", "symbols", "equality"]
     },
     {
       "id": 1500,
-      "setup": "What did the scientist say after a successful experiment?",
-      "punchline": "Eureka! This calls for a reaction!",
-      "categories": [
-        "science"
-      ],
-      "tags": [
-        "scientist",
-        "experiment",
-        "eureka",
-        "reaction",
-        "wordplay",
-        "discovery",
-        "celebration"
-      ]
+      "setup": "Which books are the hardest to force yourself to read through?",
+      "punchline": "Friction books!",
+      "categories": ["science"],
+      "tags": ["books", "reading", "friction", "physics", "wordplay", "force", "difficult"]
     },
     {
       "id": 1501,
