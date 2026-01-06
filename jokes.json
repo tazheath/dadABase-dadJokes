@@ -26214,1751 +26214,701 @@
       "id": 1501,
       "setup": "Why was the stadium so cool?",
       "punchline": "It was full of fans!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "stadium",
-        "cool",
-        "fans",
-        "crowd",
-        "wordplay",
-        "sports",
-        "air"
-      ]
+      "categories": ["sports"],
+      "tags": ["stadium", "cool", "fans", "crowd", "wordplay", "sports", "air"]
     },
     {
       "id": 1502,
       "setup": "Why don't basketball players ever go on vacation?",
       "punchline": "Because they're afraid of traveling!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "basketball",
-        "vacation",
-        "traveling",
-        "violation",
-        "wordplay",
-        "players",
-        "rules"
-      ]
+      "categories": ["sports"],
+      "tags": ["basketball", "vacation", "traveling", "violation", "wordplay", "players", "rules"]
     },
     {
       "id": 1503,
       "setup": "What do you call a pig that plays basketball?",
       "punchline": "A ball hog!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "pig",
-        "basketball",
-        "ball hog",
-        "selfish",
-        "wordplay",
-        "team",
-        "playing"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["pig", "basketball", "ball hog", "selfish", "wordplay", "team", "playing"]
     },
     {
       "id": 1504,
       "setup": "Why do tennis players never get married?",
       "punchline": "Because love means nothing to them!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "tennis",
-        "married",
-        "love",
-        "zero",
-        "wordplay",
-        "score",
-        "single"
-      ]
+      "categories": ["sports"],
+      "tags": ["tennis", "married", "love", "zero", "wordplay", "score", "single"]
     },
     {
       "id": 1505,
       "setup": "What's a boxer's favorite part of a joke?",
       "punchline": "The punchline!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "boxer",
-        "joke",
-        "punchline",
-        "punch",
-        "wordplay",
-        "fighting",
-        "comedy"
-      ]
+      "categories": ["sports"],
+      "tags": ["boxer", "joke", "punchline", "punch", "wordplay", "fighting", "comedy"]
     },
     {
       "id": 1506,
       "setup": "Why did the football coach go to the bank?",
       "punchline": "To get his quarterback!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "football",
-        "coach",
-        "bank",
-        "quarterback",
-        "wordplay",
-        "money",
-        "change"
-      ]
+      "categories": ["sports"],
+      "tags": ["football", "coach", "bank", "quarterback", "wordplay", "money", "change"]
     },
     {
       "id": 1507,
       "setup": "What did the baseball glove say to the ball?",
       "punchline": "Catch you later!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "baseball glove",
-        "ball",
-        "catch",
-        "later",
-        "wordplay",
-        "goodbye",
-        "playing"
-      ]
+      "categories": ["sports"],
+      "tags": ["baseball glove", "ball", "catch", "later", "wordplay", "goodbye", "playing"]
     },
     {
       "id": 1508,
       "setup": "Why did the soccer player bring string to the game?",
       "punchline": "So he could tie the score!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "soccer",
-        "string",
-        "tie",
-        "score",
-        "wordplay",
-        "football",
-        "game"
-      ]
+      "categories": ["sports"],
+      "tags": ["soccer", "string", "tie", "score", "wordplay", "football", "game"]
     },
     {
       "id": 1509,
       "setup": "What do you call a boomerang that doesn't work?",
       "punchline": "A stick!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "boomerang",
-        "stick",
-        "broken",
-        "throwing",
-        "wordplay",
-        "return",
-        "toy"
-      ]
+      "categories": ["sports"],
+      "tags": ["boomerang", "stick", "broken", "throwing", "wordplay", "return", "toy"]
     },
     {
       "id": 1510,
-      "setup": "Why did the bowling pins get scared?",
-      "punchline": "Because they saw the ball coming to strike!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "bowling pins",
-        "scared",
-        "ball",
-        "strike",
-        "wordplay",
-        "bowling",
-        "fear"
-      ]
+      "setup": "What did the bowling pins do?",
+      "punchline": "They went on strike!",
+      "categories": ["sports"],
+      "tags": ["bowling", "pins", "strike", "protest", "wordplay", "labor", "game"]
     },
     {
       "id": 1511,
       "setup": "What's a sprinter's favorite food?",
       "punchline": "Fast food!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "sprinter",
-        "food",
-        "fast food",
-        "running",
-        "wordplay",
-        "track",
-        "speed"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["sprinter", "food", "fast food", "running", "wordplay", "track", "speed"]
     },
     {
       "id": 1512,
       "setup": "Why did the hockey player go to jail?",
       "punchline": "Because he was caught boarding!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "hockey",
-        "jail",
-        "boarding",
-        "penalty",
-        "wordplay",
-        "ice",
-        "crime"
-      ]
+      "categories": ["sports"],
+      "tags": ["hockey", "jail", "boarding", "penalty", "wordplay", "ice", "crime"]
     },
     {
       "id": 1513,
       "setup": "What do you call a soccer player who can't stop scoring?",
       "punchline": "A goal digger!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "soccer",
-        "scoring",
-        "goal digger",
-        "gold digger",
-        "wordplay",
-        "football",
-        "success"
-      ]
+      "categories": ["sports"],
+      "tags": ["soccer", "scoring", "goal digger", "gold digger", "wordplay", "football", "success"]
     },
     {
       "id": 1514,
       "setup": "Why do basketball players love donuts?",
       "punchline": "Because they can dunk them!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "basketball",
-        "donuts",
-        "dunk",
-        "eating",
-        "wordplay",
-        "playing",
-        "breakfast"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["basketball", "donuts", "dunk", "eating", "wordplay", "playing", "breakfast"]
     },
     {
       "id": 1515,
       "setup": "What did the football say to the punter?",
       "punchline": "I get a kick out of you!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "football",
-        "punter",
-        "kick",
-        "enjoyment",
-        "wordplay",
-        "kicking",
-        "compliment"
-      ]
+      "categories": ["sports"],
+      "tags": ["football", "punter", "kick", "enjoyment", "wordplay", "kicking", "compliment"]
     },
     {
       "id": 1516,
       "setup": "Why did the golfer wear two pairs of pants?",
       "punchline": "In case he got a hole in one!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "golfer",
-        "pants",
-        "hole in one",
-        "golf",
-        "wordplay",
-        "clothing",
-        "prepared"
-      ]
+      "categories": ["sports"],
+      "tags": ["golfer", "pants", "hole in one", "golf", "wordplay", "clothing", "prepared"]
     },
     {
       "id": 1517,
       "setup": "What's a cheerleader's favorite drink?",
       "punchline": "Root beer!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "cheerleader",
-        "drink",
-        "root beer",
-        "rooting",
-        "wordplay",
-        "cheering",
-        "soda"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["cheerleader", "drink", "root beer", "rooting", "wordplay", "cheering", "soda"]
     },
     {
       "id": 1518,
-      "setup": "How do baseball players stay cool?",
-      "punchline": "They sit next to the fans!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "baseball",
-        "cool",
-        "fans",
-        "crowd",
-        "wordplay",
-        "players",
-        "air"
-      ]
+      "setup": "Why can't hockey players tell jokes?",
+      "punchline": "The punchlines always get iced!",
+      "categories": ["sports"],
+      "tags": ["hockey", "jokes", "iced", "punchline", "wordplay", "ice", "penalty"]
     },
     {
       "id": 1519,
       "setup": "What do you call a fish that does weightlifting?",
       "punchline": "Mussel-bound!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "fish",
-        "weightlifting",
-        "mussel",
-        "muscle",
-        "wordplay",
-        "strong",
-        "gym"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["fish", "weightlifting", "mussel", "muscle", "wordplay", "strong", "gym"]
     },
     {
       "id": 1520,
       "setup": "Why did the volleyball player join the navy?",
       "punchline": "Because she wanted to serve!",
-      "categories": [
-        "sports",
-        "work"
-      ],
-      "tags": [
-        "volleyball",
-        "navy",
-        "serve",
-        "military",
-        "wordplay",
-        "playing",
-        "service"
-      ]
+      "categories": ["sports", "work"],
+      "tags": ["volleyball", "navy", "serve", "military", "wordplay", "playing", "service"]
     },
     {
       "id": 1521,
       "setup": "What did the yoga instructor say when asked to leave?",
       "punchline": "Nama-stay right here!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "yoga",
-        "instructor",
-        "namaste",
-        "stay",
-        "wordplay",
-        "meditation",
-        "leaving"
-      ]
+      "categories": ["sports"],
+      "tags": ["yoga", "instructor", "namaste", "stay", "wordplay", "meditation", "leaving"]
     },
     {
       "id": 1522,
       "setup": "Why did the baseball team hire a cook?",
       "punchline": "Because they needed a better batter!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "baseball",
-        "cook",
-        "batter",
-        "hitting",
-        "wordplay",
-        "team",
-        "cooking"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["baseball", "cook", "batter", "hitting", "wordplay", "team", "cooking"]
     },
     {
       "id": 1523,
       "setup": "What kind of tea do soccer players drink?",
       "punchline": "Penal-tea!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "soccer",
-        "tea",
-        "penalty",
-        "drink",
-        "wordplay",
-        "football",
-        "fouls"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["soccer", "tea", "penalty", "drink", "wordplay", "football", "fouls"]
     },
     {
       "id": 1524,
-      "setup": "Why did the archer break up with the target?",
-      "punchline": "Because their relationship was hit or miss!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "archer",
-        "target",
-        "breakup",
-        "hit or miss",
-        "wordplay",
-        "archery",
-        "relationship"
-      ]
+      "setup": "Why couldn't the all-star football player listen to any music?",
+      "punchline": "He broke all the records!",
+      "categories": ["sports", "music"],
+      "tags": ["football", "music", "records", "player", "wordplay", "breaking", "achievement"]
     },
     {
       "id": 1525,
       "setup": "Why is tennis such a loud sport?",
       "punchline": "Because the players raise a racket!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "tennis",
-        "loud",
-        "racket",
-        "noise",
-        "wordplay",
-        "playing",
-        "equipment"
-      ]
+      "categories": ["sports"],
+      "tags": ["tennis", "loud", "racket", "noise", "wordplay", "playing", "equipment"]
     },
     {
       "id": 1526,
-      "setup": "Why did the diver always tell jokes?",
-      "punchline": "Because she liked making a splash!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "diver",
-        "jokes",
-        "splash",
-        "diving",
-        "wordplay",
-        "pool",
-        "impact"
-      ]
+      "setup": "If basketball players get athlete's foot, then what do astronauts get?",
+      "punchline": "Missile toes!",
+      "categories": ["sports", "science"],
+      "tags": ["basketball", "astronauts", "mistletoe", "missile", "wordplay", "space", "feet"]
     },
     {
       "id": 1527,
       "setup": "What's a basketball player's favorite type of cheese?",
       "punchline": "Swish cheese!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "basketball",
-        "cheese",
-        "swish",
-        "swiss",
-        "wordplay",
-        "shooting",
-        "food"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["basketball", "cheese", "swish", "swiss", "wordplay", "shooting", "food"]
     },
     {
       "id": 1528,
       "setup": "Why did the marathon runner go to the doctor?",
       "punchline": "Because he had a running nose!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "marathon",
-        "runner",
-        "doctor",
-        "running nose",
-        "wordplay",
-        "sick",
-        "jogging"
-      ]
+      "categories": ["sports"],
+      "tags": ["marathon", "runner", "doctor", "running nose", "wordplay", "sick", "jogging"]
     },
     {
       "id": 1529,
       "setup": "What animal is best at hitting a baseball?",
       "punchline": "A bat!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "animal",
-        "baseball",
-        "bat",
-        "hitting",
-        "wordplay",
-        "playing",
-        "mammal"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["animal", "baseball", "bat", "hitting", "wordplay", "playing", "mammal"]
     },
     {
       "id": 1530,
       "setup": "At what sport do waiters do really well?",
       "punchline": "Tennis, because they're great at serving!",
-      "categories": [
-        "sports",
-        "work"
-      ],
-      "tags": [
-        "waiters",
-        "tennis",
-        "serving",
-        "restaurant",
-        "wordplay",
-        "sports",
-        "work"
-      ]
+      "categories": ["sports", "work"],
+      "tags": ["waiters", "tennis", "serving", "restaurant", "wordplay", "sports", "work"]
     },
     {
       "id": 1531,
       "setup": "What's a referee's favorite dessert?",
       "punchline": "Yellow cake with red velvet frosting!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "referee",
-        "dessert",
-        "yellow card",
-        "red card",
-        "wordplay",
-        "officiating",
-        "cake"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["referee", "dessert", "yellow card", "red card", "wordplay", "officiating", "cake"]
     },
     {
       "id": 1532,
       "setup": "Why did the pole vaulter go to the party?",
       "punchline": "To raise the bar!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "pole vaulter",
-        "party",
-        "raise the bar",
-        "jumping",
-        "wordplay",
-        "track field",
-        "standards"
-      ]
+      "categories": ["sports"],
+      "tags": ["pole vaulter", "party", "raise the bar", "jumping", "wordplay", "track field", "standards"]
     },
     {
       "id": 1533,
-      "setup": "Why did the golfer change his clothes?",
-      "punchline": "Because he got a hole in one!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "golfer",
-        "clothes",
-        "hole in one",
-        "golf",
-        "wordplay",
-        "changing",
-        "score"
-      ]
+      "setup": "What kinds of stories do basketball players tell?",
+      "punchline": "Tall tales!",
+      "categories": ["sports"],
+      "tags": ["basketball", "stories", "tall tales", "height", "wordplay", "players", "narrative"]
     },
     {
       "id": 1534,
-      "setup": "Why did the catcher sit in the corner?",
-      "punchline": "Because he was behind the plate!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "catcher",
-        "corner",
-        "plate",
-        "baseball",
-        "wordplay",
-        "position",
-        "home"
-      ]
+      "setup": "Why are some umpires overweight?",
+      "punchline": "Because they always clean their plates!",
+      "categories": ["sports"],
+      "tags": ["umpire", "overweight", "plate", "baseball", "wordplay", "home", "clean"]
     },
     {
       "id": 1535,
       "setup": "What insect is bad at football?",
       "punchline": "A fumble-bee!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "insect",
-        "football",
-        "fumble",
-        "bee",
-        "wordplay",
-        "mistakes",
-        "playing"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["insect", "football", "fumble", "bee", "wordplay", "mistakes", "playing"]
     },
     {
       "id": 1536,
       "setup": "What do you call a girl standing in the middle of a tennis court?",
       "punchline": "Annette!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "girl",
-        "tennis court",
-        "net",
-        "name",
-        "wordplay",
-        "standing",
-        "center"
-      ]
+      "categories": ["sports"],
+      "tags": ["girl", "tennis court", "net", "name", "wordplay", "standing", "center"]
     },
     {
       "id": 1537,
       "setup": "What do you call a rabbit that runs track?",
       "punchline": "A track hare!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "rabbit",
-        "track",
-        "hare",
-        "running",
-        "wordplay",
-        "bunny",
-        "athlete"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["rabbit", "track", "hare", "running", "wordplay", "bunny", "athlete"]
     },
     {
       "id": 1538,
       "setup": "Why did the soccer goalie go to school?",
       "punchline": "To learn how to save!",
-      "categories": [
-        "sports",
-        "school"
-      ],
-      "tags": [
-        "soccer",
-        "goalie",
-        "school",
-        "save",
-        "wordplay",
-        "learning",
-        "goalkeeper"
-      ]
+      "categories": ["sports", "school"],
+      "tags": ["soccer", "goalie", "school", "save", "wordplay", "learning", "goalkeeper"]
     },
     {
       "id": 1539,
       "setup": "What's a swimmer's favorite game?",
       "punchline": "Pool!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "swimmer",
-        "game",
-        "pool",
-        "swimming",
-        "wordplay",
-        "billiards",
-        "water"
-      ]
+      "categories": ["sports"],
+      "tags": ["swimmer", "game", "pool", "swimming", "wordplay", "billiards", "water"]
     },
     {
       "id": 1540,
       "setup": "Why did the baseball player get arrested?",
       "punchline": "Because he stole second base!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "baseball",
-        "arrested",
-        "stole",
-        "second base",
-        "wordplay",
-        "crime",
-        "running"
-      ]
+      "categories": ["sports"],
+      "tags": ["baseball", "arrested", "stole", "second base", "wordplay", "crime", "running"]
     },
     {
       "id": 1541,
-      "setup": "What did the skier say when she fell down?",
-      "punchline": "This is going downhill fast!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "skier",
-        "fell",
-        "downhill",
-        "skiing",
-        "wordplay",
-        "snow",
-        "failing"
-      ]
+      "setup": "Why was the tiny ghost asked to join the football team?",
+      "punchline": "They needed a little team spirit!",
+      "categories": ["sports", "fantasy"],
+      "tags": ["ghost", "football", "team spirit", "spooky", "wordplay", "motivation", "tiny"]
     },
     {
       "id": 1542,
       "setup": "Why couldn't Cinderella play soccer?",
       "punchline": "Because she kept running away from the ball!",
-      "categories": [
-        "sports",
-        "fantasy"
-      ],
-      "tags": [
-        "cinderella",
-        "soccer",
-        "ball",
-        "running",
-        "wordplay",
-        "fairy tale",
-        "dance"
-      ]
+      "categories": ["sports", "fantasy"],
+      "tags": ["cinderella", "soccer", "ball", "running", "wordplay", "fairy tale", "dance"]
     },
     {
       "id": 1543,
       "setup": "What's a wrestler's favorite breakfast?",
       "punchline": "Headlocks and bagels!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "wrestler",
-        "breakfast",
-        "headlock",
-        "lox",
-        "wordplay",
-        "wrestling",
-        "bagels"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["wrestler", "breakfast", "headlock", "lox", "wordplay", "wrestling", "bagels"]
     },
     {
       "id": 1544,
-      "setup": "Why did the soccer ball get promoted?",
-      "punchline": "Because it was always on the ball!",
-      "categories": [
-        "sports",
-        "work"
-      ],
-      "tags": [
-        "soccer ball",
-        "promoted",
-        "on the ball",
-        "success",
-        "wordplay",
-        "football",
-        "career"
-      ]
+      "setup": "What do you call a player that constantly misses slam dunks?",
+      "punchline": "Alley Whoops!",
+      "categories": ["sports"],
+      "tags": ["basketball", "slam dunk", "alley oop", "whoops", "wordplay", "missing", "mistake"]
     },
     {
       "id": 1545,
       "setup": "Where do hockey players get all their money?",
       "punchline": "From the tooth fairy!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "hockey",
-        "money",
-        "tooth fairy",
-        "teeth",
-        "wordplay",
-        "ice",
-        "injuries"
-      ]
+      "categories": ["sports"],
+      "tags": ["hockey", "money", "tooth fairy", "teeth", "wordplay", "ice", "injuries"]
     },
     {
       "id": 1546,
-      "setup": "What runs around a baseball field but never moves?",
-      "punchline": "A fence!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "baseball field",
-        "runs",
-        "fence",
-        "riddle",
-        "wordplay",
-        "stadium",
-        "boundary"
-      ]
+      "setup": "Why did the basketball player go to jail?",
+      "punchline": "Because he shot the ball!",
+      "categories": ["sports"],
+      "tags": ["basketball", "jail", "shot", "crime", "wordplay", "shooting", "player"]
     },
     {
       "id": 1547,
       "setup": "Why was the basketball court always wet?",
       "punchline": "Because the players were dribbling!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "basketball court",
-        "wet",
-        "dribbling",
-        "players",
-        "wordplay",
-        "ball",
-        "water"
-      ]
+      "categories": ["sports"],
+      "tags": ["basketball court", "wet", "dribbling", "players", "wordplay", "ball", "water"]
     },
     {
       "id": 1548,
-      "setup": "What did the coach say to the broken vending machine?",
-      "punchline": "Give me my quarterback!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "coach",
-        "vending machine",
-        "quarterback",
-        "change",
-        "wordplay",
-        "football",
-        "money"
-      ]
+      "setup": "Which fast-food chain is most likely to win a basketball tournament?",
+      "punchline": "Dunkin' Donuts!",
+      "categories": ["sports", "food"],
+      "tags": ["basketball", "fast food", "dunkin donuts", "tournament", "wordplay", "dunking", "brand"]
     },
     {
       "id": 1549,
       "setup": "What do you call a cat that plays baseball?",
       "punchline": "A cat-cher!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "cat",
-        "baseball",
-        "catcher",
-        "playing",
-        "wordplay",
-        "pets",
-        "position"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["cat", "baseball", "catcher", "playing", "wordplay", "pets", "position"]
     },
     {
       "id": 1550,
-      "setup": "How is a baseball team similar to a pancake?",
-      "punchline": "They both need a good batter!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "baseball",
-        "pancake",
-        "batter",
-        "hitting",
-        "wordplay",
-        "cooking",
-        "team"
-      ]
+      "setup": "What do you call a pig that does karate?",
+      "punchline": "A pork chop!",
+      "categories": ["sports", "animals"],
+      "tags": ["pig", "karate", "pork chop", "martial arts", "wordplay", "meat", "fighting"]
     },
     {
       "id": 1551,
       "setup": "What's a golfer's favorite dance?",
       "punchline": "The swing!",
-      "categories": [
-        "sports",
-        "music"
-      ],
-      "tags": [
-        "golfer",
-        "dance",
-        "swing",
-        "golf",
-        "wordplay",
-        "music",
-        "movement"
-      ]
+      "categories": ["sports", "music"],
+      "tags": ["golfer", "dance", "swing", "golf", "wordplay", "music", "movement"]
     },
     {
       "id": 1552,
       "setup": "Why did the basketball player bring a suitcase to the game?",
       "punchline": "Because he traveled a lot!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "basketball",
-        "suitcase",
-        "traveling",
-        "violation",
-        "wordplay",
-        "rules",
-        "luggage"
-      ]
+      "categories": ["sports"],
+      "tags": ["basketball", "suitcase", "traveling", "violation", "wordplay", "rules", "luggage"]
     },
     {
       "id": 1553,
       "setup": "What did the tennis racket say to the tennis ball?",
       "punchline": "You're a hit with me!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "tennis racket",
-        "tennis ball",
-        "hit",
-        "compliment",
-        "wordplay",
-        "playing",
-        "love"
-      ]
+      "categories": ["sports"],
+      "tags": ["tennis racket", "tennis ball", "hit", "compliment", "wordplay", "playing", "love"]
     },
     {
       "id": 1554,
       "setup": "How do football players deal with their problems?",
       "punchline": "They tackle them head on!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "football",
-        "problems",
-        "tackle",
-        "head on",
-        "wordplay",
-        "solving",
-        "playing"
-      ]
+      "categories": ["sports"],
+      "tags": ["football", "problems", "tackle", "head on", "wordplay", "solving", "playing"]
     },
     {
       "id": 1555,
       "setup": "When should baseball players wear armor?",
       "punchline": "When they're playing knight games!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "baseball",
-        "armor",
-        "knight games",
-        "night games",
-        "wordplay",
-        "medieval",
-        "playing"
-      ]
+      "categories": ["sports"],
+      "tags": ["baseball", "armor", "knight games", "night games", "wordplay", "medieval", "playing"]
     },
     {
       "id": 1556,
       "setup": "Why did the bicycle stand on its own?",
       "punchline": "Because it was two-tired!",
-      "categories": [
-        "sports",
-        "travel"
-      ],
-      "tags": [
-        "bicycle",
-        "stand",
-        "two tired",
-        "wheels",
-        "wordplay",
-        "cycling",
-        "exhausted"
-      ]
+      "categories": ["sports", "travel"],
+      "tags": ["bicycle", "stand", "two tired", "wheels", "wordplay", "cycling", "exhausted"]
     },
     {
       "id": 1557,
       "setup": "What do you call a dinosaur that plays soccer?",
       "punchline": "A score-a-saurus rex!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "dinosaur",
-        "soccer",
-        "score",
-        "rex",
-        "wordplay",
-        "prehistoric",
-        "goals"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["dinosaur", "soccer", "score", "rex", "wordplay", "prehistoric", "goals"]
     },
     {
       "id": 1558,
       "setup": "Why are bowling alleys so quiet?",
       "punchline": "Because you can hear a pin drop!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "bowling alleys",
-        "quiet",
-        "pin drop",
-        "silence",
-        "wordplay",
-        "bowling",
-        "expression"
-      ]
+      "categories": ["sports"],
+      "tags": ["bowling alleys", "quiet", "pin drop", "silence", "wordplay", "bowling", "expression"]
     },
     {
       "id": 1559,
       "setup": "What's a frog's favorite sport?",
       "punchline": "Croak-et!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "frog",
-        "sport",
-        "cricket",
-        "croak",
-        "wordplay",
-        "amphibian",
-        "playing"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["frog", "sport", "cricket", "croak", "wordplay", "amphibian", "playing"]
     },
     {
       "id": 1560,
-      "setup": "Why did the tennis player never get frustrated?",
-      "punchline": "Because love means nothing to them!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "tennis",
-        "frustrated",
-        "love",
-        "nothing",
-        "wordplay",
-        "score",
-        "calm"
-      ]
+      "setup": "Why did the basketball player sit on the sidelines drawing chickens?",
+      "punchline": "The coach told her to learn how to draw fouls!",
+      "categories": ["sports"],
+      "tags": ["basketball", "drawing", "fouls", "fowl", "wordplay", "coach", "practice"]
     },
     {
       "id": 1561,
       "setup": "Why didn't the dog want to play football?",
       "punchline": "Because it was a boxer!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "dog",
-        "football",
-        "boxer",
-        "breed",
-        "wordplay",
-        "pets",
-        "fighting"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["dog", "football", "boxer", "breed", "wordplay", "pets", "fighting"]
     },
     {
       "id": 1562,
-      "setup": "What football player wears the biggest helmet?",
-      "punchline": "The one with the biggest head!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "football",
-        "helmet",
-        "biggest",
-        "head",
-        "wordplay",
-        "equipment",
-        "riddle"
-      ]
+      "setup": "Why did the fish refuse to play basketball?",
+      "punchline": "He was afraid of the net!",
+      "categories": ["sports", "animals"],
+      "tags": ["fish", "basketball", "net", "afraid", "wordplay", "ocean", "hoop"]
     },
     {
       "id": 1563,
       "setup": "What's an insect's favorite sport?",
       "punchline": "Cricket!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "insect",
-        "sport",
-        "cricket",
-        "bug",
-        "wordplay",
-        "playing",
-        "game"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["insect", "sport", "cricket", "bug", "wordplay", "playing", "game"]
     },
     {
       "id": 1564,
-      "setup": "Why did the long jumper get stuck?",
-      "punchline": "Because he couldn't get over himself!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "long jumper",
-        "stuck",
-        "get over",
-        "jumping",
-        "wordplay",
-        "track field",
-        "ego"
-      ]
+      "setup": "What do prison guards and basketball guards have in common?",
+      "punchline": "They both watch out for sharp shooters!",
+      "categories": ["sports"],
+      "tags": ["prison", "basketball", "guards", "shooters", "wordplay", "defense", "safety"]
     },
     {
       "id": 1565,
       "setup": "Why are hockey players so good at making friends?",
       "punchline": "They're quick at breaking the ice!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "hockey",
-        "friends",
-        "breaking ice",
-        "social",
-        "wordplay",
-        "ice",
-        "conversation"
-      ]
+      "categories": ["sports"],
+      "tags": ["hockey", "friends", "breaking ice", "social", "wordplay", "ice", "conversation"]
     },
     {
       "id": 1566,
-      "setup": "Why do golfers bring extra tees?",
-      "punchline": "In case they get a hole in one!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "golfers",
-        "tees",
-        "hole in one",
-        "golf",
-        "wordplay",
-        "equipment",
-        "prepared"
-      ]
+      "setup": "How many golfers does it take to change a light bulb?",
+      "punchline": "FORE!",
+      "categories": ["sports"],
+      "tags": ["golfer", "light bulb", "four", "fore", "wordplay", "golf", "yelling"]
     },
     {
       "id": 1567,
       "setup": "What's a ghost's favorite position in soccer?",
       "punchline": "Ghoul-keeper!",
-      "categories": [
-        "sports",
-        "fantasy"
-      ],
-      "tags": [
-        "ghost",
-        "soccer",
-        "goalkeeper",
-        "ghoul",
-        "wordplay",
-        "spooky",
-        "position"
-      ]
+      "categories": ["sports", "fantasy"],
+      "tags": ["ghost", "soccer", "goalkeeper", "ghoul", "wordplay", "spooky", "position"]
     },
     {
       "id": 1568,
       "setup": "Why did the baseball player make a good musician?",
       "punchline": "Because he had perfect pitch!",
-      "categories": [
-        "sports",
-        "music"
-      ],
-      "tags": [
-        "baseball",
-        "musician",
-        "pitch",
-        "throwing",
-        "wordplay",
-        "singing",
-        "talent"
-      ]
+      "categories": ["sports", "music"],
+      "tags": ["baseball", "musician", "pitch", "throwing", "wordplay", "singing", "talent"]
     },
     {
       "id": 1569,
       "setup": "What do you call a monkey that wins the Super Bowl?",
       "punchline": "A chimp-ion!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "monkey",
-        "super bowl",
-        "champion",
-        "chimp",
-        "wordplay",
-        "football",
-        "winner"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["monkey", "super bowl", "champion", "chimp", "wordplay", "football", "winner"]
     },
     {
       "id": 1570,
-      "setup": "Why did the track star bring a key?",
-      "punchline": "To unlock her potential!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "track star",
-        "key",
-        "unlock",
-        "potential",
-        "wordplay",
-        "running",
-        "success"
-      ]
+      "setup": "What's a cheerleader's favorite color?",
+      "punchline": "Yeller!",
+      "categories": ["sports"],
+      "tags": ["cheerleader", "color", "yellow", "yeller", "wordplay", "yelling", "cheering"]
     },
     {
       "id": 1571,
-      "setup": "What's a lightning bolt's favorite sport?",
-      "punchline": "Track... because it's always striking!",
-      "categories": [
-        "sports",
-        "science"
-      ],
-      "tags": [
-        "lightning",
-        "sport",
-        "track",
-        "striking",
-        "wordplay",
-        "weather",
-        "fast"
-      ]
+      "setup": "Why did the boy climb up the tree with a hockey stick?",
+      "punchline": "Cause he wanted to join the Maple Leafs!",
+      "categories": ["sports"],
+      "tags": ["hockey", "tree", "maple leafs", "climbing", "wordplay", "team", "leaves"]
     },
     {
       "id": 1572,
       "setup": "Why do basketball players get messy when they eat?",
       "punchline": "Because they're always dribbling!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "basketball",
-        "messy",
-        "eating",
-        "dribbling",
-        "wordplay",
-        "players",
-        "food"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["basketball", "messy", "eating", "dribbling", "wordplay", "players", "food"]
     },
     {
       "id": 1573,
-      "setup": "What did the receiver say to the football?",
-      "punchline": "Catch you later!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "receiver",
-        "football",
-        "catch",
-        "later",
-        "wordplay",
-        "goodbye",
-        "playing"
-      ]
+      "setup": "Why was Cinderella kicked off the basketball team?",
+      "punchline": "She ran away from the ball!",
+      "categories": ["sports", "fantasy"],
+      "tags": ["cinderella", "basketball", "ball", "fairy tale", "wordplay", "dance", "running"]
     },
     {
       "id": 1574,
-      "setup": "Why did the soccer player bring yarn to the game?",
-      "punchline": "To tie the score!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "soccer",
-        "yarn",
-        "tie",
-        "score",
-        "wordplay",
-        "football",
-        "knitting"
-      ]
+      "setup": "Why are basketball players messy eaters?",
+      "punchline": "Because they're always dribbling!",
+      "categories": ["sports", "food"],
+      "tags": ["basketball", "messy", "eating", "dribbling", "wordplay", "food", "players"]
     },
     {
       "id": 1575,
       "setup": "What's a tree's favorite sport?",
       "punchline": "Root-ball!",
-      "categories": [
-        "sports",
-        "outdoors"
-      ],
-      "tags": [
-        "tree",
-        "sport",
-        "football",
-        "root",
-        "wordplay",
-        "nature",
-        "playing"
-      ]
+      "categories": ["sports", "outdoors"],
+      "tags": ["tree", "sport", "football", "root", "wordplay", "nature", "playing"]
     },
     {
       "id": 1576,
-      "setup": "Why did the rowing team always succeed?",
-      "punchline": "Because they were all in the same boat!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "rowing",
-        "team",
-        "succeed",
-        "boat",
-        "wordplay",
-        "together",
-        "water"
-      ]
+      "setup": "Why did the soccer ball quit the team?",
+      "punchline": "He was tired of being kicked around!",
+      "categories": ["sports"],
+      "tags": ["soccer", "ball", "quit", "kicked", "wordplay", "mistreated", "team"]
     },
     {
       "id": 1577,
       "setup": "Why did the chicken get ejected from the basketball game?",
       "punchline": "Because there was too much fowl play!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "chicken",
-        "basketball",
-        "ejected",
-        "foul play",
-        "wordplay",
-        "bird",
-        "violation"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["chicken", "basketball", "ejected", "foul play", "wordplay", "bird", "violation"]
     },
     {
       "id": 1578,
-      "setup": "Why did the dart player go to therapy?",
-      "punchline": "Because he had too many point-less arguments!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "dart player",
-        "therapy",
-        "pointless",
-        "arguments",
-        "wordplay",
-        "darts",
-        "mental health"
-      ]
+      "setup": "How are scrambled eggs and bad football teams the same?",
+      "punchline": "They've both been beaten!",
+      "categories": ["sports", "food"],
+      "tags": ["eggs", "football", "beaten", "losing", "wordplay", "food", "team"]
     },
     {
       "id": 1579,
       "setup": "What's a cheerleader's favorite cereal?",
       "punchline": "Cheerios!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "cheerleader",
-        "cereal",
-        "cheerios",
-        "breakfast",
-        "wordplay",
-        "cheering",
-        "food"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["cheerleader", "cereal", "cheerios", "breakfast", "wordplay", "cheering", "food"]
     },
     {
       "id": 1580,
       "setup": "What do you call a ballerina who quits?",
       "punchline": "Someone who found it tu-tu hard!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "ballerina",
-        "quits",
-        "tutu",
-        "too hard",
-        "wordplay",
-        "ballet",
-        "difficult"
-      ]
+      "categories": ["sports"],
+      "tags": ["ballerina", "quits", "tutu", "too hard", "wordplay", "ballet", "difficult"]
     },
     {
       "id": 1581,
       "setup": "What do you call a chicken at a baseball game?",
       "punchline": "A fowl ball!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "chicken",
-        "baseball",
-        "foul ball",
-        "fowl",
-        "wordplay",
-        "bird",
-        "game"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["chicken", "baseball", "foul ball", "fowl", "wordplay", "bird", "game"]
     },
     {
       "id": 1582,
-      "setup": "Why did the swimmer stay so calm?",
-      "punchline": "Because she just went with the flow!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "swimmer",
-        "calm",
-        "flow",
-        "water",
-        "wordplay",
-        "swimming",
-        "relaxed"
-      ]
+      "setup": "Why shouldn't you tell jokes while ice skating?",
+      "punchline": "Because the ice might crack up!",
+      "categories": ["sports"],
+      "tags": ["ice skating", "jokes", "crack up", "laughing", "wordplay", "ice", "breaking"]
     },
     {
       "id": 1583,
       "setup": "What's a drummer's favorite sport?",
       "punchline": "Beat-boxing!",
-      "categories": [
-        "sports",
-        "music"
-      ],
-      "tags": [
-        "drummer",
-        "sport",
-        "beatboxing",
-        "boxing",
-        "wordplay",
-        "music",
-        "rhythm"
-      ]
+      "categories": ["sports", "music"],
+      "tags": ["drummer", "sport", "beatboxing", "boxing", "wordplay", "music", "rhythm"]
     },
     {
       "id": 1584,
       "setup": "Why did the high jumper fail the test?",
       "punchline": "Because he couldn't get over the bar!",
-      "categories": [
-        "sports",
-        "school"
-      ],
-      "tags": [
-        "high jumper",
-        "test",
-        "bar",
-        "failing",
-        "wordplay",
-        "track field",
-        "standards"
-      ]
+      "categories": ["sports", "school"],
+      "tags": ["high jumper", "test", "bar", "failing", "wordplay", "track field", "standards"]
     },
     {
       "id": 1585,
       "setup": "What do you call a snake that bowls?",
       "punchline": "A boa-ler!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "snake",
-        "bowling",
-        "bowler",
-        "boa",
-        "wordplay",
-        "reptile",
-        "game"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["snake", "bowling", "bowler", "boa", "wordplay", "reptile", "game"]
     },
     {
       "id": 1586,
-      "setup": "Why did the lacrosse player carry a wallet?",
-      "punchline": "To catch some loose change!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "lacrosse",
-        "wallet",
-        "catch",
-        "change",
-        "wordplay",
-        "money",
-        "net"
-      ]
+      "setup": "What do you call a lineman's kid?",
+      "punchline": "A chip off the old blocker!",
+      "categories": ["sports", "family"],
+      "tags": ["football", "lineman", "kid", "chip", "blocker", "wordplay", "family"]
     },
     {
       "id": 1587,
       "setup": "What's a boxer's favorite drink?",
       "punchline": "Punch!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "boxer",
-        "drink",
-        "punch",
-        "beverage",
-        "wordplay",
-        "fighting",
-        "hitting"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["boxer", "drink", "punch", "beverage", "wordplay", "fighting", "hitting"]
     },
     {
       "id": 1588,
       "setup": "What do you call the lettuce that won the race?",
       "punchline": "A head of the pack!",
-      "categories": [
-        "sports",
-        "food"
-      ],
-      "tags": [
-        "lettuce",
-        "race",
-        "head",
-        "winning",
-        "wordplay",
-        "vegetable",
-        "running"
-      ]
+      "categories": ["sports", "food"],
+      "tags": ["lettuce", "race", "head", "winning", "wordplay", "vegetable", "running"]
     },
     {
       "id": 1589,
       "setup": "What do you call a bird that plays soccer?",
       "punchline": "A goal-finch!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "bird",
-        "soccer",
-        "goldfinch",
-        "goal",
-        "wordplay",
-        "football",
-        "scoring"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["bird", "soccer", "goldfinch", "goal", "wordplay", "football", "scoring"]
     },
     {
       "id": 1590,
       "setup": "Why did the ice skater bring a calculator?",
       "punchline": "To figure out her figures!",
-      "categories": [
-        "sports",
-        "math"
-      ],
-      "tags": [
-        "ice skater",
-        "calculator",
-        "figures",
-        "skating",
-        "wordplay",
-        "math",
-        "routine"
-      ]
+      "categories": ["sports", "math"],
+      "tags": ["ice skater", "calculator", "figures", "skating", "wordplay", "math", "routine"]
     },
     {
       "id": 1591,
       "setup": "Where do they keep the largest diamond in New York?",
       "punchline": "Yankee Stadium!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "diamond",
-        "new york",
-        "yankee stadium",
-        "baseball",
-        "wordplay",
-        "field",
-        "gem"
-      ]
+      "categories": ["sports"],
+      "tags": ["diamond", "new york", "yankee stadium", "baseball", "wordplay", "field", "gem"]
     },
     {
       "id": 1592,
-      "setup": "Why did the rock climber never give up?",
-      "punchline": "Because she always had a grip on things!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "rock climber",
-        "give up",
-        "grip",
-        "climbing",
-        "wordplay",
-        "determination",
-        "hands"
-      ]
+      "setup": "Why did the referee get fired from the NBA?",
+      "punchline": "Supposedly he's a whistleblower!",
+      "categories": ["sports"],
+      "tags": ["referee", "nba", "fired", "whistleblower", "wordplay", "basketball", "scandal"]
     },
     {
       "id": 1593,
       "setup": "What do you call a fish that does karate?",
       "punchline": "A kara-tuna!",
-      "categories": [
-        "sports",
-        "animals"
-      ],
-      "tags": [
-        "fish",
-        "karate",
-        "tuna",
-        "martial arts",
-        "wordplay",
-        "ocean",
-        "fighting"
-      ]
+      "categories": ["sports", "animals"],
+      "tags": ["fish", "karate", "tuna", "martial arts", "wordplay", "ocean", "fighting"]
     },
     {
       "id": 1594,
-      "setup": "Why did the treadmill file for bankruptcy?",
-      "punchline": "Because it was running out of money!",
-      "categories": [
-        "sports",
-        "work"
-      ],
-      "tags": [
-        "treadmill",
-        "bankruptcy",
-        "running",
-        "money",
-        "wordplay",
-        "gym",
-        "exercise"
-      ]
+      "setup": "What detergent do surfers use to wash their wet suit?",
+      "punchline": "Tide!",
+      "categories": ["sports"],
+      "tags": ["surfing", "detergent", "tide", "wet suit", "wordplay", "ocean", "cleaning"]
     },
     {
       "id": 1595,
       "setup": "What's a plumber's favorite sport?",
       "punchline": "Water polo!",
-      "categories": [
-        "sports",
-        "work"
-      ],
-      "tags": [
-        "plumber",
-        "sport",
-        "water polo",
-        "pipes",
-        "wordplay",
-        "swimming",
-        "job"
-      ]
+      "categories": ["sports", "work"],
+      "tags": ["plumber", "sport", "water polo", "pipes", "wordplay", "swimming", "job"]
     },
     {
       "id": 1596,
       "setup": "What do football players wear on Halloween?",
       "punchline": "Face masks!",
-      "categories": [
-        "sports",
-        "holidays"
-      ],
-      "tags": [
-        "football",
-        "halloween",
-        "face masks",
-        "costume",
-        "wordplay",
-        "equipment",
-        "holiday"
-      ]
+      "categories": ["sports", "holidays"],
+      "tags": ["football", "halloween", "face masks", "costume", "wordplay", "equipment", "holiday"]
     },
     {
       "id": 1597,
       "setup": "When is a baby good at basketball?",
       "punchline": "When it's dribbling!",
-      "categories": [
-        "sports",
-        "family"
-      ],
-      "tags": [
-        "baby",
-        "basketball",
-        "dribbling",
-        "drool",
-        "wordplay",
-        "infant",
-        "playing"
-      ]
+      "categories": ["sports", "family"],
+      "tags": ["baby", "basketball", "dribbling", "drool", "wordplay", "infant", "playing"]
     },
     {
       "id": 1598,
-      "setup": "Why did the baseball cap feel proud?",
-      "punchline": "Because it was always on top of things!",
-      "categories": [
-        "sports"
-      ],
-      "tags": [
-        "baseball cap",
-        "proud",
-        "on top",
-        "hat",
-        "wordplay",
-        "clothing",
-        "head"
-      ]
+      "setup": "Where do football players go shopping in the offseason?",
+      "punchline": "The Tackle Shop!",
+      "categories": ["sports", "work"],
+      "tags": ["football", "shopping", "tackle", "offseason", "wordplay", "fishing", "store"]
     },
     {
       "id": 1599,
       "setup": "What's an electrician's favorite sport?",
       "punchline": "Circuit training!",
-      "categories": [
-        "sports",
-        "work"
-      ],
-      "tags": [
-        "electrician",
-        "sport",
-        "circuit training",
-        "current",
-        "wordplay",
-        "exercise",
-        "electricity"
-      ]
+      "categories": ["sports", "work"],
+      "tags": ["electrician", "sport", "circuit training", "current", "wordplay", "exercise", "electricity"]
     },
     {
       "id": 1600,
       "setup": "Why does someone who runs marathons make a good student?",
       "punchline": "Because education pays off in the long run!",
-      "categories": [
-        "sports",
-        "school"
-      ],
-      "tags": [
-        "marathon",
-        "student",
-        "long run",
-        "education",
-        "wordplay",
-        "running",
-        "success"
-      ]
+      "categories": ["sports", "school"],
+      "tags": ["marathon", "student", "long run", "education", "wordplay", "running", "success"]
     },
     {
       "id": 1601,
