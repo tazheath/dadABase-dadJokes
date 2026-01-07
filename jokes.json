@@ -22710,1769 +22710,1774 @@
         "s'mores"
       ]
     },
-    {
-      "id": 1301,
-      "setup": "Why did the student eat his homework?",
-      "punchline": "Because his teacher told him it was a piece of cake!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "student",
-        "homework",
-        "eating",
-        "cake",
-        "wordplay",
-        "teacher",
-        "easy"
-      ]
-    },
-    {
-      "id": 1302,
-      "setup": "What's a teacher's favorite nation?",
-      "punchline": "Expla-nation!",
-      "categories": [
-        "school",
-        "geography"
-      ],
-      "tags": [
-        "teacher",
-        "nation",
-        "explanation",
-        "wordplay",
-        "teaching",
-        "country",
-        "favorite"
-      ]
-    },
-    {
-      "id": 1303,
-      "setup": "Why did the pencil go to the doctor?",
-      "punchline": "Because it had a broken point!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "pencil",
-        "doctor",
-        "point",
-        "broken",
-        "wordplay",
-        "writing",
-        "supplies"
-      ]
-    },
-    {
-      "id": 1304,
-      "setup": "Why was the broom late for school?",
-      "punchline": "Because it over-swept!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "broom",
-        "late",
-        "overswept",
-        "overslept",
-        "wordplay",
-        "sleeping",
-        "supplies"
-      ]
-    },
-    {
-      "id": 1305,
-      "setup": "Why was the library so tall?",
-      "punchline": "Because it had so many stories!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "library",
-        "tall",
-        "stories",
-        "floors",
-        "wordplay",
-        "books",
-        "reading"
-      ]
-    },
-    {
-      "id": 1306,
-      "setup": "Why did the clock get sent to the principal's office?",
-      "punchline": "Because it was tocking too much in class!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "clock",
-        "principal",
-        "tocking",
-        "talking",
-        "wordplay",
-        "trouble",
-        "classroom"
-      ]
-    },
-    {
-      "id": 1307,
-      "setup": "Why did the teacher go to the eye doctor?",
-      "punchline": "Because she couldn't control her pupils!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "teacher",
-        "eye doctor",
-        "pupils",
-        "students",
-        "wordplay",
-        "eyes",
-        "control"
-      ]
-    },
-    {
-      "id": 1308,
-      "setup": "What's a witch's favorite subject in school?",
-      "punchline": "Spelling!",
-      "categories": [
-        "school",
-        "fantasy"
-      ],
-      "tags": [
-        "witch",
-        "subject",
-        "spelling",
-        "magic",
-        "wordplay",
-        "english",
-        "spells"
-      ]
-    },
-    {
-      "id": 1309,
-      "setup": "Where do little trees go to learn?",
-      "punchline": "Elementree school!",
-      "categories": [
-        "school",
-        "outdoors"
-      ],
-      "tags": [
-        "trees",
-        "learn",
-        "elementary",
-        "school",
-        "wordplay",
-        "nature",
-        "education"
-      ]
-    },
-    {
-      "id": 1310,
-      "setup": "Why did the geometry student stay home?",
-      "punchline": "Because she sprained her angle!",
-      "categories": [
-        "school",
-        "math"
-      ],
-      "tags": [
-        "geometry",
-        "student",
-        "sprained",
-        "angle",
-        "ankle",
-        "wordplay",
-        "math"
-      ]
-    },
-    {
-      "id": 1311,
-      "setup": "What did the buffalo say to his son on the first day of school?",
-      "punchline": "Bison!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "buffalo",
-        "son",
-        "bison",
-        "bye son",
-        "wordplay",
-        "first day",
-        "goodbye"
-      ]
-    },
-    {
-      "id": 1312,
-      "setup": "What's a snake's favorite subject?",
-      "punchline": "Hisss-tory!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "snake",
-        "subject",
-        "history",
-        "hiss",
-        "wordplay",
-        "reptile",
-        "class"
-      ]
-    },
-    {
-      "id": 1313,
-      "setup": "Why did the music student get in trouble?",
-      "punchline": "Because she kept passing notes!",
-      "categories": [
-        "school",
-        "music"
-      ],
-      "tags": [
-        "music",
-        "student",
-        "notes",
-        "trouble",
-        "wordplay",
-        "passing",
-        "class"
-      ]
-    },
-    {
-      "id": 1314,
-      "setup": "What did the pen say to the pencil?",
-      "punchline": "So, what's your point?",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "pen",
-        "pencil",
-        "point",
-        "question",
-        "wordplay",
-        "supplies",
-        "conversation"
-      ]
-    },
-    {
-      "id": 1315,
-      "setup": "Why did the student eat his watch during the test?",
-      "punchline": "Because the teacher said it was crunch time!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "student",
-        "watch",
-        "test",
-        "crunch time",
-        "wordplay",
-        "eating",
-        "exam"
-      ]
-    },
-    {
-      "id": 1316,
-      "setup": "What's a chalkboard's favorite drink?",
-      "punchline": "Hot chalk-olate!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "chalkboard",
-        "drink",
-        "chocolate",
-        "chalk",
-        "wordplay",
-        "classroom",
-        "hot"
-      ]
-    },
-    {
-      "id": 1317,
-      "setup": "What do you call a teacher who forgot to take attendance?",
-      "punchline": "Absent-minded!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "teacher",
-        "attendance",
-        "absent",
-        "minded",
-        "wordplay",
-        "forgetful",
-        "roll call"
-      ]
-    },
-    {
-      "id": 1318,
-      "setup": "What do you call a nervous javelin thrower in PE?",
-      "punchline": "Shakespeare!",
-      "categories": [
-        "school",
-        "sports"
-      ],
-      "tags": [
-        "javelin",
-        "nervous",
-        "shakespeare",
-        "shakes spear",
-        "wordplay",
-        "pe",
-        "throwing"
-      ]
-    },
-    {
-      "id": 1319,
-      "setup": "Why did the algebra book go to the counselor?",
-      "punchline": "Because it had too many Xs and didn't know Y!",
-      "categories": [
-        "school",
-        "math"
-      ],
-      "tags": [
-        "algebra",
-        "book",
-        "counselor",
-        "x",
-        "y",
-        "wordplay",
-        "variables"
-      ]
-    },
-    {
-      "id": 1320,
-      "setup": "Why did the student eat his homework?",
-      "punchline": "Because the teacher said it was a piece of cake!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "student",
-        "homework",
-        "cake",
-        "teacher",
-        "wordplay",
-        "easy",
-        "eating"
-      ]
-    },
-    {
-      "id": 1321,
-      "setup": "Why did the student bring a fishing rod to class?",
-      "punchline": "Because she wanted to catch up on her studies!",
-      "categories": [
-        "school",
-        "outdoors"
-      ],
-      "tags": [
-        "student",
-        "fishing rod",
-        "catch up",
-        "studies",
-        "wordplay",
-        "learning",
-        "behind"
-      ]
-    },
-    {
-      "id": 1322,
-      "setup": "What did the glue stick say to the paper?",
-      "punchline": "I'm stuck on you!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "glue stick",
-        "paper",
-        "stuck",
-        "love",
-        "wordplay",
-        "supplies",
-        "bonding"
-      ]
-    },
-    {
-      "id": 1323,
-      "setup": "What's the easiest way to get straight A's in school?",
-      "punchline": "Use a ruler!",
-      "categories": [
-        "school",
-        "math"
-      ],
-      "tags": [
-        "straight A's",
-        "ruler",
-        "lines",
-        "grades",
-        "wordplay",
-        "measuring",
-        "success"
-      ]
-    },
-    {
-      "id": 1324,
-      "setup": "What did the ocean say to the geography teacher?",
-      "punchline": "Nothing, it just waved!",
-      "categories": [
-        "school",
-        "geography"
-      ],
-      "tags": [
-        "ocean",
-        "geography",
-        "wave",
-        "waved",
-        "wordplay",
-        "teacher",
-        "water"
-      ]
-    },
-    {
-      "id": 1325,
-      "setup": "Why did the student bring a ladder to school?",
-      "punchline": "Because she wanted to go to high school!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "student",
-        "ladder",
-        "high school",
-        "climbing",
-        "wordplay",
-        "education",
-        "tall"
-      ]
-    },
-    {
-      "id": 1326,
-      "setup": "How do you warm up in any room?",
-      "punchline": "Stand in the corner, it's always 90 degrees",
-      "categories": [
-        "school",
-        "math"
-      ],
-      "tags": [
-        "angle",
-        "math book",
-        "heat",
-        "degrees",
-        "wordplay",
-        "survival"
-      ]
-    },
-    {
-      "id": 1327,
-      "setup": "Why was the geometry class always tired?",
-      "punchline": "Because they were always going around in circles!",
-      "categories": [
-        "school",
-        "math"
-      ],
-      "tags": [
-        "geometry",
-        "class",
-        "tired",
-        "circles",
-        "wordplay",
-        "shapes",
-        "exhausted"
-      ]
-    },
-    {
-      "id": 1328,
-      "setup": "What do you call a sleeping dinosaur in class?",
-      "punchline": "A dino-snore!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "dinosaur",
-        "sleeping",
-        "snore",
-        "class",
-        "wordplay",
-        "tired",
-        "prehistoric"
-      ]
-    },
-    {
-      "id": 1329,
-      "setup": "Why do music teachers do well in baseball games?",
-      "punchline": "Because they have perfect pitch!",
-      "categories": [
-        "school",
-        "sports"
-      ],
-      "tags": [
-        "music teacher",
-        "baseball",
-        "pitch",
-        "notes",
-        "wordplay",
-        "sports",
-        "throwing"
-      ]
-    },
-    {
-      "id": 1330,
-      "setup": "What's a computer's favorite snack at school?",
-      "punchline": "Microchips!",
-      "categories": [
-        "school",
-        "technology"
-      ],
-      "tags": [
-        "computer",
-        "snack",
-        "microchips",
-        "chips",
-        "wordplay",
-        "tech",
-        "eating"
-      ]
-    },
-    {
-      "id": 1331,
-      "setup": "Why did the janitor ace the test?",
-      "punchline": "Because he really cleaned up!",
-      "categories": [
-        "school",
-        "work"
-      ],
-      "tags": [
-        "janitor",
-        "test",
-        "cleaned up",
-        "success",
-        "wordplay",
-        "job",
-        "grades"
-      ]
-    },
-    {
-      "id": 1332,
-      "setup": "Why can't you trust a chemistry teacher?",
-      "punchline": "Because they're always making things up... periodically!",
-      "categories": [
-        "school",
-        "science"
-      ],
-      "tags": [
-        "chemistry",
-        "teacher",
-        "periodic table",
-        "trust",
-        "wordplay",
-        "elements",
-        "lying"
-      ]
-    },
-    {
-      "id": 1333,
-      "setup": "Why did the student fail the electricity test?",
-      "punchline": "Because he didn't conduct himself properly!",
-      "categories": [
-        "school",
-        "science"
-      ],
-      "tags": [
-        "student",
-        "electricity",
-        "test",
-        "conduct",
-        "wordplay",
-        "failed",
-        "behavior"
-      ]
-    },
-    {
-      "id": 1334,
-      "setup": "What's a king's favorite subject?",
-      "punchline": "His subjects!",
-      "categories": [
-        "school",
-        "history"
-      ],
-      "tags": [
-        "king",
-        "subject",
-        "subjects",
-        "royalty",
-        "wordplay",
-        "ruling",
-        "people"
-      ]
-    },
-    {
-      "id": 1335,
-      "setup": "What do you call a dinosaur that knows a lot of synonyms?",
-      "punchline": "A thesaurus!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "dinosaur",
-        "synonyms",
-        "thesaurus",
-        "words",
-        "wordplay",
-        "reference",
-        "vocabulary"
-      ]
-    },
-    {
-      "id": 1336,
-      "setup": "Why did the computer go to the school nurse?",
-      "punchline": "Because it had a virus!",
-      "categories": [
-        "school",
-        "technology"
-      ],
-      "tags": [
-        "computer",
-        "nurse",
-        "virus",
-        "sick",
-        "wordplay",
-        "tech",
-        "health"
-      ]
-    },
-    {
-      "id": 1337,
-      "setup": "Why did the atom fail its exam?",
-      "punchline": "Because it lost an electron and was positive it got nothing right!",
-      "categories": [
-        "school",
-        "science"
-      ],
-      "tags": [
-        "atom",
-        "exam",
-        "electron",
-        "positive",
-        "wordplay",
-        "chemistry",
-        "physics"
-      ]
-    },
-    {
-      "id": 1338,
-      "setup": "What do you get when you cross a teacher with a vampire?",
-      "punchline": "Lots of blood tests!",
-      "categories": [
-        "school",
-        "fantasy"
-      ],
-      "tags": [
-        "teacher",
-        "vampire",
-        "blood tests",
-        "exams",
-        "wordplay",
-        "scary",
-        "grading"
-      ]
-    },
-    {
-      "id": 1339,
-      "setup": "Why did the desk lamp do well in school?",
-      "punchline": "Because it was so bright!",
-      "categories": [
-        "school",
-        "home"
-      ],
-      "tags": [
-        "desk lamp",
-        "school",
-        "bright",
-        "smart",
-        "wordplay",
-        "light",
-        "intelligent"
-      ]
-    },
-    {
-      "id": 1340,
-      "setup": "What did the whiteboard say to the marker?",
-      "punchline": "You leave quite an impression!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "whiteboard",
-        "marker",
-        "impression",
-        "writing",
-        "wordplay",
-        "classroom",
-        "compliment"
-      ]
-    },
-    {
-      "id": 1341,
-      "setup": "Why did the art class go outside?",
-      "punchline": "To draw some fresh air!",
-      "categories": [
-        "school",
-        "outdoors"
-      ],
-      "tags": [
-        "art class",
-        "outside",
-        "draw",
-        "fresh air",
-        "wordplay",
-        "painting",
-        "nature"
-      ]
-    },
-    {
-      "id": 1342,
-      "setup": "What do you call a fish that teaches school?",
-      "punchline": "The head of the school!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "fish",
-        "teaches",
-        "head",
-        "school of fish",
-        "wordplay",
-        "leader",
-        "ocean"
-      ]
-    },
-    {
-      "id": 1343,
-      "setup": "Why was the calendar so popular at school?",
-      "punchline": "Because it had a lot of dates!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "calendar",
-        "popular",
-        "dates",
-        "romance",
-        "wordplay",
-        "schedule",
-        "social"
-      ]
-    },
-    {
-      "id": 1344,
-      "setup": "What did the French teacher say to the cheese?",
-      "punchline": "Brie yourself for a lesson!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "french teacher",
-        "cheese",
-        "brie",
-        "lesson",
-        "wordplay",
-        "language",
-        "prepare"
-      ]
-    },
-    {
-      "id": 1345,
-      "setup": "Why did the PE teacher go to the bank?",
-      "punchline": "To check his balance!",
-      "categories": [
-        "school",
-        "sports"
-      ],
-      "tags": [
-        "pe teacher",
-        "bank",
-        "balance",
-        "gymnastics",
-        "wordplay",
-        "money",
-        "exercise"
-      ]
-    },
-    {
-      "id": 1346,
-      "setup": "What's a vampire's favorite class?",
-      "punchline": "Bite-ology!",
-      "categories": [
-        "school",
-        "fantasy"
-      ],
-      "tags": [
-        "vampire",
-        "class",
-        "biology",
-        "bite",
-        "wordplay",
-        "scary",
-        "science"
-      ]
-    },
-    {
-      "id": 1347,
-      "setup": "Why did the dog do so well in school?",
-      "punchline": "Because he was the teacher's pet!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "dog",
-        "school",
-        "teacher's pet",
-        "favorite",
-        "wordplay",
-        "student",
-        "success"
-      ]
-    },
-    {
-      "id": 1348,
-      "setup": "What did the school bus say after a long day?",
-      "punchline": "I'm totally exhausted!",
-      "categories": [
-        "school",
-        "travel"
-      ],
-      "tags": [
-        "school bus",
-        "exhausted",
-        "exhaust",
-        "tired",
-        "wordplay",
-        "transportation",
-        "fumes"
-      ]
-    },
-    {
-      "id": 1349,
-      "setup": "Why did the comma break up with the apostrophe?",
-      "punchline": "Because it was too possessive!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "comma",
-        "apostrophe",
-        "possessive",
-        "grammar",
-        "wordplay",
-        "punctuation",
-        "relationship"
-      ]
-    },
-    {
-      "id": 1350,
-      "setup": "What's a tree's favorite subject?",
-      "punchline": "Twigonometry!",
-      "categories": [
-        "school",
-        "outdoors"
-      ],
-      "tags": [
-        "tree",
-        "subject",
-        "trigonometry",
-        "twig",
-        "wordplay",
-        "math",
-        "nature"
-      ]
-    },
-    {
-      "id": 1351,
-      "setup": "Why did the spider go to school?",
-      "punchline": "Because it wanted to be a web designer!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "spider",
-        "school",
-        "web designer",
-        "internet",
-        "wordplay",
-        "technology",
-        "insects"
-      ]
-    },
-    {
-      "id": 1352,
-      "setup": "How was the Roman Empire cut in half?",
-      "punchline": "With a pair of Caesars!",
-      "categories": [
-        "school",
-        "history"
-      ],
-      "tags": [
-        "roman empire",
-        "cut",
-        "caesar",
-        "scissors",
-        "wordplay",
-        "history",
-        "ancient"
-      ]
-    },
-    {
-      "id": 1353,
-      "setup": "Why did the book join the police force?",
-      "punchline": "Because it wanted to go undercover!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "book",
-        "police",
-        "undercover",
-        "cover",
-        "wordplay",
-        "reading",
-        "detective"
-      ]
-    },
-    {
-      "id": 1354,
-      "setup": "What's a penguin's favorite class?",
-      "punchline": "Ice-onomics!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "penguin",
-        "class",
-        "economics",
-        "ice",
-        "wordplay",
-        "cold",
-        "subject"
-      ]
-    },
-    {
-      "id": 1355,
-      "setup": "Why did the student bring a mirror to the exam?",
-      "punchline": "For some self-reflection!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "student",
-        "mirror",
-        "exam",
-        "reflection",
-        "wordplay",
-        "test",
-        "thinking"
-      ]
-    },
-    {
-      "id": 1356,
-      "setup": "What kind of shoes do frogs wear to school?",
-      "punchline": "Open-toad!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "frogs",
-        "shoes",
-        "open-toed",
-        "toad",
-        "wordplay",
-        "footwear",
-        "amphibian"
-      ]
-    },
-    {
-      "id": 1357,
-      "setup": "Why did the highlighter get good grades?",
-      "punchline": "Because it always made brilliant points!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "highlighter",
-        "grades",
-        "brilliant",
-        "points",
-        "wordplay",
-        "supplies",
-        "bright"
-      ]
-    },
-    {
-      "id": 1358,
-      "setup": "What's an egg's least favorite day at school?",
-      "punchline": "Fry-day!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "egg",
-        "day",
-        "friday",
-        "fry",
-        "wordplay",
-        "cooking",
-        "weekend"
-      ]
-    },
-    {
-      "id": 1359,
-      "setup": "Why did the biology teacher break up with the physics teacher?",
-      "punchline": "Because there was no chemistry!",
-      "categories": [
-        "school",
-        "science"
-      ],
-      "tags": [
-        "biology teacher",
-        "physics teacher",
-        "chemistry",
-        "breakup",
-        "wordplay",
-        "subjects",
-        "relationship"
-      ]
-    },
-    {
-      "id": 1360,
-      "setup": "What did the paper clip say to the magnet?",
-      "punchline": "I find you very attractive!",
-      "categories": [
-        "school",
-        "science"
-      ],
-      "tags": [
-        "paper clip",
-        "magnet",
-        "attractive",
-        "magnetism",
-        "wordplay",
-        "supplies",
-        "science"
-      ]
-    },
-    {
-      "id": 1361,
-      "setup": "Why was the music room so sweet?",
-      "punchline": "Because of all the jam sessions!",
-      "categories": [
-        "school",
-        "music"
-      ],
-      "tags": [
-        "music room",
-        "sweet",
-        "jam",
-        "sessions",
-        "wordplay",
-        "playing",
-        "food"
-      ]
-    },
-    {
-      "id": 1362,
-      "setup": "What do you call a dinosaur with straight A's?",
-      "punchline": "A dino-mite student!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "dinosaur",
-        "straight-a",
-        "dynamite",
-        "smart",
-        "wordplay",
-        "student",
-        "grades"
-      ]
-    },
-    {
-      "id": 1363,
-      "setup": "What did the student say when the homework wasn't done?",
-      "punchline": "I did some baking - synonym rolls just like grammar used to make!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "student",
-        "homework",
-        "synonym rolls",
-        "cinnamon",
-        "wordplay",
-        "grammar",
-        "baking"
-      ]
-    },
-    {
-      "id": 1364,
-      "setup": "What's a dentist's favorite time at school?",
-      "punchline": "Tooth-hurty!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "dentist",
-        "time",
-        "tooth",
-        "2:30",
-        "wordplay",
-        "teeth",
-        "schedule"
-      ]
-    },
-    {
-      "id": 1365,
-      "setup": "Why did the man get fired from his job at the keyboard factory?",
-      "punchline": "He wasn't putting in enough shifts!",
-      "categories": [
-        "school",
-        "technology"
-      ],
-      "tags": [
-        "keyboard",
-        "work",
-        "shifts",
-        "wordplay",
-        "tech",
-        "computer",
-        "job"
-      ]
-    },
-    {
-      "id": 1366,
-      "setup": "What did the calculator say to the student?",
-      "punchline": "You can count on me!",
-      "categories": [
-        "school",
-        "math"
-      ],
-      "tags": [
-        "calculator",
-        "student",
-        "count",
-        "rely",
-        "wordplay",
-        "math",
-        "trust"
-      ]
-    },
-    {
-      "id": 1367,
-      "setup": "Why did the student study on an airplane?",
-      "punchline": "Because he wanted a higher education!",
-      "categories": [
-        "school",
-        "travel"
-      ],
-      "tags": [
-        "student",
-        "airplane",
-        "higher education",
-        "flying",
-        "wordplay",
-        "studying",
-        "altitude"
-      ]
-    },
-    {
-      "id": 1368,
-      "setup": "What's a door's favorite part of school?",
-      "punchline": "The entrance exam!",
-      "categories": [
-        "school",
-        "home"
-      ],
-      "tags": [
-        "door",
-        "school",
-        "entrance exam",
-        "opening",
-        "wordplay",
-        "test",
-        "admission"
-      ]
-    },
-    {
-      "id": 1369,
-      "setup": "Why did the teacher go to the beach during class?",
-      "punchline": "She wanted to test the waters!",
-      "categories": [
-        "school",
-        "outdoors"
-      ],
-      "tags": [
-        "teacher",
-        "beach",
-        "test",
-        "water",
-        "wordplay",
-        "ocean",
-        "trying"
-      ]
-    },
-    {
-      "id": 1370,
-      "setup": "What happened when the past, present, and future walked into class?",
-      "punchline": "It was tense!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "past",
-        "present",
-        "future",
-        "tense",
-        "wordplay",
-        "grammar",
-        "english"
-      ]
-    },
-    {
-      "id": 1371,
-      "setup": "Why was the globe so good at school?",
-      "punchline": "Because it was very well-rounded!",
-      "categories": [
-        "school",
-        "geography"
-      ],
-      "tags": [
-        "globe",
-        "school",
-        "well-rounded",
-        "sphere",
-        "wordplay",
-        "geography",
-        "educated"
-      ]
-    },
-    {
-      "id": 1372,
-      "setup": "What do you call bread that's good at English?",
-      "punchline": "A pun-pernickel!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "bread",
-        "english",
-        "pun",
-        "pumpernickel",
-        "wordplay",
-        "language",
-        "baking"
-      ]
-    },
-    {
-      "id": 1373,
-      "setup": "Why did the protractor break up with the ruler?",
-      "punchline": "Because it found someone with more degrees!",
-      "categories": [
-        "school",
-        "math"
-      ],
-      "tags": [
-        "protractor",
-        "ruler",
-        "degrees",
-        "angles",
-        "wordplay",
-        "measuring",
-        "relationship"
-      ]
-    },
-    {
-      "id": 1374,
-      "setup": "What do you call a bear stuck in the rain at school?",
-      "punchline": "A drizzly bear!",
-      "categories": [
-        "school",
-        "animals"
-      ],
-      "tags": [
-        "bear",
-        "rain",
-        "drizzly",
-        "grizzly",
-        "wordplay",
-        "weather",
-        "wet"
-      ]
-    },
-    {
-      "id": 1375,
-      "setup": "Why did the student bring a bar of soap to school?",
-      "punchline": "For a clean sweep on the test!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "student",
-        "soap",
-        "clean sweep",
-        "test",
-        "wordplay",
-        "washing",
-        "success"
-      ]
-    },
-    {
-      "id": 1376,
-      "setup": "What do you call a teacher with no arms, no legs, and no body?",
-      "punchline": "The head of the department!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "teacher",
-        "head",
-        "department",
-        "body",
-        "wordplay",
-        "leader",
-        "riddle"
-      ]
-    },
-    {
-      "id": 1377,
-      "setup": "Why did the student eat his flash cards?",
-      "punchline": "Because his teacher said they were food for thought!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "student",
-        "flash cards",
-        "eating",
-        "food for thought",
-        "wordplay",
-        "studying",
-        "memory"
-      ]
-    },
-    {
-      "id": 1378,
-      "setup": "Why did the textbook feel confident?",
-      "punchline": "Because it had all the answers in the back!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "textbook",
-        "confident",
-        "answers",
-        "back",
-        "wordplay",
-        "studying",
-        "solutions"
-      ]
-    },
-    {
-      "id": 1379,
-      "setup": "Why did the music teacher get in trouble?",
-      "punchline": "Because she got caught with too many sharp objects!",
-      "categories": [
-        "school",
-        "music"],
-      "tags": [
-        "music teacher",
-        "jail",
-        "sharp",
-        "notes",
-        "wordplay",
-        "school",
-        "instruments"]
-    },
-    {
-      "id": 1380,
-      "setup": "What's a tornado's favorite game at recess?",
-      "punchline": "Twister!",
-      "categories": [
-        "school",
-        "outdoors"
-      ],
-      "tags": [
-        "tornado",
-        "game",
-        "twister",
-        "recess",
-        "wordplay",
-        "weather",
-        "playing"
-      ]
-    },
-    {
-      "id": 1381,
-      "setup": "Why did the teacher write on the window?",
-      "punchline": "She wanted the lesson to be very clear!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "teacher",
-        "window",
-        "clear",
-        "lesson",
-        "wordplay",
-        "transparent",
-        "teaching"
-      ]
-    },
-    {
-      "id": 1382,
-      "setup": "What did the student say after studying herbs?",
-      "punchline": "That was a thyme well spent!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "student",
-        "herbs",
-        "thyme",
-        "time",
-        "wordplay",
-        "studying",
-        "cooking"
-      ]
-    },
-    {
-      "id": 1383,
-      "setup": "Why did the school newspaper get an award?",
-      "punchline": "Because it had great circulation!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "newspaper",
-        "award",
-        "circulation",
-        "distribution",
-        "wordplay",
-        "journalism",
-        "success"
-      ]
-    },
-    {
-      "id": 1384,
-      "setup": "What's a carpenter's favorite subject?",
-      "punchline": "Woodshop... they really nailed it!",
-      "categories": [
-        "school",
-        "work"
-      ],
-      "tags": [
-        "carpenter",
-        "subject",
-        "woodshop",
-        "nailed",
-        "wordplay",
-        "building",
-        "success"
-      ]
-    },
-    {
-      "id": 1385,
-      "setup": "Why did the dictionary get detention?",
-      "punchline": "Because it had too many bad words!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "dictionary",
-        "detention",
-        "bad words",
-        "trouble",
-        "wordplay",
-        "reference",
-        "vocabulary"
-      ]
-    },
-    {
-      "id": 1386,
-      "setup": "What did the math teacher order for dessert?",
-      "punchline": "Pi!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "math teacher",
-        "dessert",
-        "pi",
-        "pie",
-        "wordplay",
-        "math",
-        "eating"
-      ]
-    },
-    {
-      "id": 1387,
-      "setup": "Why did the student bring a sponge to class?",
-      "punchline": "To soak up all the knowledge!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "student",
-        "sponge",
-        "soak up",
-        "knowledge",
-        "wordplay",
-        "learning",
-        "absorbing"
-      ]
-    },
-    {
-      "id": 1388,
-      "setup": "What's a shoe's favorite subject?",
-      "punchline": "Footnotes!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "shoe",
-        "subject",
-        "footnotes",
-        "feet",
-        "wordplay",
-        "reading",
-        "research"
-      ]
-    },
-    {
-      "id": 1389,
-      "setup": "Why did the student climb to the top of the class?",
-      "punchline": "She was the teacher's ladder!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "student",
-        "climb",
-        "top",
-        "ladder",
-        "latter",
-        "wordplay",
-        "success"
-      ]
-    },
-    {
-      "id": 1390,
-      "setup": "What did the period say to the sentence?",
-      "punchline": "We have to stop meeting like this!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "period",
-        "sentence",
-        "stop",
-        "meeting",
-        "wordplay",
-        "grammar",
-        "punctuation"
-      ]
-    },
-    {
-      "id": 1391,
-      "setup": "What is smarter, longitude or latitude?",
-      "punchline": "Longitude, because it has 360 degrees!",
-      "categories": [
-        "school",
-        "geography"
-      ],
-      "tags": [
-        "education",
-        "degree",
-        "college",
-        "smart",
-        "wordplay"
-      ]
-    },
-    {
-      "id": 1392,
-      "setup": "Why did the flashlight do well on the test?",
-      "punchline": "Because it was pretty bright!",
-      "categories": [
-        "school",
-        "home"
-      ],
-      "tags": [
-        "flashlight",
-        "test",
-        "bright",
-        "smart",
-        "wordplay",
-        "light",
-        "success"
-      ]
-    },
-    {
-      "id": 1393,
-      "setup": "Why did the geography student bring a boat to class?",
-      "punchline": "Because they were studying current events!",
-      "categories": [
-        "school",
-        "geography"
-      ],
-      "tags": [
-        "geography",
-        "student",
-        "boat",
-        "current",
-        "wordplay",
-        "water",
-        "news"
-      ]
-    },
-    {
-      "id": 1394,
-      "setup": "What did the scissors say to the construction paper?",
-      "punchline": "Let's cut to the chase!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "scissors",
-        "construction paper",
-        "cut",
-        "chase",
-        "wordplay",
-        "art",
-        "supplies"
-      ]
-    },
-    {
-      "id": 1395,
-      "setup": "Why did the substitute teacher bring string?",
-      "punchline": "In case she had to tie up loose ends!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "substitute teacher",
-        "string",
-        "loose ends",
-        "finishing",
-        "wordplay",
-        "temporary",
-        "completing"
-      ]
-    },
-    {
-      "id": 1396,
-      "setup": "Why did the student take a clock to lunch?",
-      "punchline": "Because it was time to eat!",
-      "categories": [
-        "school",
-        "food"
-      ],
-      "tags": [
-        "student",
-        "clock",
-        "lunch",
-        "time",
-        "wordplay",
-        "eating",
-        "schedule"
-      ]
-    },
-    {
-      "id": 1397,
-      "setup": "Why do math teachers love parks?",
-      "punchline": "Because of all the natural logs!",
-      "categories": [
-        "school",
-        "math"
-      ],
-      "tags": [
-        "math teachers",
-        "parks",
-        "natural logs",
-        "ln",
-        "wordplay",
-        "calculus",
-        "nature"
-      ]
-    },
-    {
-      "id": 1398,
-      "setup": "What did the librarian say when the books were in a mess?",
-      "punchline": "This is a shelf-ish disaster!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "librarian",
-        "books",
-        "shelf",
-        "selfish",
-        "wordplay",
-        "library",
-        "mess"
-      ]
-    },
-    {
-      "id": 1399,
-      "setup": "Why did the student bring sunglasses to school?",
-      "punchline": "Because his teacher said he had a bright future!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "student",
-        "sunglasses",
-        "school",
-        "bright future",
-        "wordplay",
-        "success",
-        "confident"
-      ]
-    },
-    {
-      "id": 1400,
-      "setup": "What did the graduation cap say to the student?",
-      "punchline": "You've really topped off your education!",
-      "categories": [
-        "school"
-      ],
-      "tags": [
-        "graduation cap",
-        "student",
-        "topped off",
-        "education",
-        "wordplay",
-        "finishing",
-        "ceremony"
-      ]
-    },
+  {
+    "id": 1301,
+    "setup": "Why did the student eat his homework?",
+    "punchline": "Because his teacher told him it was a piece of cake!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "student",
+      "homework",
+      "eating",
+      "cake",
+      "wordplay",
+      "teacher",
+      "easy"
+    ]
+  },
+  {
+    "id": 1302,
+    "setup": "What's a teacher's favorite nation?",
+    "punchline": "Expla-nation!",
+    "categories": [
+      "school",
+      "geography"
+    ],
+    "tags": [
+      "teacher",
+      "nation",
+      "explanation",
+      "wordplay",
+      "teaching",
+      "country",
+      "favorite"
+    ]
+  },
+  {
+    "id": 1303,
+    "setup": "Why did the pencil go to the doctor?",
+    "punchline": "Because it had a broken point!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "pencil",
+      "doctor",
+      "point",
+      "broken",
+      "wordplay",
+      "writing",
+      "supplies"
+    ]
+  },
+  {
+    "id": 1304,
+    "setup": "What did the pencil say to the pen on the first day of school?",
+    "punchline": "Looking sharp!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "pencil",
+      "pen",
+      "sharp",
+      "first day",
+      "wordplay",
+      "supplies",
+      "appearance"
+    ]
+  },
+  {
+    "id": 1305,
+    "setup": "Why was the library so tall?",
+    "punchline": "Because it had so many stories!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "library",
+      "tall",
+      "stories",
+      "floors",
+      "wordplay",
+      "books",
+      "reading"
+    ]
+  },
+  {
+    "id": 1306,
+    "setup": "Why did the student cross the playground?",
+    "punchline": "To get to the other slide!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "student",
+      "playground",
+      "slide",
+      "side",
+      "wordplay",
+      "recess",
+      "equipment"
+    ]
+  },
+  {
+    "id": 1307,
+    "setup": "Why did the teacher go to the eye doctor?",
+    "punchline": "Because she couldn't control her pupils!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "teacher",
+      "eye doctor",
+      "pupils",
+      "students",
+      "wordplay",
+      "eyes",
+      "control"
+    ]
+  },
+  {
+    "id": 1308,
+    "setup": "What's a witch's favorite subject in school?",
+    "punchline": "Spelling!",
+    "categories": [
+      "school",
+      "fantasy"
+    ],
+    "tags": [
+      "witch",
+      "subject",
+      "spelling",
+      "magic",
+      "wordplay",
+      "english",
+      "spells"
+    ]
+  },
+  {
+    "id": 1309,
+    "setup": "Where do little trees go to learn?",
+    "punchline": "Elementree school!",
+    "categories": [
+      "school",
+      "outdoors"
+    ],
+    "tags": [
+      "trees",
+      "learn",
+      "elementary",
+      "school",
+      "wordplay",
+      "nature",
+      "education"
+    ]
+  },
+  {
+    "id": 1310,
+    "setup": "Why did the geometry student stay home?",
+    "punchline": "Because she sprained her angle!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "geometry",
+      "student",
+      "sprained",
+      "angle",
+      "ankle",
+      "wordplay",
+      "math"
+    ]
+  },
+  {
+    "id": 1311,
+    "setup": "What did the buffalo say to his son on the first day of school?",
+    "punchline": "Bison!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "buffalo",
+      "son",
+      "bison",
+      "bye son",
+      "wordplay",
+      "first day",
+      "goodbye"
+    ]
+  },
+  {
+    "id": 1312,
+    "setup": "What's a snake's favorite subject?",
+    "punchline": "Hisss-tory!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "snake",
+      "subject",
+      "history",
+      "hiss",
+      "wordplay",
+      "reptile",
+      "class"
+    ]
+  },
+  {
+    "id": 1313,
+    "setup": "Why did the music student get in trouble?",
+    "punchline": "Because she kept passing notes!",
+    "categories": [
+      "school",
+      "music"
+    ],
+    "tags": [
+      "music",
+      "student",
+      "notes",
+      "trouble",
+      "wordplay",
+      "passing",
+      "class"
+    ]
+  },
+  {
+    "id": 1314,
+    "setup": "What did the pen say to the pencil?",
+    "punchline": "So, what's your point?",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "pen",
+      "pencil",
+      "point",
+      "question",
+      "wordplay",
+      "supplies",
+      "conversation"
+    ]
+  },
+  {
+    "id": 1315,
+    "setup": "Why did the student eat his watch during the test?",
+    "punchline": "Because the teacher said it was crunch time!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "student",
+      "watch",
+      "test",
+      "crunch time",
+      "wordplay",
+      "eating",
+      "exam"
+    ]
+  },
+  {
+    "id": 1316,
+    "setup": "What's a chalkboard's favorite drink?",
+    "punchline": "Hot chalk-olate!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "chalkboard",
+      "drink",
+      "chocolate",
+      "chalk",
+      "wordplay",
+      "classroom",
+      "hot"
+    ]
+  },
+  {
+    "id": 1317,
+    "setup": "What do you call a teacher who forgot to take attendance?",
+    "punchline": "Absent-minded!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "teacher",
+      "attendance",
+      "absent",
+      "minded",
+      "wordplay",
+      "forgetful",
+      "roll call"
+    ]
+  },
+  {
+    "id": 1318,
+    "setup": "What do you call a nervous javelin thrower in PE?",
+    "punchline": "Shakespeare!",
+    "categories": [
+      "school",
+      "sports"
+    ],
+    "tags": [
+      "javelin",
+      "nervous",
+      "shakespeare",
+      "shakes spear",
+      "wordplay",
+      "pe",
+      "throwing"
+    ]
+  },
+  {
+    "id": 1319,
+    "setup": "Why did the algebra book go to the counselor?",
+    "punchline": "Because it had too many Xs and didn't know Y!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "algebra",
+      "book",
+      "counselor",
+      "x",
+      "y",
+      "wordplay",
+      "variables"
+    ]
+  },
+  {
+    "id": 1320,
+    "setup": "Why did the teacher turn the lights on?",
+    "punchline": "Because her class was so dim!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "teacher",
+      "lights",
+      "dim",
+      "class",
+      "wordplay",
+      "bright",
+      "students"
+    ]
+  },
+  {
+    "id": 1321,
+    "setup": "Why did the student bring a fishing rod to class?",
+    "punchline": "Because she wanted to catch up on her studies!",
+    "categories": [
+      "school",
+      "outdoors"
+    ],
+    "tags": [
+      "student",
+      "fishing rod",
+      "catch up",
+      "studies",
+      "wordplay",
+      "learning",
+      "behind"
+    ]
+  },
+  {
+    "id": 1322,
+    "setup": "I'm reading a book about anti-gravity.",
+    "punchline": "It's impossible to put down!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "book",
+      "anti-gravity",
+      "put down",
+      "reading",
+      "wordplay",
+      "physics",
+      "interesting"
+    ]
+  },
+  {
+    "id": 1323,
+    "setup": "What's the easiest way to get straight A's in school?",
+    "punchline": "Use a ruler!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "straight A's",
+      "ruler",
+      "lines",
+      "grades",
+      "wordplay",
+      "measuring",
+      "success"
+    ]
+  },
+  {
+    "id": 1324,
+    "setup": "What did the ocean say to the geography teacher?",
+    "punchline": "Nothing, it just waved!",
+    "categories": [
+      "school",
+      "geography"
+    ],
+    "tags": [
+      "ocean",
+      "geography",
+      "wave",
+      "waved",
+      "wordplay",
+      "teacher",
+      "water"
+    ]
+  },
+  {
+    "id": 1325,
+    "setup": "Why did the student bring a ladder to school?",
+    "punchline": "Because she wanted to go to high school!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "student",
+      "ladder",
+      "high school",
+      "climbing",
+      "wordplay",
+      "education",
+      "tall"
+    ]
+  },
+  {
+    "id": 1326,
+    "setup": "How do you warm up in any room?",
+    "punchline": "Huddle in the corner - they are always 90 degrees!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "warm up",
+      "corner",
+      "90 degrees",
+      "angle",
+      "wordplay",
+      "math",
+      "temperature"
+    ]
+  },
+  {
+    "id": 1327,
+    "setup": "What do you call a ruler, protractor and a compass all hanging out together?",
+    "punchline": "Weapons of math instruction!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "ruler",
+      "protractor",
+      "compass",
+      "math",
+      "wordplay",
+      "weapons",
+      "destruction"
+    ]
+  },
+  {
+    "id": 1328,
+    "setup": "What do you call a sleeping dinosaur in class?",
+    "punchline": "A dino-snore!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "dinosaur",
+      "sleeping",
+      "snore",
+      "class",
+      "wordplay",
+      "tired",
+      "prehistoric"
+    ]
+  },
+  {
+    "id": 1329,
+    "setup": "Why do music teachers do well in baseball games?",
+    "punchline": "Because they have perfect pitch!",
+    "categories": [
+      "school",
+      "sports"
+    ],
+    "tags": [
+      "music teacher",
+      "baseball",
+      "pitch",
+      "notes",
+      "wordplay",
+      "sports",
+      "throwing"
+    ]
+  },
+  {
+    "id": 1330,
+    "setup": "What's a computer's favorite snack at school?",
+    "punchline": "Microchips!",
+    "categories": [
+      "school",
+      "technology"
+    ],
+    "tags": [
+      "computer",
+      "snack",
+      "microchips",
+      "chips",
+      "wordplay",
+      "tech",
+      "eating"
+    ]
+  },
+  {
+    "id": 1331,
+    "setup": "What do you call a student who eats beans?",
+    "punchline": "A can-teen!",
+    "categories": [
+      "school",
+      "work"
+    ],
+    "tags": [
+      "student",
+      "beans",
+      "canteen",
+      "cafeteria",
+      "wordplay",
+      "food",
+      "lunch"
+    ]
+  },
+  {
+    "id": 1332,
+    "setup": "Why can't you trust a chemistry teacher?",
+    "punchline": "Because they're always making things up... periodically!",
+    "categories": [
+      "school",
+      "science"
+    ],
+    "tags": [
+      "chemistry",
+      "teacher",
+      "periodic table",
+      "trust",
+      "wordplay",
+      "elements",
+      "lying"
+    ]
+  },
+  {
+    "id": 1333,
+    "setup": "Why did the student fail the electricity test?",
+    "punchline": "Because he didn't conduct himself properly!",
+    "categories": [
+      "school",
+      "science"
+    ],
+    "tags": [
+      "student",
+      "electricity",
+      "test",
+      "conduct",
+      "wordplay",
+      "failed",
+      "behavior"
+    ]
+  },
+  {
+    "id": 1334,
+    "setup": "What's a king's favorite subject?",
+    "punchline": "His subjects!",
+    "categories": [
+      "school",
+      "history"
+    ],
+    "tags": [
+      "king",
+      "subject",
+      "subjects",
+      "royalty",
+      "wordplay",
+      "ruling",
+      "people"
+    ]
+  },
+  {
+    "id": 1335,
+    "setup": "What do you call a dinosaur that knows a lot of synonyms?",
+    "punchline": "A thesaurus!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "dinosaur",
+      "synonyms",
+      "thesaurus",
+      "words",
+      "wordplay",
+      "reference",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 1336,
+    "setup": "Why did the computer go to the school nurse?",
+    "punchline": "Because it had a virus!",
+    "categories": [
+      "school",
+      "technology"
+    ],
+    "tags": [
+      "computer",
+      "nurse",
+      "virus",
+      "sick",
+      "wordplay",
+      "tech",
+      "health"
+    ]
+  },
+  {
+    "id": 1337,
+    "setup": "Why did the atom fail its exam?",
+    "punchline": "Because it lost an electron and was positive it got nothing right!",
+    "categories": [
+      "school",
+      "science"
+    ],
+    "tags": [
+      "atom",
+      "exam",
+      "electron",
+      "positive",
+      "wordplay",
+      "chemistry",
+      "physics"
+    ]
+  },
+  {
+    "id": 1338,
+    "setup": "What do you get when you cross a teacher with a vampire?",
+    "punchline": "Lots of blood tests!",
+    "categories": [
+      "school",
+      "fantasy"
+    ],
+    "tags": [
+      "teacher",
+      "vampire",
+      "blood tests",
+      "exams",
+      "wordplay",
+      "scary",
+      "grading"
+    ]
+  },
+  {
+    "id": 1339,
+    "setup": "Why did the sun not go to college?",
+    "punchline": "Because it already had a million degrees!",
+    "categories": [
+      "school",
+      "science"
+    ],
+    "tags": [
+      "sun",
+      "college",
+      "degrees",
+      "temperature",
+      "wordplay",
+      "education",
+      "hot"
+    ]
+  },
+  {
+    "id": 1340,
+    "setup": "Why was the geometry class always tired?",
+    "punchline": "Because it had acute angles!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "geometry",
+      "tired",
+      "acute",
+      "angles",
+      "wordplay",
+      "math",
+      "cute"
+    ]
+  },
+  {
+    "id": 1341,
+    "setup": "Why did the art class go outside?",
+    "punchline": "To draw some fresh air!",
+    "categories": [
+      "school",
+      "outdoors"
+    ],
+    "tags": [
+      "art class",
+      "outside",
+      "draw",
+      "fresh air",
+      "wordplay",
+      "painting",
+      "nature"
+    ]
+  },
+  {
+    "id": 1342,
+    "setup": "What do you call a fish that teaches school?",
+    "punchline": "The head of the school!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "fish",
+      "teaches",
+      "head",
+      "school of fish",
+      "wordplay",
+      "leader",
+      "ocean"
+    ]
+  },
+  {
+    "id": 1343,
+    "setup": "Why was the calendar so popular at school?",
+    "punchline": "Because it had a lot of dates!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "calendar",
+      "popular",
+      "dates",
+      "romance",
+      "wordplay",
+      "schedule",
+      "social"
+    ]
+  },
+  {
+    "id": 1344,
+    "setup": "What did the French teacher say to the cheese?",
+    "punchline": "Brie yourself for a lesson!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "french teacher",
+      "cheese",
+      "brie",
+      "lesson",
+      "wordplay",
+      "language",
+      "prepare"
+    ]
+  },
+  {
+    "id": 1345,
+    "setup": "Why did the PE teacher go to the bank?",
+    "punchline": "To check his balance!",
+    "categories": [
+      "school",
+      "sports"
+    ],
+    "tags": [
+      "pe teacher",
+      "bank",
+      "balance",
+      "gymnastics",
+      "wordplay",
+      "money",
+      "exercise"
+    ]
+  },
+  {
+    "id": 1346,
+    "setup": "What's a vampire's favorite class?",
+    "punchline": "Bite-ology!",
+    "categories": [
+      "school",
+      "fantasy"
+    ],
+    "tags": [
+      "vampire",
+      "class",
+      "biology",
+      "bite",
+      "wordplay",
+      "scary",
+      "science"
+    ]
+  },
+  {
+    "id": 1347,
+    "setup": "Why did the dog do so well in school?",
+    "punchline": "Because he was the teacher's pet!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "dog",
+      "school",
+      "teacher's pet",
+      "favorite",
+      "wordplay",
+      "student",
+      "success"
+    ]
+  },
+  {
+    "id": 1348,
+    "setup": "Why won't the elephant use the computer at school?",
+    "punchline": "He's afraid of the mouse!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "elephant",
+      "computer",
+      "mouse",
+      "afraid",
+      "wordplay",
+      "technology",
+      "animal"
+    ]
+  },
+  {
+    "id": 1349,
+    "setup": "Why did the comma break up with the apostrophe?",
+    "punchline": "Because it was too possessive!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "comma",
+      "apostrophe",
+      "possessive",
+      "grammar",
+      "wordplay",
+      "punctuation",
+      "relationship"
+    ]
+  },
+  {
+    "id": 1350,
+    "setup": "What's a tree's favorite subject?",
+    "punchline": "Twigonometry!",
+    "categories": [
+      "school",
+      "outdoors"
+    ],
+    "tags": [
+      "tree",
+      "subject",
+      "trigonometry",
+      "twig",
+      "wordplay",
+      "math",
+      "nature"
+    ]
+  },
+  {
+    "id": 1351,
+    "setup": "Why did the spider go to school?",
+    "punchline": "Because it wanted to be a web designer!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "spider",
+      "school",
+      "web designer",
+      "internet",
+      "wordplay",
+      "technology",
+      "insects"
+    ]
+  },
+  {
+    "id": 1352,
+    "setup": "How was the Roman Empire cut in half?",
+    "punchline": "With a pair of Caesars!",
+    "categories": [
+      "school",
+      "history"
+    ],
+    "tags": [
+      "roman empire",
+      "cut",
+      "caesar",
+      "scissors",
+      "wordplay",
+      "history",
+      "ancient"
+    ]
+  },
+  {
+    "id": 1353,
+    "setup": "Why did the book join the police force?",
+    "punchline": "Because it wanted to go undercover!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "book",
+      "police",
+      "undercover",
+      "cover",
+      "wordplay",
+      "reading",
+      "detective"
+    ]
+  },
+  {
+    "id": 1354,
+    "setup": "What's a penguin's favorite class?",
+    "punchline": "Ice-onomics!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "penguin",
+      "class",
+      "economics",
+      "ice",
+      "wordplay",
+      "cold",
+      "subject"
+    ]
+  },
+  {
+    "id": 1355,
+    "setup": "Why did the student bring a mirror to the exam?",
+    "punchline": "For some self-reflection!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "student",
+      "mirror",
+      "exam",
+      "reflection",
+      "wordplay",
+      "test",
+      "thinking"
+    ]
+  },
+  {
+    "id": 1356,
+    "setup": "What kind of shoes do frogs wear to school?",
+    "punchline": "Open-toad!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "frogs",
+      "shoes",
+      "open-toed",
+      "toad",
+      "wordplay",
+      "footwear",
+      "amphibian"
+    ]
+  },
+  {
+    "id": 1357,
+    "setup": "Why did the teacher go to the beach during class?",
+    "punchline": "She wanted to test the waters!",
+    "categories": [
+      "school",
+      "outdoors"
+    ],
+    "tags": [
+      "teacher",
+      "beach",
+      "test",
+      "waters",
+      "wordplay",
+      "ocean",
+      "trying"
+    ]
+  },
+  {
+    "id": 1358,
+    "setup": "What's an egg's least favorite day at school?",
+    "punchline": "Fry-day!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "egg",
+      "day",
+      "friday",
+      "fry",
+      "wordplay",
+      "cooking",
+      "weekend"
+    ]
+  },
+  {
+    "id": 1359,
+    "setup": "What vegetables do librarians love?",
+    "punchline": "Quiet peas!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "librarian",
+      "vegetables",
+      "quiet",
+      "peas",
+      "please",
+      "wordplay",
+      "library"
+    ]
+  },
+  {
+    "id": 1360,
+    "setup": "Why won't mathematicians sunbathe?",
+    "punchline": "Because they can use sin and cos to get a tan!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "mathematicians",
+      "sunbathe",
+      "sin",
+      "cos",
+      "tan",
+      "wordplay",
+      "trigonometry"
+    ]
+  },
+  {
+    "id": 1361,
+    "setup": "What did the science book say to the math book?",
+    "punchline": "You've got problems!",
+    "categories": [
+      "school",
+      "music"
+    ],
+    "tags": [
+      "science",
+      "math",
+      "problems",
+      "books",
+      "wordplay",
+      "subjects",
+      "troubles"
+    ]
+  },
+  {
+    "id": 1362,
+    "setup": "What do you call a dinosaur with straight A's?",
+    "punchline": "A dino-mite student!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "dinosaur",
+      "straight-a",
+      "dynamite",
+      "smart",
+      "wordplay",
+      "student",
+      "grades"
+    ]
+  },
+  {
+    "id": 1363,
+    "setup": "What did the student say when the homework wasn't done?",
+    "punchline": "I did some baking - synonym rolls just like grammar used to make!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "student",
+      "homework",
+      "synonym rolls",
+      "cinnamon",
+      "wordplay",
+      "grammar",
+      "baking"
+    ]
+  },
+  {
+    "id": 1364,
+    "setup": "What's a dentist's favorite time at school?",
+    "punchline": "Tooth-hurty!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "dentist",
+      "time",
+      "tooth",
+      "2:30",
+      "wordplay",
+      "teeth",
+      "schedule"
+    ]
+  },
+  {
+    "id": 1365,
+    "setup": "Why did the man get fired from his job at the keyboard factory?",
+    "punchline": "He wasn't putting in enough shifts!",
+    "categories": [
+      "school",
+      "technology"
+    ],
+    "tags": [
+      "keyboard",
+      "work",
+      "shifts",
+      "wordplay",
+      "tech",
+      "computer",
+      "job"
+    ]
+  },
+  {
+    "id": 1366,
+    "setup": "What did the calculator say to the student?",
+    "punchline": "You can count on me!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "calculator",
+      "student",
+      "count",
+      "rely",
+      "wordplay",
+      "math",
+      "trust"
+    ]
+  },
+  {
+    "id": 1367,
+    "setup": "Why did the student study on an airplane?",
+    "punchline": "Because he wanted a higher education!",
+    "categories": [
+      "school",
+      "travel"
+    ],
+    "tags": [
+      "student",
+      "airplane",
+      "higher education",
+      "flying",
+      "wordplay",
+      "studying",
+      "altitude"
+    ]
+  },
+  {
+    "id": 1368,
+    "setup": "What's a door's favorite part of school?",
+    "punchline": "The entrance exam!",
+    "categories": [
+      "school",
+      "home"
+    ],
+    "tags": [
+      "door",
+      "school",
+      "entrance exam",
+      "opening",
+      "wordplay",
+      "test",
+      "admission"
+    ]
+  },
+  {
+    "id": 1369,
+    "setup": "Why didn't the dinosaur want to go back to school?",
+    "punchline": "She was a nervous rex!",
+    "categories": [
+      "school",
+      "outdoors"
+    ],
+    "tags": [
+      "dinosaur",
+      "school",
+      "nervous",
+      "rex",
+      "wordplay",
+      "anxious",
+      "prehistoric"
+    ]
+  },
+  {
+    "id": 1370,
+    "setup": "What happened when the past, present, and future walked into class?",
+    "punchline": "It was tense!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "past",
+      "present",
+      "future",
+      "tense",
+      "wordplay",
+      "grammar",
+      "english"
+    ]
+  },
+  {
+    "id": 1371,
+    "setup": "Why was the globe so good at school?",
+    "punchline": "Because it was very well-rounded!",
+    "categories": [
+      "school",
+      "geography"
+    ],
+    "tags": [
+      "globe",
+      "school",
+      "well-rounded",
+      "sphere",
+      "wordplay",
+      "geography",
+      "educated"
+    ]
+  },
+  {
+    "id": 1372,
+    "setup": "What do you call bread that's good at English?",
+    "punchline": "A pun-pernickel!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "bread",
+      "english",
+      "pun",
+      "pumpernickel",
+      "wordplay",
+      "language",
+      "baking"
+    ]
+  },
+  {
+    "id": 1373,
+    "setup": "Why did the protractor break up with the ruler?",
+    "punchline": "Because it found someone with more degrees!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "protractor",
+      "ruler",
+      "degrees",
+      "angles",
+      "wordplay",
+      "measuring",
+      "relationship"
+    ]
+  },
+  {
+    "id": 1374,
+    "setup": "What do you call a bear stuck in the rain at school?",
+    "punchline": "A drizzly bear!",
+    "categories": [
+      "school",
+      "animals"
+    ],
+    "tags": [
+      "bear",
+      "rain",
+      "drizzly",
+      "grizzly",
+      "wordplay",
+      "weather",
+      "wet"
+    ]
+  },
+  {
+    "id": 1375,
+    "setup": "What do you do if a teacher rolls her eyes at you?",
+    "punchline": "Pick them up and roll them back!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "teacher",
+      "eyes",
+      "roll",
+      "wordplay",
+      "expression",
+      "funny",
+      "response"
+    ]
+  },
+  {
+    "id": 1376,
+    "setup": "What do you call a teacher with no arms, no legs, and no body?",
+    "punchline": "The head of the department!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "teacher",
+      "head",
+      "department",
+      "body",
+      "wordplay",
+      "leader",
+      "riddle"
+    ]
+  },
+  {
+    "id": 1377,
+    "setup": "Why did the student eat his flash cards?",
+    "punchline": "Because his teacher said they were food for thought!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "student",
+      "flash cards",
+      "eating",
+      "food for thought",
+      "wordplay",
+      "studying",
+      "memory"
+    ]
+  },
+  {
+    "id": 1378,
+    "setup": "What did the ghost teacher say to the class?",
+    "punchline": "Look at the board and I will go through it again!",
+    "categories": [
+      "school",
+      "fantasy"
+    ],
+    "tags": [
+      "ghost",
+      "teacher",
+      "board",
+      "through",
+      "wordplay",
+      "spooky",
+      "classroom"
+    ]
+  },
+  {
+    "id": 1379,
+    "setup": "Why did the music teacher get in trouble?",
+    "punchline": "Because she got caught with too many sharp objects!",
+    "categories": [
+      "school",
+      "music"
+    ],
+    "tags": [
+      "music teacher",
+      "jail",
+      "sharp",
+      "notes",
+      "wordplay",
+      "school",
+      "instruments"
+    ]
+  },
+  {
+    "id": 1380,
+    "setup": "What's a tornado's favorite game at recess?",
+    "punchline": "Twister!",
+    "categories": [
+      "school",
+      "outdoors"
+    ],
+    "tags": [
+      "tornado",
+      "game",
+      "twister",
+      "recess",
+      "wordplay",
+      "weather",
+      "playing"
+    ]
+  },
+  {
+    "id": 1381,
+    "setup": "Why do pirates love school?",
+    "punchline": "Because they can always find X!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "pirates",
+      "school",
+      "x",
+      "algebra",
+      "wordplay",
+      "treasure",
+      "math"
+    ]
+  },
+  {
+    "id": 1382,
+    "setup": "What did the student say after studying herbs?",
+    "punchline": "That was a thyme well spent!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "student",
+      "herbs",
+      "thyme",
+      "time",
+      "wordplay",
+      "studying",
+      "cooking"
+    ]
+  },
+  {
+    "id": 1383,
+    "setup": "Why did the school newspaper get an award?",
+    "punchline": "Because it had great circulation!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "newspaper",
+      "award",
+      "circulation",
+      "distribution",
+      "wordplay",
+      "journalism",
+      "success"
+    ]
+  },
+  {
+    "id": 1384,
+    "setup": "What's a carpenter's favorite subject?",
+    "punchline": "Woodshop... they really nailed it!",
+    "categories": [
+      "school",
+      "work"
+    ],
+    "tags": [
+      "carpenter",
+      "subject",
+      "woodshop",
+      "nailed",
+      "wordplay",
+      "building",
+      "success"
+    ]
+  },
+  {
+    "id": 1385,
+    "setup": "Why did the dictionary get detention?",
+    "punchline": "Because it had too many bad words!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "dictionary",
+      "detention",
+      "bad words",
+      "trouble",
+      "wordplay",
+      "reference",
+      "vocabulary"
+    ]
+  },
+  {
+    "id": 1386,
+    "setup": "What did the math teacher order for dessert?",
+    "punchline": "Pi!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "math teacher",
+      "dessert",
+      "pi",
+      "pie",
+      "wordplay",
+      "math",
+      "eating"
+    ]
+  },
+  {
+    "id": 1387,
+    "setup": "Parallel lines have so much in common.",
+    "punchline": "It's a shame they'll never meet!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "parallel",
+      "lines",
+      "meet",
+      "geometry",
+      "wordplay",
+      "math",
+      "relationships"
+    ]
+  },
+  {
+    "id": 1388,
+    "setup": "What's a shoe's favorite subject?",
+    "punchline": "Footnotes!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "shoe",
+      "subject",
+      "footnotes",
+      "feet",
+      "wordplay",
+      "reading",
+      "research"
+    ]
+  },
+  {
+    "id": 1389,
+    "setup": "How did the barber win the race?",
+    "punchline": "He knew a shortcut!",
+    "categories": [
+      "school",
+      "work"
+    ],
+    "tags": [
+      "barber",
+      "race",
+      "shortcut",
+      "hair",
+      "wordplay",
+      "winning",
+      "cutting"
+    ]
+  },
+  {
+    "id": 1390,
+    "setup": "What did the period say to the sentence?",
+    "punchline": "We have to stop meeting like this!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "period",
+      "sentence",
+      "stop",
+      "meeting",
+      "wordplay",
+      "grammar",
+      "punctuation"
+    ]
+  },
+  {
+    "id": 1391,
+    "setup": "What is smarter, longitude or latitude?",
+    "punchline": "Longitude, because it has 360 degrees!",
+    "categories": [
+      "school",
+      "geography"
+    ],
+    "tags": [
+      "education",
+      "degree",
+      "college",
+      "smart",
+      "wordplay"
+    ]
+  },
+  {
+    "id": 1392,
+    "setup": "Why was the equal sign so humble?",
+    "punchline": "Because it knew it wasn't greater than or less than anyone else!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "equal sign",
+      "humble",
+      "math",
+      "greater than",
+      "wordplay",
+      "symbols",
+      "equality"
+    ]
+  },
+  {
+    "id": 1393,
+    "setup": "Why did the geography student bring a boat to class?",
+    "punchline": "Because they were studying current events!",
+    "categories": [
+      "school",
+      "geography"
+    ],
+    "tags": [
+      "geography",
+      "student",
+      "boat",
+      "current",
+      "wordplay",
+      "water",
+      "news"
+    ]
+  },
+  {
+    "id": 1394,
+    "setup": "What did the scissors say to the construction paper?",
+    "punchline": "Let's cut to the chase!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "scissors",
+      "construction paper",
+      "cut",
+      "chase",
+      "wordplay",
+      "art",
+      "supplies"
+    ]
+  },
+  {
+    "id": 1395,
+    "setup": "Why did the substitute teacher bring string?",
+    "punchline": "In case she had to tie up loose ends!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "substitute teacher",
+      "string",
+      "loose ends",
+      "finishing",
+      "wordplay",
+      "temporary",
+      "completing"
+    ]
+  },
+  {
+    "id": 1396,
+    "setup": "Why did the student take a clock to lunch?",
+    "punchline": "Because it was time to eat!",
+    "categories": [
+      "school",
+      "food"
+    ],
+    "tags": [
+      "student",
+      "clock",
+      "lunch",
+      "time",
+      "wordplay",
+      "eating",
+      "schedule"
+    ]
+  },
+  {
+    "id": 1397,
+    "setup": "Why do math teachers love parks?",
+    "punchline": "Because of all the natural logs!",
+    "categories": [
+      "school",
+      "math"
+    ],
+    "tags": [
+      "math teachers",
+      "parks",
+      "natural logs",
+      "ln",
+      "wordplay",
+      "calculus",
+      "nature"
+    ]
+  },
+  {
+    "id": 1398,
+    "setup": "What do librarians take swimming?",
+    "punchline": "A bookworm!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "librarian",
+      "swimming",
+      "bookworm",
+      "worm",
+      "wordplay",
+      "library",
+      "reading"
+    ]
+  },
+  {
+    "id": 1399,
+    "setup": "Why did the student bring sunglasses to school?",
+    "punchline": "Because his teacher said he had a bright future!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "student",
+      "sunglasses",
+      "school",
+      "bright future",
+      "wordplay",
+      "success",
+      "confident"
+    ]
+  },
+  {
+    "id": 1400,
+    "setup": "Why was the scarecrow a great student?",
+    "punchline": "Because he was outstanding in his field!",
+    "categories": [
+      "school"
+    ],
+    "tags": [
+      "scarecrow",
+      "student",
+      "outstanding",
+      "field",
+      "wordplay",
+      "success",
+      "farm"
+    ]
+  },
     {
       "id": 1401,
       "setup": "Why can't you trust atoms?",
