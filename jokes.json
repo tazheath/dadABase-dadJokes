@@ -13974,20 +13974,20 @@
   },
   {
     "id": 802,
-    "setup": "What do you call a turkey on the day after Thanksgiving?",
-    "punchline": "Lucky!",
+    "setup": "What kind of music did the Pilgrims like?",
+    "punchline": "Plymouth Rock!",
     "categories": [
       "holidays",
-      "food"
+      "music"
     ],
     "tags": [
-      "turkey",
-      "thanksgiving",
-      "lucky",
-      "survived",
+      "pilgrims",
+      "music",
+      "plymouth rock",
+      "rock",
       "wordplay",
-      "dinner",
-      "november"
+      "thanksgiving",
+      "history"
     ]
   },
   {
@@ -14080,19 +14080,19 @@
   },
   {
     "id": 808,
-    "setup": "What's the best thing to put into a Christmas cake?",
-    "punchline": "Your teeth!",
+    "setup": "What did the Pilgrims use to make cookies?",
+    "punchline": "May-flour!",
     "categories": [
       "holidays",
       "food"
     ],
     "tags": [
-      "christmas",
-      "cake",
-      "teeth",
-      "eating",
+      "pilgrims",
+      "cookies",
+      "mayflower",
+      "flour",
       "wordplay",
-      "dessert",
+      "thanksgiving",
       "baking"
     ]
   },
@@ -14220,19 +14220,19 @@
   },
   {
     "id": 816,
-    "setup": "What did the Christmas tree say to the ornament?",
-    "punchline": "Quit hanging around!",
+    "setup": "What do you call a child who doesn't believe in Santa?",
+    "punchline": "A rebel without a Claus!",
     "categories": [
       "holidays"
     ],
     "tags": [
-      "christmas tree",
-      "ornament",
-      "hanging",
-      "decorations",
+      "child",
+      "santa",
+      "rebel",
+      "claus",
+      "cause",
       "wordplay",
-      "december",
-      "tree"
+      "christmas"
     ]
   },
   {
@@ -14272,19 +14272,20 @@
   },
   {
     "id": 819,
-    "setup": "What do you call a child who doesn't believe in Santa?",
-    "punchline": "A rebel without a Claus!",
+    "setup": "Why don't reindeer like picnics?",
+    "punchline": "Because of all their ant-lures!",
     "categories": [
-      "holidays"
+      "holidays",
+      "animals"
     ],
     "tags": [
-      "child",
-      "santa",
-      "rebel",
-      "claus",
-      "cause",
+      "reindeer",
+      "picnics",
+      "antlers",
+      "ants",
       "wordplay",
-      "christmas"
+      "christmas",
+      "outdoors"
     ]
   },
   {
@@ -14342,20 +14343,20 @@
   },
   {
     "id": 823,
-    "setup": "Why don't reindeer like picnics?",
-    "punchline": "Because of all their ant-lures!",
+    "setup": "Where does Santa stay when he's on vacation?",
+    "punchline": "At a ho-ho-ho-tel!",
     "categories": [
       "holidays",
-      "animals"
+      "travel"
     ],
     "tags": [
-      "reindeer",
-      "picnics",
-      "antlers",
-      "ants",
+      "santa",
+      "vacation",
+      "hotel",
+      "ho ho ho",
       "wordplay",
       "christmas",
-      "outdoors"
+      "travel"
     ]
   },
   {
@@ -14785,20 +14786,19 @@
   },
   {
     "id": 848,
-    "setup": "What did the broom say on New Year's Eve?",
-    "punchline": "Time to sweep out the old and ring in the new!",
+    "setup": "What happened to the man who shoplifted a calendar on New Year's Eve?",
+    "punchline": "He got twelve months!",
     "categories": [
-      "holidays",
-      "home"
+      "holidays"
     ],
     "tags": [
-      "broom",
+      "calendar",
       "new year",
-      "sweep",
-      "ring in",
+      "twelve months",
+      "sentence",
       "wordplay",
-      "cleaning",
-      "midnight"
+      "jail",
+      "time"
     ]
   },
   {
@@ -15084,20 +15084,20 @@
   },
   {
     "id": 865,
-    "setup": "Where does Santa stay when he's on vacation?",
-    "punchline": "At a ho-ho-ho-tel!",
+    "setup": "What did the beaver say to the Christmas tree?",
+    "punchline": "Nice gnawing you!",
     "categories": [
       "holidays",
-      "travel"
+      "animals"
     ],
     "tags": [
-      "santa",
-      "vacation",
-      "hotel",
-      "ho ho ho",
+      "beaver",
+      "christmas tree",
+      "gnawing",
+      "knowing",
       "wordplay",
-      "christmas",
-      "travel"
+      "winter",
+      "meeting"
     ]
   },
   {
@@ -15137,55 +15137,55 @@
   },
   {
     "id": 868,
-    "setup": "What did the flag say on Independence Day?",
-    "punchline": "Nothing, it just waved!",
+    "setup": "What do you call a line of rabbits walking backwards?",
+    "punchline": "A receding hare-line!",
     "categories": [
-      "holidays"
+      "holidays",
+      "animals"
     ],
     "tags": [
-      "flag",
-      "independence day",
-      "wave",
-      "fourth of july",
+      "rabbits",
+      "walking",
+      "receding",
+      "hairline",
       "wordplay",
-      "america",
-      "patriotic"
+      "easter",
+      "bald"
     ]
   },
   {
     "id": 869,
-    "setup": "What did the beaver say to the Christmas tree?",
-    "punchline": "Nice gnawing you!",
+    "setup": "Where does Santa keep all his money?",
+    "punchline": "At the snow bank!",
     "categories": [
-      "holidays",
-      "animals"
+      "holidays"
     ],
     "tags": [
-      "beaver",
-      "christmas tree",
-      "gnawing",
-      "knowing",
+      "santa",
+      "money",
+      "snow bank",
+      "bank",
       "wordplay",
-      "winter",
-      "meeting"
+      "christmas",
+      "savings"
     ]
   },
   {
     "id": 870,
-    "setup": "What do you call a rabbit that tells jokes on Easter?",
-    "punchline": "A funny bunny!",
+    "setup": "Where does the Easter Bunny go for a new tail?",
+    "punchline": "To the retail store!",
     "categories": [
       "holidays",
       "animals"
     ],
     "tags": [
-      "rabbit",
-      "easter",
-      "jokes",
-      "funny bunny",
+      "easter bunny",
+      "tail",
+      "retail",
+      "store",
       "wordplay",
-      "spring",
-      "humor"
+      "shopping",
+      "spring"
     ]
   },
   {
@@ -15241,19 +15241,20 @@
   },
   {
     "id": 874,
-    "setup": "What do you call an old snowman?",
-    "punchline": "Water!",
+    "setup": "What do you get when you pour hot water into a rabbit hole?",
+    "punchline": "Hot cross bunnies!",
     "categories": [
-      "holidays"
+      "holidays",
+      "animals"
     ],
     "tags": [
-      "snowman",
-      "old",
-      "water",
-      "melted",
+      "rabbit",
+      "hot water",
+      "hot cross buns",
+      "bunnies",
       "wordplay",
-      "winter",
-      "age"
+      "easter",
+      "angry"
     ]
   },
   {
@@ -15436,19 +15437,19 @@
   },
   {
     "id": 885,
-    "setup": "Where does Santa keep all his money?",
-    "punchline": "At the snow bank!",
+    "setup": "Why do mummies love Christmas?",
+    "punchline": "Because there's so much wrapping!",
     "categories": [
       "holidays"
     ],
     "tags": [
-      "santa",
-      "money",
-      "snow bank",
-      "bank",
-      "wordplay",
+      "mummies",
       "christmas",
-      "savings"
+      "wrapping",
+      "bandages",
+      "wordplay",
+      "gifts",
+      "halloween"
     ]
   },
   {
@@ -15506,18 +15507,18 @@
   },
   {
     "id": 889,
-    "setup": "Why do mummies love Christmas?",
-    "punchline": "Because there's so much wrapping!",
+    "setup": "What do you get when you cross a turkey with a ghost?",
+    "punchline": "A poultrygeist!",
     "categories": [
       "holidays"
     ],
     "tags": [
-      "mummies",
-      "christmas",
-      "wrapping",
-      "bandages",
+      "turkey",
+      "ghost",
+      "poltergeist",
+      "poultry",
       "wordplay",
-      "gifts",
+      "thanksgiving",
       "halloween"
     ]
   },
@@ -15541,19 +15542,20 @@
   },
   {
     "id": 891,
-    "setup": "Why did the Easter basket feel important?",
-    "punchline": "Because it was carrying a lot of eggs-pectations!",
+    "setup": "Why is the Easter Bunny such a good listener?",
+    "punchline": "Because he's all ears!",
     "categories": [
-      "holidays"
+      "holidays",
+      "animals"
     ],
     "tags": [
-      "easter basket",
-      "important",
-      "eggs",
-      "expectations",
+      "easter bunny",
+      "listener",
+      "ears",
+      "rabbit",
       "wordplay",
       "spring",
-      "carrying"
+      "hearing"
     ]
   },
   {
@@ -15575,20 +15577,19 @@
   },
   {
     "id": 893,
-    "setup": "Why did the nutcracker go to the gym?",
-    "punchline": "To work on his crack!",
+    "setup": "What kind of jewelry does the Easter Bunny wear?",
+    "punchline": "14 carrot gold!",
     "categories": [
-      "holidays",
-      "sports"
+      "holidays"
     ],
     "tags": [
-      "nutcracker",
-      "gym",
-      "crack",
-      "nuts",
+      "easter bunny",
+      "jewelry",
+      "carrot",
+      "carat",
+      "gold",
       "wordplay",
-      "christmas",
-      "exercise"
+      "spring"
     ]
   },
   {
@@ -15629,20 +15630,20 @@
   },
   {
     "id": 896,
-    "setup": "What did the gingerbread house say to the gingerbread man?",
-    "punchline": "You're one smart cookie!",
+    "setup": "What do you call a mischievous Easter egg?",
+    "punchline": "A practical yolker!",
     "categories": [
       "holidays",
       "food"
     ],
     "tags": [
-      "gingerbread house",
-      "gingerbread man",
-      "smart cookie",
-      "christmas",
+      "easter egg",
+      "mischievous",
+      "yolker",
+      "joker",
       "wordplay",
-      "baking",
-      "compliment"
+      "spring",
+      "pranks"
     ]
   },
   {
@@ -15683,19 +15684,20 @@
   },
   {
     "id": 899,
-    "setup": "Why did the Christmas tree go to the barber?",
-    "punchline": "It needed to be trimmed!",
+    "setup": "Where does the Easter Bunny study medicine?",
+    "punchline": "Johns Hopkin's!",
     "categories": [
-      "holidays"
+      "holidays",
+      "school"
     ],
     "tags": [
-      "christmas tree",
-      "barber",
-      "trimmed",
-      "haircut",
+      "easter bunny",
+      "medicine",
+      "johns hopkins",
+      "hopping",
       "wordplay",
-      "decorations",
-      "december"
+      "university",
+      "spring"
     ]
   },
   {
