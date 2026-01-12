@@ -7005,1766 +7005,1764 @@
       ]
     },
     {
-      "id": 401,
-      "setup": "Why did the unicorn go to the therapist?",
-      "punchline": "Because it was feeling a little horse!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "unicorn",
-        "therapist",
-        "horse",
-        "hoarse",
-        "magical",
-        "mythical",
-        "wordplay"
-      ]
-    },
-    {
-      "id": 402,
-      "setup": "What do you call a fairy that doesn't take a bath?",
-      "punchline": "Stinker Bell!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "fairy",
-        "tinker bell",
-        "bath",
-        "smelly",
-        "wordplay",
-        "disney",
-        "hygiene"
-      ]
-    },
-    {
-      "id": 403,
-      "setup": "What do you call a dragon that loves to read?",
-      "punchline": "A book wyrm!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "dragons",
-        "reading",
-        "bookworm",
-        "wyrm",
-        "wordplay",
-        "mythical",
-        "books"
-      ]
-    },
-    {
-      "id": 404,
-      "setup": "What do you call a wizard who's really good at golf?",
-      "punchline": "Harry Putter!",
-      "categories": [
-        "fantasy",
-        "sports"
-      ],
-      "tags": [
-        "wizard",
-        "golf",
-        "harry potter",
-        "putter",
-        "wordplay",
-        "magic",
-        "sports"
-      ]
-    },
-    {
-      "id": 405,
-      "setup": "Why did the leprechaun turn down the job?",
-      "punchline": "The pay was too low - he wanted more gold!",
-      "categories": [
-        "fantasy",
-        "work"
-      ],
-      "tags": [
-        "leprechaun",
-        "job",
-        "gold",
-        "irish",
-        "wordplay",
-        "money",
-        "pot of gold"
-      ]
-    },
-    {
-      "id": 406,
-      "setup": "What's a mermaid's favorite subject in school?",
-      "punchline": "Algae-bra!",
-      "categories": [
-        "fantasy",
-        "school"
-      ],
-      "tags": [
-        "mermaid",
-        "school",
-        "algebra",
-        "algae",
-        "wordplay",
-        "math",
-        "ocean"
-      ]
-    },
-    {
-      "id": 407,
-      "setup": "Why did the troll start a podcast?",
-      "punchline": "Because he was great at living under bridges... and the internet!",
-      "categories": [
-        "fantasy",
-        "technology"
-      ],
-      "tags": [
-        "troll",
-        "podcast",
-        "bridge",
-        "internet troll",
-        "wordplay",
-        "mythical",
-        "online"
-      ]
-    },
-    {
-      "id": 408,
-      "setup": "What do you call a unicorn with no horn?",
-      "punchline": "A horse with a great imagination!",
-      "categories": [
-        "fantasy",
-        "animals"
-      ],
-      "tags": [
-        "unicorn",
-        "horn",
-        "horse",
-        "imagination",
-        "wordplay",
-        "mythical",
-        "pretend"
-      ]
-    },
-    {
-      "id": 409,
-      "setup": "Why did the elf go to therapy?",
-      "punchline": "He had low shelf esteem!",
-      "categories": [
-        "fantasy",
-        "work"
-      ],
-      "tags": [
-        "elf",
-        "therapy",
-        "shelf",
-        "self-esteem",
-        "wordplay",
-        "short",
-        "mental health"
-      ]
-    },
-    {
-      "id": 410,
-      "setup": "What does a dragon call a knight in armor?",
-      "punchline": "Canned food!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "dragon",
-        "knight",
-        "armor",
-        "canned",
-        "wordplay",
-        "mythical",
-        "eating"
-      ]
-    },
-    {
-      "id": 411,
-      "setup": "Why don't witches wear flat hats?",
-      "punchline": "Because there's no point!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "witches",
-        "hats",
-        "pointy",
-        "point",
-        "wordplay",
-        "magic",
-        "fashion"
-      ]
-    },
-    {
-      "id": 412,
-      "setup": "What's a ghost's favorite dessert?",
-      "punchline": "Boo-berry pie!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "ghost",
-        "dessert",
-        "blueberry",
-        "boo",
-        "wordplay",
-        "spooky",
-        "pie"
-      ]
-    },
-    {
-      "id": 413,
-      "setup": "Why did the phoenix make a terrible employee?",
-      "punchline": "Because it kept getting fired!",
-      "categories": [
-        "fantasy",
-        "work"
-      ],
-      "tags": [
-        "phoenix",
-        "employee",
-        "fired",
-        "fire",
-        "wordplay",
-        "mythical",
-        "job"
-      ]
-    },
-    {
-      "id": 414,
-      "setup": "What do you call a magical dog?",
-      "punchline": "A Labracadabrador!",
-      "categories": [
-        "fantasy",
-        "animals"
-      ],
-      "tags": [
-        "dog",
-        "magic",
-        "labrador",
-        "abracadabra",
-        "wordplay",
-        "pets",
-        "spells"
-      ]
-    },
-    {
-      "id": 415,
-      "setup": "Why did the vampire go to art school?",
-      "punchline": "Because he wanted to learn how to draw blood!",
-      "categories": [
-        "fantasy",
-        "school"
-      ],
-      "tags": [
-        "vampire",
-        "art school",
-        "draw",
-        "blood",
-        "wordplay",
-        "spooky",
-        "learning"
-      ]
-    },
-    {
-      "id": 416,
-      "setup": "What do you call a fairy that never cleans?",
-      "punchline": "Dust-inkerbell!",
-      "categories": [
-        "fantasy",
-        "home"
-      ],
-      "tags": [
-        "fairy",
-        "cleaning",
-        "dust",
-        "tinker bell",
-        "wordplay",
-        "messy",
-        "housework"
-      ]
-    },
-    {
-      "id": 417,
-      "setup": "Why did the dragon refuse to share his treasure?",
-      "punchline": "Because he was a little hoard-y!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "dragon",
-        "treasure",
-        "hoard",
-        "greedy",
-        "wordplay",
-        "mythical",
-        "gold"
-      ]
-    },
-    {
-      "id": 418,
-      "setup": "What do you call a wizard's nervous twitch?",
-      "punchline": "A spelling bee!",
-      "categories": [
-        "fantasy",
-        "school"
-      ],
-      "tags": [
-        "wizard",
-        "twitch",
-        "spelling",
-        "bee",
-        "wordplay",
-        "magic",
-        "spells"
-      ]
-    },
-    {
-      "id": 419,
-      "setup": "Why did the genie get in trouble at school?",
-      "punchline": "He kept granting wishes instead of doing his homework!",
-      "categories": [
-        "fantasy",
-        "school"
-      ],
-      "tags": [
-        "genie",
-        "school",
-        "wishes",
-        "homework",
-        "magic",
-        "aladdin",
-        "trouble"
-      ]
-    },
-    {
-      "id": 420,
-      "setup": "What's a dragon's favorite day of the week?",
-      "punchline": "Fry-day!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "dragon",
-        "friday",
-        "fry",
-        "fire",
-        "wordplay",
-        "days",
-        "breathing fire"
-      ]
-    },
-    {
-      "id": 421,
-      "setup": "Why did the mermaid blush?",
-      "punchline": "Because she saw the ocean's bottom!",
-      "categories": [
-        "fantasy",
-        "geography"
-      ],
-      "tags": [
-        "mermaid",
-        "blushing",
-        "ocean",
-        "bottom",
-        "wordplay",
-        "sea",
-        "embarrassed"
-      ]
-    },
-    {
-      "id": 422,
-      "setup": "What do you call a leprechaun who goes to jail?",
-      "punchline": "A lepre-con!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "leprechaun",
-        "jail",
-        "con",
-        "criminal",
-        "wordplay",
-        "irish",
-        "prisoner"
-      ]
-    },
-    {
-      "id": 423,
-      "setup": "Why don't centaurs ever win at poker?",
-      "punchline": "Because they always show their hand... and their hoof!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "centaur",
-        "poker",
-        "cards",
-        "hand",
-        "hoof",
-        "wordplay",
-        "mythical"
-      ]
-    },
-    {
-      "id": 424,
-      "setup": "What do you call a magical owl?",
-      "punchline": "Hoo-dini!",
-      "categories": [
-        "fantasy",
-        "animals"
-      ],
-      "tags": [
-        "owl",
-        "magic",
-        "houdini",
-        "hoo",
-        "wordplay",
-        "bird",
-        "magician"
-      ]
-    },
-    {
-      "id": 425,
-      "setup": "Why did the witch break up with the warlock?",
-      "punchline": "Because he was a poor spell-er!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "witch",
-        "warlock",
-        "breakup",
-        "spell",
-        "speller",
-        "wordplay",
-        "magic"
-      ]
-    },
-    {
-      "id": 426,
-      "setup": "Why do paladins wear chain mail?",
-      "punchline": "Because it's holey armor!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "paladin",
-        "armor",
-        "chain mail",
-        "holy",
-        "holes",
-        "wordplay",
-        "knight"
-      ]
-    },
-    {
-      "id": 427,
-      "setup": "Why did the elf refuse dessert?",
-      "punchline": "Because he was already stuffed from making toys!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "elf",
-        "dessert",
-        "stuffed",
-        "toys",
-        "christmas",
-        "wordplay",
-        "santa"
-      ]
-    },
-    {
-      "id": 428,
-      "setup": "What's a unicorn's favorite type of story?",
-      "punchline": "A fairy tale - they're myth-tifying!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "unicorn",
-        "story",
-        "fairy tale",
-        "myth",
-        "mystifying",
-        "wordplay",
-        "magical"
-      ]
-    },
-    {
-      "id": 429,
-      "setup": "Why did the sorcerer open a bakery?",
-      "punchline": "Because he was great at casting dough!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "sorcerer",
-        "bakery",
-        "casting",
-        "dough",
-        "wordplay",
-        "magic",
-        "baking"
-      ]
-    },
-    {
-      "id": 430,
-      "setup": "What do you call a wizard who failed magic school?",
-      "punchline": "A diss-illusionist!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "wizard",
-        "magic school",
-        "illusionist",
-        "failed",
-        "wordplay",
-        "spells",
-        "pun"
-      ]
-    },
-    {
-      "id": 431,
-      "setup": "Why don't dragons live very long?",
-      "punchline": "Because smoking is deadly!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "dragon",
-        "smoking",
-        "fire",
-        "health",
-        "wordplay",
-        "mythical",
-        "breathing"
-      ]
-    },
-    {
-      "id": 432,
-      "setup": "What do you call a sleeping witch?",
-      "punchline": "Broom-hilda!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "witch",
-        "sleeping",
-        "broom",
-        "broomhilda",
-        "wordplay",
-        "nap",
-        "magic"
-      ]
-    },
-    {
-      "id": 433,
-      "setup": "Why don't vampires have more friends?",
-      "punchline": "Because they're a pain in the neck!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "vampires",
-        "friends",
-        "neck",
-        "pain",
-        "wordplay",
-        "biting",
-        "spooky"
-      ]
-    },
-    {
-      "id": 434,
-      "setup": "What do you call a fairy who loves practical jokes?",
-      "punchline": "Tinker-prank!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "fairy",
-        "practical jokes",
-        "tinker bell",
-        "prank",
-        "wordplay",
-        "disney",
-        "funny"
-      ]
-    },
-    {
-      "id": 435,
-      "setup": "Why did the griffin get a job at the zoo?",
-      "punchline": "Because he was part eagle and part lion - he was over-qualified!",
-      "categories": [
-        "fantasy",
-        "work"
-      ],
-      "tags": [
-        "griffin",
-        "zoo",
-        "eagle",
-        "lion",
-        "qualified",
-        "job",
-        "mythical"
-      ]
-    },
-    {
-      "id": 436,
-      "setup": "What do you call a mermaid who can sing opera?",
-      "punchline": "A tune-a fish!",
-      "categories": [
-        "fantasy",
-        "music"
-      ],
-      "tags": [
-        "mermaid",
-        "opera",
-        "tuna",
-        "singing",
-        "wordplay",
-        "fish",
-        "musical"
-      ]
-    },
-    {
-      "id": 437,
-      "setup": "Why did the sorcerer carry a pencil?",
-      "punchline": "In case he needed to draw his wand!",
-      "categories": [
-        "fantasy",
-        "school"
-      ],
-      "tags": [
-        "sorcerer",
-        "pencil",
-        "draw",
-        "wand",
-        "wordplay",
-        "magic",
-        "writing"
-      ]
-    },
-    {
-      "id": 438,
-      "setup": "What's a ghost's favorite ride at the amusement park?",
-      "punchline": "The roller-ghoster!",
-      "categories": [
-        "fantasy",
-        "travel"
-      ],
-      "tags": [
-        "ghost",
-        "amusement park",
-        "roller coaster",
-        "wordplay",
-        "spooky",
-        "ride",
-        "fun"
-      ]
-    },
-    {
-      "id": 439,
-      "setup": "Why did the gnome become a banker?",
-      "punchline": "Because he was great with small change!",
-      "categories": [
-        "fantasy",
-        "work"
-      ],
-      "tags": [
-        "gnome",
-        "banker",
-        "small",
-        "change",
-        "wordplay",
-        "money",
-        "tiny"
-      ]
-    },
-    {
-      "id": 440,
-      "setup": "What do you call a dragon who works at a restaurant?",
-      "punchline": "A flame broiler!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "dragon",
-        "restaurant",
-        "flame",
-        "broil",
-        "wordplay",
-        "cooking",
-        "fire"
-      ]
-    },
-    {
-      "id": 441,
-      "setup": "Why don't elves ever get lonely?",
-      "punchline": "Because they always hang out in shelves!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "elves",
-        "lonely",
-        "shelves",
-        "wordplay",
-        "small",
-        "groups",
-        "mythical"
-      ]
-    },
-    {
-      "id": 442,
-      "setup": "What do you call a werewolf who does stand-up comedy?",
-      "punchline": "A howl-arious performer!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "werewolf",
-        "comedy",
-        "howl",
-        "hilarious",
-        "wordplay",
-        "stand-up",
-        "monster"
-      ]
-    },
-    {
-      "id": 443,
-      "setup": "Why did the witch's broom get an award?",
-      "punchline": "Because it was outstanding in its field... of sweeping!",
-      "categories": [
-        "fantasy",
-        "home"
-      ],
-      "tags": [
-        "witch",
-        "broom",
-        "award",
-        "sweeping",
-        "wordplay",
-        "flying",
-        "cleaning"
-      ]
-    },
-    {
-      "id": 444,
-      "setup": "Why did the knight carry a pencil?",
-      "punchline": "To draw his sword's attention!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "knight",
-        "pencil",
-        "draw",
-        "sword",
-        "wordplay",
-        "medieval",
-        "weapon"
-      ]
-    },
-    {
-      "id": 445,
-      "setup": "Why did the cyclops close his school?",
-      "punchline": "Because he only had one pupil!",
-      "categories": [
-        "fantasy",
-        "school"
-      ],
-      "tags": [
-        "cyclops",
-        "school",
-        "pupil",
-        "eye",
-        "one",
-        "wordplay",
-        "mythical"
-      ]
-    },
-    {
-      "id": 446,
-      "setup": "What's a vampire's favorite fruit?",
-      "punchline": "A blood orange!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "vampire",
-        "fruit",
-        "blood orange",
-        "wordplay",
-        "spooky",
-        "citrus",
-        "eating"
-      ]
-    },
-    {
-      "id": 447,
-      "setup": "Why did the princess kiss the frog?",
-      "punchline": "Because she wanted to see what all the hopping was about!",
-      "categories": [
-        "fantasy",
-        "animals"
-      ],
-      "tags": [
-        "princess",
-        "frog",
-        "kiss",
-        "hopping",
-        "fairy tale",
-        "wordplay",
-        "prince"
-      ]
-    },
-    {
-      "id": 448,
-      "setup": "What do you call a lazy dragon?",
-      "punchline": "A drag-on!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "dragon",
-        "lazy",
-        "drag",
-        "slow",
-        "wordplay",
-        "mythical",
-        "tired"
-      ]
-    },
-    {
-      "id": 449,
-      "setup": "Why did the genie get a smartphone?",
-      "punchline": "So people could make wireless wishes!",
-      "categories": [
-        "fantasy",
-        "technology"
-      ],
-      "tags": [
-        "genie",
-        "smartphone",
-        "wireless",
-        "wishes",
-        "wordplay",
-        "tech",
-        "magic"
-      ]
-    },
-    {
-      "id": 450,
-      "setup": "What's a wizard's favorite computer program?",
-      "punchline": "Spell-check!",
-      "categories": [
-        "fantasy",
-        "technology"
-      ],
-      "tags": [
-        "wizard",
-        "computer",
-        "spell check",
-        "spells",
-        "wordplay",
-        "magic",
-        "tech"
-      ]
-    },
-    {
-      "id": 451,
-      "setup": "Why did the mermaid wear seashells?",
-      "punchline": "Because she outgrew her B-shells!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "mermaid",
-        "seashells",
-        "bra",
-        "size",
-        "wordplay",
-        "ocean",
-        "fashion"
-      ]
-    },
-    {
-      "id": 452,
-      "setup": "What do you call a polite unicorn?",
-      "punchline": "A uni-corny gentleman!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "unicorn",
-        "polite",
-        "corny",
-        "gentleman",
-        "wordplay",
-        "mythical",
-        "manners"
-      ]
-    },
-    {
-      "id": 453,
-      "setup": "Why did the witch fail her driving test?",
-      "punchline": "She kept flying through stop signs!",
-      "categories": [
-        "fantasy",
-        "travel"
-      ],
-      "tags": [
-        "witch",
-        "driving",
-        "flying",
-        "broom",
-        "stop signs",
-        "wordplay",
-        "test"
-      ]
-    },
-    {
-      "id": 454,
-      "setup": "What do you call a fairy that lives in a toadstool?",
-      "punchline": "A fun-gi to be around!",
-      "categories": [
-        "fantasy",
-        "outdoors"
-      ],
-      "tags": [
-        "fairy",
-        "toadstool",
-        "fungi",
-        "fun guy",
-        "wordplay",
-        "mushroom",
-        "nature"
-      ]
-    },
-    {
-      "id": 455,
-      "setup": "Why don't ghosts like rain?",
-      "punchline": "Because it dampens their spirits!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "ghosts",
-        "rain",
-        "spirits",
-        "dampens",
-        "wordplay",
-        "weather",
-        "spooky"
-      ]
-    },
-    {
-      "id": 456,
-      "setup": "What do you call a knight who's always tired?",
-      "punchline": "Sir Nap-a-lot!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "knight",
-        "tired",
-        "nap",
-        "sir",
-        "wordplay",
-        "medieval",
-        "sleeping"
-      ]
-    },
-    {
-      "id": 457,
-      "setup": "Why did the elf bring a ladder to the party?",
-      "punchline": "Because he heard the drinks were on the top shelf!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "elf",
-        "ladder",
-        "party",
-        "shelf",
-        "short",
-        "wordplay",
-        "drinks"
-      ]
-    },
-    {
-      "id": 458,
-      "setup": "What's a werewolf's favorite day of the week?",
-      "punchline": "Moon-day!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "werewolf",
-        "monday",
-        "moon",
-        "day",
-        "wordplay",
-        "transformation",
-        "week"
-      ]
-    },
-    {
-      "id": 459,
-      "setup": "Why did the knight break up with his girlfriend?",
-      "punchline": "Because she said his armor was too clingy!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "knight",
-        "girlfriend",
-        "armor",
-        "clingy",
-        "wordplay",
-        "medieval",
-        "breakup"
-      ]
-    },
-    {
-      "id": 460,
-      "setup": "What do you call a magical horse that lives in the city?",
-      "punchline": "An urban-icorn!",
-      "categories": [
-        "fantasy",
-        "geography"
-      ],
-      "tags": [
-        "unicorn",
-        "city",
-        "urban",
-        "horse",
-        "wordplay",
-        "mythical",
-        "downtown"
-      ]
-    },
-    {
-      "id": 461,
-      "setup": "What does an ogre think of a knight in armor?",
-      "punchline": "Tinned beef!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "ogre",
-        "knight",
-        "armor",
-        "tinned",
-        "beef",
-        "wordplay",
-        "eating"
-      ]
-    },
-    {
-      "id": 462,
-      "setup": "What do you call a witch's garage?",
-      "punchline": "A broom closet!",
-      "categories": [
-        "fantasy",
-        "home"
-      ],
-      "tags": [
-        "witch",
-        "garage",
-        "broom",
-        "closet",
-        "wordplay",
-        "storage",
-        "flying"
-      ]
-    },
-    {
-      "id": 463,
-      "setup": "Why did the fairy godmother become a hairdresser?",
-      "punchline": "Because she was great at making hair-raising transformations!",
-      "categories": [
-        "fantasy",
-        "work"
-      ],
-      "tags": [
-        "fairy godmother",
-        "hairdresser",
-        "transformation",
-        "hair",
-        "wordplay",
-        "magic",
-        "cinderella"
-      ]
-    },
-    {
-      "id": 464,
-      "setup": "What do you call a sphinx that tells bad jokes?",
-      "punchline": "A riddick-ulous creature!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "sphinx",
-        "jokes",
-        "riddles",
-        "ridiculous",
-        "wordplay",
-        "mythical",
-        "egypt"
-      ]
-    },
-    {
-      "id": 465,
-      "setup": "Where do vampires eat their lunch?",
-      "punchline": "At the casketeria!",
-      "categories": [
-        "fantasy", 
-        "food"],
-      "tags": [
-        "vampire", 
-        "lunch", 
-        "casket", 
-        "cafeteria", 
-        "wordplay", 
-        "halloween", 
-        "spooky"
-      ]
-    },
-    {
-      "id": 466,
-      "setup": "What do you call a dragon who does yoga?",
-      "punchline": "Someone who really knows how to stretch their fire-breathing!",
-      "categories": [
-        "fantasy",
-        "sports"
-      ],
-      "tags": [
-        "dragon",
-        "yoga",
-        "fire",
-        "breathing",
-        "stretching",
-        "wordplay",
-        "exercise"
-      ]
-    },
-    {
-      "id": 467,
-      "setup": "Why did the leprechaun refuse to climb the ladder?",
-      "punchline": "He didn't want to push his luck too high!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "leprechaun",
-        "ladder",
-        "luck",
-        "high",
-        "wordplay",
-        "irish",
-        "climbing"
-      ]
-    },
-    {
-      "id": 468,
-      "setup": "What do you call a mermaid who fixes computers?",
-      "punchline": "A fish-nician!",
-      "categories": [
-        "fantasy",
-        "technology"
-      ],
-      "tags": [
-        "mermaid",
-        "computers",
-        "technician",
-        "fish",
-        "wordplay",
-        "tech",
-        "repair"
-      ]
-    },
-    {
-      "id": 469,
-      "setup": "Why did the ghost join a band?",
-      "punchline": "Because he had great soul!",
-      "categories": [
-        "fantasy",
-        "music"
-      ],
-      "tags": [
-        "ghost",
-        "band",
-        "soul",
-        "music",
-        "wordplay",
-        "spirit",
-        "singing"
-      ]
-    },
-    {
-      "id": 470,
-      "setup": "What do you call a clumsy fairy?",
-      "punchline": "A pixie who's always in a bit of a flutter!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "fairy",
-        "clumsy",
-        "pixie",
-        "flutter",
-        "wordplay",
-        "accident",
-        "magical"
-      ]
-    },
-    {
-      "id": 471,
-      "setup": "Why did the wizard buy a new hat?",
-      "punchline": "Because his old one had lost its magic touch!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "wizard",
-        "hat",
-        "magic",
-        "old",
-        "wordplay",
-        "fashion",
-        "spells"
-      ]
-    },
-    {
-      "id": 472,
-      "setup": "What do you call a centaur who runs marathons?",
-      "punchline": "A stable runner!",
-      "categories": [
-        "fantasy",
-        "sports"
-      ],
-      "tags": [
-        "centaur",
-        "marathon",
-        "stable",
-        "running",
-        "wordplay",
-        "horse",
-        "exercise"
-      ]
-    },
-    {
-      "id": 473,
-      "setup": "Why did the troll start an online business?",
-      "punchline": "Because he was already an expert at bridge-building!",
-      "categories": [
-        "fantasy",
-        "work"
-      ],
-      "tags": [
-        "troll",
-        "online",
-        "business",
-        "bridge",
-        "wordplay",
-        "internet",
-        "entrepreneur"
-      ]
-    },
-    {
-      "id": 474,
-      "setup": "What's a witch's favorite makeup?",
-      "punchline": "Ma-scare-a!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "witch",
-        "makeup",
-        "mascara",
-        "scare",
-        "wordplay",
-        "beauty",
-        "spooky"
-      ]
-    },
-    {
-      "id": 475,
-      "setup": "Why did the unicorn go to the optometrist?",
-      "punchline": "To get his horn-rimmed glasses!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "unicorn",
-        "optometrist",
-        "horn",
-        "glasses",
-        "wordplay",
-        "vision",
-        "eyes"
-      ]
-    },
-    {
-      "id": 476,
-      "setup": "What do you call a dragon who's a great chef?",
-      "punchline": "Someone whose steaks are always well done!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "dragon",
-        "chef",
-        "steak",
-        "well done",
-        "wordplay",
-        "cooking",
-        "fire"
-      ]
-    },
-    {
-      "id": 477,
-      "setup": "Why did the elf get detention?",
-      "punchline": "For being too shelf-centered!",
-      "categories": [
-        "fantasy",
-        "school"
-      ],
-      "tags": [
-        "elf",
-        "detention",
-        "shelf",
-        "self-centered",
-        "wordplay",
-        "school",
-        "trouble"
-      ]
-    },
-    {
-      "id": 478,
-      "setup": "What do you call a vampire who lives in the kitchen?",
-      "punchline": "Count Spatula!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "vampire",
-        "kitchen",
-        "count dracula",
-        "spatula",
-        "wordplay",
-        "cooking",
-        "spooky"
-      ]
-    },
-    {
-      "id": 479,
-      "setup": "Why did the pegasus win the race?",
-      "punchline": "Because he was flying through the competition!",
-      "categories": [
-        "fantasy",
-        "sports"
-      ],
-      "tags": [
-        "pegasus",
-        "race",
-        "flying",
-        "competition",
-        "wordplay",
-        "wings",
-        "mythical"
-      ]
-    },
-    {
-      "id": 480,
-      "setup": "What do you call a ghost who loves math?",
-      "punchline": "A boo-kkeper who's great with scare-ithmetic!",
-      "categories": [
-        "fantasy",
-        "math"
-      ],
-      "tags": [
-        "ghost",
-        "math",
-        "bookkeeper",
-        "arithmetic",
-        "wordplay",
-        "spooky",
-        "numbers"
-      ]
-    },
-    {
-      "id": 481,
-      "setup": "Why did the gnome become a DJ?",
-      "punchline": "Because he loved underground music!",
-      "categories": [
-        "fantasy",
-        "music"
-      ],
-      "tags": [
-        "gnome",
-        "DJ",
-        "underground",
-        "music",
-        "wordplay",
-        "tiny",
-        "garden"
-      ]
-    },
-    {
-      "id": 482,
-      "setup": "What do you call a mermaid's phone?",
-      "punchline": "A shell-phone!",
-      "categories": [
-        "fantasy",
-        "technology"
-      ],
-      "tags": [
-        "mermaid",
-        "phone",
-        "shell",
-        "cell phone",
-        "wordplay",
-        "ocean",
-        "tech"
-      ]
-    },
-    {
-      "id": 483,
-      "setup": "Why did the sorcerer open a coffee shop?",
-      "punchline": "He specialized in magic beans!",
-      "categories": [
-        "fantasy",
-        "food"
-      ],
-      "tags": [
-        "sorcerer",
-        "coffee shop",
-        "magic beans",
-        "jack",
-        "wordplay",
-        "drinks",
-        "fairy tale"
-      ]
-    },
-    {
-      "id": 484,
-      "setup": "What do you call a forgetful witch?",
-      "punchline": "Someone who keeps losing her hex-files!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "witch",
-        "forgetful",
-        "hex",
-        "x-files",
-        "wordplay",
-        "magic",
-        "memory"
-      ]
-    },
-    {
-      "id": 485,
-      "setup": "Why did the dragon buy a computer?",
-      "punchline": "To improve his fire-wall!",
-      "categories": [
-        "fantasy",
-        "technology"
-      ],
-      "tags": [
-        "dragon",
-        "computer",
-        "firewall",
-        "fire",
-        "wordplay",
-        "tech",
-        "security"
-      ]
-    },
-    {
-      "id": 486,
-      "setup": "What do you call a fairy who works out?",
-      "punchline": "A fitness sprite!",
-      "categories": [
-        "fantasy",
-        "sports"
-      ],
-      "tags": [
-        "fairy",
-        "workout",
-        "sprite",
-        "fitness",
-        "wordplay",
-        "exercise",
-        "magical"
-      ]
-    },
-    {
-      "id": 487,
-      "setup": "Why did the giant go to the dentist?",
-      "punchline": "He had a massive cavity!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "giant",
-        "dentist",
-        "massive",
-        "cavity",
-        "wordplay",
-        "health",
-        "teeth"
-      ]
-    },
-    {
-      "id": 488,
-      "setup": "What do you call a unicorn's dad?",
-      "punchline": "A pop-corn!",
-      "categories": [
-        "fantasy",
-        "family"
-      ],
-      "tags": [
-        "unicorn",
-        "dad",
-        "popcorn",
-        "horn",
-        "wordplay",
-        "father",
-        "mythical"
-      ]
-    },
-    {
-      "id": 489,
-      "setup": "Why did the wizard break up with his calculator?",
-      "punchline": "Because he couldn't count on it for magic!",
-      "categories": [
-        "fantasy",
-        "math"
-      ],
-      "tags": [
-        "wizard",
-        "calculator",
-        "count",
-        "magic",
-        "wordplay",
-        "math",
-        "breakup"
-      ]
-    },
-    {
-      "id": 490,
-      "setup": "What's a leprechaun's favorite type of music?",
-      "punchline": "Shamrock and roll!",
-      "categories": [
-        "fantasy",
-        "music"
-      ],
-      "tags": [
-        "leprechaun",
-        "music",
-        "shamrock",
-        "rock and roll",
-        "wordplay",
-        "irish",
-        "dancing"
-      ]
-    },
-    {
-      "id": 491,
-      "setup": "Why did the ghost become a cheerleader?",
-      "punchline": "Because he had a lot of spirit!",
-      "categories": [
-        "fantasy",
-        "sports"
-      ],
-      "tags": [
-        "ghost",
-        "cheerleader",
-        "spirit",
-        "cheering",
-        "wordplay",
-        "spooky",
-        "pep"
-      ]
-    },
-    {
-      "id": 492,
-      "setup": "What do you call a magical fish?",
-      "punchline": "A s-orcery salmon!",
-      "categories": [
-        "fantasy",
-        "animals"
-      ],
-      "tags": [
-        "fish",
-        "magic",
-        "sorcery",
-        "salmon",
-        "wordplay",
-        "water",
-        "spell"
-      ]
-    },
-    {
-      "id": 493,
-      "setup": "Why did the vampire open a blood bank?",
-      "punchline": "For liquid assets!",
-      "categories": [
-        "fantasy",
-        "work"
-      ],
-      "tags": [
-        "vampire",
-        "blood bank",
-        "liquid",
-        "assets",
-        "wordplay",
-        "money",
-        "spooky"
-      ]
-    },
-    {
-      "id": 494,
-      "setup": "What do you call a dragon who refuses to fight?",
-      "punchline": "A calm-bus-tion!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "dragon",
-        "calm",
-        "combustion",
-        "peaceful",
-        "wordplay",
-        "mythical",
-        "fire"
-      ]
-    },
-    {
-      "id": 495,
-      "setup": "Why did the elf refuse to play cards?",
-      "punchline": "Because he was afraid of dealing with the consequences!",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "elf",
-        "cards",
-        "dealing",
-        "consequences",
-        "wordplay",
-        "games",
-        "scared"
-      ]
-    },
-    {
-      "id": 496,
-      "setup": "What do you call a witch's report card?",
-      "punchline": "A grade-spell!",
-      "categories": [
-        "fantasy",
-        "school"
-      ],
-      "tags": [
-        "witch",
-        "report card",
-        "grade",
-        "spell",
-        "wordplay",
-        "school",
-        "magic"
-      ]
-    },
-    {
-      "id": 497,
-      "setup": "Why did the mermaid bring a towel to school?",
-      "punchline": "In case there was a pop quiz and she needed to dry out!",
-      "categories": [
-        "fantasy",
-        "school"
-      ],
-      "tags": [
-        "mermaid",
-        "towel",
-        "school",
-        "pop quiz",
-        "dry",
-        "wordplay",
-        "water"
-      ]
-    },
-    {
-      "id": 498,
-      "setup": "What do you call a magical cow?",
-      "punchline": "Moo-dini!",
-      "categories": [
-        "fantasy",
-        "animals"
-      ],
-      "tags": [
-        "cow",
-        "magic",
-        "houdini",
-        "moo",
-        "wordplay",
-        "farm",
-        "tricks"
-      ]
-    },
-    {
-      "id": 499,
-      "setup": "Why did the goblin become a gardener?",
-      "punchline": "Because he had green thumbs!",
-      "categories": [
-        "fantasy",
-        "outdoors"
-      ],
-      "tags": [
-        "goblin",
-        "gardener",
-        "green",
-        "thumbs",
-        "wordplay",
-        "plants",
-        "mythical"
-      ]
-    },
-    {
-      "id": 500,
-      "setup": "What did one ghost say to the other ghost?",
-      "punchline": "Do you believe in people?",
-      "categories": [
-        "fantasy"
-      ],
-      "tags": [
-        "ghost",
-        "people",
-        "believe",
-        "reverse",
-        "wordplay",
-        "spooky",
-        "clever"
-      ]
-    },
+    "id": 401,
+    "setup": "Why did the unicorn go to the therapist?",
+    "punchline": "Because it was feeling a little horse!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "unicorn",
+      "therapist",
+      "horse",
+      "hoarse",
+      "magical",
+      "mythical",
+      "wordplay"
+    ]
+  },
+  {
+    "id": 402,
+    "setup": "What do you call a fairy that doesn't take a bath?",
+    "punchline": "Stinker Bell!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "fairy",
+      "tinker bell",
+      "bath",
+      "smelly",
+      "wordplay",
+      "disney",
+      "hygiene"
+    ]
+  },
+  {
+    "id": 403,
+    "setup": "What do you call a dragon that loves to read?",
+    "punchline": "A book wyrm!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "dragons",
+      "reading",
+      "bookworm",
+      "wyrm",
+      "wordplay",
+      "mythical",
+      "books"
+    ]
+  },
+  {
+    "id": 404,
+    "setup": "What do you call a wizard who's really good at golf?",
+    "punchline": "Harry Putter!",
+    "categories": [
+      "fantasy",
+      "sports"
+    ],
+    "tags": [
+      "wizard",
+      "golf",
+      "harry potter",
+      "putter",
+      "wordplay",
+      "magic",
+      "sports"
+    ]
+  },
+  {
+    "id": 405,
+    "setup": "Why didn't Dracula make a bet on the horse race?",
+    "punchline": "The stakes were too high!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "dracula",
+      "vampire",
+      "stakes",
+      "betting",
+      "wordplay",
+      "horse race",
+      "gambling"
+    ]
+  },
+  {
+    "id": 406,
+    "setup": "What's a mermaid's favorite subject in school?",
+    "punchline": "Algae-bra!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "mermaid",
+      "school",
+      "algebra",
+      "algae",
+      "wordplay",
+      "math",
+      "ocean"
+    ]
+  },
+  {
+    "id": 407,
+    "setup": "Why did the troll start a podcast?",
+    "punchline": "Because he was great at living under bridges... and the internet!",
+    "categories": [
+      "fantasy",
+      "technology"
+    ],
+    "tags": [
+      "troll",
+      "podcast",
+      "bridge",
+      "internet troll",
+      "wordplay",
+      "mythical",
+      "online"
+    ]
+  },
+  {
+    "id": 408,
+    "setup": "What do you call an enlightened werewolf?",
+    "punchline": "An aware-wolf!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "werewolf",
+      "aware",
+      "enlightened",
+      "mindful",
+      "wordplay",
+      "monster",
+      "wisdom"
+    ]
+  },
+  {
+    "id": 409,
+    "setup": "Why did the elf go to therapy?",
+    "punchline": "He had low shelf esteem!",
+    "categories": [
+      "fantasy",
+      "work"
+    ],
+    "tags": [
+      "elf",
+      "therapy",
+      "shelf",
+      "self-esteem",
+      "wordplay",
+      "short",
+      "mental health"
+    ]
+  },
+  {
+    "id": 410,
+    "setup": "What do you call a witch who lives at the beach?",
+    "punchline": "A sand-witch!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "witch",
+      "beach",
+      "sandwich",
+      "sand",
+      "wordplay",
+      "magic",
+      "ocean"
+    ]
+  },
+  {
+    "id": 411,
+    "setup": "Why don't witches wear flat hats?",
+    "punchline": "Because there's no point!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "witches",
+      "hats",
+      "pointy",
+      "point",
+      "wordplay",
+      "magic",
+      "fashion"
+    ]
+  },
+  {
+    "id": 412,
+    "setup": "What's a ghost's favorite dessert?",
+    "punchline": "Boo-berry pie!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "ghost",
+      "dessert",
+      "blueberry",
+      "boo",
+      "wordplay",
+      "spooky",
+      "pie"
+    ]
+  },
+  {
+    "id": 413,
+    "setup": "Why did the phoenix make a terrible employee?",
+    "punchline": "Because it kept getting fired!",
+    "categories": [
+      "fantasy",
+      "work"
+    ],
+    "tags": [
+      "phoenix",
+      "employee",
+      "fired",
+      "fire",
+      "wordplay",
+      "mythical",
+      "job"
+    ]
+  },
+  {
+    "id": 414,
+    "setup": "What do you call a magical dog?",
+    "punchline": "A Labracadabrador!",
+    "categories": [
+      "fantasy",
+      "animals"
+    ],
+    "tags": [
+      "dog",
+      "magic",
+      "labrador",
+      "abracadabra",
+      "wordplay",
+      "pets",
+      "spells"
+    ]
+  },
+  {
+    "id": 415,
+    "setup": "Why did the vampire go to art school?",
+    "punchline": "Because he wanted to learn how to draw blood!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "vampire",
+      "art school",
+      "draw",
+      "blood",
+      "wordplay",
+      "spooky",
+      "learning"
+    ]
+  },
+  {
+    "id": 416,
+    "setup": "What do elves learn in school?",
+    "punchline": "The elf-abet!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "elf",
+      "school",
+      "alphabet",
+      "learning",
+      "wordplay",
+      "education",
+      "mythical"
+    ]
+  },
+  {
+    "id": 417,
+    "setup": "Why did the dragon refuse to share his treasure?",
+    "punchline": "Because he was a little hoard-y!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "dragon",
+      "treasure",
+      "hoard",
+      "greedy",
+      "wordplay",
+      "mythical",
+      "gold"
+    ]
+  },
+  {
+    "id": 418,
+    "setup": "What do you call a wizard's nervous twitch?",
+    "punchline": "A spelling bee!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "wizard",
+      "twitch",
+      "spelling",
+      "bee",
+      "wordplay",
+      "magic",
+      "spells"
+    ]
+  },
+  {
+    "id": 419,
+    "setup": "Why do dragons sleep during the day?",
+    "punchline": "So they can fight knights!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "dragon",
+      "sleep",
+      "knight",
+      "night",
+      "wordplay",
+      "mythical",
+      "battle"
+    ]
+  },
+  {
+    "id": 420,
+    "setup": "What's a dragon's favorite day of the week?",
+    "punchline": "Fry-day!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "dragon",
+      "friday",
+      "fry",
+      "fire",
+      "wordplay",
+      "days",
+      "breathing fire"
+    ]
+  },
+  {
+    "id": 421,
+    "setup": "Why did the mermaid blush?",
+    "punchline": "Because she saw the ocean's bottom!",
+    "categories": [
+      "fantasy",
+      "geography"
+    ],
+    "tags": [
+      "mermaid",
+      "blushing",
+      "ocean",
+      "bottom",
+      "wordplay",
+      "sea",
+      "embarrassed"
+    ]
+  },
+  {
+    "id": 422,
+    "setup": "What do you call a leprechaun who goes to jail?",
+    "punchline": "A lepre-con!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "leprechaun",
+      "jail",
+      "con",
+      "criminal",
+      "wordplay",
+      "irish",
+      "prisoner"
+    ]
+  },
+  {
+    "id": 423,
+    "setup": "Why don't centaurs ever win at poker?",
+    "punchline": "Because they always show their hand... and their hoof!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "centaur",
+      "poker",
+      "cards",
+      "hand",
+      "hoof",
+      "wordplay",
+      "mythical"
+    ]
+  },
+  {
+    "id": 424,
+    "setup": "What do you call a magical owl?",
+    "punchline": "Hoo-dini!",
+    "categories": [
+      "fantasy",
+      "animals"
+    ],
+    "tags": [
+      "owl",
+      "magic",
+      "houdini",
+      "hoo",
+      "wordplay",
+      "bird",
+      "magician"
+    ]
+  },
+  {
+    "id": 425,
+    "setup": "Why did the witch break up with the warlock?",
+    "punchline": "Because he was a poor spell-er!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "witch",
+      "warlock",
+      "breakup",
+      "spell",
+      "speller",
+      "wordplay",
+      "magic"
+    ]
+  },
+  {
+    "id": 426,
+    "setup": "Why do paladins wear chain mail?",
+    "punchline": "Because it's holey armor!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "paladin",
+      "armor",
+      "chain mail",
+      "holy",
+      "holes",
+      "wordplay",
+      "knight"
+    ]
+  },
+  {
+    "id": 427,
+    "setup": "What's a witch's favorite school subject?",
+    "punchline": "Spelling!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "witch",
+      "school",
+      "spelling",
+      "spells",
+      "wordplay",
+      "magic",
+      "education"
+    ]
+  },
+  {
+    "id": 428,
+    "setup": "What's a unicorn's favorite type of story?",
+    "punchline": "A fairy tale - they're myth-tifying!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "unicorn",
+      "story",
+      "fairy tale",
+      "myth",
+      "mystifying",
+      "wordplay",
+      "magical"
+    ]
+  },
+  {
+    "id": 429,
+    "setup": "Why did the sorcerer open a bakery?",
+    "punchline": "Because he was great at casting dough!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "sorcerer",
+      "bakery",
+      "casting",
+      "dough",
+      "wordplay",
+      "magic",
+      "baking"
+    ]
+  },
+  {
+    "id": 430,
+    "setup": "What do you call a wizard who failed magic school?",
+    "punchline": "A diss-illusionist!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "wizard",
+      "magic school",
+      "illusionist",
+      "failed",
+      "wordplay",
+      "spells",
+      "pun"
+    ]
+  },
+  {
+    "id": 431,
+    "setup": "Why don't dragons live very long?",
+    "punchline": "Because smoking is deadly!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "dragon",
+      "smoking",
+      "fire",
+      "health",
+      "wordplay",
+      "mythical",
+      "breathing"
+    ]
+  },
+  {
+    "id": 432,
+    "setup": "What do you call a sleeping witch?",
+    "punchline": "Broom-hilda!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "witch",
+      "sleeping",
+      "broom",
+      "broomhilda",
+      "wordplay",
+      "nap",
+      "magic"
+    ]
+  },
+  {
+    "id": 433,
+    "setup": "Why don't vampires have more friends?",
+    "punchline": "Because they're a pain in the neck!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "vampires",
+      "friends",
+      "neck",
+      "pain",
+      "wordplay",
+      "biting",
+      "spooky"
+    ]
+  },
+  {
+    "id": 434,
+    "setup": "What fruit do vampires love?",
+    "punchline": "Neck-tarines!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "vampire",
+      "fruit",
+      "nectarine",
+      "neck",
+      "wordplay",
+      "spooky",
+      "bite"
+    ]
+  },
+  {
+    "id": 435,
+    "setup": "What do you call a half horse, half human who practices meditation?",
+    "punchline": "A Zen-taur!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "centaur",
+      "zen",
+      "meditation",
+      "peaceful",
+      "wordplay",
+      "mythical",
+      "calm"
+    ]
+  },
+  {
+    "id": 436,
+    "setup": "What do you call a mermaid who can sing opera?",
+    "punchline": "A tune-a fish!",
+    "categories": [
+      "fantasy",
+      "music"
+    ],
+    "tags": [
+      "mermaid",
+      "opera",
+      "tuna",
+      "singing",
+      "wordplay",
+      "fish",
+      "musical"
+    ]
+  },
+  {
+    "id": 437,
+    "setup": "Why did the sorcerer carry a pencil?",
+    "punchline": "In case he needed to draw his wand!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "sorcerer",
+      "pencil",
+      "draw",
+      "wand",
+      "wordplay",
+      "magic",
+      "writing"
+    ]
+  },
+  {
+    "id": 438,
+    "setup": "What's a ghost's favorite ride at the amusement park?",
+    "punchline": "The roller-ghoster!",
+    "categories": [
+      "fantasy",
+      "travel"
+    ],
+    "tags": [
+      "ghost",
+      "amusement park",
+      "roller coaster",
+      "wordplay",
+      "spooky",
+      "ride",
+      "fun"
+    ]
+  },
+  {
+    "id": 439,
+    "setup": "Why did the gnome become a banker?",
+    "punchline": "Because he was great with small change!",
+    "categories": [
+      "fantasy",
+      "work"
+    ],
+    "tags": [
+      "gnome",
+      "banker",
+      "small",
+      "change",
+      "wordplay",
+      "money",
+      "tiny"
+    ]
+  },
+  {
+    "id": 440,
+    "setup": "What do you call a dragon who works at a restaurant?",
+    "punchline": "A flame broiler!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "dragon",
+      "restaurant",
+      "flame",
+      "broil",
+      "wordplay",
+      "cooking",
+      "fire"
+    ]
+  },
+  {
+    "id": 441,
+    "setup": "Why don't elves ever get lonely?",
+    "punchline": "Because they always hang out in shelves!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "elves",
+      "lonely",
+      "shelves",
+      "wordplay",
+      "small",
+      "groups",
+      "mythical"
+    ]
+  },
+  {
+    "id": 442,
+    "setup": "What do you call a werewolf who does stand-up comedy?",
+    "punchline": "A howl-arious performer!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "werewolf",
+      "comedy",
+      "howl",
+      "hilarious",
+      "wordplay",
+      "stand-up",
+      "monster"
+    ]
+  },
+  {
+    "id": 443,
+    "setup": "Why did the witch's broom get an award?",
+    "punchline": "Because it was outstanding in its field... of sweeping!",
+    "categories": [
+      "fantasy",
+      "home"
+    ],
+    "tags": [
+      "witch",
+      "broom",
+      "award",
+      "sweeping",
+      "wordplay",
+      "flying",
+      "cleaning"
+    ]
+  },
+  {
+    "id": 444,
+    "setup": "Why did the knight carry a pencil?",
+    "punchline": "To draw his sword's attention!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "knight",
+      "pencil",
+      "draw",
+      "sword",
+      "wordplay",
+      "medieval",
+      "weapon"
+    ]
+  },
+  {
+    "id": 445,
+    "setup": "Why did the cyclops close his school?",
+    "punchline": "Because he only had one pupil!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "cyclops",
+      "school",
+      "pupil",
+      "eye",
+      "one",
+      "wordplay",
+      "mythical"
+    ]
+  },
+  {
+    "id": 446,
+    "setup": "What's a vampire's favorite fruit?",
+    "punchline": "A blood orange!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "vampire",
+      "fruit",
+      "blood orange",
+      "wordplay",
+      "spooky",
+      "citrus",
+      "eating"
+    ]
+  },
+  {
+    "id": 447,
+    "setup": "Why can't ghosts lie?",
+    "punchline": "Because you can see right through them!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "ghost",
+      "lying",
+      "transparent",
+      "see through",
+      "wordplay",
+      "spooky",
+      "honest"
+    ]
+  },
+  {
+    "id": 448,
+    "setup": "What do you call a lazy dragon?",
+    "punchline": "A drag-on!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "dragon",
+      "lazy",
+      "drag",
+      "slow",
+      "wordplay",
+      "mythical",
+      "tired"
+    ]
+  },
+  {
+    "id": 449,
+    "setup": "Why did the genie get a smartphone?",
+    "punchline": "So people could make wireless wishes!",
+    "categories": [
+      "fantasy",
+      "technology"
+    ],
+    "tags": [
+      "genie",
+      "smartphone",
+      "wireless",
+      "wishes",
+      "wordplay",
+      "tech",
+      "magic"
+    ]
+  },
+  {
+    "id": 450,
+    "setup": "What's a wizard's favorite computer program?",
+    "punchline": "Spell-check!",
+    "categories": [
+      "fantasy",
+      "technology"
+    ],
+    "tags": [
+      "wizard",
+      "computer",
+      "spell check",
+      "spells",
+      "wordplay",
+      "magic",
+      "tech"
+    ]
+  },
+  {
+    "id": 451,
+    "setup": "Why did the mermaid wear seashells?",
+    "punchline": "Because she outgrew her B-shells!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "mermaid",
+      "seashells",
+      "bra",
+      "size",
+      "wordplay",
+      "ocean",
+      "fashion"
+    ]
+  },
+  {
+    "id": 452,
+    "setup": "Where do ghosts go on vacation?",
+    "punchline": "The Boo-hamas!",
+    "categories": [
+      "fantasy",
+      "travel"
+    ],
+    "tags": [
+      "ghost",
+      "vacation",
+      "bahamas",
+      "boo",
+      "wordplay",
+      "spooky",
+      "travel"
+    ]
+  },
+  {
+    "id": 453,
+    "setup": "Why did the witch fail her driving test?",
+    "punchline": "She kept flying through stop signs!",
+    "categories": [
+      "fantasy",
+      "travel"
+    ],
+    "tags": [
+      "witch",
+      "driving",
+      "flying",
+      "broom",
+      "stop signs",
+      "wordplay",
+      "test"
+    ]
+  },
+  {
+    "id": 454,
+    "setup": "What do you call a fairy that lives in a toadstool?",
+    "punchline": "A fun-gi to be around!",
+    "categories": [
+      "fantasy",
+      "outdoors"
+    ],
+    "tags": [
+      "fairy",
+      "toadstool",
+      "fungi",
+      "fun guy",
+      "wordplay",
+      "mushroom",
+      "nature"
+    ]
+  },
+  {
+    "id": 455,
+    "setup": "Why don't ghosts like rain?",
+    "punchline": "Because it dampens their spirits!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "ghosts",
+      "rain",
+      "spirits",
+      "dampens",
+      "wordplay",
+      "weather",
+      "spooky"
+    ]
+  },
+  {
+    "id": 456,
+    "setup": "What do you call a knight who's always tired?",
+    "punchline": "Sir Nap-a-lot!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "knight",
+      "tired",
+      "nap",
+      "sir",
+      "wordplay",
+      "medieval",
+      "sleeping"
+    ]
+  },
+  {
+    "id": 457,
+    "setup": "Why did the elf bring a ladder to the party?",
+    "punchline": "Because he heard the drinks were on the top shelf!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "elf",
+      "ladder",
+      "party",
+      "shelf",
+      "short",
+      "wordplay",
+      "drinks"
+    ]
+  },
+  {
+    "id": 458,
+    "setup": "What's a werewolf's favorite day of the week?",
+    "punchline": "Moon-day!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "werewolf",
+      "monday",
+      "moon",
+      "day",
+      "wordplay",
+      "transformation",
+      "week"
+    ]
+  },
+  {
+    "id": 459,
+    "setup": "Why did the knight break up with his girlfriend?",
+    "punchline": "Because she said his armor was too clingy!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "knight",
+      "girlfriend",
+      "armor",
+      "clingy",
+      "wordplay",
+      "medieval",
+      "breakup"
+    ]
+  },
+  {
+    "id": 460,
+    "setup": "What do you call a magical horse that lives in the city?",
+    "punchline": "An urban-icorn!",
+    "categories": [
+      "fantasy",
+      "geography"
+    ],
+    "tags": [
+      "unicorn",
+      "city",
+      "urban",
+      "horse",
+      "wordplay",
+      "mythical",
+      "downtown"
+    ]
+  },
+  {
+    "id": 461,
+    "setup": "What do ghosts wear when their eyesight gets blurred?",
+    "punchline": "Spook-tacles!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "ghost",
+      "glasses",
+      "spectacles",
+      "spooky",
+      "wordplay",
+      "vision",
+      "eyes"
+    ]
+  },
+  {
+    "id": 462,
+    "setup": "What do you call a witch's garage?",
+    "punchline": "A broom closet!",
+    "categories": [
+      "fantasy",
+      "home"
+    ],
+    "tags": [
+      "witch",
+      "garage",
+      "broom",
+      "closet",
+      "wordplay",
+      "storage",
+      "flying"
+    ]
+  },
+  {
+    "id": 463,
+    "setup": "Why did the fairy godmother become a hairdresser?",
+    "punchline": "Because she was great at making hair-raising transformations!",
+    "categories": [
+      "fantasy",
+      "work"
+    ],
+    "tags": [
+      "fairy godmother",
+      "hairdresser",
+      "transformation",
+      "hair",
+      "wordplay",
+      "magic",
+      "cinderella"
+    ]
+  },
+  {
+    "id": 464,
+    "setup": "What do you call a sphinx that tells bad jokes?",
+    "punchline": "A riddick-ulous creature!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "sphinx",
+      "jokes",
+      "riddles",
+      "ridiculous",
+      "wordplay",
+      "mythical",
+      "egypt"
+    ]
+  },
+  {
+    "id": 465,
+    "setup": "Where do vampires eat their lunch?",
+    "punchline": "At the casketeria!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "vampire",
+      "lunch",
+      "casket",
+      "cafeteria",
+      "wordplay",
+      "halloween",
+      "spooky"
+    ]
+  },
+  {
+    "id": 466,
+    "setup": "Where do werewolves store all of their Halloween candy?",
+    "punchline": "In a were-house!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "werewolf",
+      "candy",
+      "warehouse",
+      "storage",
+      "wordplay",
+      "halloween",
+      "monster"
+    ]
+  },
+  {
+    "id": 467,
+    "setup": "Why did the leprechaun refuse to climb the ladder?",
+    "punchline": "He didn't want to push his luck too high!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "leprechaun",
+      "ladder",
+      "luck",
+      "high",
+      "wordplay",
+      "irish",
+      "climbing"
+    ]
+  },
+  {
+    "id": 468,
+    "setup": "What do you call a mermaid who fixes computers?",
+    "punchline": "A fish-nician!",
+    "categories": [
+      "fantasy",
+      "technology"
+    ],
+    "tags": [
+      "mermaid",
+      "computers",
+      "technician",
+      "fish",
+      "wordplay",
+      "tech",
+      "repair"
+    ]
+  },
+  {
+    "id": 469,
+    "setup": "Why did the ghost join a band?",
+    "punchline": "Because he had great soul!",
+    "categories": [
+      "fantasy",
+      "music"
+    ],
+    "tags": [
+      "ghost",
+      "band",
+      "soul",
+      "music",
+      "wordplay",
+      "spirit",
+      "singing"
+    ]
+  },
+  {
+    "id": 470,
+    "setup": "How do you make a witch itch?",
+    "punchline": "Take away her W!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "witch",
+      "itch",
+      "letter",
+      "wordplay",
+      "spelling",
+      "magic",
+      "clever"
+    ]
+  },
+  {
+    "id": 471,
+    "setup": "What do mummies listen to on Halloween?",
+    "punchline": "Wrap music!",
+    "categories": [
+      "fantasy",
+      "music"
+    ],
+    "tags": [
+      "mummy",
+      "music",
+      "wrap",
+      "rap",
+      "wordplay",
+      "halloween",
+      "bandages"
+    ]
+  },
+  {
+    "id": 472,
+    "setup": "What do you call a centaur who runs marathons?",
+    "punchline": "A stable runner!",
+    "categories": [
+      "fantasy",
+      "sports"
+    ],
+    "tags": [
+      "centaur",
+      "marathon",
+      "stable",
+      "running",
+      "wordplay",
+      "horse",
+      "exercise"
+    ]
+  },
+  {
+    "id": 473,
+    "setup": "Why did the troll start an online business?",
+    "punchline": "Because he was already an expert at bridge-building!",
+    "categories": [
+      "fantasy",
+      "work"
+    ],
+    "tags": [
+      "troll",
+      "online",
+      "business",
+      "bridge",
+      "wordplay",
+      "internet",
+      "entrepreneur"
+    ]
+  },
+  {
+    "id": 474,
+    "setup": "What's a witch's favorite makeup?",
+    "punchline": "Ma-scare-a!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "witch",
+      "makeup",
+      "mascara",
+      "scare",
+      "wordplay",
+      "beauty",
+      "spooky"
+    ]
+  },
+  {
+    "id": 475,
+    "setup": "Why did the unicorn go to the optometrist?",
+    "punchline": "To get his horn-rimmed glasses!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "unicorn",
+      "optometrist",
+      "horn",
+      "glasses",
+      "wordplay",
+      "vision",
+      "eyes"
+    ]
+  },
+  {
+    "id": 476,
+    "setup": "What's a vampire's favorite ice cream flavor?",
+    "punchline": "Vein-illa!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "vampire",
+      "ice cream",
+      "vanilla",
+      "vein",
+      "wordplay",
+      "dessert",
+      "spooky"
+    ]
+  },
+  {
+    "id": 477,
+    "setup": "Why did the elf get detention?",
+    "punchline": "For being too shelf-centered!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "elf",
+      "detention",
+      "shelf",
+      "self-centered",
+      "wordplay",
+      "school",
+      "trouble"
+    ]
+  },
+  {
+    "id": 478,
+    "setup": "What do you call a vampire who lives in the kitchen?",
+    "punchline": "Count Spatula!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "vampire",
+      "kitchen",
+      "count dracula",
+      "spatula",
+      "wordplay",
+      "cooking",
+      "spooky"
+    ]
+  },
+  {
+    "id": 479,
+    "setup": "Why did the pegasus win the race?",
+    "punchline": "Because he was flying through the competition!",
+    "categories": [
+      "fantasy",
+      "sports"
+    ],
+    "tags": [
+      "pegasus",
+      "race",
+      "flying",
+      "competition",
+      "wordplay",
+      "wings",
+      "mythical"
+    ]
+  },
+  {
+    "id": 480,
+    "setup": "What's a zombie's favorite cheese?",
+    "punchline": "Zom-brie!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "zombie",
+      "cheese",
+      "brie",
+      "undead",
+      "wordplay",
+      "food",
+      "halloween"
+    ]
+  },
+  {
+    "id": 481,
+    "setup": "Why did the gnome become a DJ?",
+    "punchline": "Because he loved underground music!",
+    "categories": [
+      "fantasy",
+      "music"
+    ],
+    "tags": [
+      "gnome",
+      "DJ",
+      "underground",
+      "music",
+      "wordplay",
+      "tiny",
+      "garden"
+    ]
+  },
+  {
+    "id": 482,
+    "setup": "What do you call a mermaid's phone?",
+    "punchline": "A shell-phone!",
+    "categories": [
+      "fantasy",
+      "technology"
+    ],
+    "tags": [
+      "mermaid",
+      "phone",
+      "shell",
+      "cell phone",
+      "wordplay",
+      "ocean",
+      "tech"
+    ]
+  },
+  {
+    "id": 483,
+    "setup": "Why did the sorcerer open a coffee shop?",
+    "punchline": "He specialized in magic beans!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "sorcerer",
+      "coffee shop",
+      "magic beans",
+      "jack",
+      "wordplay",
+      "drinks",
+      "fairy tale"
+    ]
+  },
+  {
+    "id": 484,
+    "setup": "What do you call a forgetful witch?",
+    "punchline": "Someone who keeps losing her hex-files!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "witch",
+      "forgetful",
+      "hex",
+      "x-files",
+      "wordplay",
+      "magic",
+      "memory"
+    ]
+  },
+  {
+    "id": 485,
+    "setup": "Why did the dragon buy a computer?",
+    "punchline": "To improve his fire-wall!",
+    "categories": [
+      "fantasy",
+      "technology"
+    ],
+    "tags": [
+      "dragon",
+      "computer",
+      "firewall",
+      "fire",
+      "wordplay",
+      "tech",
+      "security"
+    ]
+  },
+  {
+    "id": 486,
+    "setup": "What do you call a fairy who works out?",
+    "punchline": "A fitness sprite!",
+    "categories": [
+      "fantasy",
+      "sports"
+    ],
+    "tags": [
+      "fairy",
+      "workout",
+      "sprite",
+      "fitness",
+      "wordplay",
+      "exercise",
+      "magical"
+    ]
+  },
+  {
+    "id": 487,
+    "setup": "Why did the skeleton go to the party alone?",
+    "punchline": "Because he had no body to go with!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "skeleton",
+      "party",
+      "nobody",
+      "alone",
+      "wordplay",
+      "spooky",
+      "halloween"
+    ]
+  },
+  {
+    "id": 488,
+    "setup": "What do you call a unicorn's dad?",
+    "punchline": "A pop-corn!",
+    "categories": [
+      "fantasy",
+      "family"
+    ],
+    "tags": [
+      "unicorn",
+      "dad",
+      "popcorn",
+      "horn",
+      "wordplay",
+      "father",
+      "mythical"
+    ]
+  },
+  {
+    "id": 489,
+    "setup": "Why did the wizard break up with his calculator?",
+    "punchline": "Because he couldn't count on it for magic!",
+    "categories": [
+      "fantasy",
+      "math"
+    ],
+    "tags": [
+      "wizard",
+      "calculator",
+      "count",
+      "magic",
+      "wordplay",
+      "math",
+      "breakup"
+    ]
+  },
+  {
+    "id": 490,
+    "setup": "What's a leprechaun's favorite type of music?",
+    "punchline": "Shamrock and roll!",
+    "categories": [
+      "fantasy",
+      "music"
+    ],
+    "tags": [
+      "leprechaun",
+      "music",
+      "shamrock",
+      "rock and roll",
+      "wordplay",
+      "irish",
+      "dancing"
+    ]
+  },
+  {
+    "id": 491,
+    "setup": "Why did the ghost become a cheerleader?",
+    "punchline": "Because he had a lot of spirit!",
+    "categories": [
+      "fantasy",
+      "sports"
+    ],
+    "tags": [
+      "ghost",
+      "cheerleader",
+      "spirit",
+      "cheering",
+      "wordplay",
+      "spooky",
+      "pep"
+    ]
+  },
+  {
+    "id": 492,
+    "setup": "What do you call a vampire who owns a fruit store?",
+    "punchline": "Count Grape-ula!",
+    "categories": [
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "vampire",
+      "fruit",
+      "dracula",
+      "grape",
+      "wordplay",
+      "store",
+      "spooky"
+    ]
+  },
+  {
+    "id": 493,
+    "setup": "Why did the vampire open a blood bank?",
+    "punchline": "For liquid assets!",
+    "categories": [
+      "fantasy",
+      "work"
+    ],
+    "tags": [
+      "vampire",
+      "blood bank",
+      "liquid",
+      "assets",
+      "wordplay",
+      "money",
+      "spooky"
+    ]
+  },
+  {
+    "id": 494,
+    "setup": "What position does a ghost play in hockey?",
+    "punchline": "Ghoulie!",
+    "categories": [
+      "fantasy",
+      "sports"
+    ],
+    "tags": [
+      "ghost",
+      "hockey",
+      "goalie",
+      "ghoul",
+      "wordplay",
+      "sports",
+      "spooky"
+    ]
+  },
+  {
+    "id": 495,
+    "setup": "What do you call two witches who live together?",
+    "punchline": "Broom-mates!",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "witch",
+      "roommates",
+      "broom",
+      "living together",
+      "wordplay",
+      "magic",
+      "friends"
+    ]
+  },
+  {
+    "id": 496,
+    "setup": "What do you call a witch's report card?",
+    "punchline": "A grade-spell!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "witch",
+      "report card",
+      "grade",
+      "spell",
+      "wordplay",
+      "school",
+      "magic"
+    ]
+  },
+  {
+    "id": 497,
+    "setup": "Why did the mermaid bring a towel to school?",
+    "punchline": "In case there was a pop quiz and she needed to dry out!",
+    "categories": [
+      "fantasy",
+      "school"
+    ],
+    "tags": [
+      "mermaid",
+      "towel",
+      "school",
+      "pop quiz",
+      "dry",
+      "wordplay",
+      "water"
+    ]
+  },
+  {
+    "id": 498,
+    "setup": "What do you call a magical cow?",
+    "punchline": "Moo-dini!",
+    "categories": [
+      "fantasy",
+      "animals"
+    ],
+    "tags": [
+      "cow",
+      "magic",
+      "houdini",
+      "moo",
+      "wordplay",
+      "farm",
+      "tricks"
+    ]
+  },
+  {
+    "id": 499,
+    "setup": "Why did the goblin become a gardener?",
+    "punchline": "Because he had green thumbs!",
+    "categories": [
+      "fantasy",
+      "outdoors"
+    ],
+    "tags": [
+      "goblin",
+      "gardener",
+      "green",
+      "thumbs",
+      "wordplay",
+      "plants",
+      "mythical"
+    ]
+  },
+  {
+    "id": 500,
+    "setup": "What did one ghost say to the other ghost?",
+    "punchline": "Do you believe in people?",
+    "categories": [
+      "fantasy"
+    ],
+    "tags": [
+      "ghost",
+      "people",
+      "believe",
+      "reverse",
+      "wordplay",
+      "spooky",
+      "clever"
+    ]
+  },
     {
     "id": 501,
     "setup": "Why did the bread break up with the butter?",
