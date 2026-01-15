@@ -32868,6 +32868,21 @@
         "employee",
         "office"
       ]
+    },
+    {
+      "id": 2001,
+      "setup": "My friend David lost his ID.",
+      "punchline": "Now I call him Dav!",
+      "categories": [
+        "tnt"
+      ],
+      "tags": [
+        "friend",
+        "david",
+        "id",
+        "wordplay",
+        "name"
+      ]
     }
   ]
 }
