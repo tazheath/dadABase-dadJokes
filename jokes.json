@@ -25477,17 +25477,17 @@
     },
     {
       "id": 1531,
-      "setup": "What's a referee's favorite dessert?",
-      "punchline": "Yellow cake with red velvet frosting!",
-      "categories": ["sports", "food"],
-      "tags": ["referee", "dessert", "yellow card", "red card", "wordplay", "officiating", "cake"]
+      "setup": "What instrument does a football team play?",
+      "punchline": "A sack-sophone!",
+      "categories": ["sports", "music"],
+      "tags": ["football", "instrument", "team", "play", "wordplay", "saxophone", "band"]
     },
     {
       "id": 1532,
-      "setup": "Why did the pole vaulter go to the party?",
-      "punchline": "To raise the bar!",
+      "setup": "What’s a cheerleader’s favorite cereal?",
+      "punchline": "Cheerios!",
       "categories": ["sports"],
-      "tags": ["pole vaulter", "party", "raise the bar", "jumping", "wordplay", "track field", "standards"]
+      "tags": ["cheerleader", "cereal", "food", "breakfast", "wordplay", "cheer", "school"]
     },
     {
       "id": 1533,
