@@ -4744,7 +4744,7 @@
   {
     "id": 270,
     "setup": "Why did the traffic light turn red?",
-    "punchline": "You would too if you had to change in the middle of the street!",
+    "punchline": "Because it was changing in front of everyone!",
     "categories": [
       "classics",
       "travel"
@@ -19829,20 +19829,18 @@
     },
     {
       "id": 1131,
-      "setup": "Why did the music teacher go to jail?",
-      "punchline": "Because she got caught with too many sharp objects!",
+      "setup": "What is the most musical part of your body?",
+      "punchline": "Your nose because you can blow and pick it!",
       "categories": [
-        "music",
-        "school"
+        "music"
       ],
       "tags": [
-        "teacher",
-        "jail",
-        "sharp",
-        "notes",
+        "musical",
+        "body",
+        "nose",
+        "blow",
         "wordplay",
-        "objects",
-        "arrested"
+        "pick"
       ]
     },
     {
